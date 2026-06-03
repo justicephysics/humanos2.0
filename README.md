@@ -111,6 +111,7 @@ I am an independent researcher from Bihar, with no institutional funding, workin
 ## [Home](index)
   
 - [Chip Architecture](chip-architecture)
+  
 ---
 
 *"Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives."*
