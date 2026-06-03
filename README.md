@@ -108,7 +108,7 @@ I am an independent researcher from Bihar, with no institutional funding, workin
 - **Book:** "From Bihar to the 70%" — The Operating System Chronicles, Book 1 (Amazon Kindle)
 
 ---
-## [Home](index)
+## Index
   
 - [Chip Architecture](chip-architecture)
 ---
