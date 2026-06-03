@@ -63,7 +63,7 @@ We can now build a civilization that mirrors the cosmic design — **not through
 
 **Result:** A global, open, distributed compute fabric that makes high‑end computation abundant and near‑free. This is the backbone of **HumanOS 2.0** — a civilization that obeys physics and circulates energy rather than extracting it.
 
----
+
 ### 📖 Explore the Blueprint
 - [Read the full chip architecture specification →](chip-architecture)
 ---
