@@ -66,6 +66,7 @@ We can now build a civilization that mirrors the cosmic design — **not through
 
 ### 📖 Explore the Blueprint
 - [Read the full chip architecture specification →](chip-architecture)
+  
 ---
 
 ## 4. THE CASCADE: What This Unlocks
