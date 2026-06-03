@@ -5,6 +5,7 @@
 ---
 
 ### 🧭 Quick Navigation
+- [Virtual Nalanda — The Journey in Brief](Virtual-Nalanda)
 - [Chip Architecture →](chip-architecture)
 
 ---
