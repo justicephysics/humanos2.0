@@ -4,6 +4,11 @@
 
 ---
 
+### 🧭 Quick Navigation
+- [Chip Architecture →](chip-architecture)
+
+---
+
 ## 1. THE DIAGNOSTIC: Why Every Civilization Collapses
 
 *"From Bihar to the 70%" — Book 1 of The Operating System Chronicles*
@@ -59,6 +64,9 @@ We can now build a civilization that mirrors the cosmic design — **not through
 **Result:** A global, open, distributed compute fabric that makes high‑end computation abundant and near‑free. This is the backbone of **HumanOS 2.0** — a civilization that obeys physics and circulates energy rather than extracting it.
 
 ---
+### 📖 Explore the Blueprint
+- [Read the full chip architecture specification →](chip-architecture)
+---
 
 ## 4. THE CASCADE: What This Unlocks
 
@@ -107,11 +115,6 @@ I am an independent researcher from Bihar, with no institutional funding, workin
 - **GitHub (this site):** [justicephysics/humanos2.0](https://github.com/justicephysics/humanos2.0)
 - **Book:** "From Bihar to the 70%" — The Operating System Chronicles, Book 1 (Amazon Kindle)
 
----
-## [Home](index)
-  
-- [Chip Architecture](chip-architecture)
-  
 ---
 
 *"Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives."*
