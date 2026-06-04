@@ -6,7 +6,7 @@
 
 ## 0. Why Today's Data Centre Is a Heat Chamber — The Cosmic Misinterpretations
 
-The data centre is not a furnace by accident. It is a furnace because our civilisation built its foundational physics on six flawed assumptions about reality. Each misinterpretation led directly to an engineering mistake — and the combination produced the hot, expensive, power‑hungry data centre we know today.
+The data centre is not a furnace by accident. It is a furnace because our civilisation built its foundational physics on five flawed assumptions about reality. Each misinterpretation led directly to an engineering mistake — and the combination produced the hot, expensive, power‑hungry data centre we know today.
 
 | Cosmic Misinterpretation | Engineering Consequence |
 |--------------------------|--------------------------|
