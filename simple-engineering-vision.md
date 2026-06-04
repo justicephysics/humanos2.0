@@ -14,8 +14,7 @@ The data centre is not a furnace by accident. It is a furnace because our civili
 | **2. Space originates from zero.** Space was imagined as a passive void that can be created or expanded. | We treated empty space as a free resource, ignoring its physical properties. We never asked whether space itself could be a heat sink. |
 | **3. Dark Energy is a dragon.** A mysterious, unexplained repulsive force was added to equations to make expansion work. | We never looked for the real physical medium that could drive cooling and communication. We filled the gap with an abstract "property of space." |
 | **4. Dark Matter is another dragon.** An invisible, non‑baryonic substance was invoked to explain cosmic structure. | We missed the possibility that all matter is the same Y‑substance, simply arranged differently. We fragmented the universe instead of unifying it. |
-| **5. Space comes from zero.** (Repeated from 2) | We never considered that space itself could be a physical, conserved, superconducting lattice. So we never thought to use it as a heat sink. |
-| **6. The 2.7 K cosmic microwave background is "just there."** No physical mechanism for its temperature was required. | We ignored the one real‑world, 13.8‑billion‑year‑old proof that a cold, superconducting, photon‑transparent medium already exists. |
+| **5. The 2.7 K cosmic microwave background is "just there."** No physical mechanism for its temperature was required. | We ignored the one real‑world, 13.8‑billion‑year‑old proof that a cold, superconducting, photon‑transparent medium already exists. |
 
 **The result:** we built processors and data centres as compact, resistive, hot canals — because our cosmic model had no place for a distributed, cold, light‑connected fabric.
 
