@@ -1,4 +1,4 @@
-# 🏛️ Virtual Nalanda — From the Cosmos to the remote village to Quantum lattice to Quantum chip
+# 🏛️ Virtual Nalanda — From the Cosmos to the Remote village to Quantum lattice to Quantum chip
 
 *The complete journey of HumanOS 2.0, in short form.*
 
