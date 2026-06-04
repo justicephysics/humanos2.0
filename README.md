@@ -9,6 +9,7 @@
 - [Chip Architecture →](chip-architecture)
 - [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
 - [Canal Ontology — The Universal Law](canal-ontology)
+- [How It Works — The Y‑Lattice Explained](how-it-works)
 
 ---
 
