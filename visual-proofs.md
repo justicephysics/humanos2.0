@@ -46,3 +46,27 @@ A top‑down view of several small silicon modules (nodes) connected by light be
 
 **Purpose of this diagram:**  
 To show the distributed, modular architecture and how light replaces copper, while the cold lattice acts as a universal heat sink.
+
+---
+
+## 3. Thermal Comparison — Traditional vs. Thin‑Wide Chip
+
+**What this diagram shows:**  
+A simple bar chart comparing the heat flux (W/cm²) and junction‑to‑coolant thermal resistance (°C/W) of a standard 7 nm processor versus a thin‑wide cryogenic chip with equivalent transistor count.
+
+**Data to plot (approximate, order‑of‑magnitude):**
+
+| Metric | Traditional (7 nm, air‑cooled) | Thin‑Wide (0 K, Y‑lattice) |
+|--------|-------------------------------|----------------------------|
+| Heat flux (W/cm²) | ~100–200 | ~1–2 (100× lower) |
+| Thermal resistance (°C/W) | ~0.3–0.5 | ~0.001–0.005 (100× lower) |
+
+**Graph elements:**
+- Two side‑by‑side bar groups: one for heat flux, one for thermal resistance.
+- Each group has two bars: “Traditional” (red) and “Thin‑Wide Cryo” (blue).
+- Y‑axis labels: “W/cm²” for the first group, “°C/W” for the second.
+- Caption: “Spreading transistors across a wide, thin area and immersing them in a superconducting heat sink reduces heat flux and thermal resistance by two orders of magnitude.”
+
+**Purpose of this diagram:**  
+To give engineers a quantitative, order‑of‑magnitude demonstration of the thermal advantage, even before detailed simulations are run.
+
