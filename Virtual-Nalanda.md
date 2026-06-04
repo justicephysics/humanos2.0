@@ -85,6 +85,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [Canal Ontology — The Universal Law](canal-ontology)
 - [How It Works — The Y‑Lattice Explained](how-it-works)
 - [Open Call for Partners — Join Us](partners)
+- [The Three Bursts — Why This Time Is Different](three-bursts)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
