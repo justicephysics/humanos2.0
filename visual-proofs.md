@@ -70,3 +70,24 @@ A simple bar chart comparing the heat flux (W/cm²) and junction‑to‑coolant 
 **Purpose of this diagram:**  
 To give engineers a quantitative, order‑of‑magnitude demonstration of the thermal advantage, even before detailed simulations are run.
 
+---
+
+## 4. Orbital Compute Fabric — Unit 1 and Unit 2
+
+**What this diagram shows:**  
+A side‑view of the space‑based deployment: a sun‑shield (Unit 1) casting a shadow over a cluster of compute modules (Unit 2), all bathed in the free 2.7 K cosmic background.
+
+**Elements to include:**
+
+1. **The Sun (left side)** – a simple circle with rays, labeled “Sunlight (free energy)”.
+2. **Unit 1 — Sun‑Shield** – a large rectangular or curved panel facing the Sun, covered with solar cells; label “Solar panels → electricity” and “Shadow cone”.
+3. **Unit 2 — Compute Modules** – several small boxes inside the shadow cone, each labeled “Silicon‑Light Module (3 GHz node)”.
+4. **Photonic links** – thin lines connecting the modules, labeled “Light interconnects”.
+5. **Heat radiation** – wavy arrows pointing from the modules out into deep space, labeled “Waste heat radiated to 2.7 K vacuum”.
+6. **Earth (right side, optional)** – a small circle with an antenna, labeled “Data downlink to Earth”.
+7. **Caption:** “In space, the 2.7 K cosmic background provides free cooling; the Sun provides free electricity. Operating cost is effectively zero.”
+
+**Purpose of this diagram:**  
+To show how the same thin‑wide, light‑connected architecture can be deployed in orbit, eliminating the last operating costs and enabling unlimited scalability.
+
+
