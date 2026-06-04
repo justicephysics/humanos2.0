@@ -80,7 +80,6 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 ---
 ### 🔗 Continue Exploring
 
-- [Virtual Nalanda — The Journey in Brief](Virtual-Nalanda)
 - [Chip Architecture →](chip-architecture)
 - [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
 - [Canal Ontology — The Universal Law](canal-ontology)
