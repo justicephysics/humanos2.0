@@ -88,6 +88,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Three Bursts — Why This Time Is Different](three-bursts)
 - [Light@0Kelvin — The New Discipline](light-at-0k)
 - [Challenges & Open Problems](challenges)
+- [The Simple Engineering Vision — For Every Engineer](simple-engineering-vision)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
