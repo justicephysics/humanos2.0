@@ -87,6 +87,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [Open Call for Partners — Join Us](partners)
 - [The Three Bursts — Why This Time Is Different](three-bursts)
 - [Light@0Kelvin — The New Discipline](light-at-0k)
+- [Challenges & Open Problems](challenges)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
