@@ -68,6 +68,32 @@ The compactness dogma created a snake‑and‑ladder game:
 
 ---
 
+## 2.5 The Thermodynamic Accounting Fraud — Why the Numbers Lie
+
+The industry measures efficiency as *operations per watt*. But it conveniently ignores the largest energy sink:
+
+- **Waste heat** from resistive switching, copper interconnects, and leakage currents is treated as an unavoidable byproduct — it isn’t subtracted from the “useful work” calculation.
+- **Cooling cost** — the energy spent to pump that waste heat out of the building — *is* measured, but it’s reported as a separate expense: “facility overhead”, “cooling infrastructure”.
+
+So the true energy balance is hidden:
+
+> **Total Energy In** = (Tiny fraction of useful data manipulation) + (Enormous waste heat we pretend is normal) + (Enormous cooling cost we pay to hide the waste heat)
+
+In a two‑stroke engine, at least we know the engine is inefficient. In a modern data centre, the waste heat is **not counted** as part of the computation’s energy cost. It’s treated as if it doesn’t exist — until it shows up on the electricity bill, where it becomes a “cooling problem” instead of a “fundamental architecture problem”.
+
+The result is a vicious cycle:
+- More GPUs → more waste heat (uncounted) → more cooling (counted) → higher total electricity bill.
+- The “operations per watt” metric looks acceptable because the waste heat is excluded.
+
+Our cryogenic, light‑connected fabric closes this accounting gap:
+- **Waste heat drops by orders of magnitude** — every gateway in the four‑stage pipeline is directly coupled to the 0 K Y‑lattice.
+- **Cooling cost becomes zero** — in space, the 2.7 K vacuum is free; on Earth, the cryostat’s baseline is maintained passively.
+- **Total Energy In ≈ Useful data manipulation**. There is no hidden heat, no separate cooling bill, no thermodynamic fraud.
+
+The “40%” figure isn’t destiny. It’s a symptom of an architecture that treats heat as external and then pays a fortune to manage it. We’ve made heat internal — and eliminated it.
+
+---
+
 ## 3. The Escape — Our Modular, Cryogenic, Light‑Connected Architecture
 
 What if we stopped fighting heat and instead **eliminated it at the root**?
