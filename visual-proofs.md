@@ -27,3 +27,7 @@ A side‑view cross‑section of three ultra‑thin silicon computational layers
 
 **Purpose of this diagram:**  
 To demonstrate that heat never travels more than a few microns before being absorbed, eliminating the thermal bottleneck of traditional thick, bulky chips.
+
+---
+
+## 2. Modular Node Network — Top‑Down View
