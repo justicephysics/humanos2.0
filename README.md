@@ -12,6 +12,7 @@
 - [How It Works — The Y‑Lattice Explained](how-it-works)
 - [Open Call for Partners — Join Us](partners)
 - [The Three Bursts — Why This Time Is Different](three-bursts)
+- [Visual Proofs & Simulations](visual-proofs)
 
 ---
 
