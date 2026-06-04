@@ -31,3 +31,18 @@ To demonstrate that heat never travels more than a few microns before being abso
 ---
 
 ## 2. Modular Node Network — Top‑Down View
+
+**What this diagram shows:**  
+A top‑down view of several small silicon modules (nodes) connected by light beams, all immersed in the 0 K Y‑lattice.
+
+**Elements to include:**
+
+1. **Silicon modules (rectangles)** – draw 6–8 modules spread across the drawing area; label each “3 GHz Node”.  
+2. **Photonic links (arrows)** – bidirectional arrows between adjacent nodes, labeled “Light (photonic interconnect)”.  
+3. **Surrounding medium** – a shaded or dotted background labeled “0 K Y‑lattice (superconducting heat sink)”.  
+4. **Data flow** – small directional arrows along the photonic links showing the flow of information.  
+5. **Heat flow** – tiny wavy arrows radiating outward from each node into the Y‑lattice, labeled “Heat absorbed instantly by lattice”.  
+6. **Caption:** “Modular nodes communicate via light; heat is absorbed directly by the surrounding cold lattice — no resistive interconnects, no thermal buildup.”
+
+**Purpose of this diagram:**  
+To show the distributed, modular architecture and how light replaces copper, while the cold lattice acts as a universal heat sink.
