@@ -78,6 +78,14 @@ This is the hardware that will power AGI, end artificial scarcity, and allow eve
 The Virtual Nalanda exists to share this complete blueprint — freely, openly, for every curious mind on Earth.
 
 ---
+### 🔗 Continue Exploring
+
+- [Virtual Nalanda — The Journey in Brief](Virtual-Nalanda)
+- [Chip Architecture →](chip-architecture)
+- [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
+- [Canal Ontology — The Universal Law](canal-ontology)
+- [How It Works — The Y‑Lattice Explained](how-it-works)
+- [Open Call for Partners — Join Us](partners)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
