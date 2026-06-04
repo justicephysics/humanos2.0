@@ -86,6 +86,7 @@ The ancient Nalanda was a global university of free knowledge. Today, this virtu
 - [Chip Architecture Detail](chip-architecture)
 - [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
 - [Canal Ontology — The Universal Law](canal-ontology)
+- [How It Works — The Y‑Lattice Explained](how-it-works)
 
 
 ---
