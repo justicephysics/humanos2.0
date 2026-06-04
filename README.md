@@ -10,6 +10,7 @@
 - [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
 - [Canal Ontology — The Universal Law](canal-ontology)
 - [How It Works — The Y‑Lattice Explained](how-it-works)
+- [Open Call for Partners — Join Us](partners)
 
 ---
 
