@@ -94,16 +94,21 @@ What if we stopped fighting heat and instead **eliminated it at the root**?
 
 ---
 
-## 4. The Simple Math
+## 4. The Four Heat Gateways in Every CPU
 
-| Old Model (Hot, Resistive) | New Model (Cold, Photonic) |
-|----------------------------|----------------------------|
-| One monolithic, dense chip | Many thin, wide modules |
-| Copper interconnects — resistive, hot | Light interconnects — zero resistance, zero heat |
-| Air/water cooling — expensive, energy‑hungry | 0 K Y‑lattice heat sink — passive, instantaneous |
-| Thermal throttling limits speed | No throttling — stable, maximum clock |
-| Add more GPUs = more heat = more cost | Add more modules = linear scaling, no heat penalty |
-| Earth: high operating cost; Space: not viable | Earth: 90–95% cost reduction; Space: operating cost **zero** |
+Every computation is a chain of four tiny actions. At each step, energy is spent — and when we push for higher speed, all four become heat sources.
+
+| Stage | What happens | Physical action |
+|-------|--------------|-----------------|
+| **1. ON/OFF – Data generation** | The transistor switches, creating a new 0 or 1. | Voltage applied to gate; channel opens/closes. |
+| **2. Data write** | The newly generated bit is stored (written) into a capacitor, flip‑flop, or register. | Charging a tiny capacitor or latching a logic state. |
+| **3. Data read** | The stored bit is later retrieved (read) from that storage element. | Sensing the voltage or state of the storage cell. |
+| **4. Data move forward** | The bit travels along a wire (or optical link) to the next stage. | Electrons moving through copper, or photons through a waveguide. |
+
+At 3 GHz, this chain repeats 3 billion times per second. Every stage generates waste heat, and the faster we clock the chip, the more heat is produced at each gateway.
+
+**This is the “traffic jam.”**  
+Narrow copper canals, packed with fast‑switching transistors, generating heat that has nowhere to go — because the cosmic misinterpretations taught us to build dense, resistive, hot systems instead of distributed, cold, light‑connected ones.
 
 ---
 
