@@ -78,6 +78,11 @@ The canal ontology is not a metaphor. It’s a measurable, testable, physical la
 
 ---
 
+### 🔗 Continue Exploring
+- [The Three Bursts — Why This Time Is Different](three-bursts)
+
+---
+
 *“Narrow channels create resistive, hot flows. Wider, distributed, cold channels let the system thrive forever. The Big Bang taught the cosmos this lesson. Let’s learn it before the next one.”*
 
 **#CanalOntology #HumanOS2 #JusticePhysics #CryogenicComputing #CivilizationCollapse**
