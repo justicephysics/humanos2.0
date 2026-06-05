@@ -89,6 +89,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [Light@0Kelvin — The New Discipline](light-at-0k)
 - [Challenges & Open Problems](challenges)
 - [The Simple Engineering Vision — For Every Engineer](simple-engineering-vision)
+- [The Upgraded Equation — E = MC² × L](upgraded-equation)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
