@@ -16,6 +16,7 @@
 - [Light@0Kelvin — The New Discipline](light-at-0k)
 - [Challenges & Open Problems](challenges)
 - [The Simple Engineering Vision — For Every Engineer](simple-engineering-vision)
+- [The Upgraded Equation — E = MC² × L](upgraded-equation)
 
 ---
 
