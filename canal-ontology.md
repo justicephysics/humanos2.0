@@ -78,6 +78,10 @@ The canal ontology is not a metaphor. It’s a measurable, testable, physical la
 
 ---
 
+> **🚫 The Canal Dogma:** Why do we keep building narrow canals despite knowing the physics? Read about the invisible belief that perpetuates the collapse pattern — and the movement to break it: [Canal Dogma](canal-dogma).
+
+---
+
 ### 🔗 Continue Exploring
 - [The Three Bursts — Why This Time Is Different](three-bursts)
 
