@@ -4,6 +4,8 @@
 
 ---
 
+> **📖 Before you read this page:** The Canal Dogma is a *belief* — a human story that creates narrow channels. But the underlying mechanism is a *physical law* — the Canal Ontology. If you haven’t already, [read the Canal Ontology first](canal-ontology) to understand the science behind the dogma.
+
 ## What Is the Canal Dogma?
 
 **Canal Dogma:** The unquestioned assumption that packing more into a smaller space — more transistors, more people, more resources into fewer hands — is the only path to efficiency, progress, and excellence.
