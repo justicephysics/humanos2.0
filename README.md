@@ -18,6 +18,7 @@
 - [The Simple Engineering Vision — For Every Engineer](simple-engineering-vision)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [Canal Dogma — The Invisible Belief That Destroys Everything](canal-dogma)
+- [The Ocean and the G7 — Why the Canal Dogma Cannot Scale](ocean-g7-canal-dogma)
 
 ---
 
