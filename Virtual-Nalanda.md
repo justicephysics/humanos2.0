@@ -91,6 +91,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Simple Engineering Vision — For Every Engineer](simple-engineering-vision)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [The Ocean and the G7 — Why the Canal Dogma Cannot Scale](ocean-g7-canal-dogma)
+- [The Roadmap to Light@0K Computing](roadmap-light-0k)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
