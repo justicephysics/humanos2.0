@@ -94,6 +94,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
 - [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
+- [Moore's Law Exposed — The Canal Dogma in Numbers](moores-law-exposed)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
