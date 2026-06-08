@@ -20,7 +20,7 @@ This is the Canal Dogma in education: concentrate opportunity, create a steep gr
 
 What happens when we widen the canal?
 
-- **Not thousands, but millions** of engineering minds emerge — from Bihar, Shenzhen, Lagos, the favelas.
+- **Not thousands, but millions** of engineering minds emerge — from the remote villages of India, the impoverished provinces of China, the townships of Africa, the favelas of South America, and every corner of the Earth where the old gates have kept talent locked away.
 - They learn Light@0Kelvin. They read the Simple Engineering Vision. They build the thin‑wide modules, the photonic links, the orbital fabrics.
 - They don't ask permission from ASML or TSMC. The blueprint is open. The tools are ordinary. The cosmic reference point is free.
 - A distributed, democratic force of innovation floods every corner of the planet, making the old monopolies irrelevant.
