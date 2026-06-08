@@ -20,6 +20,8 @@
 - [Canal Dogma — The Invisible Belief That Destroys Everything](canal-dogma)
 - [The Ocean and the G7 — Why the Canal Dogma Cannot Scale](ocean-g7-canal-dogma)
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
+- [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
+- [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
 
 ---
 
