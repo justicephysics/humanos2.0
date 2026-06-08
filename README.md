@@ -22,6 +22,7 @@
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
 - [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
+- [Moore's Law Exposed — The Canal Dogma in Numbers](moores-law-exposed)
 
 ---
 
