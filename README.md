@@ -23,6 +23,7 @@
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
 - [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
 - [Moore's Law Exposed — The Canal Dogma in Numbers](moores-law-exposed)
+- [The Engineer Hurricane — How Open Education Will Drown the Silicon Feudalism](engineer-hurricane)
 
 ---
 
