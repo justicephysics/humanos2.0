@@ -96,6 +96,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
 - [Moore's Law Exposed — The Canal Dogma in Numbers](moores-law-exposed)
 - [The Engineer Hurricane — How Open Education Will Drown the Silicon Feudalism](engineer-hurricane)
+- [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
