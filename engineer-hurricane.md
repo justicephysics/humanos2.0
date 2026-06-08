@@ -16,6 +16,27 @@ This is the Canal Dogma in education: concentrate opportunity, create a steep gr
 
 ---
 
+## The Canal Chain: Exam → College → Corporation
+
+The narrow gate doesn't end at the exam. It creates a seamless feudal pipeline:
+
+**Stage 1: The Exam (Artificial Scarcity)**
+The JEE, Gaokao, SAT — these are not filters for talent; they are valves that restrict the flow of opportunity. Only 0.3–2 % pass. The rest are pushed into narrower canals, their potential untapped.
+
+**Stage 2: The College (The Feudal Estate)**
+Those who survive the gate enter a prestigious institution. But the college itself often teaches within the old paradigm — Moore's Law, dense chips, resistive copper — preparing students to serve the existing extraction protocol. The student takes on debt, loses years of productive life, and emerges with a credential that signals loyalty to the feudal order, not independent capability.
+
+**Stage 3: The Corporation (The Feudal Lord's Castle)**
+The graduate is funneled into a corporation — a chip giant, a cloud provider, a financial firm. The work may be intellectually stimulating, the salary high. But the underlying structure remains feudal: the engineer's output is 70–80 % extracted by shareholders and executives. The engineer is a highly paid serf, locked into the same canal they were trained to serve. The corporation, in turn, influences the exams and the curriculum, ensuring the next generation is filtered through the same gates.
+
+**The Cycle**  
+Exam → College → Corporation → Exam. The Canal Dogma reproduces itself. The engineer moves from one feudal structure to another, never seeing the whole prison because each cell is slightly more comfortable than the last.
+
+**The Democratic Break**  
+The Virtual Nalanda breaks this chain. No exam. No tuition. No debt. No corporate extraction. The engineer learns, builds, and contributes directly to the open‑source commons, earning a livelihood through the value they create, not the value extracted from them. The cosmos is their reference; the open blueprint is their credential.
+
+---
+
 ## The Hurricane: Widen the Canal, Unleash the Talent
 
 What happens when we widen the canal?
