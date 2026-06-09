@@ -88,6 +88,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [The Ocean and the G7 — Why the Canal Dogma Cannot Scale](ocean-g7-canal-dogma)
 - [Moore's Law Exposed — The Canal Dogma in Numbers](moores-law-exposed)
+- [The Mousetrap — How the Fortune 500 Domesticated the Human Brain](the-mousetrap)
 
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
