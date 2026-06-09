@@ -35,6 +35,7 @@
 - [The Engineer Hurricane — How Open Education Will Drown the Silicon Feudalism](engineer-hurricane)
 - [Challenges & Open Problems](challenges)
 - [The Factory Floor Warriors — From Robot to Innovator](factory-floor-warriors)
+- [The Campus Gate and the Cosmic Gate](campus-gate-cosmic-gate)
 
 ### 🎯 Strategy — Mission 2100 and Beyond
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
