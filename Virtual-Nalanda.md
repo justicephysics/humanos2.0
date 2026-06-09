@@ -79,7 +79,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 
 ---
 
-## 🧭 Explore the Blueprint — The Six Disciplines of HumanOS 2.0
+## 🧭 Explore the Blueprint — The seven Disciplines of HumanOS 2.0
 
 ### 🔮 Philosophy — The Invisible Beliefs That Shape Civilizations
 - [Canal Dogma — The Invisible Belief](canal-dogma)
@@ -113,6 +113,9 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 ### 🎯 Strategy — Mission 2100 and Beyond
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
+
+###🌐 Community
+- [Retired but Not Tired — Join the Virtual Nalanda](retired-contributors)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
