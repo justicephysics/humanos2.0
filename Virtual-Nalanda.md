@@ -106,6 +106,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
 - [UN Warning — AI's Environmental Crisis and the Canal Dogma](un-ai-environmental-crisis)
 - [The Fortune 500 Feudalism — The Lords and Their Serfs](fortune-500-feudalism)
+- [The AI Feudal Money Chain — The $15 Trillion Bill](ai-feudal-money-chain)
 - [Open Call for Partners](partners)
 
 ### 🎓 Education — The Engineer Hurricane
