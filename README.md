@@ -30,6 +30,7 @@
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
 - [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
 - [UN Warning — AI's Environmental Crisis and the Canal Dogma](un-ai-environmental-crisis)
+- [The Fortune 500 Feudalism — The Lords and Their Serfs](fortune-500-feudalism)
 - [Open Call for Partners](partners)
   
 ### 🎓 Education — The Engineer Hurricane
