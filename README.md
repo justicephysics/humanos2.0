@@ -28,8 +28,9 @@
 ### 💰 Economics — The End of Artificial Scarcity
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
 - [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
+- [UN Warning — AI's Environmental Crisis and the Canal Dogma](un-ai-environmental-crisis)
 - [Open Call for Partners](partners)
-
+  
 ### 🎓 Education — The Engineer Hurricane
 - [Virtual Nalanda — The Journey in Brief](Virtual-Nalanda)
 - [The Engineer Hurricane — How Open Education Will Drown the Silicon Feudalism](engineer-hurricane)
