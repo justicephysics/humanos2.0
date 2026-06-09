@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Explore the Blueprint — The Six Disciplines of HumanOS 2.0
+## 🧭 Explore the Blueprint — The seven Disciplines of HumanOS 2.0
 
 ### 🔮 Philosophy — The Invisible Beliefs That Shape Civilizations
 - [Canal Dogma — The Invisible Belief](canal-dogma)
@@ -39,6 +39,9 @@
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
 
+###🌐 Community
+- [Retired but Not Tired — Join the Virtual Nalanda](retired-contributors)
+  
 ---
 
 *Every page is open‑source, free, and waiting for curious minds.*
