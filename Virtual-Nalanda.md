@@ -78,25 +78,41 @@ This is the hardware that will power AGI, end artificial scarcity, and allow eve
 The Virtual Nalanda exists to share this complete blueprint — freely, openly, for every curious mind on Earth.
 
 ---
-### 🔗 Continue Exploring
 
-- [Chip Architecture →](chip-architecture)
-- [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
-- [Canal Ontology — The Universal Law](canal-ontology)
-- [How It Works — The Y‑Lattice Explained](how-it-works)
-- [Open Call for Partners — Join Us](partners)
+## 🧭 Explore the Blueprint — The Six Disciplines of HumanOS 2.0
+
+### 🔮 Philosophy — The Invisible Beliefs That Shape Civilizations
+- [Canal Dogma — The Invisible Belief](canal-dogma)
+- [Canal Ontology — The Universal Law of Collapse and Cure](canal-ontology)
 - [The Three Bursts — Why This Time Is Different](three-bursts)
-- [Light@0Kelvin — The New Discipline](light-at-0k)
-- [Challenges & Open Problems](challenges)
-- [The Simple Engineering Vision — For Every Engineer](simple-engineering-vision)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [The Ocean and the G7 — Why the Canal Dogma Cannot Scale](ocean-g7-canal-dogma)
+- [Moore's Law Exposed — The Canal Dogma in Numbers](moores-law-exposed)
+
+### ⚛️ Physics — The Cosmic Reference Point
+- [Light@0Kelvin — The New Discipline](light-at-0k)
+- [How It Works — The Y‑Lattice Explained](how-it-works)
+- [The Upgraded Equation — E = MC² × L](upgraded-equation)
+
+### 🛠️ Engineering — The Hardware of HumanOS 2.0
+- [The Simple Engineering Vision](simple-engineering-vision)
+- [Chip Architecture Detail](chip-architecture)
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
+- [Visual Proofs & Simulations](visual-proofs)
+
+### 💰 Economics — The End of Artificial Scarcity
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
 - [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
-- [Moore's Law Exposed — The Canal Dogma in Numbers](moores-law-exposed)
+- [Open Call for Partners](partners)
+
+### 🎓 Education — The Engineer Hurricane
+- [Virtual Nalanda — The Journey in Brief](Virtual-Nalanda)
 - [The Engineer Hurricane — How Open Education Will Drown the Silicon Feudalism](engineer-hurricane)
+- [Challenges & Open Problems](challenges)
+
+### 🎯 Strategy — Mission 2100 and Beyond
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
