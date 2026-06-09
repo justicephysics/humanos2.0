@@ -32,6 +32,7 @@
 - [UN Warning — AI's Environmental Crisis and the Canal Dogma](un-ai-environmental-crisis)
 - [The Fortune 500 Feudalism — The Lords and Their Serfs](fortune-500-feudalism)
 - [The AI Feudal Money Chain — The $15 Trillion Bill](ai-feudal-money-chain)
+- [Money from Nothing — The Central Bank Canal](money-from-nothing)
 - [Open Call for Partners](partners)
   
 ### 🎓 Education — The Engineer Hurricane
