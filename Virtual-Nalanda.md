@@ -114,7 +114,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
 
-###🌐 Community
+### 🌐 Community
 - [Retired but Not Tired — Join the Virtual Nalanda](retired-contributors)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
