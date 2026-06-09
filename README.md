@@ -39,7 +39,7 @@
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
 
-###🌐 Community
+### 🌐 Community
 - [Retired but Not Tired — Join the Virtual Nalanda](retired-contributors)
   
 ---
