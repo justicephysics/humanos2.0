@@ -47,6 +47,7 @@
 ### 🎯 Strategy — Mission 2100 and Beyond
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
+- [The Cosmic Cold Chain — From Farm to Table, Cooled by the Cosmos](cosmic-cold-chain)
 
 ### 🌐 Community
 - [Retired but Not Tired — Join the Virtual Nalanda](retired-contributors)
