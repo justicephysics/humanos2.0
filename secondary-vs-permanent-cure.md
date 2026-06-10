@@ -21,6 +21,9 @@ China’s Hainan facility sinks servers into the ocean, powered by offshore wind
 - **The patch:** use the ocean as a giant heat sink.
 - **The primary problem remains:** the chips themselves are still dense, resistive, and thermally limited.
 
+**The deep ocean is not the patch — the hot chip is.**  
+The deep ocean itself is an almost perfect natural heat sink: 0–3 °C, covering 90 % of the ocean’s volume, thermally stable for millennia. The Chinese underwater data centre is a patch only because it still uses dense, hot Moore’s‑Law chips. If the chip itself were redesigned — thin, wide, and cold‑ready — the deep ocean would serve as an ideal Stage 1 environment for the Light@0K fabric, requiring no exotic cryogenics and no massive energy for cooling. The permanent cure starts with fixing the chip, not finding a bigger bucket.
+
 ### 2. Arctic Data Centres (Nordics)
 
 Data centres are migrating to the Arctic Circle, where the air is freezing and renewable energy is abundant. Waste heat is even recycled to warm homes.
