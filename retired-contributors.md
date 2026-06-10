@@ -1,4 +1,4 @@
-# 🧓 Retired but Not Tired — Join the Virtual Nalanda
+# 🧓 Retired but curious to contribute — Join the Virtual Nalanda
 
 *Your lifetime of experience is exactly what the next civilization needs. Here, there is no retirement from wisdom.*
 
