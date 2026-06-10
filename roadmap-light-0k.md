@@ -66,6 +66,9 @@ We don’t need to jump all at once. Each stage brings massive efficiency gains 
 - Replace long copper cables with optical fibres where practical; keep short local copper for intra‑chip communication.
 - **Result:** The data centre’s energy bill drops 90–95 %, because cooling becomes passive and resistance plummets.
 
+**🌊 Earth’s own cryogenic reservoir — the deep ocean**  
+The deep ocean (0–3 °C, ~90 % of all ocean volume) provides a vast, stable, and virtually free heat sink. In Stage 1, we can couple thin‑wide silicon modules directly to deep‑ocean water, slashing energy bills by 90–95 % *without* needing a helium cryostat. This makes the first prototype accessible to coastal nations and research labs immediately — no space launch required.
+
 ### Stage 2 — Photonic Silicon (All‑Light Data Movement)
 - Develop cryogenic‑compatible photonic transceivers integrated with each silicon module.
 - All inter‑module data travels as light pulses through waveguides or free‑space optics.
