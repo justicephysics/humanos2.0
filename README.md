@@ -54,7 +54,7 @@
 - [The Warrior‑Engineer — Swag of the Cosmos](warrior-engineer-identity)
 
 ### 🌐 Community
-- [Retired but Not Tired — Join the Virtual Nalanda](retired-contributors)
+- [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
   
 ---
 
