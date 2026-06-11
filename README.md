@@ -4,6 +4,11 @@
 
 ---
 
+## Quick Navigation
+- [🚀 New Here? Start Here](start-here)
+
+---
+
 ## 🧭 Explore the Blueprint — The seven Disciplines of HumanOS 2.0
 
 ### 🔮 Philosophy — The Invisible Beliefs That Shape Civilizations
