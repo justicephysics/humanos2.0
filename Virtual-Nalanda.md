@@ -129,7 +129,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Warrior‑Engineer — Swag of the Cosmos](warrior-engineer-identity)
 
 ### 🌐 Community
-- [Retired but Not Tired — Join the Virtual Nalanda](retired-contributors)
+- [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
