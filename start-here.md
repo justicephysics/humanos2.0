@@ -8,7 +8,7 @@ This is not a philosophy, a political manifesto, or a distant utopia. It’s an 
 
 ## What You’ll Find Here
 
-We’ve decoded the feudal operating system (HumanOS 1.0) and built its replacement. The blueprint is organized into six disciplines:
+We’ve decoded the feudal operating system (HumanOS 1.0) and built its replacement. The blueprint is organized into seven disciplines:
 
 ### 🔮 Philosophy — The Invisible Beliefs That Shape Civilizations
 - [Canal Dogma](canal-dogma) — the root belief that narrow channels are efficient
@@ -42,6 +42,9 @@ We’ve decoded the feudal operating system (HumanOS 1.0) and built its replac
 - [Mission 2100](mission-2100) — the four targets: UTI ≥ 1.80, deep ocean, orbital space, M2M²
 - [The Village Transformation](village-transformation) — self‑sustaining ecosystems, starting now
 - [The Cosmic Cold Chain](cosmic-cold-chain) — preserving food from farm to table with the universe’s cold
+
+### 🌐 Community
+- [Retired but Not Tired — Join the Virtual Nalanda](retired-contributors)
 
 ---
 
