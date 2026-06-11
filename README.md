@@ -37,6 +37,7 @@
 - [The True Citizens — Guardians of the Soil, Not Cattle Fodder](true-citizens)
 - [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [The Lollipop Economy — How the Feudal Lords Keep Us Distracted](lollipop-economy)
+- [The Bunker Paradox — Why the Feudal Lords Are Building Escape Pods](billionaire-bunkers)
 - [Open Call for Partners](partners)
   
 ### 🎓 Education — The Engineer Hurricane
