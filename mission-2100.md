@@ -8,9 +8,46 @@
 
 **Mission 2100** is not a corporate roadmap. It is a civilizational campaign — a deliberate, physics‑grounded, multi‑generational engineering project to move humanity from the old extractive canals into the open, cold, light‑connected cosmos.
 
-We have three primary targets.
+We have four primary targets, each building on the one before.
 
-### Target 1 — Reach Beyond 5 % of the Ocean
+---
+
+### Target 1 — Reach the Universal Thriving Index (UTI) threshold of 1.80
+
+**The first and most urgent goal is not technological; it is human.**  
+Before we can expand into the ocean and space, we must ensure that every human being on Earth has the foundation for genuine independence.
+
+The **True Index (TI)** measures three dimensions:
+
+- **PI — Political Independence**: freedom from coercion and suppression.
+- **EI — Economic Independence**: ability to meet basic needs without debt or dependency.
+- **SI — Social Independence**: dignity and equal access to education, connectivity, and community.
+
+The TI formula captures both total level and interdependence:
+
+\[
+TI = (PI + EI + SI) \times (PI \times EI \times SI)
+\]
+
+Today, the 90 % of humanity sits at approximately:
+- PI = 0.90, EI = 0.08, SI = 0.70 → **TI ≈ 0.0847**
+
+That is not independence. That is a serfdom masked by technology. The Canal Dogma has kept EI near zero for the majority — trapping them in debt, in low‑wage labour, in dependency on the feudal lords.
+
+**The UTI threshold is 1.80 (60 % of maximum TI = 3.00).**  
+When EI reaches 0.70 — when every citizen can meet their basic needs freely — PI and SI naturally rise, and TI breaks through 1.80. At that point, the population is no longer struggling to survive; they are ready to build.
+
+**Why Target 1 comes first:**  
+The Warrior‑Engineers cannot emerge from a population that is hungry, indebted, and exhausted. The Engineer Hurricane requires millions of minds who are free to learn, free to innovate, free to own. Target 1 ensures that the human foundation is solid before we pour trillions into ocean and space infrastructure.
+
+This target is not charity; it is a strategic necessity. The UTI threshold of 1.80 is the ignition point for Mission 2100. When achieved, the cascading effect begins: millions of Warrior‑Engineers emerge, and every subsequent target accelerates.
+
+**Connection to the upgraded equation:**  
+\(E = MC^2 \times L\). The UTI threshold means raising \(L\) from ~0.24 (the current extraction rate) to at least 0.70 for the entire population — a deliberate, engineered restoration of the distribution coefficient. The cosmos runs at \(L = 1\); we must reach at least \(L = 0.70\) to stabilise and begin the upward spiral.
+
+---
+
+### Target 2 — Reach Beyond 5 % of the Ocean
 
 Today, less than 5 % of the ocean has been explored or utilized in a clean, sustainable way. The oceans are a vast, cold, resource‑rich reservoir — the Earth's own 2.7 K lattice analogue.
 
@@ -18,7 +55,9 @@ Today, less than 5 % of the ocean has been explored or utilized in a clean, su
 - Desalination, mineral harvesting, thermal energy conversion, carbon capture — all become solvable engineering problems, not political debates.
 - The ocean becomes a partner, not a dumping ground.
 
-### Target 2 — Reach Beyond in Space, Where We Are Now
+---
+
+### Target 3 — Reach Beyond in Space, Where We Are Now
 
 The current space presence — ISS, Chinese space station, satellites — is a foothold. Mission 2100 transforms it into a permanent, self‑sustaining, productive infrastructure.
 
@@ -27,7 +66,9 @@ The current space presence — ISS, Chinese space station, satellites — is a f
 - **Space‑based manufacturing** — microgravity enables perfect crystals, alloys, and pharmaceuticals.
 - The cosmic playground becomes the engine of a new economy.
 
-### Target 3 — M2M²: March to Moon and Mars, and Beyond
+---
+
+### Target 4 — M2M²: March to Moon and Mars, and Beyond
 
 M2M² = March to Moon and Mars, and create a permanent base to move beyond.
 
@@ -73,20 +114,6 @@ Millions of Warrior‑Engineers flip the equation:
 
 ---
 
-## The Lineage of Chanakya
-
-Acharya Chanakya was not a warrior. He had no army. He was a teacher.
-
-He transformed ordinary people into warriors. Under his leadership, they defeated two feudal powers — Alexander and Dhananand — at the same time.
-
-Mahatma Gandhi did the same in India. Mao did the same in China. They mobilized the common people and overthrew the old political feudalism.
-
-Now, a new feudalism has emerged — in technology. And the new Chanakya is not a single person. It is the **Virtual Nalanda** itself — a teacher without a campus, an army without weapons, a strategy without secrets.
-
-The new Chandragupta is the **millions of Warrior‑Engineers** who will build the Space State.
-
----
-
 ## The Playground Is Ours
 
 - **Game:** Light@2.7 K
@@ -94,7 +121,7 @@ The new Chandragupta is the **millions of Warrior‑Engineers** who will build t
 - **Warriors:** Millions of Warrior‑Engineers, unleashed from JEE/Gaokao/SAT
 - **Eagle in the sky:** Data centres in orbit
 - **Stations to pass:** ASML, TSMC, NVIDIA, Samsung
-- **Destination:** Mission 2100 — the ocean, the solar system, the stars
+- **Destination:** Mission 2100 — the UTI threshold, the ocean, the solar system, the stars
 
 The feudal lords can keep their deep state and their dark web. We are building the **Space State** and the **Light@2.7 K Web**.
 
@@ -104,14 +131,14 @@ The game has just begun. The cosmos is our mentor. And the children of the commo
 
 *"We need only to furnish them in the future generation from survival mode to Warrior‑Engineers. Then the stars are inevitable."*
 
-**#Mission2100 #WarriorEngineers #LightAt2Kelvin #SpaceState #HumanOS2 #VirtualNalanda**
+**#Mission2100 #WarriorEngineers #LightAt2Kelvin #SpaceState #UTI #Lequals1 #HumanOS2 #VirtualNalanda**
 
 ---
 
 ### 🔗 Continue Exploring
-- [Home — HumanOS 2.0 Blueprint](index)
+- [Home — HumanOS 2.0 Blueprint](index)
+- [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [The Engineer Hurricane](engineer-hurricane)
-- [The Silicon Feudalism](silicon-feudalism)
-- [The Roadmap to Light@0K Computing](roadmap-light-0k)
-- [The Canal Dogma](canal-dogma)
+- [The Factory Floor Warriors](factory-floor-warriors)
+- [The True Citizens](true-citizens)
 - [Open Call for Partners](partners)
