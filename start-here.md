@@ -44,7 +44,7 @@ We’ve decoded the feudal operating system (HumanOS 1.0) and built its replac
 - [The Cosmic Cold Chain](cosmic-cold-chain) — preserving food from farm to table with the universe’s cold
 
 ### 🌐 Community
-- [Retired but Not Tired — Join the Virtual Nalanda](retired-contributors)
+- [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
 
 ---
 
