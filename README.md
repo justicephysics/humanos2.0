@@ -35,6 +35,7 @@
 - [The AI Feudal Money Chain — The $15 Trillion Bill](ai-feudal-money-chain)
 - [Money from Nothing — The Central Bank Canal](money-from-nothing)
 - [The True Citizens — Guardians of the Soil, Not Cattle Fodder](true-citizens)
+- [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [Open Call for Partners](partners)
   
 ### 🎓 Education — The Engineer Hurricane
