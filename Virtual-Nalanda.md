@@ -111,6 +111,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [Money from Nothing — The Central Bank Canal](money-from-nothing)
 - [The True Citizens — Guardians of the Soil, Not Cattle Fodder](true-citizens)
 - [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
+- [The Lollipop Economy — How the Feudal Lords Keep Us Distracted](lollipop-economy)
 - [Open Call for Partners](partners)
 
 ### 🎓 Education — The Engineer Hurricane
