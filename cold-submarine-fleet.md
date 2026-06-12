@@ -32,6 +32,17 @@ The **Cold Submarine Fleet** changes everything. These are autonomous or semi‑
 - The submarines can be fully autonomous, guided by the Light@2.7 K Web AGI, navigating via underwater acoustic networks and occasional surface links.
 - Modular cargo pods allow quick loading/unloading at coastal hubs, and easy replacement of ageing modules — exactly the same maintainable architecture as our compute fabric.
 
+### 2.4 Liberating Land — The Hidden Benefit of Moving Cold Storage to the Sea
+
+In every major coastal city, land is the most expensive and contested resource. Cold storage warehouses, logistics hubs, and refrigerated truck corridors consume vast tracts of prime real estate. They could be used for housing, parks, schools, or urban farms—but instead they serve the feudal cold chain.
+
+The Cold Submarine Fleet eliminates this bottleneck:
+- **Mobile warehouses:** submarines replace stationary cold storage, freeing land for human‑centred use.
+- **Compact coastal hubs:** only small, efficient docking stations are needed—not sprawling distribution centres.
+- **Silent, underground delivery:** the fleet bypasses congested highways, reducing traffic, pollution, and the need for refrigerated trucks.
+
+This aligns with the Space State principle of \(L = 1\): distribute the load, eliminate waste, and let the cosmic infrastructure (the ocean, the sun) do the heavy lifting. The land returns to the people, and the pressure on urban space—a direct result of the Canal Dogma—is released.
+
 ---
 
 ## 3. Economic and Environmental Impact
