@@ -113,6 +113,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [The Lollipop Economy — How the Feudal Lords Keep Us Distracted](lollipop-economy)
 - [The Bunker Paradox — Why the Feudal Lords Are Building Escape Pods](billionaire-bunkers)
+- [The Sea Farming Revolution — Agriculture Beneath the Waves](sea-farming-revolution)
 - [Open Call for Partners](partners)
 
 ### 🎓 Education — The Engineer Hurricane
