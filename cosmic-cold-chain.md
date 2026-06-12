@@ -94,4 +94,5 @@ The Space State corrects this. It aligns our infrastructure with the same physic
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
 - [The Cold Submarine Fleet — mobile refrigeration and transport](cold-submarine-fleet)
+- [The Sea Farming Revolution — the next step in ocean‑based food production](sea-farming-revolution)
 - [Open Call for Partners](partners)
