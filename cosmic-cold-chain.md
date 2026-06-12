@@ -93,4 +93,5 @@ The Space State corrects this. It aligns our infrastructure with the same physic
 - [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
+- [The Cold Submarine Fleet — mobile refrigeration and transport](cold-submarine-fleet)
 - [Open Call for Partners](partners)
