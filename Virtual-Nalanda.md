@@ -79,7 +79,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 
 ---
 
-## 🧭 Explore the Blueprint — The seven Disciplines of HumanOS 2.0
+### 🔗 Continue Exploring
 
 ### 🔮 Philosophy — The Invisible Beliefs That Shape Civilizations
 - [Canal Dogma — The Invisible Belief](canal-dogma)
