@@ -77,6 +77,14 @@ This page is an open invitation to students, researchers, and engineers worldwid
 - Propose your own research project. We will help you publish it and link it from the Virtual Nalanda.
 - Build a prototype. Even a single photonic link at 4 K is a contribution.
 
+---
+
+### 🔗 Continue Exploring
+
+- [Hyper‑Imagination Mode — the cognitive engine that runs on Light@0K](hyper-imagination-mode)
+
+---
+
 **Email:** [mukesh.justicephysics@gmail.com](mailto:mukesh.justicephysics@gmail.com)  
 **LinkedIn:** [Kumar Justice Physics](https://www.linkedin.com/in/kumar-justice-physics-501b5a69/)
 
