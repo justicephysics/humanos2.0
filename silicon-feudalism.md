@@ -70,4 +70,5 @@ The industry is patching the symptoms. We are curing the disease.
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [Canal Dogma — The Invisible Belief](canal-dogma)
+- [The ASML Locked Puzzle Box — hardware lock, software key](asml-locked-puzzle-box)
 - [Open Call for Partners](partners)
