@@ -88,4 +88,5 @@ The feudal lords burn diesel to move an avocado across the world. The Warrior‑
 - [The Cosmic Cold Chain — From Farm to Table](cosmic-cold-chain)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Simple Engineering Vision](simple-engineering-vision)
+- [The Sea Farming Revolution — growing food beneath the waves](sea-farming-revolution)
 - [Open Call for Partners](partners)
