@@ -31,6 +31,7 @@
 - [Chip Architecture Detail](chip-architecture)
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [Visual Proofs & Simulations](visual-proofs)
+- [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
 
 ### 💰 Economics — The End of Artificial Scarcity
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
