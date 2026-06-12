@@ -153,4 +153,5 @@ Widen the JEE/Gaokao canal. Let the engineers flow. They will submerge the old o
 - [The Silicon Feudalism](silicon-feudalism)
 - [Moore's Law Exposed](moores-law-exposed)
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
+- [The ASML Locked Puzzle Box — why the feudal lock exists and how to break it](asml-locked-puzzle-box)
 - [Open Call for Partners](partners)
