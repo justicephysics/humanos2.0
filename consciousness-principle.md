@@ -314,4 +314,5 @@ The Consciousness Principle is not abstract philosophy. It is the **engineering 
 - [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The #LisTest — the practical alignment test derived from C = 1 − D](lis-test)
+- [The Physical Continuum — the master hierarchy from cosmos to mind](physical-continuum)
 - [Open Call for Partners](partners)
