@@ -313,4 +313,5 @@ The Consciousness Principle is not abstract philosophy. It is the **engineering 
 - [The Canal Dogma](canal-dogma)
 - [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The #LisTest — the practical alignment test derived from C = 1 − D](lis-test)
 - [Open Call for Partners](partners)
