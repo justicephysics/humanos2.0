@@ -41,7 +41,7 @@ The Cold Submarine Fleet eliminates this bottleneck:
 - **Compact coastal hubs:** only small, efficient docking stations are needed—not sprawling distribution centres.
 - **Silent, underground delivery:** the fleet bypasses congested highways, reducing traffic, pollution, and the need for refrigerated trucks.
 
-This aligns with the Space State principle of \(L = 1\): distribute the load, eliminate waste, and let the cosmic infrastructure (the ocean, the sun) do the heavy lifting. The land returns to the people, and the pressure on urban space—a direct result of the Canal Dogma—is released.
+This aligns with the Space State principle of $$\(L = 1\)$$: distribute the load, eliminate waste, and let the cosmic infrastructure (the ocean, the sun) do the heavy lifting. The land returns to the people, and the pressure on urban space—a direct result of the Canal Dogma—is released.
 
 ---
 
