@@ -95,7 +95,7 @@ To achieve L = 1 within planetary boundaries, we must redesign the **F** — the
 | **Materials** | Extract‑use‑discard | Atom‑by‑atom design, perfect recycling, lab‑grown everything |
 | **Food & Water** | Industrial monoculture, over‑extraction | Permaculture, precision fermentation, desalination powered by free energy |
 | **Education** | Narrow gates (JEE, Gaokao, SAT), student debt | Virtual Nalanda — free, global, no entrance exam |
-| **Economy** | Concentration of wealth (Gini 0.88) | Distributed abundance, \(L \to 1\) via open‑source infrastructure |
+| **Economy** | Concentration of wealth (Gini 0.88) | Distributed abundance, $$\(L \to 1\)$$ via open‑source infrastructure |
 
 This is not a philosophy. It is a **hardware specification**. Every piece of it is either already proven by the cosmos or derivable from known physics.
 
