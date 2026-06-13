@@ -92,4 +92,5 @@ The feudal lords hoard knowledge behind paywalls, patents, and exams. The Space 
 - [The Three Verticals of Intelligence](three-verticals-intelligence) *(coming soon)*
 - [Light@0Kelvin — The New Discipline](light-at-0k)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Physical Continuum — how imagination fits into the cosmic hierarchy](physical-continuum)
 - [Open Call for Partners](partners)
