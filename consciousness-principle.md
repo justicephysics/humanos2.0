@@ -206,33 +206,41 @@ C is the **last storage point** — the command centre — before action.
 
 **The architecture:**
 
-\[
+$$\[
 \text{Environment (information, pressure, resources)}
-\]
-\[
+\]$$
+
+$$\[
 \downarrow
-\]
-\[
+\]$$
+
+$$\[
 \text{Perception filter (what reaches C)}
-\]
-\[
+\]$$
+
+$$\[
 \downarrow
-\]
-\[
+\]$$
+
+$$\[
 \boxed{C = \text{Command Centre (stores current desire, issues command)}}
-\]
-\[
+\]$$
+
+$$\[
 \downarrow
-\]
-\[
+\]$$
+
+$$\[
 \text{Action (execution of stored command)}
-\]
-\[
+\]$$
+
+$$\[
 \downarrow
-\]
-\[
+\]$$
+
+$$\[
 \text{Outcome (changes environment → feeds back to top)}
-\]
+\]$$
 
 **The intervention points:**
 1. Change the environment (EI ≥ 0.70 removes survival‑first command)
@@ -273,9 +281,9 @@ A perfectly executing command system with misaligned stored command
 = maximum output of maximum harm.
 
 AI at C_power → 1.0 × C_alignment = 0.08:
-\[
+$$\[
 = \text{the most powerful execution of the most misaligned command in history}
-\]
+\]$$
 
 This is the lens nobody is discussing.
 
@@ -287,7 +295,7 @@ The Consciousness Principle is not abstract philosophy. It is the **engineering 
 
 - **The Canal Dogma** lowers C by narrowing the survival canal for the 90 %.
 - **The Feudal Economy** reinforces high D at the top by rewarding accumulation.
-- **The Space State** raises C by securing EI ≥ 0.70, widening the canal, and aligning the command architecture of both humans and AI with the cosmic principle \(E = MC^2 \times L\).
+- **The Space State** raises C by securing EI ≥ 0.70, widening the canal, and aligning the command architecture of both humans and AI with the cosmic principle $$\(E = MC^2 \times L\).$$
 
 **#LisPresent** = the science of maintaining C ≥ 0.70 at civilisational scale. Not morality. Not ideology. **Consciousness physics.**
 
