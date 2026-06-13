@@ -129,4 +129,5 @@ The UTI threshold (1.80) is the constitutional guarantee that the #LisTest becom
 - [The Ethics Vacuum — Why History Proves Ethics Do Not Govern Economies](ethics-vacuum)
 - [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Physical Continuum — why the #LisTest is grounded in physical law](physical-continuum)
 - [Open Call for Partners](partners)
