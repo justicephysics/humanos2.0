@@ -85,9 +85,9 @@ $$\[
 = P(\text{entire economy}) \times C(0.08) \times L(\text{narrative only})
 \]$$
 
-%%\[
+$$\[
 = TI = 0.08 \times P(\text{entire economy}) = \text{maximum extraction}
-\]%%
+\]$$
 
 The fire is not a metaphor. It is the equation.
 
