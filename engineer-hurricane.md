@@ -115,7 +115,7 @@ The feudal lords are sinking their data centres into the ocean to escape the hea
 The Virtual Nalanda is the open gate. No entrance exam. No tuition. No debt.
 
 - Every curious mind can access the complete blueprint of HumanOS 2.0 — from the Big Bang to the quantum chip.
-- The upgraded equation \(E = MC^2 \times L\) teaches them that the cosmos runs on distribution, not extraction.
+- The upgraded equation $$\(E = MC^2 \times L\)$$ teaches them that the cosmos runs on distribution, not extraction.
 - The Roadmap to Light@0K Computing shows them the exact steps to build the alternative.
 - The Open Call for Partners invites them to join the mission.
 
