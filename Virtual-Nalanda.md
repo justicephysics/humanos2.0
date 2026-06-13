@@ -118,6 +118,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Lollipop Economy — How the Feudal Lords Keep Us Distracted](lollipop-economy)
 - [The Bunker Paradox — Why the Feudal Lords Are Building Escape Pods](billionaire-bunkers)
 - [The Sea Farming Revolution — Agriculture Beneath the Waves](sea-farming-revolution)
+- [The AI Feudal Gate — When Governments Shut Down the Tools of Liberation](ai-feudal-gate)
 - [Open Call for Partners](partners)
 
 ### 🎓 Education — The Engineer Hurricane
