@@ -93,6 +93,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Consciousness Principle — C = 1 − D](consciousness-principle)
 - [The Ethics Vacuum — Why History Proves Ethics Do Not Govern Economies](ethics-vacuum)
 - [The #LisTest — The Alignment Test](lis-test)
+- [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
