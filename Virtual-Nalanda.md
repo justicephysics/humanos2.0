@@ -91,6 +91,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Mousetrap — How the Fortune 500 Domesticated the Human Brain](the-mousetrap)
 - [The Suppression Manual — How Education Gates Keep the 90% Down](the-suppression-manual)
 - [The Consciousness Principle — C = 1 − D](consciousness-principle)
+- [The Ethics Vacuum — Why History Proves Ethics Do Not Govern Economies](ethics-vacuum)
 
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
