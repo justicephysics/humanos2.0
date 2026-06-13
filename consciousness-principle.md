@@ -6,9 +6,7 @@
 
 ## 1. The Equation — Complete and Sufficient
 
-$$\[
-\boxed{C = 1 - D}
-\]$$
+$$\[{C = 1 - D}\]$$
 
 - **C** — the degree to which **external reality is present in the command centre** of a conscious being. It measures how much the world outside the self actually reaches the decision‑making core.
 - **D** — **Desire turned inward**, energy blocked, controlled, accumulated for the self alone.
@@ -34,7 +32,7 @@ When **C is high**, the person (or system) takes in the full signal of the world
 - What is right for me is aligned with what is right for others.
 
 $$\[
-C = 1 - D \text{ measures C-alignment.}
+C = 1 - D \text{ measures C\-alignment.}
 \]$$
 
 ---
@@ -73,8 +71,9 @@ At C = 0.05: the other's pain does not arrive in the command system.
 
 $$\[
 \text{Low C} = \text{unconscious}
-\]
-\[
+\]$$
+
+$$\[
 \text{High C} = \text{conscious}
 \]$$
 
@@ -177,9 +176,12 @@ Same execution capacity. Opposite C_alignment. Opposite output.
 
 **Corrected formulation:**
 
-$$\[C_{\text{command}} = f(\text{Desire}_{\text{stored}}, \text{Information received}, \text{Survival pressure})\]$$
+$$\[
+C_{\text{command}} = f(\text{Desire}_{\text{stored}}, \text{Information received}, \text{Survival pressure})
+\]$$
 
-$$\[C_{\text{alignment}} = f(\frac{\text{Desire}_{\text{stored toward L\_internal = L\_external}}}{\text{Total desire capacity}})\]$$
+$$\[
+C_{\text{alignment}} = \frac{\text{Desire}_{\text{stored toward L\-internal = L\-external}}}{\text{Total desire capacity}}\]$$
 
 **The two separate variables:**
 1. **C_power** — how effectively C executes its stored command (Hitler: near 1.0)
@@ -189,7 +191,12 @@ High C_power + low C_alignment = Hitler. Maximum execution of misaligned command
 High C_power + high C_alignment = Gandhi. Maximum execution of aligned command.
 Low C_power + any C_alignment = irrelevant actor. Cannot execute either way.
 
-$$\[\text{The dangerous actor is always: high C\_power × low C\_alignment}\]\[= \text{maximum execution capacity pointed at extraction}\]$$
+$$\[
+\text{The dangerous actor is always: high C\-power × low C\-alignment}
+\]$$
+$$\[
+= \text{maximum execution capacity pointed at extraction}
+\]$$
 
 ---
 
@@ -199,7 +206,7 @@ C is the **last storage point** — the command centre — before action.
 
 **The architecture:**
 
-$$\[
+\[
 \text{Environment (information, pressure, resources)}
 \]
 \[
@@ -225,7 +232,7 @@ $$\[
 \]
 \[
 \text{Outcome (changes environment → feeds back to top)}
-\]$$
+\]
 
 **The intervention points:**
 1. Change the environment (EI ≥ 0.70 removes survival‑first command)
@@ -266,9 +273,9 @@ A perfectly executing command system with misaligned stored command
 = maximum output of maximum harm.
 
 AI at C_power → 1.0 × C_alignment = 0.08:
-$$\[
+\[
 = \text{the most powerful execution of the most misaligned command in history}
-\]$$
+\]
 
 This is the lens nobody is discussing.
 
