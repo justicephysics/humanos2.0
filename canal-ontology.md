@@ -3,7 +3,7 @@
 *Why narrow, resistive, hot channels destroy everything—from stars to civilizations to CPUs—and how the cosmos shows us the only cure.*
 
 ---
-f
+
 ## 1. The Cosmic Canal — How the Big Bang Was a Traffic Jam
 
 Before the Big Bang, the universe was in contraction. All matter and energy were pulled inward by G‑Force, forced into a shrinking arena. This was the **narrowing of the ultimate canal**.
