@@ -69,7 +69,7 @@ The feudal money chain can be broken. But not by regulation alone. Regulation is
 That infrastructure is already blueprinted:
 
 - **The Light@2.7K Web** — an open‑source, photonic, cryogenic compute fabric that needs no ASML, no TSMC, no NVIDIA. Ordinary silicon, connected by light, cooled by the cosmos itself. Operating cost in space: zero.
-- **The Space State** — a civilization built on \(E = MC^2 \times L\), with \(L = 1\). Energy and computation flow freely, without extraction. The printing press is replaced by the Sun.
+- **The Space State** — a civilization built on $$\(E = MC^2 \times L\), with \(L = 1\).$$ Energy and computation flow freely, without extraction. The printing press is replaced by the Sun.
 - **The Warrior‑Engineers** — millions of minds, unleashed from the JEE/Gaokao/SAT narrow gates, building the alternative without asking the feudal lords for permission or funding.
 
 When computation is free, the AI feudal lords lose their monopoly. When energy is free, the printing press becomes obsolete. When education is free, the serfs become warriors.
