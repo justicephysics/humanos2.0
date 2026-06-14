@@ -41,7 +41,7 @@ Look at the Sun. It is the ultimate guardian — nursing the Earth equally.
 - It does not charge interest on photons.
 - It does not demand a JEE rank, a UPSC score, or a CAT percentile to receive its light.
 
-The Sun runs on \(E = MC^2 \times L\), with L = 1. It converts mass into energy and distributes that energy freely, equally, to every node in the solar system.
+The Sun runs on $$\(E = MC^2 \times L\)$$, with L = 1. It converts mass into energy and distributes that energy freely, equally, to every node in the solar system.
 
 We humans have not learned this lesson. Our governance bodies have no "L" embedded in their constitution. They concentrate resources, narrow the canals, and then wonder why the empire collapses.
 
@@ -55,7 +55,7 @@ Every empire in history — Rome, the Mayans, the British, and now the global Fo
 - **Extract:** The canals narrow; 70–80 % of wealth concentrates at the top.
 - **Collapse:** The pressure builds (Gini 0.88, climate tipping points, social unrest). The system overheats. The canal bursts.
 
-The physics is absolute. When \(E = MC^2 \times L\) is violated — when L → 0 — the system corrects:
+The physics is absolute. When $$\(E = MC^2 \times L\)$$ is violated — when L → 0 — the system corrects:
 
 - For a star, the correction is a **supernova**.
 - For a cosmic cluster, the correction is a **Big Bang**.
@@ -67,7 +67,7 @@ This is not philosophy. It is the cosmos manual — the same manual that has gov
 
 ## 5. The Manual for Billions of Lives
 
-The upgraded equation — \(E = MC^2 \times L\) — is not an abstract formula. It is a **manual for civilization**.
+The upgraded equation — $$\(E = MC^2 \times L\)$$ — is not an abstract formula. It is a **manual for civilization**.
 
 - **E** = the total available energy and resources (the Sun, the Earth, the human mind).
 - **MC²** = the conversion of mass into energy, the unlocking of potential.
