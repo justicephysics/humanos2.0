@@ -17,7 +17,7 @@ What GDP **doesn’t** measure is distribution, independence, or sustainability.
 
 - The top 10 % captures **7.6 %** of that growth.
 - The bottom 50 % captures **0.2 %**.
-- Ratio: **38×**. For every \$1 the bottom half receives, the top 10 % receives \$38.
+- Ratio: **38×**. For every \$1 the bottom half receives, the top 10 % receives \$38.$$
 
 GDP growth = inequality growth. They are mathematically identical at L_Gini ≈ 0.92.
 
@@ -40,18 +40,18 @@ The 38× mechanism is the thermodynamic signature of the Canal Dogma at the econ
 
 A more precise measurement of structural impossibility:
 
-\[
+$$\[
 NGDI = \frac{G_L}{1 - G_L} \times \frac{N_{90}}{N_{10}}
-\]
+\]$$
 
 Where:
-- \(G_L\) = Liquidity Gini = 0.92
-- \(N_{90}\) = population of the bottom 90 %
-- \(N_{10}\) = population of the top 10 %
+- $$\(G_L\)$$ = Liquidity Gini = 0.92
+- $$\(N_{90}\)$$ = population of the bottom 90 %
+- $$\(N_{10}\)$$ = population of the top 10 %
 
-\[
+$$\[
 NGDI = \frac{0.92}{0.08} \times \frac{90}{10} = 11.5 \times 9 = \mathbf{103.5}
-\]
+\]$$
 
 At NGDI = 103.5, GDP growth does **not** reduce the gap. It multiplies it — by 103.5 per person, every year. This is a new metric, grounded in the same physics we’ve traced from the Big Bang to the CPU.
 
@@ -67,9 +67,9 @@ The TI replaces GDP by measuring three dimensions of independence:
 
 The formula captures both total level and interdependence:
 
-\[
+$$\[
 \boxed{TI = (PI + EI + SI) \times (PI \times EI \times SI)}
-\]
+\]$$
 
 ### Why This Formula Is Mathematically Superior
 
@@ -104,19 +104,19 @@ At today’s estimated values (PI=0.90, EI=0.08, SI=0.70), TI = 0.0847. Econ
 
 ## 6. Connection to the Upgraded Equation
 
-The TI is the empirical measurement of the distribution coefficient \(L\) in our upgraded equation:
+The TI is the empirical measurement of the distribution coefficient $$\(L\)$$ in our upgraded equation:
 
-\[
+$$\[
 E = MC^2 \times L
-\]
+\]$$
 
 - **MC²** = the total energy and resources available (the cosmic reservoir).
 - **L** = the distribution coefficient, measuring how evenly that energy reaches every node.
-- **TI** = the real‑world, measurable expression of \(L\) in a human economy.
+- **TI** = the real‑world, measurable expression of $$\(L\)$$ in a human economy.
 
-When TI → 3.00, \(L\) → 1 — full circulation, no extraction, thriving. When TI → 0, \(L\) → 0 — complete extraction, gradient steepening, imminent collapse.
+When TI → 3.00, $$\(L\)$$ → 1 — full circulation, no extraction, thriving. When TI → 0, $$\(L\)$$ → 0 — complete extraction, gradient steepening, imminent collapse.
 
-The 38× cancer mechanism and the 103.5× NGDI are the numerical proofs that GDP‑based systems drive \(L\) toward zero. The TI is the dashboard of the Space State, designed to drive \(L\) back toward 1.
+The 38× cancer mechanism and the 103.5× NGDI are the numerical proofs that GDP‑based systems drive $$\(L\)$$ toward zero. The TI is the dashboard of the Space State, designed to drive $$\(L\)$$ back toward 1.
 
 ---
 
