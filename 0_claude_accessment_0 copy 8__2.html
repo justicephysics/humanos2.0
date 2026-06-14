@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Courier+Prime:wght@400;700&family=Source+Sans+3:wght@300;400;600&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 1200px;
+    height: 628px;
+    overflow: hidden;
+    background: #f0e8d8;
+    font-family: 'Source Sans 3', sans-serif;
+  }
+
+  /* Aged paper texture */
+  .paper {
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 80% 60% at 50% 50%, rgba(240,200,120,0.3) 0%, transparent 70%),
+      radial-gradient(ellipse 100% 100% at 0% 0%, rgba(200,160,80,0.2) 0%, transparent 60%),
+      #f0e8d8;
+  }
+
+  /* Noise grain */
+  .grain {
+    position: absolute;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.06'/%3E%3C/svg%3E");
+    opacity: 0.4;
+  }
+
+  /* Dark left column */
+  .left-col {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 52px;
+    background: #1a1208;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+  }
+
+  .left-col-text {
+    font-family: 'Courier Prime', monospace;
+    font-size: 9px;
+    font-weight: 700;
+    color: rgba(240,220,160,0.5);
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+  }
+
+  /* Newspaper header strip */
+  .masthead {
+    position: absolute;
+    top: 0;
+    left: 52px;
+    right: 0;
+    height: 54px;
+    border-bottom: 3px solid #1a1208;
+    display: flex;
+    align-items: center;
+    padding: 0 48px;
+    gap: 0;
+  }
+
+  .masthead-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 900;
+    color: #1a1208;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    flex: 1;
+  }
+
+  .masthead-date {
+    font-family: 'Courier Prime', monospace;
+    font-size: 11px;
+    color: rgba(26,18,8,0.5);
+    letter-spacing: 0.1em;
+  }
+
+  /* Thin rule */
+  .rule {
+    position: absolute;
+    left: 52px;
+    right: 0;
+    top: 60px;
+    height: 1px;
+    background: #1a1208;
+  }
+
+  /* BREAKING band */
+  .breaking {
+    position: absolute;
+    left: 52px;
+    right: 0;
+    top: 61px;
+    height: 32px;
+    background: #8b1a00;
+    display: flex;
+    align-items: center;
+    padding: 0 48px;
+    gap: 16px;
+  }
+
+  .breaking-label {
+    font-family: 'Courier Prime', monospace;
+    font-size: 11px;
+    font-weight: 700;
+    color: #f0e8d8;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+  }
+
+  .breaking-text {
+    font-family: 'Courier Prime', monospace;
+    font-size: 11px;
+    color: rgba(240,232,216,0.8);
+    letter-spacing: 0.1em;
+  }
+
+  /* Main content area */
+  .content {
+    position: absolute;
+    left: 100px;
+    top: 110px;
+    right: 48px;
+    bottom: 80px;
+    display: flex;
+    gap: 0;
+  }
+
+  .main-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    padding-right: 48px;
+    border-right: 1px solid rgba(26,18,8,0.2);
+  }
+
+  .kicker {
+    font-family: 'Courier Prime', monospace;
+    font-size: 11px;
+    font-weight: 700;
+    color: #8b1a00;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+
+  .headline {
+    font-family: 'Playfair Display', serif;
+    font-size: 58px;
+    font-weight: 900;
+    line-height: 1.0;
+    color: #1a1208;
+    margin-bottom: 20px;
+    letter-spacing: -0.01em;
+  }
+
+  .headline em {
+    font-style: italic;
+    color: #8b1a00;
+  }
+
+  .deck {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 14.5px;
+    font-weight: 300;
+    color: rgba(26,18,8,0.7);
+    line-height: 1.6;
+    max-width: 480px;
+    border-top: 2px solid rgba(26,18,8,0.2);
+    padding-top: 14px;
+  }
+
+  /* Right column */
+  .sidebar {
+    width: 280px;
+    padding-left: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .sidebar-head {
+    font-family: 'Courier Prime', monospace;
+    font-size: 9px;
+    font-weight: 700;
+    color: rgba(26,18,8,0.4);
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(26,18,8,0.15);
+    padding-bottom: 8px;
+  }
+
+  .timeline-item {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+  }
+
+  .tl-date {
+    font-family: 'Courier Prime', monospace;
+    font-size: 10px;
+    font-weight: 700;
+    color: #8b1a00;
+    letter-spacing: 0.05em;
+    min-width: 64px;
+    padding-top: 1px;
+  }
+
+  .tl-text {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 12px;
+    color: rgba(26,18,8,0.7);
+    line-height: 1.4;
+  }
+
+  .tl-text strong {
+    color: #1a1208;
+    font-weight: 600;
+  }
+
+  .highlight-box {
+    background: #1a1208;
+    padding: 14px 16px;
+  }
+
+  .hl-num {
+    font-family: 'Playfair Display', serif;
+    font-size: 42px;
+    font-weight: 900;
+    color: #f0c040;
+    line-height: 1;
+  }
+
+  .hl-label {
+    font-family: 'Courier Prime', monospace;
+    font-size: 10px;
+    color: rgba(240,200,120,0.6);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-top: 4px;
+  }
+
+  /* Bottom strip */
+  .bottom-strip {
+    position: absolute;
+    bottom: 0;
+    left: 52px;
+    right: 0;
+    height: 44px;
+    background: #1a1208;
+    display: flex;
+    align-items: center;
+    padding: 0 48px;
+    gap: 32px;
+  }
+
+  .bs-tag {
+    font-family: 'Courier Prime', monospace;
+    font-size: 10px;
+    color: rgba(240,220,160,0.4);
+    letter-spacing: 0.2em;
+  }
+
+  .bs-tag.active { color: rgba(240,200,80,0.8); }
+</style>
+</head>
+<body>
+  <div class="paper"></div>
+  <div class="grain"></div>
+  <div class="left-col">
+    <div class="left-col-text">Article 09 of 10</div>
+  </div>
+
+  <div class="masthead">
+    <div class="masthead-title">The MOF:I→G Investigation</div>
+    <div class="masthead-date">WEDNESDAY EDITION — KUMAR JUSTICE PHYSICS</div>
+  </div>
+  <div class="rule"></div>
+  <div class="breaking">
+    <div class="breaking-label">⬛ Prediction Validated</div>
+    <div class="breaking-text">Written December 13, 2025 · Confirmed February 2026 · 75 Days</div>
+  </div>
+
+  <div class="content">
+    <div class="main-text">
+      <div class="kicker">The Pearl Harbor Moment — How It Forms. How It Falls.</div>
+      <div class="headline">
+        I Watched It<br>
+        Form in<br>
+        <em>December.</em><br>
+        It Has Formed.
+      </div>
+      <div class="deck">
+        The escalation spiral was visible to anyone with a framework to measure it.<br>
+        Now it's on every front page. Here is exactly what comes next.
+      </div>
+    </div>
+
+    <div class="sidebar">
+      <div class="sidebar-head">The Formation Timeline</div>
+      <div class="timeline-item">
+        <div class="tl-date">Dec 12</div>
+        <div class="tl-text">Trump: <strong>"Things like this end up in WW3"</strong></div>
+      </div>
+      <div class="timeline-item">
+        <div class="tl-date">Dec 13</div>
+        <div class="tl-text"><strong>Turkish NATO ships struck.</strong> Pearl Harbor watch begins.</div>
+      </div>
+      <div class="timeline-item">
+        <div class="tl-date">Feb 2026</div>
+        <div class="tl-text"><strong>Operation Epic Fury.</strong> Iran struck. Formation complete.</div>
+      </div>
+      <div class="highlight-box">
+        <div class="hl-num">75</div>
+        <div class="hl-label">Days · 1-3 years predicted · Physics moved faster</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-strip">
+    <div class="bs-tag active">#JusticePhysics</div>
+    <div class="bs-tag active">#LisMissing</div>
+    <div class="bs-tag">#PearlHarborMoment</div>
+    <div class="bs-tag">#MOFItoG</div>
+    <div class="bs-tag">#120YearCycle</div>
+  </div>
+</body>
+</html>

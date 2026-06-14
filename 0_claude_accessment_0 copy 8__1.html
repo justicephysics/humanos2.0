@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;700&family=IBM+Plex+Sans:wght@300;400;700&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 1200px;
+    height: 628px;
+    overflow: hidden;
+    background: #0a0a0a;
+    font-family: 'IBM Plex Sans', sans-serif;
+  }
+
+  .bg {
+    position: absolute;
+    inset: 0;
+    background: 
+      radial-gradient(ellipse 60% 80% at 80% 50%, rgba(180,20,20,0.18) 0%, transparent 70%),
+      radial-gradient(ellipse 40% 60% at 20% 80%, rgba(255,100,0,0.08) 0%, transparent 60%),
+      #0a0a0a;
+  }
+
+  /* Grid lines */
+  .grid {
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+    background-size: 60px 60px;
+  }
+
+  /* Ticker tape at bottom */
+  .ticker {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 36px;
+    background: #b41414;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+  }
+
+  .ticker-content {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.12em;
+    white-space: nowrap;
+    padding: 0 40px;
+    opacity: 0.95;
+  }
+
+  /* Left red accent bar */
+  .accent-bar {
+    position: absolute;
+    left: 72px;
+    top: 0;
+    bottom: 36px;
+    width: 4px;
+    background: linear-gradient(to bottom, #b41414 0%, #ff4400 100%);
+  }
+
+  /* Main content */
+  .content {
+    position: absolute;
+    left: 100px;
+    top: 0;
+    bottom: 36px;
+    right: 420px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0;
+  }
+
+  .label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    font-weight: 700;
+    color: #b41414;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+
+  .headline {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 86px;
+    line-height: 0.9;
+    color: #ffffff;
+    letter-spacing: 0.02em;
+    margin-bottom: 28px;
+  }
+
+  .headline span.red { color: #ff3333; }
+
+  .subline {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: rgba(255,255,255,0.6);
+    line-height: 1.55;
+    letter-spacing: 0.01em;
+    max-width: 480px;
+    border-left: 2px solid rgba(255,51,51,0.4);
+    padding-left: 16px;
+  }
+
+  /* Right panel */
+  .right-panel {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 36px;
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0 48px;
+    border-left: 1px solid rgba(255,255,255,0.06);
+    gap: 20px;
+  }
+
+  .stat-block {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .stat-number {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 52px;
+    line-height: 1;
+    color: #ff3333;
+    letter-spacing: 0.02em;
+  }
+
+  .stat-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    font-weight: 700;
+    color: rgba(255,255,255,0.4);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+  }
+
+  .divider {
+    width: 100%;
+    height: 1px;
+    background: rgba(255,255,255,0.08);
+  }
+
+  .prediction-box {
+    background: rgba(180,20,20,0.15);
+    border: 1px solid rgba(180,20,20,0.3);
+    padding: 14px 18px;
+    width: 100%;
+  }
+
+  .pred-top {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9px;
+    color: #ff3333;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+
+  .pred-text {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: rgba(255,255,255,0.9);
+    line-height: 1.4;
+  }
+
+  /* Timestamp top right */
+  .timestamp {
+    position: absolute;
+    top: 28px;
+    right: 48px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: rgba(255,255,255,0.25);
+    letter-spacing: 0.15em;
+  }
+
+  /* Article number */
+  .article-num {
+    position: absolute;
+    top: 28px;
+    left: 100px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: rgba(255,255,255,0.2);
+    letter-spacing: 0.2em;
+  }
+
+  /* Bottom left tag */
+  .hashtag {
+    position: absolute;
+    bottom: 52px;
+    left: 100px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: rgba(255,255,255,0.2);
+    letter-spacing: 0.15em;
+  }
+
+</style>
+</head>
+<body>
+  <div class="bg"></div>
+  <div class="grid"></div>
+  <div class="accent-bar"></div>
+
+  <div class="article-num">ARTICLE 08 OF 10 — MOF:I→G INVESTIGATION</div>
+  <div class="timestamp">MONDAY — MARKETS OPEN</div>
+
+  <div class="content">
+    <div class="label">⬛ Operation Epic Fury — Framework Analysis</div>
+    <div class="headline">
+      MARKETS<br>
+      ARE <span class="red">PRICING</span><br>
+      THE WRONG<br>
+      THING
+    </div>
+    <div class="subline">
+      They see a geopolitical shock.<br>
+      The framework sees the end of an architecture.
+    </div>
+  </div>
+
+  <div class="right-panel">
+    <div class="stat-block">
+      <div class="stat-number">75</div>
+      <div class="stat-label">Days · Prediction → Operation Epic Fury</div>
+    </div>
+    <div class="divider"></div>
+    <div class="stat-block">
+      <div class="stat-number">1,100:1</div>
+      <div class="stat-label">Wealth ratio · The root cause no analyst states</div>
+    </div>
+    <div class="divider"></div>
+    <div class="prediction-box">
+      <div class="pred-top">Dec 12, 2025 — Written</div>
+      <div class="pred-text">"Things like this end up in World War 3"<br>— Trump. Confirmed. 75 days.</div>
+    </div>
+  </div>
+
+  <div class="hashtag">#JusticePhysics #LisMissing #MOFItoG</div>
+
+  <div class="ticker">
+    <div class="ticker-content">
+      ◆ OPERATION EPIC FURY — US-ISRAEL STRIKES IRAN NUCLEAR PROGRAM ◆ BRITISH AIRCRAFT ENGAGED ◆ IRANIAN RETALIATION ACTIVE ◆ FRAMEWORK PREDICTION: DEC 12, 2025 ◆ VALIDATED: FEB 2026 — 75 DAYS ◆ MOF = E × I × S × L — L = 0.01 — CORRECTION IN MOTION ◆
+    </div>
+  </div>
+</body>
+</html>
