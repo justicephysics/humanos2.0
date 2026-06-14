@@ -107,6 +107,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [Visual Proofs & Simulations](visual-proofs)
 - [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
 - [The ASML Locked Puzzle Box — The Feudal Gate in Hardware](asml-locked-puzzle-box)
+- [Cold Solar — Rotational Photovoltaic Panels at 2.7 K](cold-solar)
 
 ### 💰 Economics — The End of Artificial Scarcity
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
