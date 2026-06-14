@@ -17,7 +17,7 @@ But Einstein’s equation contained a silent omission: **it said nothing about d
 - It tells us **how much** energy is locked inside matter.
 - It does **not** tell us **who gets it, how it flows, or whether it reaches everyone.**
 
-That missing piece is the reason why, 120 years after \(E = MC^2\), we still have a civilisation where the top 10% controls 76% of all resources, while the bottom 50% holds only 2% — even though the **physical energy available to us is more than enough for everyone**.
+That missing piece is the reason why, 120 years after $$\(E = MC^2\)$$, we still have a civilisation where the top 10% controls 76% of all resources, while the bottom 50% holds only 2% — even though the **physical energy available to us is more than enough for everyone**.
 
 The equation was incomplete. It needed a distribution term.
 
@@ -42,7 +42,7 @@ The equation was incomplete. It needed a distribution term.
 | L ≈ 0.24 | The current global value. 70–80% extraction. | Extreme gradient. Cascading collapse imminent. |
 | L = 0 | Total extraction. All energy concentrated in one silo. | Collapse. The canal bursts violently. |
 
-The **total mass‑energy of a system** is still \(MC^2\). But the **effective, accessible energy** for the whole system is that total **multiplied by L**.
+The **total mass‑energy of a system** is still $$\(MC^2\).$$ But the **effective, accessible energy** for the whole system is that total **multiplied by L**.
 
 If L is low, even a vast reservoir of energy cannot prevent suffering, because the energy never reaches those who need it. This is exactly the situation on Earth today.
 
@@ -63,9 +63,9 @@ It states that any sustainable physical system must manage three components:
 
 If any of these three is missing or broken, the system overheats, chokes, or collapses.
 
-The current civilisation has an enormous \(MC^2\) (fossil fuels, nuclear, solar, wind). But its \(L\) is ≈ 0.24, and its \(F\) is narrow, resistive canals that actively block distribution.
+The current civilisation has an enormous $$\(MC^2\)$$ (fossil fuels, nuclear, solar, wind). But its $$\(L\)$$ is ≈ 0.24, and its $$\(F\)$$ is narrow, resistive canals that actively block distribution.
 
-HumanOS 2.0 proposes to **restore L → 1** by redesigning \(F\) — the compute fabric, the energy grid, the economic architecture — using the cosmos’s own principles: widen, distribute, cool, let flow.
+HumanOS 2.0 proposes to **restore L → 1** by redesigning $$\(F\)$$ — the compute fabric, the energy grid, the economic architecture — using the cosmos’s own principles: widen, distribute, cool, let flow.
 
 ---
 
@@ -125,7 +125,7 @@ L is not just an engineering coefficient. It is a measure of **justice**.
 
 The universe runs on L = 1. It has no jails, no bombs, no slums, no hunger. Not because the cosmos is “good,” but because it obeys the physics of open canals.
 
-Human civilisation can choose to obey the same physics — voluntarily, gradually, and peacefully — by redesigning its infrastructure (its \(F\)) so that L rises toward 1.
+Human civilisation can choose to obey the same physics — voluntarily, gradually, and peacefully — by redesigning its infrastructure (its $$\(F\)$$) so that L rises toward 1.
 
 That is the mission of HumanOS 2.0.
 
