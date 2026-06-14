@@ -21,9 +21,9 @@ But this focus misses something far more urgent and universal: **interfacing not
 
 Every human being has a command centre — the seat of decision‑making, the last storage point before action. We call its alignment measure **C**, and its contraction measure **D** (Desire). The equation is simple:
 
-\[
+$$\[
 C = 1 - D
-\]
+\]$$
 
 - **High D** → energy blocked inward, accumulation, isolation from external reality → **low C** → unconscious action.
 - **Low D** → energy flows freely, external reality is present in the command centre → **high C** → conscious, aligned action.
