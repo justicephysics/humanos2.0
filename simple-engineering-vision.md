@@ -175,6 +175,7 @@ If you're an engineer who sees the thermal wall and wants to break through it �
 🔗 [How It Works — The Y‑Lattice](how-it-works)
 🔗 [Light@0Kelvin — The New Discipline](light-at-0k)
 🔗 [Challenges & Open Problems](challenges)
+🔗 [The Three Pillars of Computation — the core model explained](three-pillars-computation)
 🔗 [Open Call for Partners](partners)
 
 ---
