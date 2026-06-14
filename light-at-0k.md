@@ -82,6 +82,7 @@ This page is an open invitation to students, researchers, and engineers worldwid
 ### 🔗 Continue Exploring
 
 - [Hyper‑Imagination Mode — the cognitive engine that runs on Light@0K](hyper-imagination-mode)
+- [Light‑Driven Switching — laboratory proof of light‑based computation](light-driven-switching)
 
 ---
 
