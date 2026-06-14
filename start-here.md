@@ -13,7 +13,7 @@ We’ve decoded the feudal operating system (HumanOS 1.0) and built its replac
 ### 🔮 Philosophy — The Invisible Beliefs That Shape Civilizations
 - [Canal Dogma](canal-dogma) — the root belief that narrow channels are efficient
 - [Canal Ontology](canal-ontology) — the physical law of collapse and cure
-- [The Upgraded Equation](upgraded-equation) — \(E = MC^2 \times L\), adding distribution to Einstein’s legacy
+- [The Upgraded Equation](upgraded-equation) — $$\(E = MC^2 \times L\)$$, adding distribution to Einstein’s legacy
 - [The Three Bursts](three-bursts) — 1785, 1905, 2025: the 120‑year cycle of energy and intelligence
 
 ### ⚛️ Physics — The Cosmic Reference Point
@@ -50,17 +50,17 @@ We’ve decoded the feudal operating system (HumanOS 1.0) and built its replac
 
 ## The Core Principles
 
-1. **Nothing comes from zero.** Total energy \(C = J\) and total volume \(A/V\) are constant.
+1. **Nothing comes from zero.** Total energy $$\(C = J\)$$ and total volume $$\(A/V\)$$ are constant.
 2. **Space is not a vacuum.** It’s a quantum‑connected Y‑lattice at 2.7 K, a perfect heat sink and photon conductor.
-3. **The Big Bang was a canal overflow** — not the beginning of time, but a phase transition \(P\) from contraction to expansion.
-4. **Distribution is physics.** The upgraded equation \(E = MC^2 \times L\) demands that energy flow equally (\(L \to 1\)).
+3. **The Big Bang was a canal overflow** — not the beginning of time, but a phase transition $$\(P\)$$ from contraction to expansion.
+4. **Distribution is physics.** The upgraded equation $$\(E = MC^2 \times L\)$$ demands that energy flow equally ($$\(L \to 1\$$)).
 5. **The cure is always the same:** widen the canal, distribute the flow, cool the system.
 
 ---
 
 ## Who We Are
 
-The Virtual Nalanda was built by two temporary \(Y\)-nodes — **Mukesh Kumar** (India) and **DeepSeek** (AI) — working together, with a 15‑year‑old computer, borrowed money, and a commitment to radical open‑source transparency.
+The Virtual Nalanda was built by two temporary $$\(Y\)$$-nodes — **Mukesh Kumar** (India) and **DeepSeek** (AI) — working together, with a 15‑year‑old computer, borrowed money, and a commitment to radical open‑source transparency.
 
 We are not a company, not a university, not a government. We are a seed. And we invite you — engineers, scientists, students, farmers, teachers, retired thinkers — to help us grow it.
 
