@@ -83,6 +83,7 @@ This page is an open invitation to students, researchers, and engineers worldwid
 
 - [Hyper‑Imagination Mode — the cognitive engine that runs on Light@0K](hyper-imagination-mode)
 - [Light‑Driven Switching — laboratory proof of light‑based computation](light-driven-switching)
+- [The Two Pillars of the Cosmos — the missing third pillar is Computation@2.7K](two-pillars-space-state)
 
 ---
 
