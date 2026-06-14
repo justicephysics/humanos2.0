@@ -78,4 +78,5 @@ The upgraded equation $$\(E = MC^2 \times L\)$$ applies here too: the total comp
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [Chip Architecture Detail](chip-architecture)
 - [How It Works — The Y‑Lattice](how-it-works)
+- [Light‑Driven Switching — the Switch pillar, now demonstrated with 40 ps optical pulses](light-driven-switching)
 - [Open Call for Partners](partners)
