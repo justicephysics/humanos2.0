@@ -114,4 +114,5 @@ The grand blunder has been named. The correction has been designed. The roadmap 
 - [Chip Architecture Detail](chip-architecture)
 - [How It Works — The Y‑Lattice](how-it-works)
 - [Light@0Kelvin — The New Discipline](light-at-0k)
+- [Cold Solar — Rotational Photovoltaic Panels at 2.7 K](cold-solar)
 - [Open Call for Partners](partners)
