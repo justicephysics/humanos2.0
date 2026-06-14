@@ -40,6 +40,7 @@
 - [Cold Solar — Rotational Photovoltaic Panels at 2.7 K](cold-solar)
 - [The Three Pillars of Computation — Speed, Bandwidth, Scaling](three-pillars-computation)
 - [Light‑Driven Switching — The Lab Validates the Cosmic Architecture](light-driven-switching)
+- [Light‑Driven Switching — laboratory proof of light‑based computation](light-driven-switching)
 
 ### 💰 Economics — The End of Artificial Scarcity
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
