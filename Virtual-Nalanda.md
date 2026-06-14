@@ -95,6 +95,9 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The #LisTest — The Alignment Test](lis-test)
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 
+###  🧠 Consciousness
+- [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
+
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
 - [How It Works — The Y‑Lattice Explained](how-it-works)
