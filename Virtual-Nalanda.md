@@ -94,6 +94,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Ethics Vacuum — Why History Proves Ethics Do Not Govern Economies](ethics-vacuum)
 - [The #LisTest — The Alignment Test](lis-test)
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
+- [The Two Pillars of the Cosmos — and the Third We Must Build](two-pillars-space-state)
 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
