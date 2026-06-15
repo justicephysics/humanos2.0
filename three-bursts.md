@@ -89,6 +89,10 @@ We now face our own burst. The cure is the same.
 
 ---
 
+### 🔗 Continue Exploring
+
+- [Beyond Guardrails — why the third burst makes the Space State the only viable answer](beyond-guardrails)
+
 *“The pattern is clear. The multiplier leaves no time. The choice is ours.”*
 
 **#ThreeBursts #HumanOS2 #JusticePhysics #CanalOntology #AGI #CivilizationCollapse**
