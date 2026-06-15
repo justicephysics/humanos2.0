@@ -104,4 +104,5 @@ Together, they form a complete system for maintaining C ≥ 0.70 at civilisation
 - [The Ethics Vacuum — Why History Proves Ethics Do Not Govern Economies](ethics-vacuum)
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Cognitive Cascade — what happens when the BCI connects to a three‑vertical AGI](cognitive-cascade)
 - [Open Call for Partners](partners)
