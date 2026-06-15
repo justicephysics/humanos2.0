@@ -126,4 +126,5 @@ The cosmos already proved it works. The blueprint is open. The only thing missin
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [The Simple Engineering Vision](simple-engineering-vision)
 - [Challenges & Open Problems](challenges)
+- [The Geopolitics of the Canal Dogma — the cosmic principle applied to nations and war](geopolitics-canal-dogma)
 - [Open Call for Partners](partners)
