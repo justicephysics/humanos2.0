@@ -25,6 +25,7 @@
 - [The #LisTest — The Alignment Test](lis-test)
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 - [The Two Pillars of the Cosmos — and the Third We Must Build](two-pillars-space-state)
+- [Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI](beyond-guardrails)
 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
