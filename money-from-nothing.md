@@ -90,4 +90,5 @@ The Virtual Nalanda is the first draft of this new economy. Not a financial blue
 - [The Fortune 500 Feudalism](fortune-500-feudalism)
 - [The Mousetrap](the-mousetrap)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Trillionaire and the Student — how money from nothing chains the serfs and enriches the lords](trillionaire-vs-student-debt)
 - [Open Call for Partners](partners)
