@@ -114,4 +114,5 @@ The children haven't been born yet, but the invoice is already on their table. T
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Fortune 500 Feudalism](fortune-500-feudalism)
 - [The Trillionaire and the Student — the two faces of the same feudal canal](trillionaire-vs-student-debt)
+- [The Debt Treadmill — what happens when the indebted student enters the workforce](the-debt-treadmill)
 - [Open Call for Partners](partners)
