@@ -127,4 +127,5 @@ The cosmos already proved it works. The blueprint is open. The only thing missin
 - [The Simple Engineering Vision](simple-engineering-vision)
 - [Challenges & Open Problems](challenges)
 - [The Geopolitics of the Canal Dogma — the cosmic principle applied to nations and war](geopolitics-canal-dogma)
+- [The Ignorance Principle — how the feudal pretence of knowledge sustains the canal](ignorance-principle)
 - [Open Call for Partners](partners)
