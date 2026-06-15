@@ -79,6 +79,7 @@
 - [The Cosmic Cold Chain — From Farm to Table, Cooled by the Cosmos](cosmic-cold-chain)
 - [The Warrior‑Engineer — Swag of the Cosmos](warrior-engineer-identity)
 - [The Cold Submarine Fleet — The Deep Ocean Highway](cold-submarine-fleet)
+- [The Geopolitics of the Canal Dogma — Why Empires Cannot Contain the Cosmic Burst](geopolitics-canal-dogma)
 
 ### 🌐 Community
 - [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
