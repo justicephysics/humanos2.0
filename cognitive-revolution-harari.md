@@ -97,4 +97,5 @@ The Space State does not reject our cognitive abilities; it directs them conscio
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 - [The Consciousness Principle — C = 1 − D](consciousness-principle)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Intelligence Is Not Wisdom — the super‑delusional risk and the Space State answer](intelligence-vs-wisdom)
 - [Open Call for Partners](partners)
