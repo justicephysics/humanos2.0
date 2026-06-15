@@ -123,4 +123,5 @@ This is not a utopia. It is an **engineering specification** grounded in the sam
 - [The Ethics Vacuum — Why History Proves Ethics Do Not Govern Economies](ethics-vacuum)
 - [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Ignorance Principle — the admission that launched the Y‑lattice](ignorance-principle)
 - [Open Call for Partners](partners)
