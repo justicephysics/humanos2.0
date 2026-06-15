@@ -87,4 +87,5 @@ The only question is whether we build the Space State before the correction arri
 - [The AI Feudal Money Chain — The $15 Trillion Bill](ai-feudal-money-chain)
 - [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Debt Treadmill — what happens when the indebted student enters the workforce](the-debt-treadmill)
 - [Open Call for Partners](partners)
