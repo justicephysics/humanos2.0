@@ -182,4 +182,5 @@ The feudal lords will never voluntarily lower their D. They will perform ethics 
 - [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [The Canal Dogma](canal-dogma)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Beyond Guardrails — why ethics and guardrails fail against recursive AI](beyond-guardrails)
 - [Open Call for Partners](partners)
