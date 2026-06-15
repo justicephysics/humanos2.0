@@ -96,4 +96,5 @@ This is not a weakness. It is the source of the Space State’s resilience. A sy
 - [The Consciousness Principle — C = 1 − D](consciousness-principle)
 - [Light@0Kelvin — The New Discipline](light-at-0k)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Cognitive Revolutions — Harari’s framework mapped to the three verticals](cognitive-revolution-harari)
 - [Open Call for Partners](partners)
