@@ -99,6 +99,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
 - [The Cognitive Cascade — When Human Brains and AGI Brains Connect](cognitive-cascade)
+- [The Artificial Cognitive Extension — When the AGI Cluster Becomes Part of Your Brain](artificial-cognitive-extension)
 
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
