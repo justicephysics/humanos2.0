@@ -87,4 +87,5 @@ The transition from Level 1 to Level 3 is not a rejection of the modular pri
 - [The Simple Engineering Vision](simple-engineering-vision)
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [Chip Architecture Detail](chip-architecture)
+- [The Retrofit Revolution — Outperform the Feudal Lords with Older Nodes](retrofit-revolution)
 - [Open Call for Partners](partners)
