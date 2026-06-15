@@ -116,6 +116,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [Light‑Driven Switching — The Lab Validates the Cosmic Architecture](light-driven-switching)
 - [Phone Cluster Computing — Google Validates the Modular Principle](phone-cluster-computing)
 - [The Retrofit Revolution — Outperform the Feudal Lords with Older Nodes](retrofit-revolution)
+- [Google’s Phone Cluster vs. The Space State — Same Principle, Different Universe](google-vs-space-state)
 
 ### 💰 Economics — The End of Artificial Scarcity
 - [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
