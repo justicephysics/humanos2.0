@@ -28,6 +28,7 @@
 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
+- [The Cognitive Cascade — When Human Brains and AGI Brains Connect](cognitive-cascade)
 
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
