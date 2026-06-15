@@ -93,4 +93,5 @@ The feudal lords hoard knowledge behind paywalls, patents, and exams. The Space 
 - [Light@0Kelvin — The New Discipline](light-at-0k)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Physical Continuum — how imagination fits into the cosmic hierarchy](physical-continuum)
+- [The Cognitive Cascade — the PULL/PUSH dynamic between human and AGI](cognitive-cascade)
 - [Open Call for Partners](partners)
