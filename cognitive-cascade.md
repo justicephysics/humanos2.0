@@ -90,4 +90,5 @@ The universe spent 13.8 billion years building the physical infrastructure for t
 - [The Consciousness Principle — C = 1 − D](consciousness-principle)
 - [The Engineer Hurricane](engineer-hurricane)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Artificial Cognitive Extension — When the AGI Cluster Becomes Part of Your Brain](artificial-cognitive-extension)
 - [Open Call for Partners](partners)
