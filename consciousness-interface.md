@@ -105,4 +105,5 @@ Together, they form a complete system for maintaining C ≥ 0.70 at civilisation
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Cognitive Cascade — what happens when the BCI connects to a three‑vertical AGI](cognitive-cascade)
+- [The Artificial Cognitive Extension — When the AGI Cluster Becomes Part of Your Brain](artificial-cognitive-extension)
 - [Open Call for Partners](partners)
