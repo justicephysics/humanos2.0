@@ -135,6 +135,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Sea Farming Revolution — Agriculture Beneath the Waves](sea-farming-revolution)
 - [The AI Feudal Gate — When Governments Shut Down the Tools of Liberation](ai-feudal-gate)
 - [The Trillionaire and the Student — The Two Faces of the Lollipop Economy](trillionaire-vs-student-debt)
+- [The Debt Treadmill — How the Extraction Protocol Traps Every Generation](the-debt-treadmill)
 - [Open Call for Partners](partners)
 
 ### 🎓 Education — The Engineer Hurricane
