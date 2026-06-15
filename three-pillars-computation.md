@@ -79,4 +79,5 @@ The upgraded equation $$\(E = MC^2 \times L\)$$ applies here too: the total comp
 - [Chip Architecture Detail](chip-architecture)
 - [How It Works — The Y‑Lattice](how-it-works)
 - [Light‑Driven Switching — the Switch pillar, now demonstrated with 40 ps optical pulses](light-driven-switching)
+- [Phone Cluster Computing — Google Validates the Modular Principle](phone-cluster-computing)
 - [Open Call for Partners](partners)
