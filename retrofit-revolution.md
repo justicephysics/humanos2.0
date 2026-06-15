@@ -93,4 +93,5 @@ The feudal lords built a narrow canal and called it progress. The Retrofit Revol
 - [The ASML Locked Puzzle Box](asml-locked-puzzle-box)
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Google vs. Space State — Level 1 meets Level 3](google-vs-space-state)
 - [Open Call for Partners](partners)
