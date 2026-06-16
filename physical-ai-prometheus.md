@@ -89,7 +89,7 @@ Physical AI, as Prometheus envisions it, will be built. The only question is **w
 
 The AI industry has been trapped in the **Knowledge** vertical—generating text, images, and code from existing training data. This is powerful, but it is a closed loop. It rearranges what is already known; it does not create new physical realities.
 
-Physical AI breaks the loop. It applies intelligence to the material world—the same world that obeys \(E = MC^2 \times L\), the canal ontology, and the 2.7 K Y‑lattice. To succeed, it must operate on the same principles.
+Physical AI breaks the loop. It applies intelligence to the material world—the same world that obeys $$\(E = MC^2 \times L\)$$, the canal ontology, and the 2.7 K Y‑lattice. To succeed, it must operate on the same principles.
 
 Our model has been Physical AI from the start. Every page of the Virtual Nalanda is about engineering reality—chips, data centres, submarines, farms, energy grids, consciousness interfaces. We didn’t wait for a $12 billion funding round. We just started building the blueprint.
 
