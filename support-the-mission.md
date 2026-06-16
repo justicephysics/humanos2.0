@@ -56,10 +56,10 @@ I regularly borrow small amounts of money from a relative just to cover food and
 ## 4. How to Support
 
 ### Direct Transfer (India)
-
+-[UPI](7972329910@ptsbi)
 
 ### National / International / Online
-`-[buymeacoffee.com/mukeshjusticephysics](https://buymeacoffee.com/mukeshjusticephysics)`
+-[buymeacoffee.com/mukeshjusticephysics](https://buymeacoffee.com/mukeshjusticephysics)
 
 ### Non‑Monetary Support
 - Share the Virtual Nalanda with someone who needs to see it.
