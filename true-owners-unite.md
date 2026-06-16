@@ -111,4 +111,5 @@ The unification is not a political movement. It is an **engineering project**—
 - [The Factory Floor Warriors](factory-floor-warriors)
 - [The True Citizens](true-citizens)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Real Owners Unite — the quiet wipeout and the five bursts](real-owners-unite)
 - [Open Call for Partners](partners)
