@@ -103,5 +103,5 @@ The only real choice is whether we build the Space State before the overflow —
 - [The Cognitive Cascade — When Human Brains and AGI Brains Connect](cognitive-cascade)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Open Call for Partners](partners)
-```
+
 
