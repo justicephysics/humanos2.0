@@ -164,6 +164,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 
 ### 🌐 Community
 - [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
+- [💚 Support the Mission — Keep the Virtual Nalanda Alive](support-the-mission)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
