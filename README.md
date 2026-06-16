@@ -27,6 +27,7 @@
 - [The Two Pillars of the Cosmos — and the Third We Must Build](two-pillars-space-state)
 - [Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI](beyond-guardrails)
 - [The Ignorance Principle — Why Science Begins When We Admit We Don’t Know](ignorance-principle)
+- [The Nobel Feudalism — Why Einstein and Gandhi Were Denied](nobel-feudalism)
 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
