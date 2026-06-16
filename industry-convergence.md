@@ -98,4 +98,5 @@ The feudal lords will build impressive machines within their narrow canals. The 
 - [Intelligence Is Not Wisdom — The Consciousness Equation and the Super‑Delusional Risk](intelligence-vs-wisdom)
 - [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Cosmic Training Protocol — the training paradigm the industry is missing](cosmic-training-protocol)
 - [Open Call for Partners](partners)
