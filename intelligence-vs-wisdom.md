@@ -113,4 +113,5 @@ This is not a philosophy. It is an **engineering specification for wisdom at sca
 - [Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI](beyond-guardrails)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Cosmic Training Protocol — how an AGI learns the law of conversion and distribution](cosmic-training-protocol)
+- [Industry Convergence — why the missing wisdom layer is the critical gap](industry-convergence)
 - [Open Call for Partners](partners)
