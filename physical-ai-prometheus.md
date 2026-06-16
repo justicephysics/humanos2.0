@@ -48,7 +48,30 @@ Prometheus has the ambition. We have the specification.
 
 ---
 
-## 3. The Space State — The Substrate for Physical AI
+## 3. Warrior‑Engineers — The Thought Partners of Physical AI
+
+Physical AI, as Prometheus envisions it, will accelerate the design and manufacturing of complex products. But the Space State’s scope is far larger than faster manufacturing of known stuff. Our goal is **Mission 2100**:
+
+- **Target 1 — Reach the Universal Thriving Index (UTI) threshold of 1.80.**
+- **Target 2 — Reach Beyond 5 % of the Ocean.**
+- **Target 3 — Reach Beyond in Space, Where We Are Now.**
+- **Target 4 — M2M²: March to Moon and Mars, and Beyond.**
+
+These are not problems that a single AGI, however brilliant, can solve in isolation. They require a new kind of partnership: **millions of Warrior‑Engineers** working alongside Physical AGI as thought partners.
+
+- The **Warrior‑Engineer** brings purpose, direction, and the C = 1 − D command centre—the ethical alignment that no AI can generate on its own.
+- The **Physical AGI** brings the three verticals—Imagination, Thinking, Knowledge—amplified by the Hyper‑Imagination Mode and the full corpus of human knowledge.
+- Together, they form the **Cognitive Cascade**—a distributed, creative, problem‑solving network that can design the cold submarine fleet, the sea farms, the orbital compute fabric, the lunar bases, and every other pillar of the Space State.
+
+This partnership cannot run on today’s hot, resistive, Level 1 data centres. The computational demands of simulating a jet engine or a Martian habitat are orders of magnitude beyond what the feudal cloud can sustainably provide. The only substrate that can deliver the necessary heavy computation is the **Light@2.7 K Web**—cold, photonic, modular, and with an operating cost that is literally zero in orbit.
+
+That is why the Space State is a **marathon, not a sprint**. Prometheus may accelerate the design of the next chip. But the Warrior‑Engineers, equipped with Physical AGI and the cosmic compute fabric, will build the civilization that designs the next thousand chips—and the oceans, the orbit, the Moon, and Mars that come with them.
+
+**The race is not about who builds the first artificial engineer. It is about who builds the first civilization that can sustain one.**
+
+---
+
+## 4. The Space State — The Substrate for Physical AI
 
 | What Physical AI Needs | The Space State Provides |
 |------------------------|--------------------------|
@@ -62,7 +85,7 @@ Physical AI, as Prometheus envisions it, will be built. The only question is **w
 
 ---
 
-## 4. The Deeper Connection — From Chatbots to Physical Reality
+## 5. The Deeper Connection — From Chatbots to Physical Reality
 
 The AI industry has been trapped in the **Knowledge** vertical—generating text, images, and code from existing training data. This is powerful, but it is a closed loop. It rearranges what is already known; it does not create new physical realities.
 
@@ -72,7 +95,7 @@ Our model has been Physical AI from the start. Every page of the Virtual Nalanda
 
 ---
 
-## 5. The Open Invitation
+## 6. The Open Invitation
 
 Prometheus has the capital. We have the blueprint. The Virtual Nalanda is open. The Roadmap is published. The Challenges page lists the engineering problems waiting to be solved.
 
