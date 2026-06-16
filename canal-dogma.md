@@ -128,4 +128,5 @@ The cosmos already proved it works. The blueprint is open. The only thing missin
 - [Challenges & Open Problems](challenges)
 - [The Geopolitics of the Canal Dogma — the cosmic principle applied to nations and war](geopolitics-canal-dogma)
 - [The Ignorance Principle — how the feudal pretence of knowledge sustains the canal](ignorance-principle)
+- [The Nobel Feudalism — the prize as a narrow canal](nobel-feudalism)
 - [Open Call for Partners](partners)
