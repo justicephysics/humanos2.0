@@ -104,4 +104,5 @@ The cosmos holds the power. The cosmos distributes equally. The third burst is h
 - [The Ethics Vacuum — Why History Proves Ethics Do Not Govern Economies](ethics-vacuum)
 - [Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI](beyond-guardrails)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Real Owners Unite — Iran, the bursts, and the quiet dissolution of the war machine](real-owners-unite) 
 - [Open Call for Partners](partners)
