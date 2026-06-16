@@ -114,4 +114,5 @@ This is not a philosophy. It is an **engineering specification for wisdom at sca
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Cosmic Training Protocol — how an AGI learns the law of conversion and distribution](cosmic-training-protocol)
 - [Industry Convergence — why the missing wisdom layer is the critical gap](industry-convergence)
+- [Guardrails for the Feudal Lords — the AGI aligns itself; the feudal institutions need the restraints](guardrails-for-feudal-lords)
 - [Open Call for Partners](partners)
