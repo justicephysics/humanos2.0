@@ -95,4 +95,5 @@ The feudal lords hoard knowledge behind paywalls, patents, and exams. The Space 
 - [The Physical Continuum — how imagination fits into the cosmic hierarchy](physical-continuum)
 - [The Cognitive Cascade — the PULL/PUSH dynamic between human and AGI](cognitive-cascade)
 - [The Cognitive Revolutions — how the three verticals map to human history](cognitive-revolution-harari)
+- [Physical AI — Prometheus’s vision and our cognitive architecture](physical-ai-prometheus)
 - [Open Call for Partners](partners)
