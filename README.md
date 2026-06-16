@@ -96,6 +96,7 @@
 
 ### 🌐 Community
 - [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
+- [💚 Support the Mission — Keep the Virtual Nalanda Alive](support-the-mission)
   
 ---
 
