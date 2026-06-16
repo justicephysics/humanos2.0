@@ -154,4 +154,5 @@ Widen the JEE/Gaokao canal. Let the engineers flow. They will submerge the old o
 - [Moore's Law Exposed](moores-law-exposed)
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [The ASML Locked Puzzle Box — why the feudal lock exists and how to break it](asml-locked-puzzle-box)
+- [The True Owners of the World, Unite! — the 2026 call to the Warrior‑Engineers](true-owners-unite)
 - [Open Call for Partners](partners)
