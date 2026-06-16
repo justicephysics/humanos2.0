@@ -56,12 +56,10 @@ I regularly borrow small amounts of money from a relative just to cover food and
 ## 4. How to Support
 
 ### Direct Transfer (India)
-- **UPI ID:** `mukesh.justicephysics@okicici`  
-  *(or whatever UPI ID you wish to use)*
+
 
 ### International / Online
-- **Buy Me a Coffee / Ko‑fi page:** [Link to be added]  
-- **PayPal:** [Link to be added]
+
 
 ### Non‑Monetary Support
 - Share the Virtual Nalanda with someone who needs to see it.
