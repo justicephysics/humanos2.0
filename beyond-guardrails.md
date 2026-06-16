@@ -102,6 +102,7 @@ The only real choice is whether we build the Space State before the overflow —
 - [The Canal Dogma](canal-dogma)
 - [The Cognitive Cascade — When Human Brains and AGI Brains Connect](cognitive-cascade)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Guardrails for the Feudal Lords — the AGI aligns itself; the feudal institutions need the restraints](guardrails-for-feudal-lords)
 - [Open Call for Partners](partners)
 
 
