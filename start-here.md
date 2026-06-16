@@ -45,6 +45,7 @@ We’ve decoded the feudal operating system (HumanOS 1.0) and built its replac
 
 ### 🌐 Community
 - [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
+- [Support the Mission](support-the-mission) — help the builder stay in the fight.
 
 ---
 
