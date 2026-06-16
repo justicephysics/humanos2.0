@@ -74,6 +74,7 @@
 - [The AI Feudal Gate — When Governments Shut Down the Tools of Liberation](ai-feudal-gate)
 - [The Trillionaire and the Student — The Two Faces of the Lollipop Economy](trillionaire-vs-student-debt)
 - [The Debt Treadmill — How the Extraction Protocol Traps Every Generation](the-debt-treadmill)
+- [Token Colonialism — Why Nadella's Warning Validates the Space State](token-colonialism)
 - [Open Call for Partners](partners)
   
 ### 🎓 Education — The Engineer Hurricane
