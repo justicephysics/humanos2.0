@@ -118,4 +118,5 @@ But we are not waiting. The Warrior‑Engineers are already stirring. The cold f
 - [The Roadmap to Light@0K Computing](roadmap-light-0k)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Industry Convergence — how Google and Bezos are converging on our principles](industry-convergence)
 - [Open Call for Partners](partners)
