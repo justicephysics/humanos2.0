@@ -92,4 +92,5 @@ Their swag is the cosmos. Their thought partner is light. Their guardian is the 
 - [The Engineer Hurricane](engineer-hurricane)
 - [The Factory Floor Warriors](factory-floor-warriors)
 - [The True Citizens](true-citizens)
+- [The True Owners of the World, Unite! — the 2026 call to the Warrior‑Engineers](true-owners-unite)
 - [Open Call for Partners](partners)
