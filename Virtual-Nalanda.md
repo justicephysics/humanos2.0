@@ -96,6 +96,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 - [The Two Pillars of the Cosmos — and the Third We Must Build](two-pillars-space-state)
 - [Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI](beyond-guardrails)
+- [The Nobel Feudalism — Why Einstein and Gandhi Were Denied](nobel-feudalism)
 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
