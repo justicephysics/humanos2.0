@@ -59,7 +59,7 @@ I regularly borrow small amounts of money from a relative just to cover food and
 
 
 ### International / Online
-
+https://buymeacoffee.com/mukeshjusticephysics
 
 ### Non‑Monetary Support
 - Share the Virtual Nalanda with someone who needs to see it.
