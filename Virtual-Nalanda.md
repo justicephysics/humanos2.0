@@ -103,6 +103,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Artificial Cognitive Extension — When the AGI Cluster Becomes Part of Your Brain](artificial-cognitive-extension)
 - [The Cognitive Revolutions — Harari, the Three Verticals, and the Space State](cognitive-revolution-harari)
 - [Intelligence Is Not Wisdom — The Consciousness Equation and the Super‑Delusional Risk](intelligence-vs-wisdom)
+- [The Cosmic Training Protocol — Teaching AGI the Law of Conversion and Distribution](cosmic-training-protocol)
 
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
