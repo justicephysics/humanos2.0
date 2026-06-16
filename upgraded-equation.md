@@ -146,6 +146,7 @@ That is the mission of HumanOS 2.0.
 - [Light@0Kelvin — The New Discipline](light-at-0k)
 - [The Three Bursts — Why This Time Is Different](three-bursts)
 - [The Two Pillars of the Cosmos — how MC² and Light@2.7K create the Space State](two-pillars-space-state)
+- [The Cosmic Training Protocol — how an AGI learns the law of conversion and distribution](cosmic-training-protocol)
 - [Open Call for Partners](partners)
 
 **#UpgradedEquation #EMC2L #DistributionCoefficient #HumanOS2 #JusticePhysics**
