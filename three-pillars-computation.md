@@ -81,4 +81,5 @@ The upgraded equation $$\(E = MC^2 \times L\)$$ applies here too: the total comp
 - [Light‑Driven Switching — the Switch pillar, now demonstrated with 40 ps optical pulses](light-driven-switching)
 - [Phone Cluster Computing — Google Validates the Modular Principle](phone-cluster-computing)
 - [The Retrofit Revolution — Outperform the Feudal Lords with Older Nodes](retrofit-revolution)
+- [Physical AI — why heavy computation and the three verticals are the keys to building the physical world](physical-ai-prometheus)
 - [Open Call for Partners](partners)
