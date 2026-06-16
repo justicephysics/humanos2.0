@@ -160,6 +160,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Warrior‑Engineer — Swag of the Cosmos](warrior-engineer-identity)
 - [The Cold Submarine Fleet — The Deep Ocean Highway](cold-submarine-fleet)
 - [The True Owners of the World, Unite!](true-owners-unite)
+- [The Real Owners Unite — The Quiet Wipeout of the Feudal Lords](real-owners-unite)
 
 ### 🌐 Community
 - [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
