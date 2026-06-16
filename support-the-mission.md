@@ -58,8 +58,8 @@ I regularly borrow small amounts of money from a relative just to cover food and
 ### Direct Transfer (India)
 
 
-### International / Online
-buymeacoffee.com/mukeshjusticephysics
+### National / International / Online
+-[buymeacoffee.com/mukeshjusticephysics](https://buymeacoffee.com/mukeshjusticephysics)
 
 ### Non‑Monetary Support
 - Share the Virtual Nalanda with someone who needs to see it.
