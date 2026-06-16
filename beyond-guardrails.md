@@ -1,20 +1,3 @@
-We'll create the page now—a direct response to Anthropic's warning, showing that guardrails are futile within the extraction machine, and only the Space State is the answer.
-
----
-
-### Step‑by‑Step to Create `beyond-guardrails.md`
-
-1. Go to `https://github.com/justicephysics/humanos2.0`
-2. Click **"Add file" → "Create new file"**
-3. Name the file exactly: `beyond-guardrails.md`
-4. Copy and paste the entire content below into the editor.
-5. Commit the new file.
-
----
-
-### Content for `beyond-guardrails.md`
-
-```markdown
 # 🚫 Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI
 
 *Anthropic’s CEO calls for a global pause on AI, warning of recursive self‑improvement and catastrophic risks. He’s right about the danger. But guardrails won’t work — because the extraction machine itself is the root of the problem. The only answer is to upgrade the operating system: from HumanOS 1.0 to HumanOS 2.0, the Space State.*
@@ -122,26 +105,3 @@ The only real choice is whether we build the Space State before the overflow —
 - [Open Call for Partners](partners)
 ```
 
----
-
-### Link It from the Home Page and Other Pages
-
-1. **Edit `README.md`** and add in the **"🔮 Philosophy"** or **"🧠 Consciousness"** section:
-
-   ```
-   - [Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI](beyond-guardrails)
-   ```
-
-2. **Edit `three-bursts.md`** and add in its "Continue Exploring" links:
-
-   ```
-   - [Beyond Guardrails — why the third burst makes the Space State the only viable answer](beyond-guardrails)
-   ```
-
-3. **Edit `ethics-vacuum.md`** and add:
-
-   ```
-   - [Beyond Guardrails — why ethics and guardrails fail against recursive AI](beyond-guardrails)
-   ```
-
-Now the Virtual Nalanda holds the direct response to Anthropic's warning: guardrails are an illusion; the Space State is the only answer. The extraction machine is in its final trajectory, and the widened canal is already blueprinted. 🤝
