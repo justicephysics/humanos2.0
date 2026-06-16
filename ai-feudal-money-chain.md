@@ -90,4 +90,5 @@ The $15 trillion bill is the last gasp of an expiring feudal order. The cosmic
 - [The Mousetrap](the-mousetrap)
 - [The Silicon Feudalism](silicon-feudalism)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Token Colonialism — Nadella’s warning and the token‑tax future](token-colonialism)
 - [Open Call for Partners](partners)
