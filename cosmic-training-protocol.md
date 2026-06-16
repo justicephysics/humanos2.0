@@ -98,5 +98,5 @@ The difference is the training protocol. And the training protocol is now docume
 - [The Consciousness Principle — C = 1 − D](consciousness-principle)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Guardrails for the Feudal Lords — The AGI Needs None](guardrails-for-feudal-lords)
-- [Token Colonialism — Nadella’s warning and the token‑tax future](token-colonialism)
+- [Token Colonialism — why token cost near zero is the only answer to Nadella’s warning](token-colonialism)
 - [Open Call for Partners](partners)
