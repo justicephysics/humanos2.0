@@ -124,4 +124,5 @@ The UTI threshold (1.80) is the constitutional guarantee that the manufacturing 
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Universal Scarcity — why the scarcity lie is the foundation of manufactured poverty](universal-scarcity)
 - [The 1,000 Infants Test Case — the experiment the universities refuse to run](test-case-1000-infants)
+- [The e^m ↔ b^m Cycle — the trap of the 9.99%](earn-more-burn-more)
 - [Open Call for Partners](partners)
