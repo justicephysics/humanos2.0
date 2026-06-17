@@ -14,7 +14,8 @@ Every infant arrives as a gift of God and the Cosmos—a 99.99 % rich body and
 | **The 9.99%** | 9.99% | The e^m ↔ b^m cycle. Earn more, burn more. | The feudal recycling machine. The lollipop economy. |
 | **The 0.01%** | ~0.01% | Extraction. Hoarding. Control. | The printing press. The narrow gates. |
 
-[Wealth share of the richest 10%, 2024](https://ourworldindata.org/grapher/wealth-share-richest-10-percent)
+[Wealth share of the richest 10%, 2024](https://ourworldindata.org/grapher/wealth-share-richest-10-percent), The share of wealth owned by the richest 10% of the population. Wealth is defined as the total value of non-financial and Financial assets (housing, land, deposits, bonds, equities, etc.) held by households, minus their debts.
+But the liquid assets and derivative products are more concentrated, as the number is as L_Gini ~92%.
 
 The Virtual Nalanda—80+ files across eight disciplines—is the complete, open‑source decoding of this machine. It reveals the Y‑lattice at 2.7 K, the upgraded equation $$\(E = MC^2 \times L\)$$, the Canal Dogma, the Consciousness Principle, and the blueprint for the Space State—a civilization where the sticker is never printed.
 
