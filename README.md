@@ -77,6 +77,7 @@
 - [Token Colonialism — Why Nadella's Warning Validates the Space State](token-colonialism)
 - [Manufacturing Poverty — The Infant Is Not Born Poor](manufacturing-poverty)
 - [Universal Scarcity — The Lie That Justifies Feudal Extraction](universal-scarcity)
+- [The e^m ↔ b^m Cycle — Earn More, Burn More](earn-more-burn-more)
 - [Open Call for Partners](partners)
   
 ### 🎓 Education — The Engineer Hurricane
