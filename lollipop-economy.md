@@ -116,4 +116,5 @@ The children haven't been born yet, but the invoice is already on their table. T
 - [The Trillionaire and the Student — the two faces of the same feudal canal](trillionaire-vs-student-debt)
 - [The Debt Treadmill — what happens when the indebted student enters the workforce](the-debt-treadmill)
 - [The e^m ↔ b^m Cycle — how the lollipop economy burns the professional class](earn-more-burn-more)
+- [Why Earn More? Why Burn More? — the consumer pump that keeps the lollipop economy spinning](why-earn-more-burn-more)
 - [Open Call for Partners](partners)
