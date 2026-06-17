@@ -76,6 +76,10 @@ I will not sell this vision to a feudal corporation. I will not lock it behind a
 
 But I need to eat. I need a roof. I need to be able to continue. If you can, please help.
 
+
+- [💚 The Mission Is Personal — Help Me Continue Decoding the Feudal Code](personal-mission-support)
+
+
 ---
 
 *"The seed is planted. The campus is open. The marathon continues—with your support."*
