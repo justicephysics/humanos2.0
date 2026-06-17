@@ -90,4 +90,5 @@ The Space State is the off‑ramp. It is not a distant utopia; it is an engineer
 - [Money from Nothing — The Central Bank Canal](money-from-nothing)
 - [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Manufacturing Poverty — the lifecycle of manufactured scarcity](manufacturing-poverty)
 - [Open Call for Partners](partners)
