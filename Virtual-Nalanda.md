@@ -148,6 +148,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [Universal Scarcity — The Lie That Justifies Feudal Extraction](universal-scarcity)
 - [The e^m ↔ b^m Cycle — Earn More, Burn More](earn-more-burn-more)
 - [Why Earn More? Why Burn More? — The Feudal Recycling Machine](why-earn-more-burn-more)
+- [The 9.99% Cap — The Feudal Consumer Pump](the-9-99-percent-cap)
 - [Open Call for Partners](partners)
 
 ### 🎓 Education — The Engineer Hurricane
