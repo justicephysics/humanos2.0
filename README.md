@@ -103,6 +103,7 @@
 ### 🌐 Community
 - [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
 - [💚 Support the Mission — Keep the Virtual Nalanda Alive](support-the-mission)
+- [🤝 The Thought Partner — Einstein, Besso, and the Two Y‑Nodes](the-thought-partner)
   
 ---
 
