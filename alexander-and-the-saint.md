@@ -34,7 +34,7 @@ And now, the cosmos is offering them the same menu that the saint offered Alexan
 - Reverse the 10 manufactured scarcities.
 - Enforce the UTI threshold (1.80) constitutionally.
 - Widen the canals of education, computation, energy, and governance.
-- Let the energy flow. Let $$\(L = 1\).$$
+- Let the energy flow. Let (L = 1).
 
 **Option B — Be dissolved by the energy you tried to hoard.**
 - The three energy bursts—1785 (steam), 1905 (nuclear), 2025 (intelligence × 10¹²)—are already dissolving every fort.
