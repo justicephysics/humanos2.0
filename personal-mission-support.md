@@ -14,6 +14,8 @@ Every infant arrives as a gift of God and the Cosmos—a 99.99 % rich body and
 | **The 9.99%** | 9.99% | The e^m ↔ b^m cycle. Earn more, burn more. | The feudal recycling machine. The lollipop economy. |
 | **The 0.01%** | ~0.01% | Extraction. Hoarding. Control. | The printing press. The narrow gates. |
 
+[Wealth share of the richest 10%, 2024](https://ourworldindata.org/grapher/wealth-share-richest-10-percent)
+
 The Virtual Nalanda—80+ files across eight disciplines—is the complete, open‑source decoding of this machine. It reveals the Y‑lattice at 2.7 K, the upgraded equation $$\(E = MC^2 \times L\)$$, the Canal Dogma, the Consciousness Principle, and the blueprint for the Space State—a civilization where the sticker is never printed.
 
 **But decoding the machine is not enough. The decoder needs to survive.**
