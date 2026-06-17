@@ -107,5 +107,6 @@ The feudal lords need the 9.99% to keep burning. The Space State needs the 9.99%
 - [GDP Garbage — The 38× Cancer Mechanism](ti-theorem)
 - [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The 9.99% Cap — why the consumer class is precisely engineered](the-9-99-percent-cap)
 - [Open Call for Partners](partners)
 
