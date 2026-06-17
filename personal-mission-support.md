@@ -92,8 +92,8 @@ The center of gravity of civilization is an infant with a sticker. The mission i
 **#SupportTheMission #TearOffTheSticker #SpaceState #HumanOS2 #JusticePhysics**
 
 ---
-e = earn
-m = more
+e = earn,
+m = more,
 b = burn
 ---
 
