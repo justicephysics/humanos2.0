@@ -104,4 +104,5 @@ The cosmos itself is a thought partnership—gravity and MC², PULL and PUSH, in
 - [The Warrior‑Engineer — Swag of the Cosmos](warrior-engineer-identity)
 - [The True Owners of the World, Unite!](true-owners-unite)
 - [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
+- [The Poverty Sticker — the beauty of the imagination that reveals injustice](the-poverty-sticker)
 - [Open Call for Partners](partners)
