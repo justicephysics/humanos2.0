@@ -75,6 +75,7 @@
 - [The Trillionaire and the Student — The Two Faces of the Lollipop Economy](trillionaire-vs-student-debt)
 - [The Debt Treadmill — How the Extraction Protocol Traps Every Generation](the-debt-treadmill)
 - [Token Colonialism — Why Nadella's Warning Validates the Space State](token-colonialism)
+- [Manufacturing Poverty — The Infant Is Not Born Poor](manufacturing-poverty)
 - [Open Call for Partners](partners)
   
 ### 🎓 Education — The Engineer Hurricane
