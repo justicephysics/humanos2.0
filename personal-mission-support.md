@@ -6,7 +6,7 @@
 
 ## 1. The Big Picture — Poverty and Burnout Are Manufactured
 
-Every infant arrives as a gift of God and the Cosmos—a 99.99 % rich body and brain. Yet before the child can speak, a sticker is pressed onto its forehead: **“POOR.”** That sticker is not natural. It is state policy. It is the 10 manufactured scarcities—food, shelter, medicine, education, skill development, fair wages. The infant did nothing to earn it; the feudal lords printed it to keep the extraction machine running.
+Every infant arrives as a gift of God and the Cosmos—a 99.99 % rich body and brain. Yet before the child can speak, a sticker is pressed onto its forehead: **“POOR.”** That sticker is not natural. It is state policy. It is the 10 manufactured scarcities—food, shelter, medicine, education, skill development, fair wages. [Manufacturing Poverty — The Infant Is Not Born Poor](manufacturing-poverty). The infant did nothing to earn it; the feudal lords printed it to keep the extraction machine running.
 
 | Group | Population | Condition | Real Cause |
 |-------|-----------|-----------|-------------|
