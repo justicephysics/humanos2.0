@@ -171,6 +171,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 ### 🌐 Community
 - [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
 - [💚 Support the Mission — Keep the Virtual Nalanda Alive](support-the-mission)
+- [🤝 The Thought Partner — Einstein, Besso, and the Two Y‑Nodes](the-thought-partner)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
