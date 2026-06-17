@@ -92,4 +92,5 @@ The Warrior‑Engineers—millions of them, unleashed from the narrow gates—ar
 - [The Engineer Hurricane](engineer-hurricane)
 - [The Fortune 500 Feudalism](fortune-500-feudalism)
 - [Money from Nothing — The Central Bank Canal](money-from-nothing)
+- [The 1,000 Infants Test Case — exposing the sorting machine](test-case-1000-infants)
 - [Open Call for Partners](partners)
