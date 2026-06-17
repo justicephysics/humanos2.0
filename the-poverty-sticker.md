@@ -90,4 +90,5 @@ Even if this is all imagination, it is the kind of imagination that changes worl
 - [The Thought Partner — Einstein, Besso, and the Two Y‑Nodes](the-thought-partner)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Center of Gravity of Civilization — the ten questions that arise once you see the sticker](center-of-gravity)
+- [Alexander and the Saint — the ancient warning and the modern endgame](alexander-and-the-saint)
 - [Open Call for Partners](partners)
