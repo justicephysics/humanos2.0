@@ -51,7 +51,7 @@ Pick the path that feels right to you. Every contribution—money, time, or conn
 ### 🧠 Option 1 — Direct Support (Crowdfunding)
 A simple, transparent UPI / Buy Me a Coffee page. Your one‑time or recurring contribution covers food, rent, and internet. Even ₹500/month from 20 people gives me a stable baseline.
 
-**UPI:** 
+**Buy Me a Coffee page:** -[buymeacoffee.com/mukeshjusticephysics](https://buymeacoffee.com/mukeshjusticephysics)
 
 ### 🎓 Option 2 — Join a Low‑Cost Workshop
 I offer live, online 90‑minute workshops on the Canal Dogma, the Space State, and the ten questions. In Hindi/simple English. ₹500 regular, ₹200 for students. → [Workshop Page](workshop)
