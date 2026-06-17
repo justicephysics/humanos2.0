@@ -104,4 +104,5 @@ The Virtual Nalanda is not a self‑help book. It is an **engineering specificat
 - [The Lollipop Economy — How the Feudal Lords Keep Us Distracted](lollipop-economy)
 - [The Consciousness Principle — C = 1 − D](consciousness-principle)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Why Earn More? Why Burn More? — the structural reason behind the cycle](why-earn-more-burn-more)
 - [Open Call for Partners](partners)
