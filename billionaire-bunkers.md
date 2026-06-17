@@ -60,7 +60,7 @@ The bunker is a fantasy. The only real escape is to **widen the canal**—to bui
 The Warrior‑Engineer does not build a bunker. They build the Space State.
 
 - Instead of hiding underground, they deploy orbital compute fabrics that serve the entire planet.
-- Instead of hoarding resources, they design systems that distribute energy, food, and knowledge with $$\(L = 1\).$$
+- Instead of hoarding resources, they design systems that distribute energy, food, and knowledge with (L = 1).
 - Instead of a private lifeboat, they build a public ark—the Light@2.7 K Web, the Virtual Nalanda, the Cosmic Cold Chain, Mission 2100.
 
 The feudal lords are preparing for the collapse. The Warrior‑Engineers are preventing it.
