@@ -78,6 +78,7 @@
 - [Manufacturing Poverty — The Infant Is Not Born Poor](manufacturing-poverty)
 - [Universal Scarcity — The Lie That Justifies Feudal Extraction](universal-scarcity)
 - [The e^m ↔ b^m Cycle — Earn More, Burn More](earn-more-burn-more)
+- [Why Earn More? Why Burn More? — The Feudal Recycling Machine](why-earn-more-burn-more)
 - [Open Call for Partners](partners)
   
 ### 🎓 Education — The Engineer Hurricane
