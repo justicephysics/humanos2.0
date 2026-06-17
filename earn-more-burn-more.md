@@ -105,4 +105,5 @@ The Virtual Nalanda is not a self‑help book. It is an **engineering specificat
 - [The Consciousness Principle — C = 1 − D](consciousness-principle)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Why Earn More? Why Burn More? — the structural reason behind the cycle](why-earn-more-burn-more)
+- [The 9.99% Cap — the fixed limit on the consumer pump](the-9-99-percent-cap)
 - [Open Call for Partners](partners)
