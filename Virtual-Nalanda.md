@@ -145,6 +145,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Debt Treadmill — How the Extraction Protocol Traps Every Generation](the-debt-treadmill)
 - [Token Colonialism — Why Nadella's Warning Validates the Space State](token-colonialism)
 - [Manufacturing Poverty — The Infant Is Not Born Poor](manufacturing-poverty)
+- [Universal Scarcity — The Lie That Justifies Feudal Extraction](universal-scarcity)
 - [Open Call for Partners](partners)
 
 ### 🎓 Education — The Engineer Hurricane
