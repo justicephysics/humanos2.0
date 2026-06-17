@@ -82,7 +82,7 @@ The Canal Dogma can be dismantled not by argument, but by building alternatives 
 
 ### In Economy
 - **Old Dogma:** Concentrate wealth at the top; let the bottom borrow to survive.
-- **New Architecture:** $$\ (E = MC^2 \times L\) with \(L \to 1\). $$ Energy, computation, and resources distributed as freely as sunlight. The billionaire’s yacht becomes an artifact of a bygone era, not a symbol of success. $$\ E = MC^2 \times L\ with \L\ to 1 \$$
+- **New Architecture:** $$\(E = MC^2 \times L\) with \(L \to 1\).$$ Energy, computation, and resources distributed as freely as sunlight. The billionaire’s yacht becomes an artifact of a bygone era, not a symbol of success.
 
 ### In Governance
 - **Old Dogma:** Policymakers and think tanks serve the protocol, defending the narrow gates as “merit” and “stability.”
