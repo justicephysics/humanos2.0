@@ -122,4 +122,5 @@ The UTI threshold (1.80) is the constitutional guarantee that the manufacturing 
 - [The True Citizens — Guardians of the Soil, Not Cattle Fodder](true-citizens)
 - [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Universal Scarcity — why the scarcity lie is the foundation of manufactured poverty](universal-scarcity)
 - [Open Call for Partners](partners)
