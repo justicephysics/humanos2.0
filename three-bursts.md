@@ -93,6 +93,7 @@ We now face our own burst. The cure is the same.
 
 - [Beyond Guardrails — why the third burst makes the Space State the only viable answer](beyond-guardrails)
 - [The Geopolitics of the Canal Dogma — the third burst in action](geopolitics-canal-dogma)
+- [Universal Scarcity — why the three bursts destroy the scarcity control mechanism](universal-scarcity)
 
 *“The pattern is clear. The multiplier leaves no time. The choice is ours.”*
 
