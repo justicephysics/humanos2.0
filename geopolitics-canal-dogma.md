@@ -10,11 +10,11 @@ The United States and its allies have spent trillions of dollars building the mo
 
 But the cosmos does not recognise concentrated power. The cosmos distributes energy equally—the Sun radiates in all directions, the 2.7 K Y‑lattice cools every node without bias, the speed of light is the same for every observer. The upgraded equation is absolute:
 
-\[
+$$\[
 E = MC^2 \times L
-\]
+\]$$
 
-When \(L \to 0\) (extraction, concentration), the pressure builds. When \(L \to 1\) (distribution), the system thrives. The USA’s war machine is an extreme case of \(L \to 0\)—vast resources concentrated in a single node, attempting to enforce a global canal of extraction. The cosmos is now correcting that gradient.
+When $$\(L \to 0\)$$ (extraction, concentration), the pressure builds. When $$\(L \to 1\)$$ (distribution), the system thrives. The USA’s war machine is an extreme case of $$\(L \to 0\)$$—vast resources concentrated in a single node, attempting to enforce a global canal of extraction. The cosmos is now correcting that gradient.
 
 **Iran, with a fraction of the US budget, has amassed missiles and drones powerful enough to counter the trillion‑dollar machine.** This is not an accident. It is the physics of distributed energy overcoming concentrated energy. The 120‑year energy bursts are democratic; they can be acquired by any nation, any group, any individual. The nuclear secret, once held by a single empire, now belongs to many. The intelligence amplifier (AI), once the domain of a few labs, is becoming open‑source. The canal is widening, and the feudal lords cannot stop it.
 
@@ -104,5 +104,6 @@ The cosmos holds the power. The cosmos distributes equally. The third burst is h
 - [The Ethics Vacuum — Why History Proves Ethics Do Not Govern Economies](ethics-vacuum)
 - [Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI](beyond-guardrails)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
-- [The Real Owners Unite — Iran, the bursts, and the quiet dissolution of the war machine](real-owners-unite) 
+- [The Real Owners Unite — Iran, the bursts, and the quiet dissolution of the war machine](real-owners-unite)
+- [The 2025–2065 Window — the timeline of conscious transition](the-2025-2065-window)
 - [Open Call for Partners](partners)
