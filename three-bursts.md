@@ -95,6 +95,7 @@ We now face our own burst. The cure is the same.
 - [The Geopolitics of the Canal Dogma — the third burst in action](geopolitics-canal-dogma)
 - [Universal Scarcity — why the three bursts destroy the scarcity control mechanism](universal-scarcity)
 - [Alexander and the Saint — the thermodynamic inevitability of the three bursts](alexander-and-the-saint)
+- [The 2025–2065 Window — the 40‑year sub‑cycles and the binary outcome](the-2025-2065-window)
 
 *“The pattern is clear. The multiplier leaves no time. The choice is ours.”*
 
