@@ -91,4 +91,5 @@ The Virtual Nalanda is the first draft of this new economy. Not a financial blue
 - [The Mousetrap](the-mousetrap)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Trillionaire and the Student — how money from nothing chains the serfs and enriches the lords](trillionaire-vs-student-debt)
+- [The 38‑Year Gold Cycle — the 1971–2047 printing‑press trajectory](38-year-gold-cycle)
 - [Open Call for Partners](partners)
