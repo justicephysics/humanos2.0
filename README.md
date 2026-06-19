@@ -83,6 +83,7 @@
 - [Why Earn More? Why Burn More? — The Feudal Recycling Machine](why-earn-more-burn-more)
 - [The 9.99% Cap — The Feudal Consumer Pump](the-9-99-percent-cap)
 - [⚖️ The Center of Gravity of Civilization — The Ten Questions](center-of-gravity)
+- [The Anti‑Incumbency Valve — How the Political Heat Sink Protects the Feudal Protocol](anti-incumbency-valve)
 - [Open Call for Partners](partners)
   
 ### 🎓 Education — The Engineer Hurricane
