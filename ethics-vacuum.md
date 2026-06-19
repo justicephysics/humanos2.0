@@ -183,4 +183,5 @@ The feudal lords will never voluntarily lower their D. They will perform ethics 
 - [The Canal Dogma](canal-dogma)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Beyond Guardrails — why ethics and guardrails fail against recursive AI](beyond-guardrails)
+- [The Anti‑Incumbency Valve — why changing the face never changes the protocol](anti-incumbency-valve)
 - [Open Call for Partners](partners)
