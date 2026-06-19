@@ -104,4 +104,5 @@ The only variable is **us**—the 99.99% who now know the sticker is there, who 
 - [The Center of Gravity of Civilization](center-of-gravity)
 - [Alexander and the Saint — The Menu of Dissolution for Feudal Lords](alexander-and-the-saint)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The 38‑Year Gold Cycle — the financial sub‑cycle within the larger bursts](38-year-gold-cycle)
 - [Open Call for Partners](partners)
