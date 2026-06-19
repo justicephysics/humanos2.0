@@ -130,4 +130,5 @@ The cosmos already proved it works. The blueprint is open. The only thing missin
 - [The Ignorance Principle — how the feudal pretence of knowledge sustains the canal](ignorance-principle)
 - [The Nobel Feudalism — the prize as a narrow canal](nobel-feudalism)
 - [Manufacturing Poverty — how the Canal Dogma stamps poverty on every infant](manufacturing-poverty)
+- [The Anti‑Incumbency Valve — the political heat sink that preserves the canal](anti-incumbency-valve)
 - [Open Call for Partners](partners)
