@@ -99,6 +99,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Nobel Feudalism — Why Einstein and Gandhi Were Denied](nobel-feudalism)
 - [The Poverty Sticker — The Imagination That Sees the Truth](the-poverty-sticker)
 - [⚔️ Alexander and the Saint — The Menu of Dissolution for Feudal Lords](alexander-and-the-saint)
+- [🎭 The Unmasked Framework — Energy, Consciousness, and the Death of Extraction Narratives](the-unmasked-framework)
 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
