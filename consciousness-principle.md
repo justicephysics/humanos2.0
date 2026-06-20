@@ -317,4 +317,5 @@ The Consciousness Principle is not abstract philosophy. It is the **engineering 
 - [The Physical Continuum — the master hierarchy from cosmos to mind](physical-continuum)
 - [The Consciousness Interface — BCIs as a daily alignment tool for C = 1 − D](consciousness-interface)
 - [Intelligence Is Not Wisdom — Harari’s distinction and the C = 1 − D equation](intelligence-vs-wisdom)
+- [The Unmasked Framework — C = 1 − D as part of the complete decoder](the-unmasked-framework)
 - [Open Call for Partners](partners)
