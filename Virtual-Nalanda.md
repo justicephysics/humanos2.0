@@ -109,6 +109,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [Intelligence Is Not Wisdom — The Consciousness Equation and the Super‑Delusional Risk](intelligence-vs-wisdom)
 - [The Cosmic Training Protocol — Teaching AGI the Law of Conversion and Distribution](cosmic-training-protocol)
 - [Guardrails for the Feudal Lords — The AGI Needs None](guardrails-for-feudal-lords)
+- [The Two Engines — how to balance your creative vehicle](two-engines)
 
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
