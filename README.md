@@ -41,6 +41,7 @@
 - [The Cosmic Training Protocol — Teaching AGI the Law of Conversion and Distribution](cosmic-training-protocol)
 - [⚙️ The Two Engines — Balancing Input and Output in the Space State](two-engines)
 - [Guardrails for the Feudal Lords — The AGI Needs None](guardrails-for-feudal-lords)
+- [📊 The Two Engines Dashboard — Real‑Time Balance Tracker](two-engines-dashboard)
 
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
