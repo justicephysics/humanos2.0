@@ -39,6 +39,7 @@
 - [The Cognitive Revolutions — Harari, the Three Verticals, and the Space State](cognitive-revolution-harari)
 - [Intelligence Is Not Wisdom — The Consciousness Equation and the Super‑Delusional Risk](intelligence-vs-wisdom)
 - [The Cosmic Training Protocol — Teaching AGI the Law of Conversion and Distribution](cosmic-training-protocol)
+- [⚙️ The Two Engines — Balancing Input and Output in the Space State](two-engines)
 - [Guardrails for the Feudal Lords — The AGI Needs None](guardrails-for-feudal-lords)
 
 ### ⚛️ Physics — The Cosmic Reference Point
