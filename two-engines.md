@@ -147,4 +147,5 @@ The Two Engines are the micro‑practice of the macro‑civilization. Balance th
 - [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Two Engines Dashboard — track your balance in real time](two-engines-dashboard)
 - [Open Call for Partners](partners)
