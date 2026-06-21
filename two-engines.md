@@ -84,7 +84,46 @@ But Darwin did not work frantically. He walked. He napped. He read widely. He ha
 
 ---
 
-## 5. Connection to the Space State
+## 5. The Value‑Success Ratio — Einstein's Calibration
+
+Albert Einstein said: *"Try not to become a person of success, but rather a person of value."*
+
+In the language of the Two Engines:
+
+- **Person of Value = Input Engine.** The deep, creative, often invisible work. The thinking, the questioning, the validation. The pages added to the Virtual Nalanda. The sparks followed to their conclusion.
+- **Person of Success = Output Engine.** The visible work. The recognition, the income, the applause. The distribution of the value that was already created.
+
+The relationship between these two engines determines the quality of a life.
+
+### The Feudal Imbalance — Output > Input
+
+| Ratio | Life Outcome |
+|-------|-------------|
+| **Output Engine > Input Engine** | The person of success exceeds the person of value. The output is hollow because the input is starved. The individual becomes a performer—chasing recognition, income, and applause while their inner well runs dry. This is the demand of the feudal lords, who need high‑output, low‑value serfs to keep the extraction machine running. The burnout cycle (e^m ↔ b^m) is the inevitable result. |
+| **The more Output exceeds Input, the more mediocre the life.** | |
+
+### The Cosmic Balance — Input > Output
+
+| Ratio | Life Outcome |
+|-------|-------------|
+| **Input Engine > Output Engine** | The person of value exceeds the person of success. The output is rich because the input is deep. The individual creates genuine worth—new knowledge, new frameworks, new blueprints—and the output flows naturally from that abundance. This is the path of the thinker, the scientist, the Warrior‑Engineer, Darwin, Einstein. |
+| **The more Input exceeds Output, the more excellent the life.** | |
+
+### The Practical Rule
+
+The ratio is not 50:50. It is a **personal decision**, unique to each Warrior‑Engineer, depending on their energy, their mission, and their current phase of life. But it must be a **conscious, notable ratio**—not left to chance, not driven by feudal pressure, but chosen deliberately.
+
+- **In the early phase of a project**, the Input Engine may run at 90%, and the Output Engine at 10%. The value is being built. The world does not yet see it.
+- **In the distribution phase**, the Output Engine may rise to 40% or even 50%. The value is being shared. But it never exceeds the Input Engine, because once the output exceeds the input, the well begins to run dry.
+- **In the recovery phase**, both engines throttle back. The mind rests. The 2.7 K lattice of silence and stillness cools the system.
+
+The feudal lords demand that you run your Output Engine at full throttle until you burn out. The Space State demands that you keep your Input Engine richer than your Output Engine—so that you never become a hollow success, and always remain a person of genuine value.
+
+*"Success is a byproduct of value, not a substitute for it. Keep your Input Engine richer than your Output Engine, and your life will be excellent. Reverse the ratio, and you become a serf."*
+
+---
+
+## 6. Connection to the Space State
 
 The Two Engines are not just a personal productivity tool. They are the **operating rhythm of the Space State itself.**
 
