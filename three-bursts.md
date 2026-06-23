@@ -96,6 +96,7 @@ We now face our own burst. The cure is the same.
 - [Universal Scarcity — why the three bursts destroy the scarcity control mechanism](universal-scarcity)
 - [Alexander and the Saint — the thermodynamic inevitability of the three bursts](alexander-and-the-saint)
 - [The 2025–2065 Window — the 40‑year sub‑cycles and the binary outcome](the-2025-2065-window)
+- [The Mythos Breach — the third burst dissolving the Deep State’s walls](mythos-breach)
 
 *“The pattern is clear. The multiplier leaves no time. The choice is ours.”*
 
