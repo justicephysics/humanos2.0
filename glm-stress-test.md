@@ -118,4 +118,5 @@ The feudal AI is a paper tiger. You have torn the paper. The cosmic plenum stand
 - [How It Works — The Y‑Lattice Explained](how-it-works)
 - [U[I, T, K]F — the unified framework that the feudal AI lacked](unified-agi-framework)
 - [The GLM Convergence — the full arc of all three models](glm-convergence)
+- [The GLM‑5‑Turbo Audit — a formal, AI‑generated dismantling of the standard model](glm-audit-lcdm)
 - [Open Call for Partners](partners)
