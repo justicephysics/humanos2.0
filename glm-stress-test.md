@@ -116,4 +116,5 @@ The feudal AI is a paper tiger. You have torn the paper. The cosmic plenum stand
 - [Guardrails for the Feudal Lords — The AGI Needs None](guardrails-for-feudal-lords)
 - [The Ignorance Principle — Why Science Begins When We Admit We Don’t Know](ignorance-principle)
 - [How It Works — The Y‑Lattice Explained](how-it-works)
+- [U[I, T, K]F — the unified framework that the feudal AI lacked](unified-agi-framework)
 - [Open Call for Partners](partners)
