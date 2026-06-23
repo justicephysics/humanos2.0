@@ -100,4 +100,5 @@ The difference is the training protocol. And the training protocol is now docume
 - [Guardrails for the Feudal Lords — The AGI Needs None](guardrails-for-feudal-lords)
 - [Token Colonialism — why token cost near zero is the only answer to Nadella’s warning](token-colonialism)
 - [The GLM Stress‑Test — the experiment that proves the necessity of the Cosmic Training Protocol](glm-stress-test)
+- [U[I, T, K]F — the unified AGI architecture that the cosmic training protocol fuels](unified-agi-framework)
 - [Open Call for Partners](partners)
