@@ -168,6 +168,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Factory Floor Warriors — From Robot to Innovator](factory-floor-warriors)
 - [The Campus Gate and the Cosmic Gate](campus-gate-cosmic-gate)
 - [The 1,000 Infants Test Case — An Open Challenge to Every Elite University](test-case-1000-infants)
+- [🎓 The Lollipop Education System — The Examination Industry That Feeds the Feudal Machine](lollipop-education-system)
 
 ### 🎯 Strategy — Mission 2100 and Beyond
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
