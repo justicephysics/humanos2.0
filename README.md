@@ -110,6 +110,7 @@
 - [The True Owners of the World, Unite!](true-owners-unite)
 - [The Real Owners Unite — The Quiet Wipeout of the Feudal Lords](real-owners-unite)
 - [The 2025–2065 Window — Collapse, Transition, or Both](the-2025-2065-window)
+- [🔓 The Mythos Breach — The Dissolution of Classified Walls](mythos-breach)
 
 ### 🌐 Community
 - [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
