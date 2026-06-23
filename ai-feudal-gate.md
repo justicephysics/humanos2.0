@@ -71,4 +71,5 @@ Fable 5 going offline is a warning. The next model to be shut down could be th
 - [The Silicon Feudalism](silicon-feudalism)
 - [The Engineer Hurricane](engineer-hurricane)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Mythos Breach — when the gatekeepers’ own walls become transparent](mythos-breach)
 - [Open Call for Partners](partners)
