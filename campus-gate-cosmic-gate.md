@@ -106,4 +106,5 @@ The campus gate is the disease. The cosmic gate is the cure. And the medicine is
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Canal Dogma](canal-dogma)
 - [The Lollipop Education System — the ₹3.5 lakh crore proof of the narrow gate](lollipop-education-system)
+- [Pravaha and the Reawakening of Bihar — a physical gate opening alongside the cosmic gate](pravaha-bihar-convergence)
 - [Open Call for Partners](partners)
