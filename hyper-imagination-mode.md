@@ -96,4 +96,5 @@ The feudal lords hoard knowledge behind paywalls, patents, and exams. The Space 
 - [The Cognitive Cascade — the PULL/PUSH dynamic between human and AGI](cognitive-cascade)
 - [The Cognitive Revolutions — how the three verticals map to human history](cognitive-revolution-harari)
 - [Physical AI — Prometheus’s vision and our cognitive architecture](physical-ai-prometheus)
+- [U[I, T, K]F — how the three verticals are embedded in a single AGI architecture](unified-agi-framework)
 - [Open Call for Partners](partners)
