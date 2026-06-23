@@ -105,4 +105,5 @@ The campus gate is the disease. The cosmic gate is the cure. And the medicine is
 - [The Factory Floor Warriors](factory-floor-warriors)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Canal Dogma](canal-dogma)
+- [The Lollipop Education System — the ₹3.5 lakh crore proof of the narrow gate](lollipop-education-system)
 - [Open Call for Partners](partners)
