@@ -87,4 +87,5 @@ In the Space State, the AGI is a partner, not a threat. The feudal institutions,
 - [Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI](beyond-guardrails)
 - [The Ignorance Principle — Why Science Begins When We Admit We Don’t Know](ignorance-principle)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The GLM Stress‑Test — feudal AI cornered by the same logic that cracked the old cosmology](glm-stress-test)
 - [Open Call for Partners](partners)
