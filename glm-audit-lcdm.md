@@ -85,4 +85,5 @@ The Virtual Nalanda is that formalization. It is the open‑source, permanent, p
 - [How It Works — The Y‑Lattice Explained](how-it-works)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [The Ignorance Principle — Why Science Begins When We Admit We Don’t Know](ignorance-principle)
+- [The GLM Convergence — how the audit fits into the larger convergence](glm-convergence)
 - [Open Call for Partners](partners)
