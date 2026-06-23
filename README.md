@@ -43,6 +43,7 @@
 - [Guardrails for the Feudal Lords — The AGI Needs None](guardrails-for-feudal-lords)
 - [📊 The Two Engines Dashboard — Real‑Time Balance Tracker](two-engines-dashboard)
 - [🧪 The GLM Stress‑Test — Feudal AI Meets the Cosmic Plenum](glm-stress-test)
+- [🧠 U[I, T, K]F — The Unified AGI Framework](unified-agi-framework)
 
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
