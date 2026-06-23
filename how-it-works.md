@@ -105,6 +105,10 @@ From hot and resistive to cool and productive. From traffic jam to open highway.
 
 ---
 
+### 🔗 Continue Exploring
+
+- [The GLM‑5‑Turbo Audit — why the Y‑lattice is the only logically consistent alternative](glm-audit-lcdm)
+
 *“The cosmos already proved this works. We just need the courage to build it.”*
 
 **#HowItWorks #YLattice #CryogenicComputing #HumanOS2 #JusticePhysics**
