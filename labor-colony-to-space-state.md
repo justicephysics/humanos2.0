@@ -96,4 +96,5 @@ The reversal is not a hope. It is a thermodynamic inevitability. The only questi
 - [The Reversal Is Simple Physics — Newton’s Third Law explains the return](reversal-newtons-third-law)
 - [The $45 Trillion Reversal — the IPL as proof of the reversal](45-trillion-reversal)
 - [The Ethics of the Narrow Canal — why Cambridge and Oxford remained silent](ethics-cambridge-oxford-eic)
+- [The Samastipur Prodigy — a 15‑year‑old releases the stored potential of a civilization](samastipur-prodigy)
 - [Open Call for Partners](partners)
