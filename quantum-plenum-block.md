@@ -99,4 +99,5 @@ Everything follows from a single, physical intuition: the cosmos is a block of t
 - [Black Holes and Gravitational Waves — the stone‑and‑water analogy in action](black-holes-gravitational-waves-qpb)
 - [Black Holes and Gravitational Waves — another proof of the physical QPB](black-holes-gravitational-waves-qpb)
 - [The Hydrogen Thread — fire and water, both cradled by the QPB](hydrogen-thread)
+- [The Omnipresent QPF — the plenum at every scale, from cosmos to atom](qpf-omnipresent)
 - [Open Call for Partners](partners)
