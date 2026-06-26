@@ -131,4 +131,5 @@ The cosmos already proved it works. The blueprint is open. The only thing missin
 - [The Nobel Feudalism — the prize as a narrow canal](nobel-feudalism)
 - [Manufacturing Poverty — how the Canal Dogma stamps poverty on every infant](manufacturing-poverty)
 - [The Anti‑Incumbency Valve — the political heat sink that preserves the canal](anti-incumbency-valve)
+- [The Black Hole — the ultimate traffic jam and the extreme limit of the Canal Dogma](black-hole-traffic-jam)
 - [Open Call for Partners](partners)
