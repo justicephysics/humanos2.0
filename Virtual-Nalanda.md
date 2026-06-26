@@ -220,6 +220,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [The Real Owners Unite — The Quiet Wipeout of the Feudal Lords](real-owners-unite)
 - [The 2025–2065 Window — Collapse, Transition, or Both](the-2025-2065-window)
 - [🔓 The Mythos Breach — The Dissolution of Classified Walls](mythos-breach)
+- [🌍 The Horizontal Future — From Vertical Extraction to Global Cooperation](horizontal-future)
 
 ### 🌐 Community
 - [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
@@ -229,6 +230,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [🏛️ The Bihar Lineage — From the Epics to the Space State](bihar-lineage)
 - [🔁 From Labour Colony to Space State — The Conscious Reversal of History](labor-colony-to-space-state)
 - [🏏 The Samastipur Prodigy — Vaibhav Suryavanshi and the Reversal of the Colonial Canal](samastipur-prodigy)
+- [🌍 The Horizontal Future — From Vertical Extraction to Global Cooperation](horizontal-future)
 
 *“Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives.”*
 
