@@ -143,6 +143,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [🔗 Matter and Space Are Embedded](matter-space-embedded)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [🧊 The Quantum Plenum Block — Water, Rocks, and the Lowest‑Energy Field](quantum-plenum-block)
+- [🕳️🌊 Black Holes, Gravitational Waves, and the Quantum Plenum Block](black-holes-gravitational-waves-qpb)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
