@@ -108,6 +108,7 @@ From hot and resistive to cool and productive. From traffic jam to open highway.
 ### 🔗 Continue Exploring
 
 - [The GLM‑5‑Turbo Audit — why the Y‑lattice is the only logically consistent alternative](glm-audit-lcdm)
+- [The Opposing Properties of Space and Matter — the fundamental duality of the Y‑universe](opposing-properties-space-matter)
 
 *“The cosmos already proved this works. We just need the courage to build it.”*
 
