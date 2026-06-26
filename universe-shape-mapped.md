@@ -93,4 +93,5 @@ This is the power of first‑principles physics. Not building complexity upon co
 - [Matter and Space Are Embedded — Why Vacuum Has No Meaning](matter-space-embedded)
 - [The Opposing Properties of Space and Matter — Why the Cosmos Is Cold](opposing-properties-space-matter)
 - [The Expansion of Matter, Not Space — the motion behind the redshift](expansion-of-matter-not-space)
+- [The Quantum Plenum Block — the water‑and‑rocks analogy for the cosmos](quantum-plenum-block)
 - [Open Call for Partners](partners)
