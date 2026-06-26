@@ -104,4 +104,5 @@ The ancient Nalanda was burned because it was made of bricks and manuscripts. Th
 - [The Lollipop Education System — The Examination Industry That Feeds the Feudal Machine](lollipop-education-system)
 - [The Engineer Hurricane](engineer-hurricane)
 - [Manufacturing Poverty — The Infant Is Not Born Poor](manufacturing-poverty)
+- [From Labour Colony to Space State — the full arc of suppression and reversal](labor-colony-to-space-state)
 - [Open Call for Partners](partners)
