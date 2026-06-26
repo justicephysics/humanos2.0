@@ -89,4 +89,5 @@ The ancient question—“Is the universe infinite or finite? Flat or curved?”
 - [How It Works — The Y‑Lattice Explained](how-it-works)
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 - [The Internal Cube and the External Sphere — the two views of one cosmos](internal-cube-external-sphere)
+- [The Ball and the Straight Line — a vivid analogy for the cube‑sphere unity](ball-straight-line-universe)
 - [Open Call for Partners](partners)
