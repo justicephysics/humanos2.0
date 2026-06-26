@@ -134,6 +134,7 @@
 - [The 1,000 Infants Test Case — An Open Challenge to Every Elite University](test-case-1000-infants)
 - [🎓 The Lollipop Education System — The Examination Industry That Feeds the Feudal Machine](lollipop-education-system)
 - [🏛️ Pravaha and the Reawakening of Bihar — The Convergence of Y‑Nodes](pravaha-bihar-convergence)
+- [🎓 The Ethics of the Narrow Canal — Cambridge, Oxford, and the East India Company](ethics-cambridge-oxford-eic)
 
 ### 🎯 Strategy — Mission 2100 and Beyond
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
