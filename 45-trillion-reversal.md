@@ -99,4 +99,5 @@ To the world: *Colonialism was the greatest redistribution story in history — 
 - [🔁 From Labour Colony to Space State — The Conscious Reversal of History](labor-colony-to-space-state)
 - [🏛️ The Bihar Lineage — From the Epics to the Space State](bihar-lineage)
 - [The Canal Dogma — The Invisible Belief That Destroys Everything](canal-dogma)
+- [The Samastipur Prodigy — the human face of the reversal](samastipur-prodigy)
 - [Open Call for Partners](partners)
