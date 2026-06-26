@@ -56,6 +56,7 @@
 - [🔗 Matter and Space Are Embedded — Why Vacuum Has No Meaning](matter-space-embedded)
 - [📏 The Straight Universe — Why Our Local Geometry Is Flat but Finite](straight-universe)
 - [🧊🌐 The Internal Cube and the External Sphere — Why the Universe Looks Flat from Within](internal-cube-external-sphere)
+- [🏀 The Ball, the Straight Line, and the Cosmic Cube‑Sphere](ball-straight-line-universe)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
