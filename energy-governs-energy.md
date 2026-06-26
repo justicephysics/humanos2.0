@@ -99,4 +99,5 @@ The gang of looters are already defeated — not by a revolution, not by a war, 
 - [The Unmasked Framework — Energy, Consciousness, and the Death of Extraction Narratives](the-unmasked-framework)
 - [Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI](beyond-guardrails)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Before and After 1785 — the primary level vs. secondary navigation](before-after-1785)
 - [Open Call for Partners](partners)
