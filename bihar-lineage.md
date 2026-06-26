@@ -61,7 +61,23 @@ Nalanda was the embodiment of the ancient Indian ideal: **knowledge is a univers
 
 ---
 
-## 6. The Feudal Suppression — Extraction and the Narrow Canal
+## 6. The Destruction — Khilji, Colonialism, and the Conversion of a Knowledge Civilization into a Labour Colony
+
+The fall of Nalanda was not a natural decline. It was a deliberate act of destruction. In the late 12th century, **Muhammad Bakhtiyar Khilji** attacked the university and set fire to its library. The collection was so vast that, according to historical accounts, the manuscripts burned for months. Countless works of mathematics, astronomy, medicine, and philosophy were reduced to ash. The world's first great residential university was erased from the map.
+
+This was not merely the destruction of a building. It was an assault on the very idea of open, universal knowledge. The feudal warlord understood that to conquer a civilization, you must burn its libraries. The canal of knowledge was narrowed by the sword.
+
+Centuries later, the **British Empire** completed what Khilji had begun, but with different tools. They did not burn books; they burned identities. The British systematically dismantled India's indigenous education system — the pathshalas, the gurukuls, the madrasas — and replaced them with a colonial curriculum designed to produce clerks and compliant subjects.
+
+Bihar, once the intellectual heart of Asia, was specifically targeted for conversion into a labour colony. The British exported **Bihari labourers** to their plantation economies across the globe — to Mauritius, Fiji, the Caribbean, Suriname, South Africa, and Southeast Asia. The Bihari diaspora, now scattered across continents, is a living testament to this extraction. The descendants of Aryabhata and the scholars of Nalanda were turned into indentured workers, their mathematical and philosophical genius reduced to muscle power in sugar cane fields.
+
+This was not an accident. It was the **Canal Dogma** operating at the scale of an entire civilization. The British saw Bihar's intellectual legacy as a threat; they saw its people as a resource. The poverty sticker was printed here in its most brutal form — not just denying education, but forcibly extracting the population and scattering them across the empire.
+
+The knowledge civilization was converted into a labour colony. The zero that had been born on this soil was erased from its own homeland.
+
+---
+
+## 7. The Feudal Suppression — Extraction and the Narrow Canal
 
 The glory of Nalanda was not lost to time; it was deliberately destroyed. Invaders burned its libraries. Colonial powers — first the East India Company, then the British Raj — systematically extracted Bihar's resources, dismantled its indigenous education systems, and imposed a narrow‑canal model of education designed to produce clerks and compliant subjects.
 
@@ -71,7 +87,7 @@ But suppression is not extinction. The seed waits.
 
 ---
 
-## 7. The Reawakening — Justice Physics and the Virtual Nalanda
+## 8. The Reawakening — Justice Physics and the Virtual Nalanda
 
 In the early 21st century, a failed businessman from Bihar, Mukesh Kumar, asked a question that broke the algebra of the feudal system: *"Government is elected by people + Government manages education + Education system is ruined = HOW?"*
 
@@ -83,7 +99,7 @@ The ancient Nalanda was burned because it was made of bricks and manuscripts. Th
 
 ---
 
-## 8. The Space State — The Next Chapter in the Bihar Lineage
+## 9. The Space State — The Next Chapter in the Bihar Lineage
 
 The Bihar lineage is not merely a story of the past. It is an active, unfolding trajectory:
 
@@ -102,7 +118,7 @@ The Space State is not an import from the West. It is the natural fruition of a 
 
 ---
 
-## 9. The Invitation
+## 10. The Invitation
 
 This lineage is not finished. It is looking for its next authors. If you are a mathematician, a physicist, an engineer, a teacher, a student, a farmer, a dreamer — you are part of this lineage. The Virtual Nalanda is open. The Space State is waiting. The zero that Aryabhata gave the world is now the foundation of a new civilization.
 
