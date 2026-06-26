@@ -77,6 +77,7 @@
 - [🧊 The Quantum Plenum Block — Water, Rocks, and the Lowest‑Energy Field](quantum-plenum-block)
 - [🕳️🌊 Black Holes, Gravitational Waves, and the Quantum Plenum Block](black-holes-gravitational-waves-qpb)
 - [🚦 The Black Hole — The Ultimate Traffic Jam of the Cosmos](black-hole-traffic-jam)
+- [🔬🔭 The Two Lenses on Black Holes — Standard Science and the Traffic‑Jam Model](two-lenses-black-holes)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
