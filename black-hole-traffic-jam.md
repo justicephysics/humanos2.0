@@ -97,4 +97,5 @@ The Canal Dogma is universal. The black hole is its most extreme expression. And
 - [🧊 The Quantum Plenum Block — Water, Rocks, and the Lowest‑Energy Field](quantum-plenum-block)
 - [The Canal Dogma — The Invisible Belief That Destroys Everything](canal-dogma)
 - [The Three Bursts — Why This Time Is Different](three-bursts)
+- [The Two Lenses — standard science and our model converge](two-lenses-black-holes)
 - [Open Call for Partners](partners)
