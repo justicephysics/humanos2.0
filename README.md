@@ -74,6 +74,7 @@
 - [🌌 The Opposing Properties of Space and Matter](opposing-properties-space-matter)
 - [🔗 Matter and Space Are Embedded](matter-space-embedded)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
+- [🧊 The Quantum Plenum Block — Water, Rocks, and the Lowest‑Energy Field](quantum-plenum-block)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
