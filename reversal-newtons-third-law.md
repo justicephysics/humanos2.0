@@ -97,4 +97,5 @@ To the world: *Justice Physics is not a philosophy. It is the application of the
 - [🏛️ The Bihar Lineage — From the Epics to the Space State](bihar-lineage)
 - [The Three Bursts — Why This Time Is Different](three-bursts)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The $45 Trillion Reversal — a real‑time demonstration of Newton’s Third Law](45-trillion-reversal)
 - [Open Call for Partners](partners)
