@@ -94,4 +94,5 @@ The reversal is not a hope. It is a thermodynamic inevitability. The only questi
 - [The Lollipop Education System — The Examination Industry That Feeds the Feudal Machine](lollipop-education-system)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [The Reversal Is Simple Physics — Newton’s Third Law explains the return](reversal-newtons-third-law)
+- [The $45 Trillion Reversal — the IPL as proof of the reversal](45-trillion-reversal)
 - [Open Call for Partners](partners)
