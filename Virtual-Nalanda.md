@@ -104,6 +104,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [🏛️ The Bihar Lineage — From the Epics to the Space State](bihar-lineage)
 - [🔁 From Labour Colony to Space State — The Conscious Reversal of History](labor-colony-to-space-state)
 - [🔄 The Reversal Is Simple Physics — Newton’s Third Law and the Spring of History](reversal-newtons-third-law)
+- [🐎🚀 Before and After 1785 — The Two Mega‑Parts of Human Civilization](before-after-1785)
 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
