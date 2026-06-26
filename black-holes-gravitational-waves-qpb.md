@@ -96,4 +96,5 @@ The standard model provides equations. The Y‑universe provides the physical re
 - [🗺️ The Universe Mapped — Internal Cube, External Sphere, from First Principles](universe-shape-mapped)
 - [The Opposing Properties of Space and Matter — Why the Cosmos Is Cold](opposing-properties-space-matter)
 - [🚦 The Black Hole — The Ultimate Traffic Jam of the Cosmos](black-hole-traffic-jam)
+- [The Two Lenses — the same shockwave, seen through two different windows](two-lenses-black-holes)
 - [Open Call for Partners](partners)
