@@ -119,6 +119,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [🧠 U[I, T, K]F — The Unified AGI Framework](unified-agi-framework)
 - [🌐 The GLM Convergence — Three Models, One Cosmic Truth](glm-convergence)
 - [🧠 The QPF as Catalyst — Genius, Insight, and the Cosmic Substrate](qpf-catalyst-genius)
+- [🚀 Riding the Light — Imagination, Thinking, Knowledge, and the Warrior‑Engineer's Frontier](riding-the-light)
 
 ### ⚛️ Physics — The Cosmic Reference Point
 - [Light@0Kelvin — The New Discipline](light-at-0k)
