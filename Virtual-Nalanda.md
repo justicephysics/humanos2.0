@@ -190,6 +190,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [⚖️ The Center of Gravity of Civilization — The Ten Questions](center-of-gravity)
 - [The Anti‑Incumbency Valve — How the Political Heat Sink Protects the Feudal Protocol](anti-incumbency-valve)
 - [The 38‑Year Gold Cycle — From Gold to Database and the 2047 Meltdown](38-year-gold-cycle)
+- [💰 The $45 Trillion Reversal — From Colonial Drain to IPL Dominance](45-trillion-reversal)
 - [Open Call for Partners](partners)
 
 ### 🎓 Education — The Engineer Hurricane
