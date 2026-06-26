@@ -76,4 +76,5 @@ The embeddedness of matter and space is the deepest unity. It is why the univers
 - [How It Works — The Y‑Lattice Explained](how-it-works)
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
+- [The Straight Universe — why we see straight lines in a finite cosmos](straight-universe)
 - [Open Call for Partners](partners)
