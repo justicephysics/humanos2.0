@@ -95,4 +95,5 @@ The standard model provides equations. The Y‑universe provides the physical re
 - [🌌 Hubble’s Law in the Static Plenum](hubble-law-static-plenum)
 - [🗺️ The Universe Mapped — Internal Cube, External Sphere, from First Principles](universe-shape-mapped)
 - [The Opposing Properties of Space and Matter — Why the Cosmos Is Cold](opposing-properties-space-matter)
+- [🚦 The Black Hole — The Ultimate Traffic Jam of the Cosmos](black-hole-traffic-jam)
 - [Open Call for Partners](partners)
