@@ -156,6 +156,7 @@
 - [💚 The Mission Is Personal — Help Me Continue Decoding the Feudal Code](personal-mission-support)
 - [🏛️ The Bihar Lineage — From the Epics to the Space State](bihar-lineage)
 - [🔁 From Labour Colony to Space State — The Conscious Reversal of History](labor-colony-to-space-state)
+- [🏏 The Samastipur Prodigy — Vaibhav Suryavanshi and the Reversal of the Colonial Canal](samastipur-prodigy)
   
 ---
 
