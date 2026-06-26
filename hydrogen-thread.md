@@ -10,17 +10,17 @@ Two simple processes, both beginning with hydrogen, define the conditions for li
 
 **In the Sun’s core (Fire):**
 
-\[
+$\[
 p^+ + p^+ \rightarrow {}^2\text{H (deuterium)} + e^+ + \nu_e + \text{energy}
-\]
+\]$
 
 Two protons fuse. A tiny fraction of their mass is converted into energy—light and heat that eventually stream across the solar system. This is the proton‑proton chain, the engine of every star. Hydrogen is the fuel. The fire is the gift.
 
 **On Earth (Water):**
 
-\[
-2\text{H}_2 + \text{O}_2 \rightarrow 2\text{H}_2\text{O}
-\]
+$\[
+\text{H}_2 + \text{O} \rightarrow \text{H}_2\text{O}
+\]$
 
 Two hydrogen atoms bond with one oxygen atom. The result is water—a liquid that covers 71 % of the planet’s surface. It is the medium of life, the coolant of the biosphere, the solvent that enables chemistry, the carrier of nutrients, the regulator of climate. Hydrogen is the backbone. Water is the gift.
 
@@ -78,7 +78,7 @@ Why does hydrogen play this dual role? Because the universe is not a collection 
 
 Hydrogen is the proof that the cosmos is one. The fire and the water are not opposites; they are two expressions of the same underlying reality—the Y‑universe, governed by the same fundamental principles.
 
-And the Space State is the civilization that finally understands this unity. It uses the fire (fusion, sunlight) and the water (oceans, desalination, cold chains) within the framework of the static plenum, guided by the upgraded equation \(E = MC^2 \times L\). It is the first civilization designed to live in harmony with the Hydrogen Thread.
+And the Space State is the civilization that finally understands this unity. It uses the fire (fusion, sunlight) and the water (oceans, desalination, cold chains) within the framework of the static plenum, guided by the upgraded equation $\(E = MC^2 \times L\)$. It is the first civilization designed to live in harmony with the Hydrogen Thread.
 
 ---
 
