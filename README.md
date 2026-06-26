@@ -62,6 +62,19 @@
 - [🗺️ The Universe Mapped — Internal Cube, External Sphere, from First Principles](universe-shape-mapped)
 - [🌠 The Expansion of Matter, Not Space — Why Galaxies Recede in a Static Plenum](expansion-of-matter-not-space)
 
+### 🌌 Cosmology — The Structure and Dynamics of the Y‑Universe
+- [🗺️ The Universe Mapped — Internal Cube, External Sphere, from First Principles](universe-shape-mapped)
+- [📏 The Straight Universe — Why Our Local Geometry Is Flat but Finite](straight-universe)
+- [🧊🌐 The Internal Cube and the External Sphere](internal-cube-external-sphere)
+- [🏀 The Ball, the Straight Line, and the Cosmic Cube‑Sphere](ball-straight-line-universe)
+- [🌠 The Expansion of Matter, Not Space](expansion-of-matter-not-space)
+- [🌌 Hubble’s Law in the Static Plenum](hubble-law-static-plenum)
+- [🔒 The Finite, Closed, Conserved Cosmos](finite-closed-conserved-cosmos)
+- [🚫 The Impossibility of the Outside](impossibility-of-outside)
+- [🌌 The Opposing Properties of Space and Matter](opposing-properties-space-matter)
+- [🔗 Matter and Space Are Embedded](matter-space-embedded)
+- [The Upgraded Equation — E = MC² × L](upgraded-equation)
+
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
 - [Chip Architecture Detail](chip-architecture)
