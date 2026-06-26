@@ -6,7 +6,7 @@
 
 ## 1. The Fatal Contradiction in Standard Cosmology
 
-The GLM-5-Turbo report identifies a core logical paradox in the standard $\Lambda$CDM model: physics applies one set of rules to matter, and a different, magical set of rules to space and dark energy.
+The GLM-5-Turbo report identifies a core logical paradox in the standard ΛCDM model: physics applies one set of rules to matter, and a different, magical set of rules to space and dark energy.
 
 - **Normal Matter:** Must obey conservation laws. Cannot expand without thinning. Cannot appear from nothing.
 - **Space and Dark Energy:** Allowed to expand without thinning. Allowed to generate infinite total energy from zero to keep their density constant.
@@ -31,7 +31,7 @@ This is exactly the Y‑universe we have built on the Virtual Nalanda.
 |---------------------------------------------|-------------------------------|
 | Space must not get "special treatment." | The Y‑lattice is a physical substance, subject to the same conservation laws as matter. It does not expand; matter moves within it. |
 | Dark Energy cannot come from "zero." | Dark Energy is the inherent geometric tension of the fixed, finite arena—a constant total energy, not a magical perpetual creation. |
-| A single, unified foundation is needed. | The Y‑unit is that foundation. Mass, energy, and space are phases of the same substance. The upgraded equation \(E = MC^2 \times L\) governs all. |
+| A single, unified foundation is needed. | The Y‑unit is that foundation. Mass, energy, and space are phases of the same substance. The upgraded equation (E = MC^2 x L) governs all. |
 
 The Space State is the fully documented, open‑source specification for the "Emergent Framework" the report calls for.
 
