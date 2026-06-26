@@ -96,4 +96,5 @@ The cosmos is the eternal interplay between these two tendencies. The 2.7 K ba
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 - [Matter and Space Are Embedded — the inseparability of the two phases](matter-space-embedded)
 - [The Straight Universe — the geometric consequence of the plenum’s minimum‑energy state](straight-universe)
+- [The Finite, Closed, Conserved Cosmos — why the finiteness of matter implies the finiteness of space](finite-closed-conserved-cosmos)
 - [Open Call for Partners](partners)
