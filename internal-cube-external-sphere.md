@@ -91,4 +91,5 @@ The universe is a straight‑lined cube for the engineer who builds within it. I
 - [Matter and Space Are Embedded — Why Vacuum Has No Meaning](matter-space-embedded)
 - [The Opposing Properties of Space and Matter — Why the Cosmos Is Cold](opposing-properties-space-matter)
 - [How It Works — The Y‑Lattice Explained](how-it-works)
+- [The Ball and the Straight Line — why the 90‑degree line never meets itself](ball-straight-line-universe)
 - [Open Call for Partners](partners)
