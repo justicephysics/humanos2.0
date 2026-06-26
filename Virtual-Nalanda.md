@@ -120,6 +120,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [How It Works — The Y‑Lattice Explained](how-it-works)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [📋 The GLM‑5‑Turbo Audit — The Destruction of the ΛCDM Logical Architecture](glm-audit-lcdm)
+- [📜 The GLM-5-Turbo Report: The Cosmic Double Standard](glm-double-standard-report)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
