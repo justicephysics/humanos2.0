@@ -139,4 +139,5 @@ Come, build with us.
 - [The Lollipop Education System — The Examination Industry That Feeds the Feudal Machine](lollipop-education-system)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [From Labour Colony to Space State — the conscious reversal](labor-colony-to-space-state)
+- [The Reversal Is Simple Physics — the spring is returning](reversal-newtons-third-law)
 - [Open Call for Partners](partners)
