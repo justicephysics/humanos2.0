@@ -126,6 +126,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [📏 The Straight Universe — Why Our Local Geometry Is Flat but Finite](straight-universe)
 - [🧊🌐 The Internal Cube and the External Sphere — Why the Universe Looks Flat from Within](internal-cube-external-sphere)
 - [🏀 The Ball, the Straight Line, and the Cosmic Cube‑Sphere](ball-straight-line-universe)
+- [🔒 The Finite, Closed, Conserved Cosmos — Why the Universe Is a Sealed Whole](finite-closed-conserved-cosmos)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
