@@ -95,4 +95,5 @@ The sealed cosmos is not a prison. It is a perfection. It is the only kind of un
 - [📏 The Straight Universe — Why Our Local Geometry Is Flat but Finite](straight-universe)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [How It Works — The Y‑Lattice Explained](how-it-works)
+- [The Impossibility of the Outside — the logical closure of the sealed cosmos](impossibility-of-outside)
 - [Open Call for Partners](partners)
