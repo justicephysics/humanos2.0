@@ -98,4 +98,5 @@ The Space State is the first civilizational architecture that operates at the pr
 - [The 2025–2065 Window — Collapse, Transition, or Both](the-2025-2065-window)
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Horizontal Future — the next 100–500 years and the need for global cooperation](horizontal-future)
 - [Open Call for Partners](partners)
