@@ -138,4 +138,5 @@ Come, build with us.
 - [The Campus Gate and the Cosmic Gate](campus-gate-cosmic-gate)
 - [The Lollipop Education System — The Examination Industry That Feeds the Feudal Machine](lollipop-education-system)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [From Labour Colony to Space State — the conscious reversal](labor-colony-to-space-state)
 - [Open Call for Partners](partners)
