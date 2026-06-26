@@ -92,4 +92,5 @@ This is the power of first‑principles physics. Not building complexity upon co
 - [🚫 The Impossibility of the Outside — Why the Universe Is All There Is](impossibility-of-outside)
 - [Matter and Space Are Embedded — Why Vacuum Has No Meaning](matter-space-embedded)
 - [The Opposing Properties of Space and Matter — Why the Cosmos Is Cold](opposing-properties-space-matter)
+- [The Expansion of Matter, Not Space — the motion behind the redshift](expansion-of-matter-not-space)
 - [Open Call for Partners](partners)
