@@ -71,4 +71,5 @@ The extraction narratives are dying. Not because we are fighting them, but becau
 - [The Center of Gravity of Civilization — The Ten Questions](center-of-gravity)
 - [The 38‑Year Gold Cycle — From Gold to Database and the 2047 Meltdown](38-year-gold-cycle)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Energy Governs Energy — the law that decides who leads](energy-governs-energy)
 - [Open Call for Partners](partners)
