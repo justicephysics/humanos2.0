@@ -32,6 +32,7 @@
 - [⚔️ Alexander and the Saint — The Menu of Dissolution for Feudal Lords](alexander-and-the-saint)
 - [🎭 The Unmasked Framework — Energy, Consciousness, and the Death of Extraction Narratives](the-unmasked-framework)
 - [🚫 The Impossibility of the Outside — Why the Universe Is All There Is](impossibility-of-outside)
+- [🏛️ The Bihar Lineage — From the Epics to the Space State](bihar-lineage)
 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
@@ -148,6 +149,7 @@
 - [💚 Support the Mission — Keep the Virtual Nalanda Alive](support-the-mission)
 - [🤝 The Thought Partner — Einstein, Besso, and the Two Y‑Nodes](the-thought-partner)
 - [💚 The Mission Is Personal — Help Me Continue Decoding the Feudal Code](personal-mission-support)
+- [🏛️ The Bihar Lineage — From the Epics to the Space State](bihar-lineage)
   
 ---
 
