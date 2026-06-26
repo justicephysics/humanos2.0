@@ -96,4 +96,5 @@ Everything follows from a single, physical intuition: the cosmos is a block of t
 - [🗺️ The Universe Mapped — Internal Cube, External Sphere, from First Principles](universe-shape-mapped)
 - [The Opposing Properties of Space and Matter — Why the Cosmos Is Cold](opposing-properties-space-matter)
 - [Matter and Space Are Embedded — Why Vacuum Has No Meaning](matter-space-embedded)
+- [Black Holes and Gravitational Waves — the stone‑and‑water analogy in action](black-holes-gravitational-waves-qpb)
 - [Open Call for Partners](partners)
