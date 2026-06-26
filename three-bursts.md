@@ -98,6 +98,7 @@ We now face our own burst. The cure is the same.
 - [The 2025–2065 Window — the 40‑year sub‑cycles and the binary outcome](the-2025-2065-window)
 - [The Mythos Breach — the third burst dissolving the Deep State’s walls](mythos-breach)
 - [Energy Governs Energy — why the looters are already dissolved](energy-governs-energy)
+- [Before and After 1785 — the speed of civilization and the illusion of control](before-after-1785)
 
 *“The pattern is clear. The multiplier leaves no time. The choice is ours.”*
 
