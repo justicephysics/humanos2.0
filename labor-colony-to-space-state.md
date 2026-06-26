@@ -93,4 +93,5 @@ The reversal is not a hope. It is a thermodynamic inevitability. The only questi
 - [The Campus Gate and the Cosmic Gate](campus-gate-cosmic-gate)
 - [The Lollipop Education System — The Examination Industry That Feeds the Feudal Machine](lollipop-education-system)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [The Reversal Is Simple Physics — Newton’s Third Law explains the return](reversal-newtons-third-law)
 - [Open Call for Partners](partners)
