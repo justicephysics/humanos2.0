@@ -83,6 +83,7 @@
 - [🚦 The Black Hole — The Ultimate Traffic Jam of the Cosmos](black-hole-traffic-jam)
 - [🔬🔭 The Two Lenses on Black Holes — Standard Science and the Traffic‑Jam Model](two-lenses-black-holes)
 - [💧🔥 The Hydrogen Thread — From Starfire to Water, the Dual Gift of the Cosmos](hydrogen-thread)
+- [🌐 The Omnipresent QPF — One Plenum, One Universe, Every Scale](qpf-omnipresent)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
