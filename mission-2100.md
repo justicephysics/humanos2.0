@@ -141,4 +141,5 @@ The game has just begun. The cosmos is our mentor. And the children of the commo
 - [The Engineer Hurricane](engineer-hurricane)
 - [The Factory Floor Warriors](factory-floor-warriors)
 - [The True Citizens](true-citizens)
+- [The Horizontal Future — why Mission 2100 must involve all nations and all peoples](horizontal-future)
 - [Open Call for Partners](partners)
