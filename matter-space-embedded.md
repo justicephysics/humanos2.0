@@ -79,4 +79,5 @@ The embeddedness of matter and space is the deepest unity. It is why the univers
 - [The Straight Universe — why we see straight lines in a finite cosmos](straight-universe)
 - [The Internal Cube and the External Sphere — why the plenum hides its true shape](internal-cube-external-sphere)
 - [The Finite, Closed, Conserved Cosmos — the full synthesis of the sealed universe](finite-closed-conserved-cosmos)
+- [The Impossibility of the Outside — why imagination itself cannot escape the plenum](impossibility-of-outside)
 - [Open Call for Partners](partners)
