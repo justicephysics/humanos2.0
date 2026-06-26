@@ -94,4 +94,5 @@ The cosmos is the eternal interplay between these two tendencies. The 2.7 K ba
 - [Light@0Kelvin — The New Discipline](light-at-0k)
 - [The Two Pillars of the Cosmos — and the Third We Must Build](two-pillars-space-state)
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
+- [Matter and Space Are Embedded — the inseparability of the two phases](matter-space-embedded)
 - [Open Call for Partners](partners)
