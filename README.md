@@ -64,6 +64,7 @@
 - [🔒 The Finite, Closed, Conserved Cosmos — Why the Universe Is a Sealed Whole](finite-closed-conserved-cosmos)
 - [🗺️ The Universe Mapped — Internal Cube, External Sphere, from First Principles](universe-shape-mapped)
 - [🌠 The Expansion of Matter, Not Space — Why Galaxies Recede in a Static Plenum](expansion-of-matter-not-space)
+- [⚡ Energy Governs Energy — The Thermodynamic Inevitability of the Space State](energy-governs-energy)
 
 ### 🌌 Cosmology — The Structure and Dynamics of the Y‑Universe
 - [🗺️ The Universe Mapped — Internal Cube, External Sphere, from First Principles](universe-shape-mapped)
