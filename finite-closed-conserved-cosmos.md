@@ -96,4 +96,5 @@ The sealed cosmos is not a prison. It is a perfection. It is the only kind of un
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [How It Works — The Y‑Lattice Explained](how-it-works)
 - [The Impossibility of the Outside — the logical closure of the sealed cosmos](impossibility-of-outside)
+- [The Expansion of Matter, Not Space — how the static plenum permits outward motion](expansion-of-matter-not-space)
 - [Open Call for Partners](partners)
