@@ -140,4 +140,5 @@ Come, build with us.
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [From Labour Colony to Space State — the conscious reversal](labor-colony-to-space-state)
 - [The Reversal Is Simple Physics — the spring is returning](reversal-newtons-third-law)
+- [The Samastipur Prodigy — the next chapter in the Bihar lineage](samastipur-prodigy)
 - [Open Call for Partners](partners)
