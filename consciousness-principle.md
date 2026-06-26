@@ -318,4 +318,5 @@ The Consciousness Principle is not abstract philosophy. It is the **engineering 
 - [The Consciousness Interface — BCIs as a daily alignment tool for C = 1 − D](consciousness-interface)
 - [Intelligence Is Not Wisdom — Harari’s distinction and the C = 1 − D equation](intelligence-vs-wisdom)
 - [The Unmasked Framework — C = 1 − D as part of the complete decoder](the-unmasked-framework)
+- [The Ethics of the Narrow Canal — unconsciousness in the colonial classroom](ethics-cambridge-oxford-eic)
 - [Open Call for Partners](partners)
