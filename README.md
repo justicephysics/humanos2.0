@@ -34,6 +34,7 @@
 - [🚫 The Impossibility of the Outside — Why the Universe Is All There Is](impossibility-of-outside)
 - [🏛️ The Bihar Lineage — From the Epics to the Space State](bihar-lineage)
 - [🔁 From Labour Colony to Space State — The Conscious Reversal of History](labor-colony-to-space-state)
+- [🔄 The Reversal Is Simple Physics — Newton’s Third Law and the Spring of History](reversal-newtons-third-law)
 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
