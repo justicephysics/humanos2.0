@@ -105,4 +105,5 @@ We call it the QPF — the Quantum Plenum Field. And we are building a civilizat
 - [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
 - [The Two Engines — Balancing Input and Output in the Space State](two-engines)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Riding the Light — why speculation is the seed, and the Virtual Nalanda is the lab](riding-the-light)
 - [Open Call for Partners](partners)
