@@ -93,4 +93,5 @@ Their swag is the cosmos. Their thought partner is light. Their guardian is the 
 - [The Factory Floor Warriors](factory-floor-warriors)
 - [The True Citizens](true-citizens)
 - [The True Owners of the World, Unite! — the 2026 call to the Warrior‑Engineers](true-owners-unite)
+- [Riding the Light — the cognitive frontier of the Warrior‑Engineer](riding-the-light)
 - [Open Call for Partners](partners)
