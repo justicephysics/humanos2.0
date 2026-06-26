@@ -78,4 +78,5 @@ The embeddedness of matter and space is the deepest unity. It is why the univers
 - [The Upgraded Equation — E = MC² × L](upgraded-equation)
 - [The Straight Universe — why we see straight lines in a finite cosmos](straight-universe)
 - [The Internal Cube and the External Sphere — why the plenum hides its true shape](internal-cube-external-sphere)
+- [The Finite, Closed, Conserved Cosmos — the full synthesis of the sealed universe](finite-closed-conserved-cosmos)
 - [Open Call for Partners](partners)
