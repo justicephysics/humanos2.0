@@ -88,4 +88,5 @@ The ancient question—“Is the universe infinite or finite? Flat or curved?”
 - [Matter and Space Are Embedded — Why Vacuum Has No Meaning](matter-space-embedded)
 - [How It Works — The Y‑Lattice Explained](how-it-works)
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
+- [The Internal Cube and the External Sphere — the two views of one cosmos](internal-cube-external-sphere)
 - [Open Call for Partners](partners)
