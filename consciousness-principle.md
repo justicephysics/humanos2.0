@@ -319,4 +319,5 @@ The Consciousness Principle is not abstract philosophy. It is the **engineering 
 - [Intelligence Is Not Wisdom — Harari’s distinction and the C = 1 − D equation](intelligence-vs-wisdom)
 - [The Unmasked Framework — C = 1 − D as part of the complete decoder](the-unmasked-framework)
 - [The Ethics of the Narrow Canal — unconsciousness in the colonial classroom](ethics-cambridge-oxford-eic)
+- [The QPF as Catalyst — C = 1 − D and the receptive mind](qpf-catalyst-genius)
 - [Open Call for Partners](partners)
