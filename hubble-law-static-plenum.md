@@ -119,4 +119,5 @@ No stretching void. No creation from zero. No violation of conservation. Just th
 - [🔒 The Finite, Closed, Conserved Cosmos — Why the Universe Is a Sealed Whole](finite-closed-conserved-cosmos)
 - [The Opposing Properties of Space and Matter — Why the Cosmos Is Cold](opposing-properties-space-matter)
 - [The Quantum Plenum Block — why the plenum allows waves to travel so far](quantum-plenum-block)
+- [The Expanding Cloud — the geometric intuition behind Hubble's Law](expanding-cloud)
 - [Open Call for Partners](partners)
