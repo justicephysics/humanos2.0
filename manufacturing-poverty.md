@@ -127,4 +127,5 @@ The UTI threshold (1.80) is the constitutional guarantee that the manufacturing 
 - [The e^m ↔ b^m Cycle — the trap of the 9.99%](earn-more-burn-more)
 - [The Poverty Sticker — the imagination that reveals the manufactured label](the-poverty-sticker)
 - [The Center of Gravity of Civilization — the full synthesis](center-of-gravity)
+- [The Bootstrap Myth — Gates’s quote and the structural lie](bootstrap-myth)
 - [Open Call for Partners](partners)
