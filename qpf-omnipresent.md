@@ -84,4 +84,5 @@ The QPF is not a distant mystery. It is the air we breathe, the space within our
 - [🔗 Matter and Space Are Embedded — Why Vacuum Has No Meaning](matter-space-embedded)
 - [The Physical Continuum — From Cosmos to Consciousness](physical-continuum)
 - [The QPF as Catalyst — how the plenum may transmit insight to receptive minds](qpf-catalyst-genius)
+- [The QPF as the Cosmic Balancer — the thermal duality of the cosmos](qpf-cosmic-balancer)
 - [Open Call for Partners](partners)
