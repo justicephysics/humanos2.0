@@ -109,4 +109,5 @@ No energy is lost. No new energy is created from nothing. The total \(J\) is ete
 - [🔒 The Finite, Closed, Conserved Cosmos — Why the Universe Is a Sealed Whole](finite-closed-conserved-cosmos)
 - [The Dark Label Fallacy — why the percentages are processes, not substances](dark-label-fallacy)
 - [Anne Baring and the QPF — the ancient breath meets the modern plenum](baring-qpf-convergence)
+- [The QPF and the Mystics — the ancient breath and the modern cycle](qpf-and-mystics)
 - [Open Call for Partners](partners)
