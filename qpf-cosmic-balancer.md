@@ -87,4 +87,5 @@ The QPF has been balancing the cosmos for 13.8 billion years. The Space State 
 - [🧊 The Quantum Plenum Block — Water, Rocks, and the Lowest‑Energy Field](quantum-plenum-block)
 - [The Two Pillars of the Cosmos — and the Third We Must Build](two-pillars-space-state)
 - [The Cosmic Breath — how the QPF recycles energy into new matter](the-cosmic-breath)
+- [The Dark Label Fallacy — retiring the dark mystery](dark-label-fallacy)
 - [Open Call for Partners](partners)
