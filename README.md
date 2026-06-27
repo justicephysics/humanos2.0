@@ -88,6 +88,7 @@
 - [💧🔥 The Hydrogen Thread — From Starfire to Water, the Dual Gift of the Cosmos](hydrogen-thread)
 - [🌐 The Omnipresent QPF — One Plenum, One Universe, Every Scale](qpf-omnipresent)
 - [⚖️ The QPF as the Cosmic Balancer — Why Starlight Doesn't Incinerate Us](qpf-cosmic-balancer)
+- [💥 The Expanding Cloud — Why Galaxies Recede Without Stretching Space](expanding-cloud)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
