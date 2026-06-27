@@ -98,4 +98,5 @@ The cosmos is the eternal interplay between these two tendencies. The 2.7 K ba
 - [The Straight Universe — the geometric consequence of the plenum’s minimum‑energy state](straight-universe)
 - [The Finite, Closed, Conserved Cosmos — why the finiteness of matter implies the finiteness of space](finite-closed-conserved-cosmos)
 - [The Hydrogen Thread — the dual role of hydrogen in the cosmos](hydrogen-thread)
+- [The QPF as the Cosmic Balancer — the balance between stellar heat and cosmic cold](qpf-cosmic-balancer)
 - [Open Call for Partners](partners)
