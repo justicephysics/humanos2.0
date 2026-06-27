@@ -66,4 +66,5 @@ This geometric picture is the physical foundation for Hubble's Law in the Static
 - [🌠 The Expansion of Matter, Not Space](expansion-of-matter-not-space)
 - [🗺️ The Universe Mapped — Internal Cube, External Sphere](universe-shape-mapped)
 - [🧊 The Quantum Plenum Block — Water, Rocks, and the Lowest‑Energy Field](quantum-plenum-block)
+- [The Cosmic Breath — the complete cycle of expansion and renewal](the-cosmic-breath)
 - [Open Call for Partners](partners)
