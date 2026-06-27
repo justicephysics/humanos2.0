@@ -157,6 +157,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [🌐 The Omnipresent QPF — One Plenum, One Universe, Every Scale](qpf-omnipresent)
 - [⚖️ The QPF as the Cosmic Balancer — Why Starlight Doesn't Incinerate Us](qpf-cosmic-balancer)
 - [💥 The Expanding Cloud — Why Galaxies Recede Without Stretching Space](expanding-cloud)
+- [🌬️ The Cosmic Breath — From Big Bang to Re‑condensation and Renewal](the-cosmic-breath)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
