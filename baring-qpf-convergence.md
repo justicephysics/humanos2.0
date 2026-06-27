@@ -164,4 +164,5 @@ Anne Baring is not describing a different reality. She is describing, in the lan
 - [🌐 The Omnipresent QPF — One Plenum, One Universe, Every Scale](qpf-omnipresent)
 - [🏷️ The Dark Label Fallacy — Why the Cosmic Percentages Are Dynamic Processes](dark-label-fallacy)
 - [🔗 Matter and Space Are Embedded — Why Vacuum Has No Meaning](matter-space-embedded)
+- [The QPF and the Mystics — the full convergence across traditions](qpf-and-mystics)
 - [Open Call for Partners](partners)
