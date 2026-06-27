@@ -144,4 +144,5 @@ The ancient wisdom and the modern physics are not in conflict. They are two lens
 - [🧠 The QPF as Catalyst — Genius, Insight, and the Cosmic Substrate](qpf-catalyst-genius)
 - [🌐 The Omnipresent QPF — One Plenum, One Universe, Every Scale](qpf-omnipresent)
 - [🔗 Matter and Space Are Embedded — Why Vacuum Has No Meaning](matter-space-embedded)
+- [David Bohm and the Horizontal Future — fragmentation, wholeness, and the compulsion of the bursts](bohm-horizontal-future)
 - [Open Call for Partners](partners)
