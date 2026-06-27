@@ -91,4 +91,5 @@ The Space State is the off‑ramp. It is not a distant utopia; it is an engineer
 - [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Manufacturing Poverty — the lifecycle of manufactured scarcity](manufacturing-poverty)
+- [The Bootstrap Myth — the ideology that keeps the treadmill running](bootstrap-myth)
 - [Open Call for Partners](partners)
