@@ -106,6 +106,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [🔄 The Reversal Is Simple Physics — Newton’s Third Law and the Spring of History](reversal-newtons-third-law)
 - [🐎🚀 Before and After 1785 — The Two Mega‑Parts of Human Civilization](before-after-1785)
 - [🔮 The QPF and the Mystics — The Convergence of Ancient Wisdom and the Y‑Universe](qpf-and-mystics)
+- [🧩 David Bohm and the Horizontal Future — From Fragmentation to Undivided Wholeness](bohm-horizontal-future)
 
 ###  🧠 Consciousness
 - [The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces](consciousness-interface)
