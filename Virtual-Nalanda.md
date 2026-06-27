@@ -155,6 +155,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [🔬🔭 The Two Lenses on Black Holes — Standard Science and the Traffic‑Jam Model](two-lenses-black-holes)
 - [💧🔥 The Hydrogen Thread — From Starfire to Water, the Dual Gift of the Cosmos](hydrogen-thread)
 - [🌐 The Omnipresent QPF — One Plenum, One Universe, Every Scale](qpf-omnipresent)
+- [⚖️ The QPF as the Cosmic Balancer — Why Starlight Doesn't Incinerate Us](qpf-cosmic-balancer)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
