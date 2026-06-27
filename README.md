@@ -91,6 +91,7 @@
 - [💥 The Expanding Cloud — Why Galaxies Recede Without Stretching Space](expanding-cloud)
 - [🌬️ The Cosmic Breath — From Big Bang to Re‑condensation and Renewal](the-cosmic-breath)
 - [🏷️ The Dark Label Fallacy — Why the Cosmic Percentages Are Dynamic Processes, Not Mysterious Substances](dark-label-fallacy)
+- [🌌 The Quantum Plenum — From Anne Baring to the QPF](baring-qpf-convergence)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
