@@ -89,4 +89,5 @@ The expansion of the universe, long treated as a mystery requiring an inflating 
 - [🔒 The Finite, Closed, Conserved Cosmos — Why the Universe Is a Sealed Whole](finite-closed-conserved-cosmos)
 - [The Opposing Properties of Space and Matter — Why the Cosmos Is Cold](opposing-properties-space-matter)
 - [Matter and Space Are Embedded — Why Vacuum Has No Meaning](matter-space-embedded)
+- [The Expanding Cloud — why the debris‑cloud pattern explains the recession](expanding-cloud)
 - [Open Call for Partners](partners)
