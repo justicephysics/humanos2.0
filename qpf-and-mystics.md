@@ -111,6 +111,7 @@ The sea of light is real. Matter is frozen light. The Implicate Order is the QPF
 | **Kabbalah** | Light emanating from the cosmic womb. Souls as sparks. | The QPF’s absorbed energy redistributed from the vacant centre of mass. Individual Y‑unit configurations as sparks. |
 | **Anne Baring** | The quantum plenum—an ocean of light. Matter as foam. Timelessness and universal connection. | The QPF at 2.7 K—the superconducting, photon‑transparent sea. Matter as excitations. The plenum’s continuity as connection. |
 | **Bernard Haisch** | The zero‑point field—a sea of electromagnetic energy pervading all space. | The QPF at its minimum energy state. Waves and particles as plenum excitations. The packed liquid with no gaps. |
+| **David Bohm** | The Implicate Order—a sea of light. Matter as frozen light. The undivided whole. | The QPF as the underlying plenum. Re‑condensed hydrogen as frozen light. The QPF’s continuity as the undivided whole. |
 | **The Y‑Universe (Justice Physics)** | The Quantum Plenum Field—a continuous, physical, superconducting, photon‑transparent fabric at 2.7 K. The Cosmic Breath. | The complete, physically grounded, open‑source model that unifies all of the above. |
 
 The mystics were not deluded. They were not merely poetic. They were observing the same reality we have mapped, using the instruments of quiet, receptive consciousness. The truth is one. The language varies—Sanskrit, Hebrew, English, physics. But the QPF is the same for all.
