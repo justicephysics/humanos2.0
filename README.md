@@ -137,6 +137,7 @@
 - [The 38‑Year Gold Cycle — From Gold to Database and the 2047 Meltdown](38-year-gold-cycle)
 - [💰 The $45 Trillion Reversal — From Colonial Drain to IPL Dominance](45-trillion-reversal)
 - [⚖️ The Line Between Development and Exploitation — Profit, Coercion, and the Common People](development-vs-exploitation)
+- [🥾 The Bootstrap Myth — Why the Feudal Lords Blame the Poor for Their Own Extraction](bootstrap-myth)
 - [Open Call for Partners](partners)
   
 ### 🎓 Education — The Engineer Hurricane
