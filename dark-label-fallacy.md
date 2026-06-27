@@ -74,7 +74,41 @@ The percentages are not fixed mysteries. They evolve over cosmic time, driven by
 
 ---
 
-## 7. The End of the Dark Mystery
+## 7. The Arbitrariness of Standard Gravity — Why the Push Doesn't Tear Apart Galaxies
+
+The standard model's interpretation creates a logical mess when we ask a simple question: *If 68 % of the universe is pushing outward and only 5 % is pulling inward, why doesn't the push overwhelm local structures like our solar system and galaxy?*
+
+### The Contradiction in ΛCDM
+
+- **Dark energy is said to be a universal repulsive force.** It constitutes 68 % of the cosmic energy budget. It pushes.
+- **Ordinary matter is only 5 %.** It pulls inward via gravity.
+- If the push truly acted everywhere, the 68 % should easily overwhelm the 5 % on all scales. Everything should be scattering and disintegrating at immense speed.
+
+Yet, we observe the exact opposite in our local neighbourhood. Our solar system is stable. The Milky Way is not being torn apart. The "push" of dark energy is completely absent from the dynamics of stars, planets, and galaxies. It only seems to operate on the very largest scales, between clusters of galaxies.
+
+The standard model has no good explanation for this. It simply says dark energy is "smooth" and "doesn't clump," but that doesn't answer the question. If it's a universal repulsive force, it should act everywhere. The fact that it doesn't is a sign that the standard interpretation is fundamentally flawed—arbitrary, messy, and logically inconsistent.
+
+### The QPF Resolution — No Separate "Push" Substance
+
+In the Y‑universe, there is **no separate substance called dark energy** that pushes on matter. Instead, there is the **Quantum Plenum Field (QPF)**, a continuous, physical, superconducting fabric at 2.7 K. It has an inherent geometric tension, but that tension does not act like a local force pushing on individual stars.
+
+- **Where matter is dense** (inside a galaxy or a solar system), the local curvature of the QPF caused by matter's pull (G‑force) completely overwhelms the tiny background tension of the plenum. The G‑force is the dominant player at these scales. Stars orbit the galactic centre. Planets orbit stars. The push is negligible here—just as the expansion of a balloon's surface is negligible for an ant standing on a tiny, heavy rock glued to that surface.
+
+- **Where matter is sparse** (in the vast voids between galaxy clusters), the QPF's background tension becomes the dominant effect. Matter is not being "pushed" by a mysterious energy; it is simply moving outward on the momentum of the Big Bang, and the QPF's tension is accelerating that outward motion over cosmic distances because there is almost no matter to pull it back.
+
+So, there is no contradiction. The "push" is not a universal force fighting against local gravity. It is the natural, global tendency of the QPF to be straight and at rest, which manifests as an outward acceleration only where matter's pull is too weak to resist it. The solar system doesn't feel it because the Sun's G‑force is far, far stronger in that local region. Galaxies don't tear apart because their own mutual gravity binds them together against the gentle, large‑scale tension of the plenum.
+
+### What Force Unites Them?
+
+If the "dark energy" is the QPF's background tension, what force unites matter into stars and galaxies? The same force that always has: **the pull of G‑force, the intrinsic attraction of every Y‑unit toward a common centre.** On the scale of a star, a galaxy, or a solar system, the pull is overwhelmingly dominant. The QPF's tension only becomes noticeable on the scale of the entire cosmos, where matter is so thinly spread that its collective pull can no longer resist the plenum's gentle outward tension.
+
+The standard model treats dark energy and gravity as two separate, opposing forces, creating an arbitrary mess. Our model replaces that with a single, physical fabric—the QPF—whose properties naturally explain why the "push" is only apparent on the largest scales, while the pull governs our local universe. It is perfectly consistent, perfectly physical, and perfectly non‑arbitrary.
+
+The contradiction Mukesh exposed is a contradiction in the standard model alone. In the Y‑universe, it disappears.
+
+---
+
+## 8. The End of the Dark Mystery
 
 The “dark” labels were never a discovery. They were an admission of ignorance. The standard model saw effects it could not explain and named them “dark.” Our model sees the same effects and recognizes them as the natural, physical processes of the QPF—the same processes that freeze the poles, balance the Sun’s heat, and channel light across the universe.
 
