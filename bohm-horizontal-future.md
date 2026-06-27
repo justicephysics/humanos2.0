@@ -40,7 +40,46 @@ Bohm’s insight that relativity and quantum theory demand a non‑fragmentary w
 
 ---
 
-## 4. The Horizontal Future — Undivided Wholeness as a Compulsion
+## 4. The Big Bang as a Wave Pulse — Bohm and the Cosmic Breath
+
+Bohm’s own vision of the birth of the universe was strikingly different from the standard “Big Bang” singularity. He described it in terms that directly anticipate our model of the Cosmic Breath:
+
+> *“Bohm saw the birth of the universe… more in the nature of a sudden wave pulse arising out of the fathomless ocean of cosmic energy. ‘This pulse would explode outward and break up into smaller ripples that spread yet further outward to constitute our “expanding universe”. The latter would have its “space” enfolded within it as a special distinguished explicate and manifest order.’”*
+
+Every element of this description maps onto the Y‑universe with precision.
+
+### The Fathomless Ocean — The QPF
+
+The “fathomless ocean of cosmic energy” is the **Quantum Plenum Field (QPF)** — the continuous, eternal, superconducting plenum at 2.7 K. It is the Implicate Order, the underlying ground that is always present, always quiet, always absorbing and recycling the energy of the cosmos. It is the sea from which all waves arise and to which all ripples return.
+
+### The Sudden Wave Pulse — The Big Bang Exhale
+
+The “sudden wave pulse” is the **Big Bang** — the phase transition we call \(P\). It is the moment when the push (\(E = MC^2\)) overwhelms the pull (G‑force) at the common centre of mass. A single, catastrophic release of locked energy flings matter outward in all directions. This is the exhale of the Cosmic Breath—not the creation of something from nothing, but a pulse propagating through the eternal ocean.
+
+### The Smaller Ripples — Galaxies and Structure
+
+The pulse “breaks up into smaller ripples that spread yet further outward.” These ripples are the **galaxies, clusters, and large‑scale structures** of the expanding debris cloud. Each ripple is a local concentration of matter—frozen light, as Bohm would say—still coasting outward on the momentum of that ancient pulse, moving through the static plenum.
+
+### Space Enfolded Within — The Embedded Plenum
+
+Bohm’s most profound insight is that “space” is enfolded within this pulse as a “special distinguished explicate and manifest order.” This is precisely our principle of **embeddedness**: matter and space are not separate. The QPF permeates every point of the expanding matter. As matter spreads, the cold, straight plenum is revealed. The “expansion of the universe” is not the creation of new space; it is the unfolding of the QPF that was always there, now made visible as matter vacates the centre.
+
+### The Convergence
+
+Bohm’s wave‑pulse cosmology and our Cosmic Breath are the same reality:
+
+| Bohm’s Description | Y‑Universe (QPF) |
+|--------------------|------------------|
+| The fathomless ocean of cosmic energy | The QPF at 2.7 K — the eternal ground state |
+| The sudden wave pulse | The Big Bang — the exhale, the phase transition \(P\) |
+| Smaller ripples spreading outward | Galaxies and clusters — the expanding debris cloud |
+| Space enfolded within the pulse | Matter and space embedded — the QPF revealed by expansion |
+
+Bohm saw the wholeness. The energy bursts are enforcing it. The Space State is the civilization that builds on this unified vision.
+
+---
+
+## 5. The Horizontal Future — Undivided Wholeness as a Compulsion
 
 Our framework has already mapped the response to this dissolution. The Horizontal Future is the civilizational architecture of undivided wholeness.
 
@@ -56,7 +95,7 @@ This is not a utopian ideal. It is a **thermodynamic necessity.** The data is sc
 
 ---
 
-## 5. The QPF — The Undivided Whole, Physically Realized
+## 6. The QPF — The Undivided Whole, Physically Realized
 
 Bohm’s Implicate Order — the underlying sea of light and energy that connects all things — is not a metaphor. It is the **Quantum Plenum Field (QPF)** , the continuous, superconducting, photon‑transparent fabric at 2.7 K.
 
@@ -68,7 +107,7 @@ Bohm’s vision and our physics converge. The undivided wholeness is not a philo
 
 ---
 
-## 6. The Compulsion — From Option to Necessity
+## 7. The Compulsion — From Option to Necessity
 
 The Horizontal Future is no longer an option among many. It is a compulsion. The fragments are dissolving. The bursts are accelerating. The choice is not between wholeness and fragmentation; it is between a **conscious transition** to the Space State, or a **violent correction** by the physics we have ignored.
 
