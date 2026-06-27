@@ -107,4 +107,5 @@ We call it the QPF — the Quantum Plenum Field. And we are building a civilizat
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Riding the Light — why speculation is the seed, and the Virtual Nalanda is the lab](riding-the-light)
 - [Anne Baring and the QPF — the memory field and the cosmic womb](baring-qpf-convergence)
+- [The QPF and the Mystics — the convergence of all wisdom traditions](qpf-and-mystics)
 - [Open Call for Partners](partners)
