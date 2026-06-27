@@ -110,4 +110,5 @@ The energy burst is already here. The choice is not whether change will come; it
 - [⚡ Energy Governs Energy — The Thermodynamic Inevitability of the Space State](energy-governs-energy)
 - [The 2025–2065 Window — Collapse, Transition, or Both](the-2025-2065-window)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [David Bohm and the Horizontal Future — the philosophical foundation of the Horizontal Future](bohm-horizontal-future)
 - [Open Call for Partners](partners)
