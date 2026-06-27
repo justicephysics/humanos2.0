@@ -158,6 +158,7 @@ The Virtual Nalanda exists to share this complete blueprint — freely, openly, 
 - [⚖️ The QPF as the Cosmic Balancer — Why Starlight Doesn't Incinerate Us](qpf-cosmic-balancer)
 - [💥 The Expanding Cloud — Why Galaxies Recede Without Stretching Space](expanding-cloud)
 - [🌬️ The Cosmic Breath — From Big Bang to Re‑condensation and Renewal](the-cosmic-breath)
+- [🏷️ The Dark Label Fallacy — Why the Cosmic Percentages Are Dynamic Processes, Not Mysterious Substances](dark-label-fallacy)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
