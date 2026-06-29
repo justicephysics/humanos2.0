@@ -3,9 +3,9 @@
 **We are building the infrastructure that makes the trillion‑dollar hardware monopoly obsolete.**
 
 ---
-
-- [Read the Prototype Overview](prototype-overview) for the full vision.
-- [The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
+### Please read it:
+- [🌟 The Snapshot Prototype — Overview](prototype-overview)
+- [🧬 The Hybrid Protocol — Image Lane and Cell Lane](hybrid-protocol)
   
 ---
 
