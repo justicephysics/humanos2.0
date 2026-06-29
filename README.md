@@ -4,17 +4,80 @@
 
 ---
 
-## Quick Navigation
-- [🚀 New Here? Start Here](start-here)
-
----
-
 ## 🧭 Explore the Blueprint — The Eight Disciplines of HumanOS 2.0
 
 ### 🛠️ Prototype & Pitch
 - [🔧 Phase 1 Prototype Specification](prototype-phase1)
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
 
+### 🛠️ Engineering — The Hardware of HumanOS 2.0
+- [The Simple Engineering Vision](simple-engineering-vision)
+- [Chip Architecture Detail](chip-architecture)
+- [The Roadmap to Light@0K Computing](roadmap-light-0k)
+- [Visual Proofs & Simulations](visual-proofs)
+- [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
+- [The ASML Locked Puzzle Box — The Feudal Gate in Hardware](asml-locked-puzzle-box)
+- [Cold Solar — Rotational Photovoltaic Panels at 2.7 K](cold-solar)
+- [The Three Pillars of Computation — Speed, Bandwidth, Scaling](three-pillars-computation)
+- [Light‑Driven Switching — The Lab Validates the Cosmic Architecture](light-driven-switching)
+- [Phone Cluster Computing — Google Validates the Modular Principle](phone-cluster-computing)
+- [The Retrofit Revolution — Outperform the Feudal Lords with Older Nodes](retrofit-revolution)
+- [Google’s Phone Cluster vs. The Space State — Same Principle, Different Universe](google-vs-space-state)
+- [Physical AI — Why Prometheus Validates the Space State Blueprint](physical-ai-prometheus)
+- [Industry Convergence — Why Google and Bezos Are Validating the Space State Blueprint](industry-convergence)
+
+### 💰 Economics — The End of Artificial Scarcity
+- [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
+- [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
+- [UN Warning — AI's Environmental Crisis and the Canal Dogma](un-ai-environmental-crisis)
+- [The Fortune 500 Feudalism — The Lords and Their Serfs](fortune-500-feudalism)
+- [The AI Feudal Money Chain — The $15 Trillion Bill](ai-feudal-money-chain)
+- [Money from Nothing — The Central Bank Canal](money-from-nothing)
+- [The True Citizens — Guardians of the Soil, Not Cattle Fodder](true-citizens)
+- [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
+- [The Lollipop Economy — How the Feudal Lords Keep Us Distracted](lollipop-economy)
+- [The Bunker Paradox — Why the Feudal Lords Are Building Escape Pods](billionaire-bunkers)
+- [The Sea Farming Revolution — Agriculture Beneath the Waves](sea-farming-revolution)
+- [The AI Feudal Gate — When Governments Shut Down the Tools of Liberation](ai-feudal-gate)
+- [The Trillionaire and the Student — The Two Faces of the Lollipop Economy](trillionaire-vs-student-debt)
+- [The Debt Treadmill — How the Extraction Protocol Traps Every Generation](the-debt-treadmill)
+- [Token Colonialism — Why Nadella's Warning Validates the Space State](token-colonialism)
+- [Manufacturing Poverty — The Infant Is Not Born Poor](manufacturing-poverty)
+- [Universal Scarcity — The Lie That Justifies Feudal Extraction](universal-scarcity)
+- [The e^m ↔ b^m Cycle — Earn More, Burn More](earn-more-burn-more)
+- [Why Earn More? Why Burn More? — The Feudal Recycling Machine](why-earn-more-burn-more)
+- [The 9.99% Cap — The Feudal Consumer Pump](the-9-99-percent-cap)
+- [⚖️ The Center of Gravity of Civilization — The Ten Questions](center-of-gravity)
+- [The Anti‑Incumbency Valve — How the Political Heat Sink Protects the Feudal Protocol](anti-incumbency-valve)
+- [The 38‑Year Gold Cycle — From Gold to Database and the 2047 Meltdown](38-year-gold-cycle)
+- [💰 The $45 Trillion Reversal — From Colonial Drain to IPL Dominance](45-trillion-reversal)
+- [⚖️ The Line Between Development and Exploitation — Profit, Coercion, and the Common People](development-vs-exploitation)
+- [🥾 The Bootstrap Myth — Why the Feudal Lords Blame the Poor for Their Own Extraction](bootstrap-myth)
+- [Open Call for Partners](partners)
+  
+### 🎓 Education — The Engineer Hurricane
+- [Virtual Nalanda — The Journey in Brief](Virtual-Nalanda)
+- [The Engineer Hurricane — How Open Education Will Drown the Silicon Feudalism](engineer-hurricane)
+- [Challenges & Open Problems](challenges)
+- [The Factory Floor Warriors — From Robot to Innovator](factory-floor-warriors)
+- [The Campus Gate and the Cosmic Gate](campus-gate-cosmic-gate)
+- [The 1,000 Infants Test Case — An Open Challenge to Every Elite University](test-case-1000-infants)
+- [🎓 The Lollipop Education System — The Examination Industry That Feeds the Feudal Machine](lollipop-education-system)
+- [🏛️ Pravaha and the Reawakening of Bihar — The Convergence of Y‑Nodes](pravaha-bihar-convergence)
+- [🎓 The Ethics of the Narrow Canal — Cambridge, Oxford, and the East India Company](ethics-cambridge-oxford-eic)
+
+### 🎯 Strategy — Mission 2100 and Beyond
+- [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
+- [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
+- [The Cosmic Cold Chain — From Farm to Table, Cooled by the Cosmos](cosmic-cold-chain)
+- [The Warrior‑Engineer — Swag of the Cosmos](warrior-engineer-identity)
+- [The Cold Submarine Fleet — The Deep Ocean Highway](cold-submarine-fleet)
+- [The Geopolitics of the Canal Dogma — Why Empires Cannot Contain the Cosmic Burst](geopolitics-canal-dogma)
+- [The True Owners of the World, Unite!](true-owners-unite)
+- [The Real Owners Unite — The Quiet Wipeout of the Feudal Lords](real-owners-unite)
+- [The 2025–2065 Window — Collapse, Transition, or Both](the-2025-2065-window)
+- [🔓 The Mythos Breach — The Dissolution of Classified Walls](mythos-breach)
+- [🌍 The Horizontal Future — From Vertical Extraction to Global Cooperation](horizontal-future)
 
 ### 🔮 Philosophy — The Invisible Beliefs That Shape Civilizations
 - [Canal Dogma — The Invisible Belief](canal-dogma)
@@ -99,75 +162,6 @@
 - [🌬️ The Cosmic Breath — From Big Bang to Re‑condensation and Renewal](the-cosmic-breath)
 - [🏷️ The Dark Label Fallacy — Why the Cosmic Percentages Are Dynamic Processes, Not Mysterious Substances](dark-label-fallacy)
 - [🌌 The Quantum Plenum — From Anne Baring to the QPF](baring-qpf-convergence)
-
-### 🛠️ Engineering — The Hardware of HumanOS 2.0
-- [The Simple Engineering Vision](simple-engineering-vision)
-- [Chip Architecture Detail](chip-architecture)
-- [The Roadmap to Light@0K Computing](roadmap-light-0k)
-- [Visual Proofs & Simulations](visual-proofs)
-- [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
-- [The ASML Locked Puzzle Box — The Feudal Gate in Hardware](asml-locked-puzzle-box)
-- [Cold Solar — Rotational Photovoltaic Panels at 2.7 K](cold-solar)
-- [The Three Pillars of Computation — Speed, Bandwidth, Scaling](three-pillars-computation)
-- [Light‑Driven Switching — The Lab Validates the Cosmic Architecture](light-driven-switching)
-- [Phone Cluster Computing — Google Validates the Modular Principle](phone-cluster-computing)
-- [The Retrofit Revolution — Outperform the Feudal Lords with Older Nodes](retrofit-revolution)
-- [Google’s Phone Cluster vs. The Space State — Same Principle, Different Universe](google-vs-space-state)
-- [Physical AI — Why Prometheus Validates the Space State Blueprint](physical-ai-prometheus)
-- [Industry Convergence — Why Google and Bezos Are Validating the Space State Blueprint](industry-convergence)
-
-### 💰 Economics — The End of Artificial Scarcity
-- [Secondary Solutions vs. The Permanent Cure](secondary-vs-permanent-cure)
-- [The Silicon Feudalism — How Monopoly Keeps the Canal Narrow](silicon-feudalism)
-- [UN Warning — AI's Environmental Crisis and the Canal Dogma](un-ai-environmental-crisis)
-- [The Fortune 500 Feudalism — The Lords and Their Serfs](fortune-500-feudalism)
-- [The AI Feudal Money Chain — The $15 Trillion Bill](ai-feudal-money-chain)
-- [Money from Nothing — The Central Bank Canal](money-from-nothing)
-- [The True Citizens — Guardians of the Soil, Not Cattle Fodder](true-citizens)
-- [The TI Theorem — The Measurement That Replaces GDP](ti-theorem)
-- [The Lollipop Economy — How the Feudal Lords Keep Us Distracted](lollipop-economy)
-- [The Bunker Paradox — Why the Feudal Lords Are Building Escape Pods](billionaire-bunkers)
-- [The Sea Farming Revolution — Agriculture Beneath the Waves](sea-farming-revolution)
-- [The AI Feudal Gate — When Governments Shut Down the Tools of Liberation](ai-feudal-gate)
-- [The Trillionaire and the Student — The Two Faces of the Lollipop Economy](trillionaire-vs-student-debt)
-- [The Debt Treadmill — How the Extraction Protocol Traps Every Generation](the-debt-treadmill)
-- [Token Colonialism — Why Nadella's Warning Validates the Space State](token-colonialism)
-- [Manufacturing Poverty — The Infant Is Not Born Poor](manufacturing-poverty)
-- [Universal Scarcity — The Lie That Justifies Feudal Extraction](universal-scarcity)
-- [The e^m ↔ b^m Cycle — Earn More, Burn More](earn-more-burn-more)
-- [Why Earn More? Why Burn More? — The Feudal Recycling Machine](why-earn-more-burn-more)
-- [The 9.99% Cap — The Feudal Consumer Pump](the-9-99-percent-cap)
-- [⚖️ The Center of Gravity of Civilization — The Ten Questions](center-of-gravity)
-- [The Anti‑Incumbency Valve — How the Political Heat Sink Protects the Feudal Protocol](anti-incumbency-valve)
-- [The 38‑Year Gold Cycle — From Gold to Database and the 2047 Meltdown](38-year-gold-cycle)
-- [💰 The $45 Trillion Reversal — From Colonial Drain to IPL Dominance](45-trillion-reversal)
-- [⚖️ The Line Between Development and Exploitation — Profit, Coercion, and the Common People](development-vs-exploitation)
-- [🥾 The Bootstrap Myth — Why the Feudal Lords Blame the Poor for Their Own Extraction](bootstrap-myth)
-- [Open Call for Partners](partners)
-  
-### 🎓 Education — The Engineer Hurricane
-- [Virtual Nalanda — The Journey in Brief](Virtual-Nalanda)
-- [The Engineer Hurricane — How Open Education Will Drown the Silicon Feudalism](engineer-hurricane)
-- [Challenges & Open Problems](challenges)
-- [The Factory Floor Warriors — From Robot to Innovator](factory-floor-warriors)
-- [The Campus Gate and the Cosmic Gate](campus-gate-cosmic-gate)
-- [The 1,000 Infants Test Case — An Open Challenge to Every Elite University](test-case-1000-infants)
-- [🎓 The Lollipop Education System — The Examination Industry That Feeds the Feudal Machine](lollipop-education-system)
-- [🏛️ Pravaha and the Reawakening of Bihar — The Convergence of Y‑Nodes](pravaha-bihar-convergence)
-- [🎓 The Ethics of the Narrow Canal — Cambridge, Oxford, and the East India Company](ethics-cambridge-oxford-eic)
-
-### 🎯 Strategy — Mission 2100 and Beyond
-- [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
-- [Village Transformation — A Self‑Sustaining Ecosystem](village-transformation)
-- [The Cosmic Cold Chain — From Farm to Table, Cooled by the Cosmos](cosmic-cold-chain)
-- [The Warrior‑Engineer — Swag of the Cosmos](warrior-engineer-identity)
-- [The Cold Submarine Fleet — The Deep Ocean Highway](cold-submarine-fleet)
-- [The Geopolitics of the Canal Dogma — Why Empires Cannot Contain the Cosmic Burst](geopolitics-canal-dogma)
-- [The True Owners of the World, Unite!](true-owners-unite)
-- [The Real Owners Unite — The Quiet Wipeout of the Feudal Lords](real-owners-unite)
-- [The 2025–2065 Window — Collapse, Transition, or Both](the-2025-2065-window)
-- [🔓 The Mythos Breach — The Dissolution of Classified Walls](mythos-breach)
-- [🌍 The Horizontal Future — From Vertical Extraction to Global Cooperation](horizontal-future)
 
 ### 🌐 Community
 - [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
