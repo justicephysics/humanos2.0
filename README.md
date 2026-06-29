@@ -4,6 +4,11 @@
 
 ---
 
+## हिंदी के लिए इस लिंक का इस्तेमाल करें: 
+- [हिंदी लिंक ](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=hi&_x_tr_hl=en-US&_x_tr_pto=wapp)
+
+---
+
 ## 🧭 Explore the Blueprint — The Eight Disciplines of HumanOS 2.0
 
 ### 🛠️ Prototype & Pitch
