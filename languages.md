@@ -10,12 +10,7 @@ We use the Google Translate web proxy, which takes the original English URL and 
 
 ---
 
-## First press it:
-
-[Default](https://justicephysics.github.io/humanos2.0/)
-
-
-## Then Press Available Languages
+## Available Languages
 
 ### Indian Languages
 - [हिन्दी (Hindi)](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=hi&_x_tr_hl=en-US&_x_tr_pto=wapp)
