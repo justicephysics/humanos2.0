@@ -28,7 +28,7 @@ Today, the Indian Premier League (IPL) is the most valuable cricket property on 
 - **Innovation** — the IPL format itself, a product of Indian creativity and market understanding.
 - **Audience** — the passion of a billion people, cultivated over decades, not coerced.
 
-This is \(L = 1\) in action: value created, distributed, and reinvested — not extracted. The same country that was drained of $45 trillion now generates billions through genuine economic creation.
+This is $\(L = 1\)$ in action: value created, distributed, and reinvested — not extracted. The same country that was drained of $45 trillion now generates billions through genuine economic creation.
 
 And now, the former colonizer demands “fair distribution.” The irony is perfect.
 
@@ -44,7 +44,7 @@ This is the **Canal Dogma in its rhetorical form.** The narrow canal is justifie
 
 The hypocrisy exposes the underlying truth: **the feudal mind cannot conceive of genuine creation.** It only understands extraction. It assumes that wealth is always taken from someone else — because that is how it has always operated.
 
-India’s cricket success is a threat precisely because it disproves this assumption. It shows that wealth can be built, not extracted. It demonstrates \(L = 1\) at the scale of a global sport.
+India’s cricket success is a threat precisely because it disproves this assumption. It shows that wealth can be built, not extracted. It demonstrates $\(L = 1\)$ at the scale of a global sport.
 
 ---
 
@@ -58,7 +58,7 @@ This is not merely a political or economic story. It is a **thermodynamic correc
 
 Newton’s Third Law is absolute: *For every action, there is an equal and opposite reaction.* Time does not appear in the law. The reaction does not expire. The British compression stored the potential; the British Empire vaporized; the potential is releasing.
 
-The IPL is not an isolated phenomenon. It is a single, visible manifestation of the much larger reversal — the shift from the Labour Colony to the Space State, from extraction to creation, from \(L \to 0\) to \(L = 1\).
+The IPL is not an isolated phenomenon. It is a single, visible manifestation of the much larger reversal — the shift from the Labour Colony to the Space State, from extraction to creation, from $\(L \to 0\) to \(L = 1\)$.
 
 ---
 
@@ -73,7 +73,7 @@ The $45 trillion drain and the IPL dominance are two points on a single trajecto
 | **Economic Liberalization (1991–2025)** | The spring accelerates. India’s economy grows. The IPL emerges. Indian talent goes global. |
 | **The Space State (2025 →)** | The full reversal. Justice Physics decodes the extraction protocol. The Virtual Nalanda replaces the narrow gates. The Light@2.7 K Web provides free, open‑source computation. India becomes a node in the distributed Space State fabric — no longer a colony, no longer a “developing nation,” but a guardian of the cosmic commons. |
 
-The IPL is a microcosm of this trajectory. It shows that creation outpaces extraction. It proves that \(L = 1\) is more powerful than any narrow canal.
+The IPL is a microcosm of this trajectory. It shows that creation outpaces extraction. It proves that $\(L = 1\)$ is more powerful than any narrow canal.
 
 ---
 
