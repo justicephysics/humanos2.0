@@ -13,8 +13,8 @@ We use the Google Translate web proxy, which takes the original English URL and 
 ## Available Languages
 
 ### Indian Languages
-- [हिन्दी (Hindi)](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=hi&_x_tr_hl=en-US&_x_tr_pto=wapp)
-- [বাংলা (Bengali)](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=bn&_x_tr_hl=en-US&_x_tr_pto=wapp)
+- [हिन्दी (Hindi)] (https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=hi&_x_tr_hl=en-US&_x_tr_pto=wapp)
+- [বাংলা (Bengali)] (https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=bn&_x_tr_hl=en-US&_x_tr_pto=wapp)
 - [తెలుగు (Telugu)](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=te&_x_tr_hl=en-US&_x_tr_pto=wapp)
 - [मराठी (Marathi)](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=mr&_x_tr_hl=en-US&_x_tr_pto=wapp)
 - [தமிழ் (Tamil)](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=ta&_x_tr_hl=en-US&_x_tr_pto=wapp)
