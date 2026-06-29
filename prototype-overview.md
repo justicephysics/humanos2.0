@@ -5,6 +5,10 @@ We are proving that local speed is irrelevant.*
 
 ---
 
+- [Read: The Hybrid Protocol — Image Lane and Cell Lane](hybrid-protocol)
+
+---
+
 ## The Core Insight
 
 Every handheld, laptop, and desktop today is priced by how fast its local chip can process data.  
