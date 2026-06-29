@@ -4,6 +4,10 @@
 
 ---
 
+- [Read the Prototype Overview](prototype-overview) for the full vision.
+  
+---
+
 ## The Problem
 - **Speed = Monopoly.** The consumer electronics industry locks performance inside expensive, quickly‑obsolete local chips (the ASML→TSMC→Apple/NVIDIA chain).
 - **Planned obsolescence** forces a new device every 1‑2 years.
