@@ -9,6 +9,7 @@
 ### 🛠️ Prototype & Pitch
 - [🌟 The Snapshot Prototype — Overview](prototype-overview)
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
+- [🧬 The Hybrid Protocol — Image Lane and Cell Lane](hybrid-protocol)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
 - [The Simple Engineering Vision](simple-engineering-vision)
