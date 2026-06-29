@@ -5,6 +5,7 @@
 ---
 
 ## Languages: 
+
 - [हिंदी लिंक](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=hi&_x_tr_hl=en-US&_x_tr_pto=wapp)
 - [English Link](https://justicephysics.github.io/humanos2.0/)
 
