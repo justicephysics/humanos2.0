@@ -5,6 +5,7 @@
 ---
 
 - [Read the Prototype Overview](prototype-overview) for the full vision.
+- [The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
   
 ---
 
