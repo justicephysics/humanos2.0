@@ -7,7 +7,7 @@
 ## 🧭 Explore the Blueprint — The Eight Disciplines of HumanOS 2.0
 
 ### 🛠️ Prototype & Pitch
-- [🔧 Phase 1 Prototype Specification](prototype-phase1)
+- [🌟 The Snapshot Prototype — Overview](prototype-overview)
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
 
 ### 🛠️ Engineering — The Hardware of HumanOS 2.0
