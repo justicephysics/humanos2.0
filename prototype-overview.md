@@ -6,7 +6,6 @@ We are proving that local speed is irrelevant.*
 ---
 
 - [Read: The Hybrid Protocol — Image Lane and Cell Lane](hybrid-protocol)
-- [The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
 
 ---
 
