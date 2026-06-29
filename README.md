@@ -11,6 +11,11 @@
 
 ## 🧭 Explore the Blueprint — The Eight Disciplines of HumanOS 2.0
 
+### 🛠️ Prototype & Pitch
+- [🔧 Phase 1 Prototype Specification](prototype-phase1)
+- [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
+
+
 ### 🔮 Philosophy — The Invisible Beliefs That Shape Civilizations
 - [Canal Dogma — The Invisible Belief](canal-dogma)
 - [Canal Ontology — The Universal Law of Collapse and Cure](canal-ontology)
