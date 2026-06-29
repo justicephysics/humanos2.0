@@ -6,7 +6,6 @@
 
 ## Languages: 
 
-- [🌐 Languages](https://justicephysics.github.io/humanos2.0/languages)
 - [🌐 Languages](https://justicephysics.github.io/humanos2.0/languages.html)
 
 ---
