@@ -7,6 +7,7 @@
 ## Languages: 
 
 - [🌐 Languages — The Virtual Nalanda in Every Tongue](languages)
+- [🌐 Languages — The Virtual Nalanda in Every Tongue](https://justicephysics.github.io/humanos2.0/languages)
 
 ---
 
