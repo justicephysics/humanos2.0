@@ -181,6 +181,7 @@
 - [🔁 From Labour Colony to Space State — The Conscious Reversal of History](labor-colony-to-space-state)
 - [🏏 The Samastipur Prodigy — Vaibhav Suryavanshi and the Reversal of the Colonial Canal](samastipur-prodigy)
 - [🌍 The Horizontal Future — From Vertical Extraction to Global Cooperation](horizontal-future)
+- [🌐 Languages — The Virtual Nalanda in Every Tongue](languages)
   
 ---
 
