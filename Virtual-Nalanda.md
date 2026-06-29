@@ -4,6 +4,11 @@
 
 ---
 
+## हिंदी के लिए इस लिंक का इस्तेमाल करें: 
+- [हिंदी लिंक ](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=hi&_x_tr_hl=en-US&_x_tr_pto=wapp)
+
+---
+
 ## 1. The Cosmos — A Universe Without Traffic Jams
 
 We began by asking simple questions: *What was before the Big Bang? Why is space cold? What physically are dark matter and dark energy?*
