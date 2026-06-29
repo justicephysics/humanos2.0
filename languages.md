@@ -42,19 +42,8 @@ We use the Google Translate web proxy, which takes the original English URL and 
 - [فارسی (Persian)](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=fa&_x_tr_hl=en-US&_x_tr_pto=wapp)
 - [Kiswahili (Swahili)](https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=sw&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
-### Original
-- [English (Original)](https://justicephysics.github.io/humanos2.0/)
-
----
-
-## How to Add a New Language
-
-1. Take the original URL: `https://justicephysics.github.io/humanos2.0/`
-2. Prepend the Google Translate proxy: `https://justicephysics-github-io.translate.goog/humanos2.0/?_x_tr_sl=en&_x_tr_tl=XX&_x_tr_hl=en-US&_x_tr_pto=wapp`
-3. Replace `XX` with the target language code (e.g., `hi` for Hindi, `zh-CN` for Chinese, `ar` for Arabic).
-4. Add the link to this page.
-
-That's it. One line. The entire campus, translated.
+### Default
+- [English (Default)](https://justicephysics.github.io/humanos2.0/)
 
 ---
 
