@@ -4,7 +4,11 @@
 
 ---
 
-## Languages: 
+## First, press it if you want to change to another language:
+
+[Default](https://justicephysics.github.io/humanos2.0/)
+
+## Then press it for your Languages: 
 
 - [🌐 Languages — The Virtual Nalanda in Every Tongue](languages)
 
