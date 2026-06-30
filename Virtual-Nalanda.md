@@ -1,6 +1,6 @@
-# 🏛️ Virtual Nalanda — From the Cosmos to the Remote Village to the Quantum Lattice to the Quantum Chip
+# 🏛️ Justice Physics Nalanda — The Virtual Academy for HumanOS 2.0
 
-*The complete journey of HumanOS 2.0, in a single flowing narrative.*
+*Writing the code of a new civilisation — From scarcity to abundance.*
 
 ---
 
