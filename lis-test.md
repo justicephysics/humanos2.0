@@ -16,9 +16,9 @@ Every action, every policy, every purchase can be tested with two questions:
 
 The test is simple:
 
-[ $$\text{If } (L_{\text{internal}} = L_{\text{external}}) \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad$$ #LisPresent ]
+$$\text{If } (L_{\text{internal}} = L_{\text{external}}) \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad$$ #LisPresent
 
-[ $$\text{If } (L_{\text{internal}} ≠ L_{\text{external}}) \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad$$ #LisMissing ]
+$$\text{If } (L_{\text{internal}} ≠ L_{\text{external}}) \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad$$ #LisMissing
 
 This test does not require philosophy. It does not require ethics. It requires only the willingness to compare two answers honestly.
 
@@ -47,7 +47,7 @@ The shooter’s command centre is isolated. External reality — the pain, the d
 - **L_internal:** “Ten cars satisfy my need.”
 - **L_external:** “Do my fellow citizens have the capacity to fulfil their needs? Does the Earth have the capacity to endure this level of consumption for everyone?”
 
-[ $$L_{\text{internal}} ≠ L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad \$$ #LisMissing ]
+[ $$L_{\text{internal}} ≠ L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad$$ #LisMissing ]
 
 The desire for ten cars cannot be universalised. The planet cannot sustain it. The 90 % cannot afford it. The command centre ignores these external realities. Not conscious. Unconscious.
 
@@ -60,7 +60,7 @@ The desire for ten cars cannot be universalised. The planet cannot sustain it. T
 - **L_internal:** “I want to rule Germany.”
 - **L_external:** “Germans have no problem with a ruler; some king or leader will govern them.”
 
-[ $$L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad \$$ #LisPresent ]
+[ $$L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad$$ #LisPresent ]
 
 Within the domestic frame, Hitler’s command centre was not isolated. The external reality of the German people — their acceptance of authoritarian rule — matched his internal desire. This is why he rose to power.
 
@@ -69,7 +69,7 @@ Within the domestic frame, Hitler’s command centre was not isolated. The exter
 - **L_internal:** “I want to rule Poland.”
 - **L_external:** “Poland has a very big problem with this. Why should an invader rule over them?”
 
-[ $$L_{\text{internal}} ≠ L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad \$$ #LisMissing ]
+[ $$L_{\text{internal}} ≠ L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad$$ #LisMissing ]
 
 The moment the command centre crossed the border, external reality was ignored. The Poles did not consent. The invasion was an act of an isolated command centre, executing only its internal desire.
 
@@ -97,7 +97,7 @@ The test is universal. It applies to:
 
 ## 4. Connection to the Consciousness Principle and the Space State
 
-The #LisTest is the practical, everyday tool that operationalises the Consciousness Principle (C = 1 − D). It does not require a philosopher or a priest. Any citizen can apply it.
+The #LisTest is the practical, everyday tool that operationalises the Consciousness Principle $$(C = 1 − D)$$. It does not require a philosopher or a priest. Any citizen can apply it.
 
 - **The Canal Dogma** ensures that most actions fail the test — because the command centres of power are isolated, and the 90 % are kept in survival mode where D is high.
 - **The Space State** restores the conditions where the test is passed at scale: EI ≥ 0.70, open knowledge, distributed compute, and structural enforcement.
