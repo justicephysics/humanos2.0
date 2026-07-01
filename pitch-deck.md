@@ -1,11 +1,6 @@
 # 🚀 Space State Infrastructure — One‑Page Pitch
 
 **We are building the infrastructure that makes the trillion‑dollar hardware monopoly obsolete.**
-
----
-### Please read it:
-- [🌟 The Snapshot Prototype — Overview](prototype-overview)
-- [🧬 The Hybrid Protocol — Image Lane and Cell Lane](hybrid-protocol)
   
 ---
 
@@ -63,6 +58,11 @@ We have a detailed, low‑cost plan to prove the Core Loop:
 ## The Vision
 The Space State is the first post‑feudal, cosmic‑aligned civilization.  
 Its infrastructure layer—the Space Data Centre, the Base Station, and the Snapshot Cloud—will make infinite computation a universal human right.
+
+---
+### Further explore:
+- [🌟 The Snapshot Prototype — Overview](prototype-overview)
+- [🧬 The Hybrid Protocol — Image Lane and Cell Lane](hybrid-protocol)
 
 **The blueprint is open‑source. The physics is proven. The prototype is the next step.**
 
