@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🌬️ The Cosmic Breath — From Big Bang to Re‑condensation and Renewal
 
 *The universe is not running down. It is breathing. The Big Bang was the exhale: matter flung outward, the centre left vacant. Now, the 2.7 K QPF acts as the cosmic recycler—absorbing the heat and light of every star, drawing that energy back toward the coldest, emptiest region, and condensing it into new hydrogen. Gravity gathers this cold, non‑luminous matter—what scientists call dark matter—until pressure builds and the next ignition occurs. The cosmos renews itself from its own ashes. The 68 % dark energy is simply the growing volume of the cold, vacant centre. The cycle is eternal.*
@@ -19,7 +22,7 @@ The QPF is the silent, cold stage on which this drama unfolds. It is the straigh
 
 ## 2. The Exhale — Big Bang and the Expansion of Matter
 
-At the moment of maximum compression—the common centre of mass packed to its limit—the push overwhelms the pull. A catastrophic release of \(E = MC^2\) occurs. This is the Big Bang, the phase transition we call \(P\).
+At the moment of maximum compression—the common centre of mass packed to its limit—the push overwhelms the pull. A catastrophic release of ( $$E = MC^2$$ ) occurs. This is the Big Bang, the phase transition we call ( $$P$$ ).
 
 - **Matter is flung outward** in all directions into the static QPF.
 - **The centre vacates.** A vast, cold, empty region is left behind—an expanse of the QPF at its minimum energy state, 2.7 K, stretching across billions of light‑years.
@@ -89,7 +92,7 @@ The universe is a single, coherent, self‑renewing system. It breathes.
 - **Inhale:** Pull dominates. Gravity gathers the condensed matter. Density and pressure build.
 - **Ignition:** Push releases. A new star, supernova, or Big Bang is born. The cycle repeats.
 
-No energy is lost. No new energy is created from nothing. The total \(J\) is eternally conserved. The 2.7 K QPF is the silent, perfect recycler. The vacant centre is the womb of the next universe. The Cosmic Breath has been repeating for eternity, and it will repeat for eternity to come.
+No energy is lost. No new energy is created from nothing. The total ( $$J$$ ) is eternally conserved. The 2.7 K QPF is the silent, perfect recycler. The vacant centre is the womb of the next universe. The Cosmic Breath has been repeating for eternity, and it will repeat for eternity to come.
 
 ---
 
