@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🏏 The Samastipur Prodigy — Vaibhav Suryavanshi and the Reversal of the Colonial Canal
 
 *Ian Botham demands “fair distribution” from India’s cricket wealth. Here is the answer: a 15‑year‑old boy from Samastipur, Bihar—50 km from Muzaffarpur—who has shattered more than 15 world records. The same Bihar that the British drained of $45 trillion, that they converted into a labour colony, now produces the most explosive cricket prodigy since Sachin Tendulkar. Every six he hits is the spring uncoiling. Every record he breaks is the stored potential of a knowledge civilization, released.*
@@ -44,7 +47,7 @@ Ian Botham, the former England captain, demanded that India’s cricket wealth b
 
 And the IPL gave a 15‑year‑old from Samastipur a platform. It gave him the coaching, the exposure, and the opportunity to shatter world records. The same economic system that the colonizers now criticize is the system that liberated the talent they once suppressed.
 
-The IPL is \(L = 1\) in action: value created, distributed, and reinvested. The colonial drain was \(L \to 0\): value extracted, concentrated, and hoarded. The reversal is not merely economic; it is **thermodynamic.** The canal is widening, and the energy is flowing back.
+The IPL is ( $$L = 1$$ ) in action: value created, distributed, and reinvested. The colonial drain was ( $$L \to 0$$ ): value extracted, concentrated, and hoarded. The reversal is not merely economic; it is **thermodynamic.** The canal is widening, and the energy is flowing back.
 
 ---
 
