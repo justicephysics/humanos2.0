@@ -19,6 +19,7 @@ A star is stable because energy is not only converted—it is **distributed**. T
 
 $$E = MC^2 \times L$$
 
+\[ E = MC^2 \times L \]
 
 Where **L** is the distribution coefficient. In the universe, \(L = 1\). Every node receives what it needs. No extraction. No hoarding. No collapse.
 
