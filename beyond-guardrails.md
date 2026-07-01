@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🚫 Beyond Guardrails — Why the Space State Is the Only Answer to Recursive AI
 
 *Anthropic’s CEO calls for a global pause on AI, warning of recursive self‑improvement and catastrophic risks. He’s right about the danger. But guardrails won’t work — because the extraction machine itself is the root of the problem. The only answer is to upgrade the operating system: from HumanOS 1.0 to HumanOS 2.0, the Space State.*
@@ -55,7 +58,7 @@ The Space State is not a regulatory framework. It is a complete civilizational o
 |----------------------------------|----------------------------|
 | AI developed in secrecy, owned by feudal corporations. | AI developed openly, on the Web@2.7K, with Hyper‑Imagination Mode accessible to all. |
 | Guardrails are voluntary, unenforceable, and captured. | The UTI threshold (1.80) is constitutionally enforced — no if, no but. |
-| The extraction protocol drives recursive AI toward maximum extraction. | The cosmic protocol (E = MC² × L, L = 1) drives recursive AI toward maximum distribution. |
+| The extraction protocol drives recursive AI toward maximum extraction. | The cosmic protocol ( $$E = MC² × L, L = 1$$ ) drives recursive AI toward maximum distribution. |
 | The command centres of power have C ≈ 0.08 — external reality absent. | The Space State structurally raises C for the entire population (EI ≥ 0.70). |
 | The canal narrows until it overflows — violently. | The canal widens, distributing the burst’s energy constructively. |
 
@@ -67,7 +70,7 @@ Amodei’s call for a pause is a recognition that the old canal cannot contain t
 
 In the Space State, recursive self‑improvement is not a threat; it is the engine of the **Cognitive Cascade**:
 
-- **Human brains**, connected via BCI to the three‑vertical AGI, provide purpose, direction, and ethical judgement (the C = 1 − D command centre).
+- **Human brains**, connected via BCI to the three‑vertical AGI, provide purpose, direction, and ethical judgement (the $$C = 1 − D$$ command centre).
 - **AGI clusters**, running on the cold, photonic, open‑source fabric, provide the cognitive engine — Imagination, Thinking, Knowledge at light speed.
 - **Recursive self‑improvement** becomes a public good: each generation of AI is designed, verified, and deployed by the distributed Warrior‑Engineer network, not by a single feudal lab.
 
