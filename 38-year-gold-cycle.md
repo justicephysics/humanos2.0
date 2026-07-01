@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🪙 The 38‑Year Gold Cycle — From Gold to Database and the 2047 Meltdown
 
 *When the US left the gold standard in 1971, money ceased to be anchored to any physical reality. It became a pure database entry. The MIT model, published the following year, predicted collapse within decades. The math was simple: a printing press without an anchor must eventually overheat. A 38‑year pulse emerged—2009 (semi‑meltdown) and 2047 (complete meltdown)—nested within the larger 40‑year sub‑cycles of the 120‑year energy bursts.*
