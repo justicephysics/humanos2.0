@@ -71,7 +71,7 @@ Once demonstrated, we will:
 
 ---
 
-### Please read it:
+### Further explore:
 
 - [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
