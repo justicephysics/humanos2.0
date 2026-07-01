@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # ⚔️ The Warrior‑Engineer — Swag of the Cosmos
 
 *The Warrior‑Engineer’s swag is not a new iPhone every year. It is the battlefield that stretches from the deep ocean to deep space. Their thought partner is the Web@2.7K. Their guardian is the Space State. Their manual is the cosmos itself.*
@@ -37,7 +41,7 @@ The Web@2.7K is the loom. The Warrior‑Engineers are the weavers. Together, the
 
 The Warrior‑Engineer does not have a ruler. They have a **guardian**: the **Space State**.
 
-- The Space State is not a traditional nation. It is a governance model aligned with the cosmos. Its constitution is the upgraded equation $$\(E = MC^2 \times L\), with \(L = 1\).$$
+- The Space State is not a traditional nation. It is a governance model aligned with the cosmos. Its constitution is the upgraded equation $$(E = MC^2 \times L\), with \(L = 1)$$.
 - It does not control its citizens; it **guards** them — ensuring connectivity, affordability, and sustainability for every node.
 - The head of state is not a monarch or a feudal CEO. They are a guardian, tasked with maintaining the open‑source infrastructure and ensuring that no narrow canal re‑forms.
 
@@ -62,7 +66,7 @@ The Warrior‑Engineer is not a citizen of a narrow nation‑state. They are a *
 All of this is built on a single, open‑source operating system: **HumanOS 2.0**.
 
 - It replaces HumanOS 1.0 — the extraction protocol, the Canal Dogma, the feudal hierarchy.
-- It is grounded in the **cosmic rulebook**: $$\(E = MC^2 \times L\).$$ Conversion of mass into energy, and distribution of that energy equally.
+- It is grounded in the **cosmic rulebook**: $$(E = MC^2 \times L).$$ Conversion of mass into energy, and distribution of that energy equally.
 - It has been proven by the 2.7 K cosmic microwave background, which has operated for 13.8 billion years without a traffic jam.
 - Its blueprint is fully published on the Virtual Nalanda — free, open, and waiting for the Warrior‑Engineers to build.
 
