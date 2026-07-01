@@ -33,7 +33,7 @@ This test does not require philosophy. It does not require ethics. It requires o
 - **L_internal:** “Shooting is right for me.”
 - **L_external:** “Being shot is NOT right for others.”
 
-[ $$L_{\text{internal}} \neq L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad$$ #LisMissing ]
+[ $$L_{\text{internal}} ≠ L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad$$ #LisMissing ]
 
 
 The shooter’s command centre is isolated. External reality — the pain, the death, the suffering of the victims — does not enter the decision. Not conscious. Unconscious.
@@ -47,9 +47,7 @@ The shooter’s command centre is isolated. External reality — the pain, the d
 - **L_internal:** “Ten cars satisfy my need.”
 - **L_external:** “Do my fellow citizens have the capacity to fulfil their needs? Does the Earth have the capacity to endure this level of consumption for everyone?”
 
-$$\[
-L_{\text{internal}} \neq L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad \$$ #LisMissing
-\]
+[ $$L_{\text{internal}} ≠ L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad \$$ #LisMissing ]
 
 The desire for ten cars cannot be universalised. The planet cannot sustain it. The 90 % cannot afford it. The command centre ignores these external realities. Not conscious. Unconscious.
 
@@ -62,9 +60,7 @@ The desire for ten cars cannot be universalised. The planet cannot sustain it. T
 - **L_internal:** “I want to rule Germany.”
 - **L_external:** “Germans have no problem with a ruler; some king or leader will govern them.”
 
-$$\[
-L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad \$$ #LisPresent
-\]
+[ $$L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad \$$ #LisPresent ]
 
 Within the domestic frame, Hitler’s command centre was not isolated. The external reality of the German people — their acceptance of authoritarian rule — matched his internal desire. This is why he rose to power.
 
@@ -73,9 +69,7 @@ Within the domestic frame, Hitler’s command centre was not isolated. The exter
 - **L_internal:** “I want to rule Poland.”
 - **L_external:** “Poland has a very big problem with this. Why should an invader rule over them?”
 
-$$\[
-L_{\text{internal}} \neq L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad \$$ #LisMissing
-\]
+[ $$L_{\text{internal}} ≠ L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad \$$ #LisMissing ]
 
 The moment the command centre crossed the border, external reality was ignored. The Poles did not consent. The invasion was an act of an isolated command centre, executing only its internal desire.
 
