@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # 🌊 The Ocean and the G7 — Why the Canal Dogma Cannot Scale
 
 *The current economic model is a physical impossibility. A simple thought experiment proves it — and the cosmos shows the only way out.*
@@ -95,7 +99,7 @@ To achieve L = 1 within planetary boundaries, we must redesign the **F** — the
 | **Materials** | Extract‑use‑discard | Atom‑by‑atom design, perfect recycling, lab‑grown everything |
 | **Food & Water** | Industrial monoculture, over‑extraction | Permaculture, precision fermentation, desalination powered by free energy |
 | **Education** | Narrow gates (JEE, Gaokao, SAT), student debt | Virtual Nalanda — free, global, no entrance exam |
-| **Economy** | Concentration of wealth (Gini 0.88) | Distributed abundance, $$\(L \to 1\)$$ via open‑source infrastructure |
+| **Economy** | Concentration of wealth (Gini 0.88) | Distributed abundance, $$(L \to 1)$$ via open‑source infrastructure |
 
 This is not a philosophy. It is a **hardware specification**. Every piece of it is either already proven by the cosmos or derivable from known physics.
 
