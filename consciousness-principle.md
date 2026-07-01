@@ -36,7 +36,7 @@ When **C is high**, the person (or system) takes in the full signal of the world
 - What is right for me is aligned with what is right for others.
 
 $$[
-C = 1 - D \text{ measures C\-alignment.}
+C = 1 - D \text{ measures C-alignment.}
 ]$$
 
 ---
@@ -196,13 +196,8 @@ High C_power + low C_alignment = Hitler. Maximum execution of misaligned command
 High C_power + high C_alignment = Gandhi. Maximum execution of aligned command.
 Low C_power + any C_alignment = irrelevant actor. Cannot execute either way.
 
-$$[
-\text{The dangerous actor is always: high C\-power × low C\-alignment}
-]$$
-
-$$[
-= \text{maximum execution capacity pointed at extraction}
-]$$
+**$$[
+\text{The dangerous actor is always: high C\-power × low C\-alignment}$$ = maximum execution capacity pointed at extraction]**
 
 ---
 
