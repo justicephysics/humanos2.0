@@ -65,7 +65,7 @@ In the language of the canal:
 
 The old model narrowed the canal to push velocity (faster Ferraris), but the canal kept overflowing (heat). Our model widens the canal to cosmic proportions and runs the same Ferraris at their natural speed. The result is a flood of computation without the flood of heat.
 
-The upgraded equation $$(E = MC^2 \times L\)$$ applies here too: the total computational energy of the system is preserved, but the distribution (the parallelism, the bandwidth, the scaling) is maximised. $$(L \to 1\)$$ in the compute fabric means every bit of energy goes to useful work, not to waste heat.
+The upgraded equation $$(E = MC^2 \times L)$$ applies here too: the total computational energy of the system is preserved, but the distribution (the parallelism, the bandwidth, the scaling) is maximised. $$(L \to 1)$$ in the compute fabric means every bit of energy goes to useful work, not to waste heat.
 
 ---
 
