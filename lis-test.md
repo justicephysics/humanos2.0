@@ -18,7 +18,7 @@ The test is simple:
 
 [ $$\text{If } (L_{\text{internal}} = L_{\text{external}}) \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad$$ #LisPresent ]
 
-[ $$\text{If } (L_{\text{internal}} \neq L_{\text{external}}) \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad$$ #LisMissing ]
+[ $$\text{If } (L_{\text{internal}} ≠ L_{\text{external}}) \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad$$ #LisMissing ]
 
 This test does not require philosophy. It does not require ethics. It requires only the willingness to compare two answers honestly.
 
