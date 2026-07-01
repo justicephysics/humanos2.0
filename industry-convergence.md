@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🔭 Industry Convergence — Why Google and Bezos Are Validating the Space State Blueprint
 
 *Google is linking old smartphones into data centres. Jeff Bezos is betting $12 billion on Physical AI. Both are converging on principles we’ve already blueprinted. But they are still missing the most critical layer: wisdom. The Space State is the only architecture that completes the stack.*
@@ -39,9 +42,9 @@ The critical layer that neither Google nor Bezos has addressed is **alignment**.
 
 Our [Consciousness Principle](consciousness-principle) provides the missing layer:
 
-$$\[
+$$[
 C = 1 - D
-\]$$
+]$$
 
 - **C** — the degree to which external reality is present in the command centre.
 - **D** — Desire, energy turned inward, blocking the signal of the world.
