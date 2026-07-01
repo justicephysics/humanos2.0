@@ -12,8 +12,8 @@
 | Equation | What It Measures | What It Exposes |
 |----------|------------------|-----------------|
 | **( $$E = MC^2 \times L$$ )** | The total effective energy of any system—conversion multiplied by distribution. | The gap between what is produced and who receives it. Gini 0.92 is ( $$L \approx 0.08$$. ) |
-| **( $$U[MC^2, L]F$$ )** | The unified framework: Energy Conversion, Distribution, and the Flow mechanism. | Any system that ignores distribution will overheat and collapse. The MIT prediction, the 2009 crisis, the 2047 meltdown—all are $$\(L \to 0\)$$ events. |
-| **( $$C = 1 - D$$ )** | The degree to which external reality is present in a command centre. | Greed, ideology, and the refusal to act on the MIT report are not moral failures; they are measurable $$\(D \to 1, C \to 0\)$$ states. The command centre is isolated. |
+| **( $$U[MC^2, L]F$$ )** | The unified framework: Energy Conversion, Distribution, and the Flow mechanism. | Any system that ignores distribution will overheat and collapse. The MIT prediction, the 2009 crisis, the 2047 meltdown—all are ( $$L \to 0$$ ) events. |
+| **( $$C = 1 - D$$ )** | The degree to which external reality is present in a command centre. | Greed, ideology, and the refusal to act on the MIT report are not moral failures; they are measurable ( $$D \to 1, C \to 0$$ ) states. The command centre is isolated. |
 | **( $$L_{\text{internal}} = L_{\text{external}} = \text{Consciousness} = \text{Wisdom}$$ )** | The alignment test for any action. | Governance, bailouts, and war are actions where ( $$L_{\text{internal}} ≠ L_{\text{external}}$$.) They are unconscious. |
 
 These four equations are not metaphors. They are a **unified diagnostic framework** that reveals the hidden architecture behind every feudal narrative.
