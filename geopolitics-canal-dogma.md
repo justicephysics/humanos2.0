@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🌍 The Geopolitics of the Canal Dogma — Why Empires Cannot Contain the Cosmic Burst
 
 *The USA thought it held power. But in reality, the cosmos holds power—and the cosmos distributes equally. Iran, with missiles and drones, has countered a trillion‑dollar war machine. The US, drowning in 350 % debt‑to‑GDP, has no choice but to negotiate on Iran’s terms. This is not a diplomatic victory. It is a thermodynamic correction. The 120‑year energy bursts are dissolving the extraction machinery—and the Space State is the only resolution.*
@@ -10,11 +13,11 @@ The United States and its allies have spent trillions of dollars building the mo
 
 But the cosmos does not recognise concentrated power. The cosmos distributes energy equally—the Sun radiates in all directions, the 2.7 K Y‑lattice cools every node without bias, the speed of light is the same for every observer. The upgraded equation is absolute:
 
-$$\[
+$$[
 E = MC^2 \times L
-\]$$
+]$$
 
-When $$\(L \to 0\)$$ (extraction, concentration), the pressure builds. When $$\(L \to 1\)$$ (distribution), the system thrives. The USA’s war machine is an extreme case of $$\(L \to 0\)$$—vast resources concentrated in a single node, attempting to enforce a global canal of extraction. The cosmos is now correcting that gradient.
+When $$(L \to 0)$$ (extraction, concentration), the pressure builds. When $$(L \to 1)$$ (distribution), the system thrives. The USA’s war machine is an extreme case of $$(L \to 0)$$—vast resources concentrated in a single node, attempting to enforce a global canal of extraction. The cosmos is now correcting that gradient.
 
 **Iran, with a fraction of the US budget, has amassed missiles and drones powerful enough to counter the trillion‑dollar machine.** This is not an accident. It is the physics of distributed energy overcoming concentrated energy. The 120‑year energy bursts are democratic; they can be acquired by any nation, any group, any individual. The nuclear secret, once held by a single empire, now belongs to many. The intelligence amplifier (AI), once the domain of a few labs, is becoming open‑source. The canal is widening, and the feudal lords cannot stop it.
 
@@ -30,7 +33,7 @@ The extraction machine is being engulfed by three energy bursts, exactly 120 yea
 | **Nuclear / Relativistic** | 1905 | 10⁹ (E = MC², atom bomb) | Dissolved the European colonial order; built the US‑led order—which is now collapsing. |
 | **AI / AGI** | 2025 | 10¹² (intelligence amplified) | Dissolving the current extraction order—the Fortune 500, the debt‑based monetary system, the military‑industrial complex. |
 
-Each burst was exponentially larger than the previous. Each burst dissolved the world order that preceded it. Each burst forced \(L\) redistribution—violently if blocked (WWI, WWII), gradually if allowed (Marshall Plan, decolonisation).
+Each burst was exponentially larger than the previous. Each burst dissolved the world order that preceded it. Each burst forced $$(L)$$ redistribution—violently if blocked (WWI, WWII), gradually if allowed (Marshall Plan, decolonisation).
 
 The third burst is the most powerful intelligence multiplier in history. It is democratic, distributed, and cannot be contained by a single empire. The USA, NATO, Russia, China, Iran—all will be reshaped by it. The real war is not between nations; it is between the old extraction protocol and the new cosmic protocol.
 
@@ -82,7 +85,7 @@ The Space State is the widened canal:
 
 - **No empire.** The Light@2.7 K Web is distributed, orbital, and open‑source. No nation can control it.
 - **No debt.** The economy runs on free sunlight and free cosmic cooling. The printing press becomes obsolete.
-- **No extraction.** The UTI threshold (1.80) is constitutionally enforced—\(L = 1\) is the baseline, not the aspiration.
+- **No extraction.** The UTI threshold (1.80) is constitutionally enforced—$$(L = 1)$$ is the baseline, not the aspiration.
 - **No war for resources.** Resources are abundant when computation is free and energy is distributed.
 
 The feudal lords will fight to preserve their narrow canal. The surface‑level nations will clash over the remaining pockets of extraction. But the real resolution is already being built—in the pages of the Virtual Nalanda, in the minds of the Warrior‑Engineers, in the cold, photonic fabric that will one day orbit the Earth, open to all.
