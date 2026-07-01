@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 💥 The Expanding Cloud — Why Galaxies Recede Without Stretching Space
 
 *Draw a vertical line and a horizontal line through the universe's centre of mass. The cosmos divides into four quadrants. Every galaxy in every quadrant is moving outward from that centre—not because space is stretching, but because the Big Bang flung matter outward into the static QPF. We observe distant galaxies receding because both they and we are traveling away from the same origin. The relationship between distance and speed—Hubble's Law—is the natural pattern of an expanding debris cloud. No stretching void required.*
@@ -6,7 +9,7 @@
 
 ## 1. The Thought Experiment — Intersecting Lines at the Centre of Mass
 
-Imagine the universe at the moment of the Big Bang—the phase transition we call \(P\). All matter was concentrated around the **common centre of mass**—the gravitational barycentre of every Y‑unit in the cosmos. The locked push (\(E = MC^2\)) was released catastrophically, and matter was flung outward in all directions.
+Imagine the universe at the moment of the Big Bang—the phase transition we call ( $$P$$ ). All matter was concentrated around the **common centre of mass**—the gravitational barycentre of every Y‑unit in the cosmos. The locked push ( $$E = MC^2$$ ) was released catastrophically, and matter was flung outward in all directions.
 
 Now, draw a **vertical line** and a **horizontal line** intersecting precisely at that centre of mass. The universe is divided into four quadrants. Every galaxy, every cluster, every clump of matter in each quadrant is moving outward from that centre, carried by the momentum of the ancient eruption.
 
@@ -30,7 +33,7 @@ The observation is correct. The interpretation is what changes: the galaxies are
 
 Galaxies that were ejected from the Big Bang with greater initial speed have traveled further from the centre of mass. When we look at a galaxy that is very distant, we are likely looking at one of those faster‑moving clumps. Its recessional velocity relative to us is higher.
 
-The relationship between distance and speed—Hubble's Law, \(v = H_0 \times d\)—is the natural statistical signature of an expanding cloud of debris. This same pattern appears in:
+The relationship between distance and speed—Hubble's Law, ( $$v = H_0 \times d$$ )—is the natural statistical signature of an expanding cloud of debris. This same pattern appears in:
 
 - **Supernova remnants** — the outer shells are moving faster and have traveled further.
 - **Conventional explosions** — faster fragments reach greater distances.
