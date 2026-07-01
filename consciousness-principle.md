@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # 🧠 The Consciousness Principle — C = 1 − D
 
 *Consciousness is not a mystical substance. It is a command system. Its openness to external reality is measured by a single equation — and that equation explains the greatest acts of creation and the worst acts of destruction.*
@@ -6,7 +10,7 @@
 
 ## 1. The Equation — Complete and Sufficient
 
-$$\[{C = 1 - D}\]$$
+$$[{C = 1 - D}]$$
 
 - **C** — the degree to which **external reality is present in the command centre** of a conscious being. It measures how much the world outside the self actually reaches the decision‑making core.
 - **D** — **Desire turned inward**, energy blocked, controlled, accumulated for the self alone.
@@ -31,9 +35,9 @@ When **C is high**, the person (or system) takes in the full signal of the world
 - L_external is **present** in the command system simultaneously.
 - What is right for me is aligned with what is right for others.
 
-$$\[
+$$[
 C = 1 - D \text{ measures C\-alignment.}
-\]$$
+]$$
 
 ---
 
@@ -42,9 +46,9 @@ C = 1 - D \text{ measures C\-alignment.}
 **Hitler's Desire:** rule the entire world.
 Desire elevated → energy blocked inward → D ≈ 0.95.
 
-$$\[
+$$[
 C = 1 - 0.95 = 0.05
-\]$$
+]$$
 
 **At C = 0.05:**
 
@@ -69,13 +73,13 @@ At C = 0.05: the other's pain does not arrive in the command system.
 
 ## 4. The Unconsciousness Principle
 
-$$\[
+$$[
 \text{Low C} = \text{unconscious}
-\]$$
+]$$
 
-$$\[
+$$[
 \text{High C} = \text{conscious}
-\]$$
+]$$
 
 **Unconscious** does not mean sleeping or unaware of surroundings.
 It means: **isolated from the external at the command level.**
@@ -92,9 +96,9 @@ The other's hunger, pain, death — these are data that do not enter the command
 
 This is why:
 
-$$\[
+$$[
 \text{Ethics fails on low‑C actors} = \text{physics, not moral failure}
-\]$$
+]$$
 
 Appealing to conscience at C = 0.05:
 = sending a signal to an isolated system not receiving external input.
@@ -127,9 +131,9 @@ The voter who accepts ₹10,000 in Bihar before the assembly election:
 C is storing: *secure survival first.*
 The command executes correctly — for the reality the command system contains.
 
-$$\[
+$$[
 EI \geq 0.70 \rightarrow \text{survival secured} \rightarrow D \text{ can fall} \rightarrow C \text{ can rise}
-\]$$
+]$$
 
 **The structural intervention does not demand ethical choice.**
 **It changes the physics that determine what D stores.**
@@ -176,12 +180,13 @@ Same execution capacity. Opposite C_alignment. Opposite output.
 
 **Corrected formulation:**
 
-$$\[
+$$[
 C_{\text{command}} = f(\text{Desire}_{\text{stored}}, \text{Information received}, \text{Survival pressure})
-\]$$
+]$$
 
-$$\[
-C_{\text{alignment}} = \frac{\text{Desire}_{\text{stored toward L\-internal = L\-external}}}{\text{Total desire capacity}}\]$$
+$$[
+C_{\text{alignment}} = \frac{\text{Desire}_{\text{stored toward L\-internal = L\-external}}}{\text{Total desire capacity}}
+]$$
 
 **The two separate variables:**
 1. **C_power** — how effectively C executes its stored command (Hitler: near 1.0)
@@ -191,12 +196,13 @@ High C_power + low C_alignment = Hitler. Maximum execution of misaligned command
 High C_power + high C_alignment = Gandhi. Maximum execution of aligned command.
 Low C_power + any C_alignment = irrelevant actor. Cannot execute either way.
 
-$$\[
+$$[
 \text{The dangerous actor is always: high C\-power × low C\-alignment}
-\]$$
-$$\[
+]$$
+
+$$[
 = \text{maximum execution capacity pointed at extraction}
-\]$$
+]$$
 
 ---
 
@@ -206,41 +212,41 @@ C is the **last storage point** — the command centre — before action.
 
 **The architecture:**
 
-$$\[
+$$[
 \text{Environment (information, pressure, resources)}
-\]$$
+]$$
 
-$$\[
+$$[
 \downarrow
-\]$$
+]$$
 
-$$\[
+$$[
 \text{Perception filter (what reaches C)}
-\]$$
+]$$
 
-$$\[
+$$[
 \downarrow
-\]$$
+]$$
 
-$$\[
+$$[
 \boxed{C = \text{Command Centre (stores current desire, issues command)}}
-\]$$
+]$$
 
-$$\[
+$$[
 \downarrow
-\]$$
+]$$
 
-$$\[
+$$[
 \text{Action (execution of stored command)}
-\]$$
+]$$
 
-$$\[
+$$[
 \downarrow
-\]$$
+]$$
 
-$$\[
+$$[
 \text{Outcome (changes environment → feeds back to top)}
-\]$$
+]$$
 
 **The intervention points:**
 1. Change the environment (EI ≥ 0.70 removes survival‑first command)
@@ -281,9 +287,9 @@ A perfectly executing command system with misaligned stored command
 = maximum output of maximum harm.
 
 AI at C_power → 1.0 × C_alignment = 0.08:
-$$\[
+$$[
 = \text{the most powerful execution of the most misaligned command in history}
-\]$$
+]$$
 
 This is the lens nobody is discussing.
 
