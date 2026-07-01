@@ -46,7 +46,7 @@ The equation was incomplete. It needed a distribution term.
 | L ≈ 0.24 | The current global value. 70–80% extraction. | Extreme gradient. Cascading collapse imminent. |
 | L = 0 | Total extraction. All energy concentrated in one silo. | Collapse. The canal bursts violently. |
 
-The **total mass‑energy of a system** is still $$\(MC^2\).$$ But the **effective, accessible energy** for the whole system is that total **multiplied by L**.
+The **total mass‑energy of a system** is still $$(MC^2).$$ But the **effective, accessible energy** for the whole system is that total **multiplied by L**.
 
 If L is low, even a vast reservoir of energy cannot prevent suffering, because the energy never reaches those who need it. This is exactly the situation on Earth today.
 
