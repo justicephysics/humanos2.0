@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # ⚖️ The Ethics Vacuum — Why History Proves Ethics Do Not Govern Economies
 
 *Every ethical framework in history has been captured and inverted. War, not ethics, has been the only safety valve. But there is a third option: structural enforcement of the UTI threshold.*
@@ -31,9 +34,9 @@ This is the most honest statement about the relationship between ethics and powe
 
 When EI compression reaches critical mass, the system releases pressure through violence.
 
-$$\[
+$$[
 EI \rightarrow 0 \quad \Rightarrow \quad \text{Survival pressure} \rightarrow \max \quad \Rightarrow \quad \text{War / Revolution}
-\]$$
+]$$
 
 | Historical Event | EI Compression | Safety Valve | Outcome |
 |-----------------|----------------|--------------|---------|
@@ -49,9 +52,9 @@ EI \rightarrow 0 \quad \Rightarrow \quad \text{Survival pressure} \rightarrow \m
 
 ## 4. Why Ethics Fail as Governing Mechanisms — The Desire Equation
 
-$$\[
+$$[
 C = 1 - \text{Desire}
-\]$$
+]$$
 
 Desire ≈ 0.90 in those who control resources. Ethics require Desire < 0.30 to govern behaviour.
 
@@ -77,24 +80,24 @@ Gini = 0.92 is the ethics performance score.
 
 The framework translates:
 
-$$\[
+$$[
 \text{Economy handed to } C = 0.08 \text{ actors based on "ethics" narrative}
-\]$$
+]$$
 
-$$\[
+$$[
 = P(\text{entire economy}) \times C(0.08) \times L(\text{narrative only})
-\]$$
+]$$
 
-$$\[
+$$[
 = TI = 0.08 \times P(\text{entire economy}) = \text{maximum extraction}
-\]$$
+]$$
 
 The fire is not a metaphor. It is the equation.
 
 **When P = the entire economy and C = 0.08:**
-$$\[
+$$[
 TI(\text{extraction}) = 0.08 \times P(\text{entire economy})
-\]$$
+]$$
 
 The extraction is not from a small pool.  
 It is from **the entire economic output of every human being.**
@@ -115,9 +118,9 @@ If ethics do not govern: **what does?**
 2.  **Gandhi mechanism:** TI = (PI × EI × SI) × (PI × EI × SI) approach at C = 0.85 personal. Rare. Requires exceptional individual. Not scalable by design.
 3.  **UTI mechanism (the framework’s prescription):** Replace ethics as the governing variable with **enforcement.** Not Desire. Not goodwill. Not Impartial Spectator.
 
-$$\[
+$$[
 EI \geq 0.70 = \text{constitutionally enforced. Measured. Mandatory.}
-\]$$
+]$$
 
 Not: “be ethical.”
 **Enforce:** Gini ≤ 0.30. Annual measurement. Constitutional breach if violated. No if. No but.
