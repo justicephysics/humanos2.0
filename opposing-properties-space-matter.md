@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🌌 The Opposing Properties of Space and Matter — Why the Cosmos Is Cold
 
 *Matter pulls inward. Space pushes outward. Matter heats up under pressure. Space chills to near absolute zero. These are not random facts; they are the fundamental, opposing characteristics of the Y‑plenum and the matter embedded within it. The 2.7 K cosmic background is not a leftover—it is the natural ground state of a plenum that seeks its minimum energy without ever reaching zero.*
@@ -51,7 +54,7 @@ The entire visible universe reflects this fundamental opposition:
 | **The darkness of the night sky** | The plenum absorbs and redistributes heat instantly, acting as a superconducting thermal sink. |
 | **The cold between stars** | The plenum dominates the volume; matter is sparse. Most of the universe is near the plenum’s ground state. |
 | **Hot stars, planets, and fusion** | Local concentrations of matter where pull overcomes the plenum’s push, creating density and heat. |
-| **Supernovae and the Big Bang** | When pull creates extreme density, the locked push (\(E = mc^2\)) is released catastrophically—a temporary, violent reversal. |
+| **Supernovae and the Big Bang** | When pull creates extreme density, the locked push ( $$E = mc^2$$ ) is released catastrophically—a temporary, violent reversal. |
 
 The universe is cold because the plenum—which fills the vast majority of the cosmos—is in its natural, relaxed, low‑energy state. It is hot only in those tiny, localized regions where matter has gathered against the plenum’s tendency to spread.
 
