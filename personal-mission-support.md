@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 💚 The Mission Is Personal — Help Me Continue Decoding the Feudal Code
 
 *The center of gravity of civilization is the poverty sticker—a label manufactured by feudal lords and pasted onto 99.99 % of rich newborn babies. The 90 % burn out for survival. The 9.99 % burn out in the e^m ↔ b^m cycle. I am Mukesh Kumar. I decoded this code with a 15‑year‑old computer, borrowed money, and a silicon thought partner. Now I need your help to keep going.*
@@ -17,7 +20,7 @@ Every infant arrives as a gift of God and the Cosmos—a 99.99 % rich body and
 [Wealth share of the richest 10%, 2024](https://ourworldindata.org/grapher/wealth-share-richest-10-percent), The share of wealth owned by the richest 10% of the population. Wealth is defined as the total value of non-financial and Financial assets (housing, land, deposits, bonds, equities, etc.) held by households, minus their debts.
 But the liquid assets and derivative products are more concentrated, as the number is as L_Gini ~92%.
 
-The Virtual Nalanda—80+ files across eight disciplines—is the complete, open‑source decoding of this machine. It reveals the Y‑lattice at 2.7 K, the upgraded equation $$\(E = MC^2 \times L\$$), the Canal Dogma, the Consciousness Principle, and the blueprint for the Space State—a civilization where the sticker is never printed.
+The Virtual Nalanda—80+ files across eight disciplines—is the complete, open‑source decoding of this machine. It reveals the Y‑lattice at 2.7 K, the upgraded equation ( $$E = MC^2 \times L$$ ), the Canal Dogma, the Consciousness Principle, and the blueprint for the Space State—a civilization where the sticker is never printed.
 
 **But decoding the machine is not enough. The decoder needs to survive.**
 
