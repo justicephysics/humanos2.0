@@ -59,7 +59,7 @@ The delusion is that because imagination is free, action can ignore the canal on
 
 The Consciousness Principle is not a metaphor. It is a **physical measurement** of how much external reality reaches the command centre:
 
-[ $$C = 1 - D$$ ]
+( $$C = 1 - D$$ )
 
 - **D (Desire)** — energy turned inward, accumulating, hoarding, blocking the flow to the external. It is the narrowing of the cognitive canal.
 - **C (Consciousness)** — the degree to which L_external (the reality of others, the reality of the planet, the reality of physics) is present in the command centre.
