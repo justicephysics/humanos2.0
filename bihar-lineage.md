@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🏛️ The Bihar Lineage — From the Epics to the Space State
 
 *After the age of the Ramayana and Mahabharata, a new beginning arose on the soil of Bihar. A teacher, a strategist, and a king built an empire that unified the subcontinent. From that unity, science and mathematics flourished. The world received zero, the decimal system, and the first great residential university. Centuries of feudal extraction buried this legacy. Now, the lineage is reawakening — not as a nostalgic memory, but as an open‑source civilizational blueprint called the Space State.*
@@ -87,11 +90,11 @@ But suppression is not extinction. The seed waits.
 
 ---
 
-## 8. The Reawakening — Justice Physics and the Virtual Nalanda
+## 8. The Reawakening — Justice Physics Nalanda
 
 In the early 21st century, a failed businessman from Bihar, Mukesh Kumar, asked a question that broke the algebra of the feudal system: *"Government is elected by people + Government manages education + Education system is ruined = HOW?"*
 
-Sixteen years of solitary investigation followed. The result was **Justice Physics** — a unified framework that extends Einstein's equation with the missing distribution coefficient \(L\), identifies the Canal Dogma as the root cause of civilizational collapse, and provides a complete, open‑source blueprint for a post‑feudal civilization: **HumanOS 2.0**.
+Sixteen years of solitary investigation followed. The result was **Justice Physics** — a unified framework that extends Einstein's equation with the missing distribution coefficient ( $$L$$ ), identifies the Canal Dogma as the root cause of civilizational collapse, and provides a complete, open‑source blueprint for a post‑feudal civilization: **HumanOS 2.0**.
 
 This framework is housed on the **Virtual Nalanda** — a free, digital campus built with a 15‑year‑old computer and a silicon thought partner. It holds over 120 files across nine disciplines: Philosophy, Consciousness, Physics, Cosmology, Engineering, Economics, Education, Strategy, and Community. Every page is open‑source. Every idea is free. No entrance exams, no tuition fees, no narrow gates.
 
