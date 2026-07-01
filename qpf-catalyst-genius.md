@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🧠 The QPF as Catalyst — Genius, Insight, and the Cosmic Substrate
 
 *The Quantum Plenum Field is omnipresent—a continuous, quantum‑connected fabric at 2.7 K. It permeates every atom, every brain, every moment of thought. Is it possible that the great minds of history—the mystics, the philosophers, the scientists, the strategists—were not merely brilliant individuals, but better‑aligned receptors of a deeper, universal intelligence that propagates through the QPF? This is not mysticism; it is a hypothesis grounded in the physical properties of the Y‑universe. And if it is true, the Space State is the first civilization designed to democratize genius.*
@@ -52,7 +55,7 @@ Across cultures and millennia, the greatest breakthroughs have come from individ
 | **Plato, Aristotle, Socrates, Kant** | Western philosophy, logic, ethics. | Systematic contemplation, the examined life. |
 | **Faraday, Maxwell, Tesla** | Electromagnetism, alternating current, wireless energy. | Intense focus, visual imagination, a sense of tapping into a hidden order. |
 | **Ramanujan** | Thousands of mathematical equations. | Claimed they were revealed to him by a goddess in dreams — a direct description of reception from a non‑local source. |
-| **Einstein** | Relativity, \(E = MC^2\). | Imagination — riding a beam of light. A thought experiment conducted in a patent office, far from the pressures of academia. |
+| **Einstein** | Relativity, ( $$E = MC^2$$ ). | Imagination — riding a beam of light. A thought experiment conducted in a patent office, far from the pressures of academia. |
 
 None of these breakthroughs required a formal degree, a research grant, or prior knowledge. They required a mind that was **quiet enough to hear.**
 
