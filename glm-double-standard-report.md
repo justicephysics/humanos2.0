@@ -34,7 +34,7 @@ This is exactly the Y‑universe we have built on the Virtual Nalanda.
 |---------------------------------------------|-------------------------------|
 | Space must not get "special treatment." | The Y‑lattice is a physical substance, subject to the same conservation laws as matter. It does not expand; matter moves within it. |
 | Dark Energy cannot come from "zero." | Dark Energy is the inherent geometric tension of the fixed, finite arena—a constant total energy, not a magical perpetual creation. |
-| A single, unified foundation is needed. | The Y‑unit is that foundation. Mass, energy, and space are phases of the same substance. The upgraded equation (E = MC^2 x L) governs all. |
+| A single, unified foundation is needed. | The Y‑unit is that foundation. Mass, energy, and space are phases of the same substance. The upgraded equation ( $$E = MC^2\times L$$ ) governs all. |
 
 The Space State is the fully documented, open‑source specification for the "Emergent Framework" the report calls for.
 
