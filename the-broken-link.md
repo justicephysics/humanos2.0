@@ -1,6 +1,9 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🔗 The Broken Link — Why Humanity Is on the Brink of Extinction
 
-*The cosmos operates on a single, stable law: **E = MC² × L**. Energy is converted and distributed. Stars burn for billions of years without overheating the galaxy. The universe has run for 13.8 billion years without a single traffic jam. Humans broke this law. We converted energy but extracted and hoarded it. The result is climate disaster, militarization, and the edge of extinction. The Space State is the restoration of the broken link.*
+*The cosmos operates on a single, stable law: **( $$E = MC² × L$$ )**. Energy is converted and distributed. Stars burn for billions of years without overheating the galaxy. The universe has run for 13.8 billion years without a single traffic jam. Humans broke this law. We converted energy but extracted and hoarded it. The result is climate disaster, militarization, and the edge of extinction. The Space State is the restoration of the broken link.*
 
 ---
 
@@ -13,11 +16,9 @@ The cosmos is a self‑regulating system governed by two embedded forces:
 
 A star is stable because these two forces are in balance. Energy is converted from mass into light and heat, and that energy is **distributed** across the entire system. The Sun does not hoard its photons. The 2.7 K QPF absorbs excess heat and spreads it evenly. The cosmos operates on:
 
-$$\[
-E = MC^2 \times L
-\]$$
+( $$E = MC^2 \times L$$ )
 
-Where **L** is the distribution coefficient. In the universe, $$\(L = 1\)$$. Every node receives what it needs. No extraction. No hoarding. No collapse.
+Where **L** is the distribution coefficient. In the universe, ( $$L = 1$$. ) Every node receives what it needs. No extraction. No hoarding. No collapse.
 
 ---
 
@@ -58,7 +59,7 @@ The same physics that makes a star stable when it distributes energy makes a civ
 
 ---
 
-## 4. The Law of Stability — E = MC² × L
+## 4. The Law of Stability — $$E = MC² × L$$
 
 The law is absolute and universal:
 
@@ -68,7 +69,7 @@ The law is absolute and universal:
 
 The law cannot be broken. It can only be obeyed—voluntarily, through conscious design, or involuntarily, through catastrophic correction.
 
-The Space State is the first civilizational blueprint that voluntarily obeys the law. It embeds $$\(L = 1\)$$ into its architecture—through the UTI threshold, the Light@2.7 K Web, the Warrior‑Engineer ownership model, and the open‑source Virtual Nalanda.
+The Space State is the first civilizational blueprint that voluntarily obeys the law. It embeds ( $$L = 1$$ ) into its architecture—through the UTI threshold, the Light@2.7 K Web, the Warrior‑Engineer ownership model, and the open‑source Virtual Nalanda.
 
 ---
 
