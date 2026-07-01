@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🚢 The Cold Submarine Fleet — The Deep Ocean Highway of the Space State
 
 *While surface ships burn diesel, electric submarines will glide silently through the deep, using the ocean’s own 0–3 °C cold as a refrigerator and a highway. This is the next step in the Cosmic Cold Chain — and a key pillar of Mission 2100.*
@@ -41,7 +44,7 @@ The Cold Submarine Fleet eliminates this bottleneck:
 - **Compact coastal hubs:** only small, efficient docking stations are needed—not sprawling distribution centres.
 - **Silent, underground delivery:** the fleet bypasses congested highways, reducing traffic, pollution, and the need for refrigerated trucks.
 
-This aligns with the Space State principle of $$\(L = 1\)$$: distribute the load, eliminate waste, and let the cosmic infrastructure (the ocean, the sun) do the heavy lifting. The land returns to the people, and the pressure on urban space—a direct result of the Canal Dogma—is released.
+This aligns with the Space State principle of $$(L = 1)$$: distribute the load, eliminate waste, and let the cosmic infrastructure (the ocean, the sun) do the heavy lifting. The land returns to the people, and the pressure on urban space—a direct result of the Canal Dogma—is released.
 
 ---
 
