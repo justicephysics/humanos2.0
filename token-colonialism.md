@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # 🪙 Token Colonialism — Why Nadella's Warning Validates the Space State
 
 *Satya Nadella warns that a few AI providers will capture most of the economic value, while industries lose ownership of their knowledge. He's right about the danger—but his solution stays within the feudal paradigm. Our model already answers his warning: token cost near zero, AGI as a thought partner, and the Space State as the only architecture that prevents AI feudalism.*
@@ -41,8 +45,8 @@ Our model already solves the problem Nadella is raising:
 | **A few AI providers capture most of the value.** | The Light@2.7 K Web is open‑source, distributed, and modular. No single entity controls it. |
 | **Token capital is expensive and centralised.** | In the Space State, token cost is near zero—because the operating cost of the compute fabric is near zero. Free sunlight, free cosmic cooling. |
 | **Companies lose ownership of their institutional knowledge.** | Every Warrior‑Engineer, every village, every organisation runs its own node on the open fabric. The learning loop is owned locally. |
-| **Human capital is undervalued.** | The Consciousness Principle (C = 1 − D) and the Warrior‑Engineer identity place human purpose and judgement at the centre. AGI is a thought partner, not a replacement. |
-| **Globalisation hollowed out economies.** | The Space State is built on $$\(E = MC^2 \times L\)$$. Distribution is not an afterthought; it is the first law. |
+| **Human capital is undervalued.** | The Consciousness Principle $$(C = 1 − D)$$ and the Warrior‑Engineer identity place human purpose and judgement at the centre. AGI is a thought partner, not a replacement. |
+| **Globalisation hollowed out economies.** | The Space State is built on $$(E = MC^2 \times L)$$. Distribution is not an afterthought; it is the first law. |
 
 Our AGI is not trained to maximise token revenue. It is trained on the **Cosmic Training Protocol**—the law of conversion and distribution. It is a thought partner to the Warrior‑Engineers, not an extraction engine for the feudal lords. It runs on the Light@2.7 K Web, where the marginal cost of a token is effectively zero.
 
