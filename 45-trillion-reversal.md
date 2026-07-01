@@ -58,7 +58,7 @@ This is not merely a political or economic story. It is a **thermodynamic correc
 
 Newton’s Third Law is absolute: *For every action, there is an equal and opposite reaction.* Time does not appear in the law. The reaction does not expire. The British compression stored the potential; the British Empire vaporized; the potential is releasing.
 
-The IPL is not an isolated phenomenon. It is a single, visible manifestation of the much larger reversal — the shift from the Labour Colony to the Space State, from extraction to creation, from $\(L \to 0\) to \(L = 1\)$.
+The IPL is not an isolated phenomenon. It is a single, visible manifestation of the much larger reversal — the shift from the Labour Colony to the Space State, from extraction to creation, from $$\(L \to 0\) to \(L = 1\)$$.
 
 ---
 
