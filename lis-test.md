@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🧪 The #LisTest — The Alignment Test
 
 *How do you know if an action is conscious? Ask two simple questions. If the answers match, the action is aligned. If they don’t, the command centre is isolated. This test could have stopped Hitler — and it can stop you from burning the planet for a tenth car.*
@@ -13,7 +16,7 @@ Every action, every policy, every purchase can be tested with two questions:
 
 The test is simple:
 
-$$\[\text{If } L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad \$$ #LisPresent\]
+$$[\text{If } L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad \$$ #LisPresent]
 
 
 
