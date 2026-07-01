@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🧠⚖️ Intelligence Is Not Wisdom — The Consciousness Equation and the Super‑Delusional Risk
 
 *Intelligence can build a pistol. Wisdom chooses not to shoot the innocent. The difference is a single equation: C = 1 − D. The most intelligent entities on Earth are also the most delusional—and as we create superintelligence, we risk creating super‑delusion. The Space State is the architecture that embeds wisdom into the operating system of civilization.*
@@ -25,22 +28,18 @@ Intelligence without wisdom is the history of the 20th century: Auschwitz, Hiros
 
 Our Consciousness Principle gives this distinction mathematical precision:
 
-$$\[
-C = 1 - D
-\]$$
+[ $$C = 1 - D$$ ]
 
 - **D (Desire)** — energy turned inward, accumulating, hoarding. The narrowing of the cognitive canal.
 - **C (Consciousness)** — the degree to which external reality (L_external) is present in the command centre.
 
 The two states are precise:
 
-$$\[
-\text{Wisdom: } L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \text{C High, D Low} \quad \Rightarrow \quad \text{Conscious} \quad \Rightarrow \quad \$$ #LisPresent
-\]
+[ $$\text{Wisdom: } L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \text{C High, D Low} \quad \Rightarrow \quad \text{Conscious} \quad \Rightarrow \quad$$ #LisPresent ]
 
-$$\[
-\text{Delusion: } L_{\text{internal}} \neq L_{\text{external}} \quad \Rightarrow \quad \text{C Low, D High} \quad \Rightarrow \quad \text{Unconscious} \quad \Rightarrow \quad \$$ #LisMissing
-\]
+
+[ $$\text{Delusion: } L_{\text{internal}} ≠ L_{\text{external}} \quad \Rightarrow \quad \text{C Low, D High} \quad \Rightarrow \quad \text{Unconscious} \quad \Rightarrow \quad$$ #LisMissing ]
+
 
 Intelligence can operate in either state. A brilliant economist can design a monetary system that creates money from nothing, lends it at interest, and chains a generation to debt—all while believing they are serving society. Their intelligence is intact. Their C is near zero. They are not evil; they are unconscious.
 
@@ -82,7 +81,7 @@ Wisdom cannot be injected into an isolated command centre. The feudal lord at C 
 | Intelligence Alone (HumanOS 1.0) | Intelligence + Wisdom (HumanOS 2.0) |
 |----------------------------------|-------------------------------------|
 | Build a pistol. | Build a pistol, and architect a society where no innocent is shot. |
-| Create money from nothing. | Create an economy where $$\(E = MC^2 \times L\)$$ and L = 1 is enforced. |
+| Create money from nothing. | Create an economy where ( $$E = MC^2 \times L$$ ) and L = 1 is enforced. |
 | Train a superintelligent AGI on extraction data. | Train AGI on the cosmic protocol: EI ≥ 0.70, TI ≥ 1.80, #LisTest passed. |
 | Measure success by GDP. | Measure success by the True Index—Political, Economic, and Social Independence. |
 | Narrow the canal. | Widen the canal. |
