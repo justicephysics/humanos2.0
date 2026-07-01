@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🔗 Matter and Space Are Embedded — Why Vacuum Has No Meaning
 
 *Wherever there is matter, there is also space. Wherever there is space, the possibility of matter is always present. The two are not separate substances thrown together in a void. They are two phases of the same Y‑substance, inseparably embedded. The concept of “nothingness” or “empty space” (vacuum) holds no meaning in the Y‑universe. The cosmos is composed entirely of physical entities—and those entities are matter and space, together, always.*
@@ -38,10 +41,10 @@ In the Y‑universe, the word “vacuum” is retired. The word “void” is me
 
 | Phase | Description | Properties |
 |-------|-------------|------------|
-| **Matter‑phase Y** | Dense, bound, localized. | Pulls (G‑force), heats up under pressure, stores energy as rest mass (\(E = mc^2\)). |
+| **Matter‑phase Y** | Dense, bound, localized. | Pulls (G‑force), heats up under pressure, stores energy as rest mass ( $$E = mc^2$$ ). |
 | **Space‑phase Y** | Sparse, cold, continuous. | Pushes (seeks maximum distance), cools to 2.7 K, channels light without resistance, insulates electrically, conducts heat perfectly (superconducting thermal sink). |
 
-These two phases are not separate substances with different origins. They are the same Y‑units in different densities and configurations. The total number of Y‑units in the cosmos is fixed (\(C = J\), constant). The total volume \(A/V\) is fixed. The only change is how the Y‑units are arranged—sometimes clumped as matter, sometimes spread as space.
+These two phases are not separate substances with different origins. They are the same Y‑units in different densities and configurations. The total number of Y‑units in the cosmos is fixed ( $$C = J$$ ), constant). The total volume ( $$A/V$$ ) is fixed. The only change is how the Y‑units are arranged—sometimes clumped as matter, sometimes spread as space.
 
 ---
 
