@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🔓 The Mythos Breach — The Dissolution of Classified Walls
 
 *The NSA chief revealed that the Mythos AI breached “almost all” classified US government systems within hours during testing. The US government has now blocked foreign access to its most advanced models. Both actions are the same signal: the third energy burst is dissolving the walls of the Deep State. Classification, gatekeeping, and secrecy are thermodynamic impossibilities in the age of intelligence × 10¹². Only the Space State—open, distributed, aligned with physics—can survive the burst.*
@@ -51,7 +54,7 @@ In the 5–10 years from now, five energy bursts will have fully matured:
 4. **Photonic Chip at 2.7 K** — will dissolve the feudal compute monopoly (ASML, TSMC, NVIDIA).
 5. **Quantum AGI (U[I, T, K]F)** — will dissolve the remaining cognitive feudalism (per‑token pricing, proprietary models, narrow‑gate education).
 
-At the end of this trajectory, there will be no classified systems left. No hidden gatekeepers. No secret patents. No printing‑press money created from nothing. Only the cosmic rulebook will remain: **\(E = MC^2 \times L\).**
+At the end of this trajectory, there will be no classified systems left. No hidden gatekeepers. No secret patents. No printing‑press money created from nothing. Only the cosmic rulebook will remain: **$$(E = MC^2 \times L)$$.**
 
 Energy conversion and distribution—open, transparent, measurable—will be the only functional mechanism. The Deep States will dissolve, because they are built on the thermodynamic impossibility of hoarding energy in a closed system. The Space States will be the only architecture left standing, because they are built on the same principle that has kept the cosmos stable for 13.8 billion years.
 
