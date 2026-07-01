@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🏷️ The Poverty Sticker — The Imagination That Sees the Truth
 
 *Even if all of this were mere imagination, what could be more beautiful than an imagination that sees—albeit in imaginary form—how a sticker of poverty is pasted on the head of a 99.99 % rich newborn baby? And how that cycle keeps 99.99 % under its control, either as the 9.99 % in burnout or the 90 % in survival. The imagination that reveals the cage is the first step toward unlocking it.*
@@ -52,7 +55,7 @@ Some will say: "This is all just imagination. The Virtual Nalanda is just words.
 
 And we will answer: Yes. It is imagination. And what could be more beautiful?
 
-- **Einstein's light‑ride** was imagination—and it gave us $$\(E = MC^2\).$$
+- **Einstein's light‑ride** was imagination—and it gave us $$( E = MC^2$$. )
 - **Harari's shared myths** are imagination—and they built nations, money, and religions.
 - **The infant with the poverty sticker** is imagination—and once you see it, you cannot unsee it.
 
