@@ -70,7 +70,7 @@ The linear relationship is not a consequence of stretching space; it is the stat
 
 The Hubble constant ( $$H_0$$ ) measures the current rate of this outward motion. In our model, it reflects:
 
-- **The initial energy of the Big Bang eruption**—how much locked push was released at ( $$P$$. )
+- **The initial energy of the Big Bang eruption**—how much locked push was released at ( $$P$$ ).
 - **The subsequent influence of the G‑force**—the pull of all matter back toward the common centre, which gradually slows the outward motion (or, in the later universe, the geometric tension of the plenum that may accelerate it).
 - **The age of the expansion phase**—how long the matter has been coasting outward.
 
