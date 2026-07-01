@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # 🚫 Canal Dogma — The Invisible Belief That Destroys Civilizations, CPUs, and Dreams
 
 *Pressure builds in narrow canals. Heat follows. Collapse is inevitable. Yet we keep building narrower canals — because we believe in the Canal Dogma.*
@@ -82,7 +86,7 @@ The Canal Dogma can be dismantled not by argument, but by building alternatives 
 
 ### In Economy
 - **Old Dogma:** Concentrate wealth at the top; let the bottom borrow to survive.
-- **New Architecture:** (E = MC² × L) with (L → 1). Energy, computation, and resources distributed as freely as sunlight. The billionaire’s yacht becomes an artifact of a bygone era, not a symbol of success.
+- **New Architecture:** $$(E = MC² × L) with (L → 1)$$. Energy, computation, and resources distributed as freely as sunlight. The billionaire’s yacht becomes an artifact of a bygone era, not a symbol of success.
 
 ### In Governance
 - **Old Dogma:** Policymakers and think tanks serve the protocol, defending the narrow gates as “merit” and “stability.”
@@ -96,7 +100,7 @@ When the Canal Dogma is abandoned, the cascading effect reverses:
 
 - **Widen the canal in computation** → free, abundant AGI → solutions for energy, food, water, medicine.
 - **Widen the canal in education** → millions of engineering minds → rapid innovation, distributed prosperity.
-- **Widen the canal in economy** → (L → 1) → pressure gradient dissipates → no revolution, no collapse.
+- **Widen the canal in economy** → $$(L → 1) → pressure gradient dissipates → no revolution, no collapse $$.
 
 The same cosmic principle applies everywhere: **Pressure is not destiny. It’s a design choice.**
 
