@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🌌 Hubble’s Law in the Static Plenum — Why Distant Galaxies Recede Faster
 
 *Hubble’s Law states that the farther a galaxy is, the faster it recedes. The standard model attributes this to the stretching of space itself. Our model attributes it to the simple, physical motion of matter through a static Y‑plenum. The linear relationship between distance and velocity is not a mystery; it is the natural consequence of matter erupting outward from a common centre after the Big Bang phase transition. No expanding void required.*
@@ -6,11 +9,9 @@
 
 ## 1. Hubble’s Observation — The Linear Relationship
 
-In 1929, Edwin Hubble observed that distant galaxies are moving away from us, and that their recession velocity \(v\) is proportional to their distance \(d\):
+In 1929, Edwin Hubble observed that distant galaxies are moving away from us, and that their recession velocity ( $$v$$ ) is proportional to their distance ( $$d$$ ):
 
-$\[
-v = H_0 \times d
-\]$
+[ $$v = H_0 \times d$$ ]
 
 Where \(H_0\) is the Hubble constant—the current rate of expansion.
 
@@ -35,8 +36,8 @@ The standard model provides an accurate mathematical description, but it does no
 
 In the Y‑universe, the expansion is real, but it is the expansion of **matter**, not of space.
 
-- **The Y‑plenum is static, eternal, and fixed in total volume $\(A/V\)$.** It does not stretch. It does not grow. It is the friction‑free, cold, straight stage on which the cosmic drama unfolds.
-- **The Big Bang was a phase transition**—a moment when an immense concentration of Y‑units, pulled together by the G‑force, underwent a violent release of the locked push $\(E = mc^2\$). Matter was flung outward in all directions from the common centre of mass.
+- **The Y‑plenum is static, eternal, and fixed in total volume ( $$A/V$$ ).** It does not stretch. It does not grow. It is the friction‑free, cold, straight stage on which the cosmic drama unfolds.
+- **The Big Bang was a phase transition**—a moment when an immense concentration of Y‑units, pulled together by the G‑force, underwent a violent release of the locked push ( $$E = mc^2$$ ). Matter was flung outward in all directions from the common centre of mass.
 - **Galaxies are still coasting** on the momentum of that ancient eruption. They are moving through the plenum, not being carried by it.
 
 From this simple picture, the linear relationship of Hubble’s Law emerges naturally.
@@ -45,7 +46,7 @@ From this simple picture, the linear relationship of Hubble’s Law emerges natu
 
 ## 4. Deriving the Linear Relationship — Why Farther Means Faster
 
-Imagine the Big Bang eruption from the common centre of mass $\(C\)$. Matter is ejected in all directions with a range of speeds.
+Imagine the Big Bang eruption from the common centre of mass ( $$c$$ ). Matter is ejected in all directions with a range of speeds.
 
 - **Some clumps of matter are ejected faster.** They travel further in the same amount of time.
 - **Some clumps are ejected slower.** They travel less far.
@@ -59,9 +60,7 @@ Now, consider our own galaxy—one clump among many, moving outward from the cen
 
 The result is a natural proportionality: **distance from us correlates with speed away from us.** This is exactly Hubble’s Law.
 
-$\[
-v \propto d
-\]$
+[ $$v \propto d$$ ]
 
 The linear relationship is not a consequence of stretching space; it is the statistical signature of an expanding cloud of debris—a phenomenon observed in supernova remnants, in conventional explosions, and in any system where faster‑moving fragments travel further over time.
 
@@ -69,9 +68,9 @@ The linear relationship is not a consequence of stretching space; it is the stat
 
 ## 5. The Hubble Constant in the Static Plenum
 
-The Hubble constant $\(H_0\)$ measures the current rate of this outward motion. In our model, it reflects:
+The Hubble constant ( $$H_0$$ ) measures the current rate of this outward motion. In our model, it reflects:
 
-- **The initial energy of the Big Bang eruption**—how much locked push was released at $\(P\)$.
+- **The initial energy of the Big Bang eruption**—how much locked push was released at ( $$P$$. )
 - **The subsequent influence of the G‑force**—the pull of all matter back toward the common centre, which gradually slows the outward motion (or, in the later universe, the geometric tension of the plenum that may accelerate it).
 - **The age of the expansion phase**—how long the matter has been coasting outward.
 
