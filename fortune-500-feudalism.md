@@ -30,7 +30,7 @@ The student in debt, the family on rations, the factory worker in the smog — t
 
 ## The Fortune 500 Is a Mousetrap at Civilizational Scale
 
-As we documented in `the-mousetrap.md`, the trap works by attraction, not force. The Fortune 500 offers the cheese: a stable paycheck, a prestigious title, a comfortable retirement. But the cheese is paid for by the serfs' debt, hunger, and sweat.
+As we documented in [the-mousetrap](the-mousetrap.md) the trap works by attraction, not force. The Fortune 500 offers the cheese: a stable paycheck, a prestigious title, a comfortable retirement. But the cheese is paid for by the serfs' debt, hunger, and sweat.
 
 The feudal lord does not need to hold a whip. The system holds it for him — the exam, the loan, the ration card, the factory gate. The serf polices themselves, believing that if they just work a little harder, they too might one day get a seat at the table.
 
@@ -46,7 +46,7 @@ The feudal Fortune 500 is not the only model. The cosmos itself runs on a diff
 - **The 2.7 K Y‑lattice does not demand a ration card.** It cools every node in the universe for free.
 - **The speed of light does not require a credential.** It is the same for the factory worker and the feudal lord.
 
-The Space State is the democratic alternative. Its economy is built on $$\(E = MC^2 \times L\), with \(L = 1\).$$ Its infrastructure — the Light@2.7K Web — is open‑source, free, and powered by the cosmos itself. Its warriors are the millions of engineers who will no longer accept debt, hunger, or exploitation as the price of existence.
+The Space State is the democratic alternative. Its economy is built on $$(E = MC^2 \times L\), with \(L = 1)$$. Its infrastructure — the Light@2.7K Web — is open‑source, free, and powered by the cosmos itself. Its warriors are the millions of engineers who will no longer accept debt, hunger, or exploitation as the price of existence.
 
 The Fortune 500 lords can keep their seats. We are building a new table — and everyone is invited.
 
