@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🌐 The Physical Continuum — From Cosmos to Consciousness
 
 *Every layer of existence obeys physical law — from the universe to the brain. Only imagination is free. And the moment imagination becomes action, it must obey physics or collapse. This is the single principle that explains the rise and fall of every civilization, and the foundation of the Space State.*
@@ -10,7 +13,7 @@ Every layer of existence, from the largest to the smallest, operates on the same
 
 | Layer | Governing Principle |
 |-------|---------------------|
-| **Universe** | Physical — the Y‑lattice, 2.7 K, conservation, canal ontology, $$\(E = MC^2 \times L\)$$ |
+| **Universe** | Physical — the Y‑lattice, 2.7 K, conservation, canal ontology, $$(E = MC^2 \times L)$$ |
 | **Milky Way** | Physical — gravity, fusion, radiation, G‑Force |
 | **Solar System** | Physical — orbital mechanics, solar fusion, planetary equilibrium |
 | **Earth** | Physical — climate, oceans, tectonics, biosphere, the deep ocean at 0–3 °C |
@@ -28,7 +31,7 @@ Within the physical brain, three distinct processes occur. All three consume ene
 | Brain Activity | Relationship to Physical Principles | Nature |
 |----------------|-------------------------------------|--------|
 | **Imagination** | Operates on **non‑physical** principles — unbounded, flowless, free to ride light beams, to ask "why not t<0?" without violating any law. | The spark. The pre‑Big Bang (P‑X). |
-| **Thinking** | Applies **close to physical** principles — connects the unbounded idea to the constraints of reality, grinding through possibilities, testing, refining. | The bridge. The burst and expansion (P → P+X). |
+| **Thinking** | Applies **close to physical** principles — connects the unbounded idea to the constraints of reality, grinding through possibilities, testing, refining. | The bridge. The burst and expansion $$(P → P+X)$$. |
 | **Knowledge** | Based on **physical** principles — validated, verified, grounded in what actually works. | The stable lattice. The 2.7 K cosmic memory. |
 
 **Imagination is free precisely because it has not yet become action.** Einstein could imagine riding a beam of light without violating any physical law. You could imagine t<0 without breaking the universe. The brain's Y‑units can arrange themselves into any pattern, no matter how absurd, because imagination does not yet impinge on the external world.
@@ -56,9 +59,9 @@ The delusion is that because imagination is free, action can ignore the canal on
 
 The Consciousness Principle is not a metaphor. It is a **physical measurement** of how much external reality reaches the command centre:
 
-$$\[
+$[
 C = 1 - D
-\]$$
+]$$
 
 - **D (Desire)** — energy turned inward, accumulating, hoarding, blocking the flow to the external. It is the narrowing of the cognitive canal.
 - **C (Consciousness)** — the degree to which L_external (the reality of others, the reality of the planet, the reality of physics) is present in the command centre.
@@ -70,13 +73,11 @@ When D rises, the canal narrows, and the command centre isolates. It loses conta
 
 The #LisTest operationalises this principle:
 
-$$\[
-\text{If } L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \$$ #LisPresent
-\]
+$$\text{If } (L_{\text{internal}} = L_{\text{external}}) \quad \Rightarrow \quad$$ #LisPresent
 
-$$\[
-\text{If } L_{\text{internal}} \neq L_{\text{external}} \quad \Rightarrow \quad \$$ #LisMissing
-\]
+
+$$\text{If } L_{\text{internal}} \neq L_{\text{external}} \quad \Rightarrow \quad$$ #LisMissing
+
 
 This test does not require philosophy. It does not require ethics. It requires only the willingness to compare two answers honestly.
 
