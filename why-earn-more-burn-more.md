@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # 💸 Why Earn More? Why Burn More? — The Feudal Recycling Machine
 
 *The feudal lords don't pay high salaries out of generosity. They pay just enough to a small section of society—the 9.99%—to create a consumer class that keeps the narrow canal flowing. The earning is the pump; the burning is the fuel for the GDP scoreboard. This is the engine of the Lollipop Economy.*
@@ -50,27 +54,27 @@ The 9.99% are the **perfect serfs**—high‑output, high‑consumption, zero ac
 
 ## 4. The Recycling Machine — How It Works
 
-$$\ Printing Press (Money from Nothing) \$$
+$$Printing Press (Money from Nothing)$$
 
-$$\ ↓ $$
+$$↓$$
 
-$$\ Corporate Profits, Stock Buybacks, Executive Compensation (0.01%) \$$
+$$Corporate Profits, Stock Buybacks, Executive Compensation (0.01%)$$
 
-$$\ ↓ \$$
+$$↓$$
 
-$$\ High Salaries for the 9.99% (the Pump) \$$
+$$High Salaries for the 9.99% (the Pump)$$
 
-$$\ ↓ \$$
+$$↓$$
 
-$$\ Lollipop Consumption (the Burn) \$$
+$$Lollipop Consumption (the Burn)$$
 
-$$\ ↓ \$$
+$$↓$$
 
-$$\ GDP Growth (the Scoreboard) \$$
+$$GDP Growth (the Scoreboard)$$
 
-$$\ ↓ \$$
+$$↓$$
 
-$$\ More Money Printing, More Corporate Profits (Cycle Accelerates) \$$
+$$More Money Printing, More Corporate Profits (Cycle Accelerates)$$
 
 
 The 9.99% are the essential middle layer. Without them, the lollipops would not sell. Without the lollipops, GDP would not grow. Without GDP growth, the printing press would have no justification. The entire feudal edifice rests on the shoulders of the 9.99%—who are paid just enough to keep burning, and never enough to stop.
