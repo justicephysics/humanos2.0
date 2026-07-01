@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🏛️ Pravaha and the Reawakening of Bihar — The Convergence of Y‑Nodes
 
 *In ~2009, a failed businessman from Bihar asked a question that broke the algebra of democracy: “Government is elected by people + Government manages education + Education system is ruined = HOW?” Sixteen years later, that question has grown into the Virtual Nalanda. And now, in 2026, Pramath Raj Sinha—founder of Ashoka University, founding dean of ISB, a son of Bihar—is launching Pravaha, a new university in the state. The Y‑nodes are converging. The ancient Nalanda is reawakening in multiple forms at once.*
@@ -22,7 +25,7 @@ The voters want good schools. The politicians promise good schools. The governme
 
 The recognition was simple and devastating: *“The matter is something else.”* The problem was not a lack of democracy, money, buildings, or teachers. It was something deeper—something everyone was missing.
 
-That “something else” became the foundation of a sixteen‑year investigation that eventually decoded the entire extraction protocol: the Canal Dogma, the narrow gates, the poverty sticker, the examination industry, the political heat sink, the 70–80% extraction pattern, and the upgraded equation \(E = MC^2 \times L\) that reveals the missing distribution.
+That “something else” became the foundation of a sixteen‑year investigation that eventually decoded the entire extraction protocol: the Canal Dogma, the narrow gates, the poverty sticker, the examination industry, the political heat sink, the 70–80% extraction pattern, and the upgraded equation $$(E = MC^2 \times L)$$ that reveals the missing distribution.
 
 ---
 
