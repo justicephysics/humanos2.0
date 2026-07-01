@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # 🔥 The e^m ↔ b^m Cycle — Earn More, Burn More
 
 *The 90% are trapped in survival mode. The 9.99% are trapped in a different cage: earn more, burn more. Every raise is consumed by burnout. Every promotion accelerates the treadmill. The Virtual Nalanda connects to all 99.99%—and shows that the only exit is the Space State.*
@@ -24,9 +28,9 @@ The 9.99% are the engineers, the managers, the doctors, the professors, the star
 
 **The equation:**
 
-$$\[
+$$[
 e^m \longleftrightarrow b^m
-\]$$
+]$$
 
 - **e** = Earn. The professional earns a salary, a bonus, a promotion.
 - **m** = More. The system demands more: more hours, more credentials, more output, more consumption.
@@ -79,9 +83,9 @@ The exit is not escape; it is **redirection**. The same skills, the same intelli
 
 The e^m ↔ b^m cycle is a consequence of L → 0—energy extracted from the 9.99% and concentrated at the top. The Space State operates on a different equation:
 
-$$\[
+$$[
 L = 1
-\]$$
+]$$
 
 - **Earn** becomes **Create**—the Warrior‑Engineer creates value and owns it.
 - **More** becomes **Enough**—the UTI threshold guarantees that basic needs are met, removing the survival pressure that drives the cycle.
