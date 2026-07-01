@@ -185,7 +185,7 @@ C_{\text{command}} = f(\text{Desire}_{\text{stored}}, \text{Information received
 ]$$
 
 $$[
-C_{\text{alignment}} = \frac{\text{Desire}_{\text{stored toward L\-internal = L\-external}}}{\text{Total desire capacity}}
+C_{\text{alignment}} = \frac{\text{Desire}_{\text{stored toward L-internal = L-external}}}{\text{Total desire capacity}}
 ]$$
 
 **The two separate variables:**
