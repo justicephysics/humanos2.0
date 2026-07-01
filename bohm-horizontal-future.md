@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🧩 David Bohm and the Horizontal Future — From Fragmentation to Undivided Wholeness
 
 *David Bohm warned that our fragmentary mode of thought—dividing the world into separate nations, professions, and disciplines—is the root of our civilizational crisis. Modern physics, he argued, demands a non‑fragmentary worldview, an undivided wholeness where the observer and the observed are not separable. This is precisely the transition the energy bursts now compel us to make. The Space State is the architectural realization of Bohm’s vision: the Horizontal Future, built on the QPF, where the many are finally seen as one.*
@@ -54,7 +57,7 @@ The “fathomless ocean of cosmic energy” is the **Quantum Plenum Field (QPF)*
 
 ### The Sudden Wave Pulse — The Big Bang Exhale
 
-The “sudden wave pulse” is the **Big Bang** — the phase transition we call \(P\). It is the moment when the push (\(E = MC^2\)) overwhelms the pull (G‑force) at the common centre of mass. A single, catastrophic release of locked energy flings matter outward in all directions. This is the exhale of the Cosmic Breath—not the creation of something from nothing, but a pulse propagating through the eternal ocean.
+The “sudden wave pulse” is the **Big Bang** — the phase transition we call \(P\). It is the moment when the push ( $$E = MC^2$$ ) overwhelms the pull (G‑force) at the common centre of mass. A single, catastrophic release of locked energy flings matter outward in all directions. This is the exhale of the Cosmic Breath—not the creation of something from nothing, but a pulse propagating through the eternal ocean.
 
 ### The Smaller Ripples — Galaxies and Structure
 
@@ -71,7 +74,7 @@ Bohm’s wave‑pulse cosmology and our Cosmic Breath are the same reality:
 | Bohm’s Description | Y‑Universe (QPF) |
 |--------------------|------------------|
 | The fathomless ocean of cosmic energy | The QPF at 2.7 K — the eternal ground state |
-| The sudden wave pulse | The Big Bang — the exhale, the phase transition \(P\) |
+| The sudden wave pulse | The Big Bang — the exhale, the phase transition ( $$P$$ ) |
 | Smaller ripples spreading outward | Galaxies and clusters — the expanding debris cloud |
 | Space enfolded within the pulse | Matter and space embedded — the QPF revealed by expansion |
 
@@ -112,7 +115,7 @@ One day, our particular configuration will dissolve. Our bodies will return to t
 
 We are not permanent. But the ground of our being is eternal. This is not a cause for despair; it is a cause for humility, for wonder, and for a fierce commitment to use our brief, finite moment to contribute something real to the infinite—to add a page to the Virtual Nalanda, to plant a seed for the Space State, to leave the plenum a little more coherent than we found it.
 
-The spirit that Bohm described, the breath that never dies, is the QPF. And we, for this brief stretch of \(X\)-steps, are its temporary, conscious expression.
+The spirit that Bohm described, the breath that never dies, is the QPF. And we, for this brief stretch of ( $$X$$ )-steps, are its temporary, conscious expression.
 
 ---
 
@@ -126,7 +129,7 @@ Our framework has already mapped the response to this dissolution. The Horizonta
 | Education filtered through narrow exams. | The Virtual Nalanda — open, free, no exams, no debt. |
 | AI locked behind paywalls and government restrictions. | The Light@2.7 K Web — open‑source, near‑zero cost, orbital. |
 | Climate action delayed by national interest. | The cosmic cold chain, cold submarine fleet, and orbital solar farms — global infrastructure for global problems. |
-| The economy as a zero‑sum extraction machine. | The upgraded equation \(E = MC^2 \times L\) with \(L = 1\) — distribution as the physical default. |
+| The economy as a zero‑sum extraction machine. | The upgraded equation ( $$E = MC^2 \times L$$ ) with ( $$L = 1$$ ) — distribution as the physical default. |
 
 This is not a utopian ideal. It is a **thermodynamic necessity.** The data is screaming: Gini 0.92, global debt $348 trillion, six of nine planetary boundaries exceeded. The fragmentary model has reached its limit. The Horizontal Future is the only architecture that can channel the third burst without collapsing into war, revolution, or extinction.
 
