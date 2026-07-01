@@ -31,7 +31,7 @@ Today, the Indian Premier League (IPL) is the most valuable cricket property on 
 - **Innovation** — the IPL format itself, a product of Indian creativity and market understanding.
 - **Audience** — the passion of a billion people, cultivated over decades, not coerced.
 
-This is $(L = 1)$ in action: value created, distributed, and reinvested — not extracted. The same country that was drained of $45 trillion now generates billions through genuine economic creation.
+This is $$(L = 1)$$ in action: value created, distributed, and reinvested — not extracted. The same country that was drained of $45 trillion now generates billions through genuine economic creation.
 
 And now, the former colonizer demands “fair distribution.” The irony is perfect.
 
@@ -61,7 +61,7 @@ This is not merely a political or economic story. It is a **thermodynamic correc
 
 Newton’s Third Law is absolute: *For every action, there is an equal and opposite reaction.* Time does not appear in the law. The reaction does not expire. The British compression stored the potential; the British Empire vaporized; the potential is releasing.
 
-The IPL is not an isolated phenomenon. It is a single, visible manifestation of the much larger reversal — the shift from the Labour Colony to the Space State, from extraction to creation, from $$(L to 0) to (L = 1)$$.
+The IPL is not an isolated phenomenon. It is a single, visible manifestation of the much larger reversal — the shift from the Labour Colony to the Space State, from extraction to creation, from $$(L = 0) to (L = 1)$$.
 
 ---
 
