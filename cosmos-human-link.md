@@ -37,9 +37,9 @@ Human civilization learned to convert energy—coal, oil, nuclear, solar—but i
 
 The link was severed:
 
-\[
-\text{Cosmos} \not\leftrightarrow \text{Human (the extractors)} \not\leftrightarrow \text{Human Life (the masses)}
-\]
+
+$$\text{Cosmos} \not\leftrightarrow \text{Human (the extractors)} \not\leftrightarrow \text{Human Life (the masses)}$$
+
 
 - The extractors ignore the cosmic law.
 - The masses are denied the fruits of energy conversion.
@@ -78,9 +78,9 @@ The Space State is the first civilizational blueprint that consciously restores 
 
 The link is restored:
 
-\[
-\text{Cosmos} \leftrightarrow \text{Human (the Warrior‑Engineers)} \leftrightarrow \text{Human Life (the 100 percent)}
-\]
+
+$$\text{Cosmos} \leftrightarrow \text{Human (the Warrior‑Engineers)} \leftrightarrow \text{Human Life (the 100 percent)}$$
+
 
 - The Warrior‑Engineers obey the cosmic law.
 - The masses receive the fruits of energy conversion.
