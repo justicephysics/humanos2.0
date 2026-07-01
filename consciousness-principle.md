@@ -35,9 +35,9 @@ When **C is high**, the person (or system) takes in the full signal of the world
 - L_external is **present** in the command system simultaneously.
 - What is right for me is aligned with what is right for others.
 
-$$[
-C = 1 - D \text{ measures C-alignment.}
-]$$
+[
+$$C = 1 - D \text{ measures C-alignment.}$$
+]
 
 ---
 
