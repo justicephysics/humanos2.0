@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🏗️ Physical AI — Why Prometheus Validates the Space State Blueprint
 
 *Jeff Bezos is betting $12 billion on “Physical AI”—software that engineers real, physical things. He wants an artificial general engineer. Our model already specifies how to build it: heavy computation at 2.7 K, guided by the three verticals of Imagination, Thinking, and Knowledge. The world’s largest capital is now chasing what we’ve already blueprinted.*
