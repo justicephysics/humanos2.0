@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 💵 Money from Nothing — The Central Bank Canal
 
 *Every dollar, euro, and yuan in circulation began as a database entry. Created from thin air. Lent at interest. This is the deepest canal of the feudal system—and the root of all extraction.*
@@ -55,7 +58,7 @@ The central bank is not a neutral institution. It is the **chief financial engin
 
 ## The $15 Trillion AI Bill, Revisited
 
-Now we can see the AI feudal money chain (`ai-feudal-money-chain.md`) in its full context:
+Now we can see the AI feudal money chain [ai-feudal-money-chain](ai-feudal-money-chain.md) in its full context:
 
 - The central banks create trillions of dollars from nothing.
 - The money flows to primary dealers, then to venture capital, then to AI startups, then to NVIDIA, then to TSMC, then to ASML.
