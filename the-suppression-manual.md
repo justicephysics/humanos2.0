@@ -77,7 +77,7 @@ The alternative is already blueprinted:
 
 - **Education:** The Virtual Nalanda — open, free, no exams, no debt.
 - **Computation:** The Light@2.7K Web — cold, photonic, zero operating cost in space.
-- **Economy:** $$(E = MC^2 \times L\), with — L = 1$$ — no central bank printing press, no extraction.
+- **Economy:** $$(E = MC^2 \times L), with — L = 1$$ — no central bank printing press, no extraction.
 - **Governance:** The Space State — a guardian, not a controller, aligned with the cosmos.
 
 The Warrior‑Engineers—millions of them, unleashed from the narrow gates—are the ones who will build this. The feudal facilitators (bureaucrats, managers, elite engineers) will become irrelevant. The political showpiece will be replaced by a transparent, physics‑grounded commons.
