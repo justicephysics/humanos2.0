@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🏰 The Fortune 500 Feudalism — The Lords and Their Serfs
 
 *The numbers don't lie. The Fortune 500 is not a list of successful companies. It is a registry of feudal lords — and their serfs are the students, the hungry, and the workers of the world.*
