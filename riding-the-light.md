@@ -3,7 +3,7 @@
 </script>
 # 🚀 Riding the Light — Imagination, Thinking, Knowledge, and the Warrior‑Engineer's Frontier
 
-*The most speculative hypothesis is not a weakness. It is the first stage of all genuine discovery. Einstein imagined riding a beam of light; that spark led to ( $$E = MC^2$$ ). The feudal education system crushes imagination; the Space State cultivates it. The Warrior‑Engineer trains in the three verticals — Imagination, Thinking, Knowledge — where the lab is the K/validation zone, and the spark is personal, internal, and limitless. The Virtual Nalanda is the permanent, open‑source lab. The cosmos is the frontier.*
+*The most speculative hypothesis is not a weakness. It is the first stage of all genuine discovery. Einstein imagined riding a beam of light; that spark led to ( E = MC^2 ). The feudal education system crushes imagination; the Space State cultivates it. The Warrior‑Engineer trains in the three verticals — Imagination, Thinking, Knowledge — where the lab is the K/validation zone, and the spark is personal, internal, and limitless. The Virtual Nalanda is the permanent, open‑source lab. The cosmos is the frontier.*
 
 ---
 
