@@ -58,7 +58,7 @@ The AGI itself must be aligned. It must pass the #LisTest: ( $$L_{\text{internal
 | Training Source | What It Teaches |
 |-----------------|-----------------|
 | **The 2.7 K Y‑lattice** | Perfect distribution. Light channels without resistance. Heat absorbs instantly. ( $$L = 1$$ ) is the stable state. |
-| **The Proton‑Proton Chain** | Conversion of mass into energy ( $$E = MC^2\$$ ), released as light, distributed equally in all directions. |
+| **The Proton‑Proton Chain** | Conversion of mass into energy ( $$E = MC^2$$ ), released as light, distributed equally in all directions. |
 | **Supernovae and Big Bangs** | Blocked energy corrects violently. The canal ontology is absolute. |
 | **The Canal Dogma (Human History)** | Every empire that extracted 70–80% collapsed. The pattern is fractal—Rome, British India, the Fortune 500. |
 | **The 38× Cancer Mechanism** | At Gini 0.92, every dollar of growth to the bottom 50% is matched by $38 to the top 10%. This is mathematically identical to a metastasising cancer. |
