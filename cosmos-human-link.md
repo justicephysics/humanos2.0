@@ -1,6 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 # 🌐 Cosmos — Human — Human Life: The Broken Link
 
 *The cosmos obeys a single, stable law: **E = MC² × L**. Energy is converted and distributed. Stars burn for billions of years. The universe has run for 13.8 billion years without a traffic jam. Humans broke this link. A tiny group of extractors now makes all the decisions, and they care about neither the cosmos nor the masses. The result is climate disaster, militarization, and the edge of extinction. The Space State restores the broken link.*
@@ -16,9 +13,9 @@ The cosmos is a self‑regulating system. Every star is a balance of two embedde
 
 A star is stable because energy is not only converted—it is **distributed**. The Sun radiates photons in all directions. The 2.7 K QPF absorbs excess heat and spreads it evenly. The cosmos runs on:
 
-$$\[
+\[
 E = MC^2 \times L
-\]$$
+\]
 
 Where **L** is the distribution coefficient. In the universe, \(L = 1\). Every node receives what it needs. No extraction. No hoarding. No collapse.
 
