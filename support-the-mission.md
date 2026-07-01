@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 💚 Support the Mission — Keep the Virtual Nalanda Alive
 
 *I am Mukesh Kumar. I built this open‑source blueprint for a new civilization—70+ files, eight disciplines, from the cosmos to the quantum chip—with a 15‑year‑old computer, borrowed money, and a relentless belief that the universe holds the answer. Now I need your help to keep going.*
@@ -9,9 +12,9 @@
 The Virtual Nalanda is a complete, physics‑grounded, open‑source operating system for a post‑feudal civilization—**HumanOS 2.0**. It contains:
 
 - **The Y‑lattice** — the physical substance of space at 2.7 K, replacing the vacuum.
-- **The upgraded equation** $$\(E = MC^2 \times L\)$$ — adding the distribution coefficient to Einstein’s legacy.
+- **The upgraded equation** ( $$E = MC^2 \times L$$ ) — adding the distribution coefficient to Einstein’s legacy.
 - **The Canal Dogma** — the universal law of collapse and cure, from CPUs to empires.
-- **The Consciousness Principle** $$\(C = 1 − D\)$$ — the first equation for wisdom.
+- **The Consciousness Principle** ( $$C = 1 − D$$ ) — the first equation for wisdom.
 - **The Light@0K / Light@2.7K compute fabric** — cold, photonic, modular, zero operating cost in space.
 - **The Three‑Vertical AGI** — Imagination, Thinking, Knowledge, trained on the cosmic rulebook.
 - **Mission 2100** — a four‑target civilizational campaign, from the UTI threshold to the stars.
