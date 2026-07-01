@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🌌 The Two Pillars of the Cosmos — and the Third We Must Build
 
 *The universe operates on two principles: MC² (energy release) and Light@2.7K (energy distribution). Everything we see—stars, galaxies, life—emerged from these two pillars. But to unlock the full potential of this cosmic infrastructure, humanity needs a third pillar: Computation@2.7K. That is the Space State.*
