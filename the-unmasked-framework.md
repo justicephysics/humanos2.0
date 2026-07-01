@@ -25,9 +25,9 @@ These four equations are not metaphors. They are a **unified diagnostic framewor
 | The Feudal Narrative | The Unmasked Reality |
 |----------------------|----------------------|
 | **"Governance is broken."** | Governance is a political heat sink—a rotating showpiece that absorbs public anger while the extraction protocol continues untouched. The qualification gap ensures politicians cannot decode the system. |
-| **"Greed is human nature."** | Greed is $$\(D \to 1, C \to 0\)$$. The command centre isolates. L_external—the reality of others, the planet, the future—is absent. This is a thermodynamic state, not a character flaw. |
+| **"Greed is human nature."** | Greed is ( $$D \to 1, C \to 0$$ ). The command centre isolates. L_external—the reality of others, the planet, the future—is absent. This is a thermodynamic state, not a character flaw. |
 | **"Ideology drives progress."** | Ideology is a story that justifies the current distribution of energy. "Free market," "merit," "trickle‑down"—all are narratives that make the narrow canal seem natural. |
-| **"Conflict is inevitable."** | Conflict is the violent release of blocked energy. When $$\(L \to 0\)$$ and the gradient becomes too steep, the canal overflows. War is the safety valve when anti‑incumbency fails. |
+| **"Conflict is inevitable."** | Conflict is the violent release of blocked energy. When ( $$L \to 0$$ ) and the gradient becomes too steep, the canal overflows. War is the safety valve when anti‑incumbency fails. |
 | **"Bailouts save the economy."** | Bailouts are adrenaline for a bullet wound. They inject more energy into the same narrow canal, delaying the overflow while deepening the gradient. |
 | **"Growth is good."** | GDP counts extraction as growth. Oil spills, cancer treatments, and prison construction all raise GDP. The True Index (TI) measures genuine thriving. |
 | **"Inflation is manageable."** | Inflation is the silent tax—a redistribution of energy upward, away from those who hold cash and toward those who hold assets. |
