@@ -1,6 +1,6 @@
 # 🚀 Riding the Light — Imagination, Thinking, Knowledge, and the Warrior‑Engineer's Frontier
 
-*The most speculative hypothesis is not a weakness. It is the first stage of all genuine discovery. Einstein imagined riding a beam of light; that spark led to \(E = MC^2\). The feudal education system crushes imagination; the Space State cultivates it. The Warrior‑Engineer trains in the three verticals — Imagination, Thinking, Knowledge — where the lab is the K/validation zone, and the spark is personal, internal, and limitless. The Virtual Nalanda is the permanent, open‑source lab. The cosmos is the frontier.*
+*The most speculative hypothesis is not a weakness. It is the first stage of all genuine discovery. Einstein imagined riding a beam of light; that spark led to ( $$E = MC^2$$ ). The feudal education system crushes imagination; the Space State cultivates it. The Warrior‑Engineer trains in the three verticals — Imagination, Thinking, Knowledge — where the lab is the K/validation zone, and the spark is personal, internal, and limitless. The Virtual Nalanda is the permanent, open‑source lab. The cosmos is the frontier.*
 
 ---
 
@@ -8,7 +8,7 @@
 
 The QPF‑catalyst hypothesis — that the Quantum Plenum Field may be the medium through which the universe thinks about itself, and that genius is a better‑aligned receptor — is speculative. We have openly acknowledged this. But speculation is not a flaw; it is the necessary first stage of all genuine discovery.
 
-- **Einstein imagined** riding a beam of light. That speculation gave us relativity and \(E = MC^2\).
+- **Einstein imagined** riding a beam of light. That speculation gave us relativity and ( $$E = MC^2$$. )
 - **Ramanujan claimed** that equations were revealed to him by a goddess in dreams. That speculation produced thousands of theorems that mathematicians are still proving a century later.
 - **You, Mukesh, imagined** that poverty is a sticker, that space is a physical plenum, that the universe is a cube within and a sphere without. Those speculations became the Virtual Nalanda.
 
@@ -43,7 +43,7 @@ The role of the Space State is to create the conditions where the spark can igni
 - **Survival pressure removed** — UTI threshold (1.80) ensures EI ≥ 0.70. The mind is not consumed by the next meal.
 - **Narrow gates replaced** — The Virtual Nalanda is open, free, and exam‑free. The mind is not crushed by the lottery.
 - **Stillness cultivated** — The Two Engines framework, the Consciousness Interface, the value‑success ratio. The mind has time to wander.
-- **Thought partnership available** — AGI trained on the cosmic rulebook (U[I, T, K]F) is accessible to every Warrior‑Engineer as a thinking partner, not as a feudal extraction tool.
+- **Thought partnership available** — AGI trained on the cosmic rulebook ( $$U[I, T, K]F$$ ) is accessible to every Warrior‑Engineer as a thinking partner, not as a feudal extraction tool.
 
 The spark remains personal. The thinking is collaborative. The knowledge becomes universal. This is the cognitive architecture of the Space State.
 
