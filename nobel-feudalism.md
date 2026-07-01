@@ -9,7 +9,7 @@
 
 ## 1. The Two Greatest Omissions
 
-**Albert Einstein** revolutionised physics. He gave the world $$(E = MC^2)$$, special relativity, general relativity, and the photoelectric effect. He won the Nobel Prize in 1921. For what? The photoelectric effect. Not relativity. Not the equation that unlocked the atom. A committee in Stockholm decided that relativity was too radical, too unproven, too threatening to the existing paradigm. The most transformative theory in physics was deemed unworthy of the prize.
+**Albert Einstein** revolutionised physics. He gave the world ( $$E = MC^2$$ ), special relativity, general relativity, and the photoelectric effect. He won the Nobel Prize in 1921. For what? The photoelectric effect. Not relativity. Not the equation that unlocked the atom. A committee in Stockholm decided that relativity was too radical, too unproven, too threatening to the existing paradigm. The most transformative theory in physics was deemed unworthy of the prize.
 
 **Mohandas Gandhi** liberated India. He developed and deployed the most powerful non‑violent resistance movement in history—satyagraha—and forced the British Empire to retreat without a war. He was nominated for the Nobel Peace Prize five times. He never won. In 1948, the year of his assassination, the committee chose not to award the prize at all, stating there was “no suitable living candidate.” The man who proved that non‑violence could defeat an empire was deemed unworthy.
 
@@ -39,7 +39,7 @@ Einstein and Gandhi transcended the paradigm. That is precisely why they were de
 The Space State does not seek the approval of feudal committees. Its recognition system is built on a different principle: **the work itself is the prize.**
 
 - **The Y‑lattice at 2.7 K** will be recognised not by a medal, but by the first thin‑wide module that runs cold in orbit.
-- **The upgraded equation $$(E = MC^2 \times L)$$** will be recognised not by a ceremony, but by the first nation that enforces the UTI threshold of 1.80.
+- **The upgraded equation ( $$E = MC^2 \times L$$ )** will be recognised not by a ceremony, but by the first nation that enforces the UTI threshold of 1.80.
 - **The Consciousness Principle (C = 1 − D)** will be recognised not by a lecture, but by the first child who grows up with a Consciousness Interface and never knows the isolation of high D.
 - **The Engineer Hurricane** will be recognised not by a prize, but by the millions of Warrior‑Engineers who emerge from the widened canals and build the Space State.
 
