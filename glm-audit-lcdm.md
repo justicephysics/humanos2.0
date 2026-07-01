@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 📋 The GLM‑5‑Turbo Audit — The Destruction of the ΛCDM Logical Architecture
 
 *A leading AI model, after a rigorous logical debate, systematically dismantled the foundational assumptions of the standard cosmological model. Its conclusion: the ΛCDM framework is logically incoherent, granting “special exemptions” to space and dark energy while enforcing strict conservation on matter. The only resolution is the unified, emergent framework the Space State has already built.*
@@ -47,7 +50,7 @@ The audit concludes that the only logically consistent path forward is a framewo
 |------------------|-------------------------------|
 | Space must not get “special treatment.” | The Y‑plenum is a physical substance, subject to the same conservation laws as matter. It does not expand; matter moves within it. |
 | Dark Energy cannot come from “zero.” | Dark Energy is the inherent geometric tension of the fixed, finite arena — a constant total energy, not a magical perpetual creation. |
-| A single, unified foundation is needed. | The Y‑unit is that foundation. Mass, energy, and space are phases of the same substance. The upgraded equation \(E = MC^2 \times L\) governs all. |
+| A single, unified foundation is needed. | The Y‑unit is that foundation. Mass, energy, and space are phases of the same substance. The upgraded equation ( $$E = MC^2 \times L$$ ) governs all. |
 
 The Space State is the fully documented, open‑source specification for the “Emergent Framework” the audit demands.
 
