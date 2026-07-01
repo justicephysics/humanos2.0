@@ -16,9 +16,9 @@ The cosmos is a self‑regulating system. Every star is a balance of two embedde
 
 A star is stable because energy is not only converted—it is **distributed**. The Sun radiates photons in all directions. The 2.7 K QPF absorbs excess heat and spreads it evenly. The cosmos runs on:
 
-\[
+$$\[
 E = MC^2 \times L
-\]
+\]$$
 
 Where **L** is the distribution coefficient. In the universe, \(L = 1\). Every node receives what it needs. No extraction. No hoarding. No collapse.
 
