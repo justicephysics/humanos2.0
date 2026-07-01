@@ -5,13 +5,6 @@ We are proving that local speed is irrelevant.*
 
 ---
 
-### Please read it:
-
-- [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
-- [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
-
----
-
 ## The Core Insight
 
 Every handheld, laptop, and desktop today is priced by how fast its local chip can process data.  
@@ -76,6 +69,12 @@ Once demonstrated, we will:
 3. **Approach small investors, telecoms, and hardware partners** to fund the Phase 2 prototype (a custom thin client with integrated 5G and hardware decoding).
 4. **Begin building the real Space Data Centre** — first on Earth, then in orbit.
 
+---
+
+### Please read it:
+
+- [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
+- [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
 ---
 
 ## How to Support
