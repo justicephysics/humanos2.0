@@ -70,9 +70,9 @@ The TI replaces GDP by measuring three dimensions of independence:
 
 The formula captures both total level and interdependence:
 
-$$[
+$$
 \boxed{TI = (PI + EI + SI) \times (PI \times EI \times SI)}
-]$$
+$$
 
 ### Why This Formula Is Mathematically Superior
 
