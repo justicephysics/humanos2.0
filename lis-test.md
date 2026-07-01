@@ -16,7 +16,7 @@ Every action, every policy, every purchase can be tested with two questions:
 
 The test is simple:
 
-$$\text{If } L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad \$$ #LisPresent
+$$\text{If } L_{\text{internal}} = L_{\text{external}} \quad \Rightarrow \quad \text{ALIGNED} \quad \Rightarrow \quad$$ #LisPresent
 
 
 
