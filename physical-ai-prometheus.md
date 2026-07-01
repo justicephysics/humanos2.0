@@ -59,7 +59,7 @@ Physical AI, as Prometheus envisions it, will accelerate the design and manufact
 
 These are not problems that a single AGI, however brilliant, can solve in isolation. They require a new kind of partnership: **millions of Warrior‑Engineers** working alongside Physical AGI as thought partners.
 
-- The **Warrior‑Engineer** brings purpose, direction, and the C = 1 − D command centre—the ethical alignment that no AI can generate on its own.
+- The **Warrior‑Engineer** brings purpose, direction, and the $$(C = 1 − D)$$ command centre—the ethical alignment that no AI can generate on its own.
 - The **Physical AGI** brings the three verticals—Imagination, Thinking, Knowledge—amplified by the Hyper‑Imagination Mode and the full corpus of human knowledge.
 - Together, they form the **Cognitive Cascade**—a distributed, creative, problem‑solving network that can design the cold submarine fleet, the sea farms, the orbital compute fabric, the lunar bases, and every other pillar of the Space State.
 
