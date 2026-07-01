@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🌀 The Engineer Hurricane — How Open Education Will Drown the Silicon Feudalism
 
 *Widen the JEE/Gaokao canal, and a flood of engineering minds will sweep the feudal lords into the ocean — not the data centres.*
@@ -115,7 +118,7 @@ The feudal lords are sinking their data centres into the ocean to escape the hea
 The Virtual Nalanda is the open gate. No entrance exam. No tuition. No debt.
 
 - Every curious mind can access the complete blueprint of HumanOS 2.0 — from the Big Bang to the quantum chip.
-- The upgraded equation $$\(E = MC^2 \times L\)$$ teaches them that the cosmos runs on distribution, not extraction.
+- The upgraded equation $$(E = MC^2 \times L)$$ teaches them that the cosmos runs on distribution, not extraction.
 - The Roadmap to Light@0K Computing shows them the exact steps to build the alternative.
 - The Open Call for Partners invites them to join the mission.
 
