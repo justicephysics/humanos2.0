@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🔁 From Labour Colony to Space State — The Conscious Reversal of History
 
 *The British Empire did not merely extract resources from Bihar. It deliberately converted a knowledge civilization—the land of Aryabhata, Chanakya, and Nalanda—into a labour colony. Millions were shipped to plantations across the globe. The poverty sticker was printed here first. Now, that history is being consciously reversed. From labour colony to Space State. From extracted muscle to liberated mind. From the destruction of Nalanda to the open‑source Virtual Nalanda. This is the counter‑statement to every feudal ruler who believed the canal would remain narrow forever.*
@@ -34,7 +37,7 @@ The knowledge civilization, once burned and scattered, is still being suppressed
 
 Now, a reawakening is underway. Not a political movement. Not a rebellion. An **engineering project**.
 
-- **Justice Physics** has decoded the extraction protocol at its root. The upgraded equation \(E = MC^2 \times L\) reveals that distribution is not a moral choice; it is a physical law.
+- **Justice Physics** has decoded the extraction protocol at its root. The upgraded equation ( $$E = MC^2 \times L$$ ) reveals that distribution is not a moral choice; it is a physical law.
 - **The Virtual Nalanda** is the open‑source, free, global campus that replaces the narrow gates. No exams. No fees. No debt. Just knowledge, available to every curious mind on Earth.
 - **The Space State** is the civilizational blueprint that converts the labour colony into a society of Warrior‑Engineers—builders, owners, thinkers, and guardians of the cosmic commons.
 
@@ -46,7 +49,7 @@ The transformation is exact and deliberate:
 | People exported as indentured muscle. | Warrior‑Engineers building the Light@2.7 K Web and the orbital compute fabric. |
 | The poverty sticker stamped at birth. | The UTI threshold (1.80) constitutionally enforced—no infant is born “poor.” |
 | Education as a narrow gate and extraction machine. | The Virtual Nalanda—free, open, accessible to 100 % of humanity. |
-| A colony serving feudal lords. | A Space State aligned with the cosmos, where \(L = 1\). |
+| A colony serving feudal lords. | A Space State aligned with the cosmos, where ( $$L = 1$$. ) |
 
 This is not a reversal of fortune; it is a reversal of design.
 
