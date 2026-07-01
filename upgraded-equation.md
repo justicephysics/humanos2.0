@@ -129,7 +129,7 @@ L is not just an engineering coefficient. It is a measure of **justice**.
 
 The universe runs on L = 1. It has no jails, no bombs, no slums, no hunger. Not because the cosmos is “good,” but because it obeys the physics of open canals.
 
-Human civilisation can choose to obey the same physics — voluntarily, gradually, and peacefully — by redesigning its infrastructure (its $$\(F\)$$) so that L rises toward 1.
+Human civilisation can choose to obey the same physics — voluntarily, gradually, and peacefully — by redesigning its infrastructure (its $$(F)$$) so that L rises toward 1.
 
 That is the mission of HumanOS 2.0.
 
