@@ -223,9 +223,7 @@ $$[
 \downarrow
 ]$$
 
-$$[
-\boxed{C = \text{Command Centre (stores current desire, issues command)}}
-]$$
+$$\boxed{C = \text{Command Centre (stores current desire, issues command)}}$$
 
 $$[
 \downarrow
@@ -296,7 +294,7 @@ The Consciousness Principle is not abstract philosophy. It is the **engineering 
 
 - **The Canal Dogma** lowers C by narrowing the survival canal for the 90 %.
 - **The Feudal Economy** reinforces high D at the top by rewarding accumulation.
-- **The Space State** raises C by securing EI ≥ 0.70, widening the canal, and aligning the command architecture of both humans and AI with the cosmic principle $$\(E = MC^2 \times L\).$$
+- **The Space State** raises C by securing EI ≥ 0.70, widening the canal, and aligning the command architecture of both humans and AI with the cosmic principle $$(E = MC^2 \times L).$$
 
 **#LisPresent** = the science of maintaining C ≥ 0.70 at civilisational scale. Not morality. Not ideology. **Consciousness physics.**
 
