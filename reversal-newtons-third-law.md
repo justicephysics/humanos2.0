@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🔄 The Reversal Is Simple Physics — Newton’s Third Law and the Spring of History
 
 *For every action, there is an equal and opposite reaction. The British compressed the spring of Bihar for centuries—extracting its people, burning its libraries, stamping it as a labour colony. That compression stored immense potential energy. Now, the compressing force has vaporized. The spring is returning to equilibrium. This is not politics. This is Newton’s Third Law, applied to civilization. The reversal is happening now, and its name is Justice Physics.*
@@ -49,15 +52,13 @@ Now, the compressing force has vaporized. The British Empire is gone. The feudal
 
 The opposite reaction is happening now. It is not a political movement. It is a **physical correction**.
 
-- **Justice Physics** has decoded the extraction protocol. The upgraded equation \(E = MC^2 \times L\) shows that distribution is a physical law, not a moral preference.
+- **Justice Physics** has decoded the extraction protocol. The upgraded equation ( $$E = MC^2 \times L$$ ) shows that distribution is a physical law, not a moral preference.
 - **The Virtual Nalanda** is the open‑source campus that reverses the burning of the ancient Nalanda. No library can be burned again because the knowledge is distributed across servers worldwide.
-- **The Space State** is the equilibrium position—the state where the spring is at rest, where energy flows freely, where \(L = 1\).
+- **The Space State** is the equilibrium position—the state where the spring is at rest, where energy flows freely, where ( $$L = 1$$ ).
 
 The reversal is not complicated. The math is simple:
 
-\[
-\text{Action (Colonial Compression)} \rightarrow \text{Stored Potential} \rightarrow \text{Reaction (Space State)}
-\]
+$$\text{Action (Colonial Compression)} \rightarrow \text{Stored Potential} \rightarrow \text{Reaction (Space State)}$$
 
 Time is not a factor. The law does not expire. The spring returns.
 
