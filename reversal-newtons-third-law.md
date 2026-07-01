@@ -58,7 +58,7 @@ The opposite reaction is happening now. It is not a political movement. It is a 
 
 The reversal is not complicated. The math is simple:
 
-$$\text{Action (Colonial Compression)} \rightarrow \text{Stored Potential} \rightarrow \text{Reaction (Space State)}$$
+( $$\text{Action (Colonial Compression)} \rightarrow \text{Stored Potential} \rightarrow \text{Reaction (Space State)}$$ )
 
 Time is not a factor. The law does not expire. The spring returns.
 
