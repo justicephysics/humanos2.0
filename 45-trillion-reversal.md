@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 💰 The $45 Trillion Reversal — From Colonial Drain to IPL Dominance
 
 *Britain drained an estimated $45 trillion from India over two centuries of colonial rule. They engineered famines, dismantled industries, and called it civilization. Now, India’s IPL dominates global cricket revenue—built, not extracted. And a former English captain demands “fair distribution.” The hypocrisy is breathtaking. The physics is undeniable. This is Newton’s Third Law, applied to economics. The spring is returning.*
