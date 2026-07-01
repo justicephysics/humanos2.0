@@ -33,9 +33,8 @@ This test does not require philosophy. It does not require ethics. It requires o
 - **L_internal:** “Shooting is right for me.”
 - **L_external:** “Being shot is NOT right for others.”
 
-[ $$
-L_{\text{internal}} \neq L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad$$ #LisMissing
-]
+[ $$L_{\text{internal}} \neq L_{\text{external}} \quad \Rightarrow \quad \text{MISALIGNED} \quad \Rightarrow \quad$$ #LisMissing ]
+
 
 The shooter’s command centre is isolated. External reality — the pain, the death, the suffering of the victims — does not enter the decision. Not conscious. Unconscious.
 
