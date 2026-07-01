@@ -13,7 +13,7 @@ Every layer of existence, from the largest to the smallest, operates on the same
 
 | Layer | Governing Principle |
 |-------|---------------------|
-| **Universe** | Physical — the Y‑lattice, 2.7 K, conservation, canal ontology, $$(E = MC^2 \times L)$$ |
+| **Universe** | Physical — the Y‑lattice, 2.7 K, conservation, canal ontology, ( $$E = MC^2 \times L$$ ) |
 | **Milky Way** | Physical — gravity, fusion, radiation, G‑Force |
 | **Solar System** | Physical — orbital mechanics, solar fusion, planetary equilibrium |
 | **Earth** | Physical — climate, oceans, tectonics, biosphere, the deep ocean at 0–3 °C |
@@ -59,9 +59,7 @@ The delusion is that because imagination is free, action can ignore the canal on
 
 The Consciousness Principle is not a metaphor. It is a **physical measurement** of how much external reality reaches the command centre:
 
-$[
-C = 1 - D
-]$$
+[ $$C = 1 - D$$ ]
 
 - **D (Desire)** — energy turned inward, accumulating, hoarding, blocking the flow to the external. It is the narrowing of the cognitive canal.
 - **C (Consciousness)** — the degree to which L_external (the reality of others, the reality of the planet, the reality of physics) is present in the command centre.
@@ -76,7 +74,7 @@ The #LisTest operationalises this principle:
 $$\text{If } (L_{\text{internal}} = L_{\text{external}}) \quad \Rightarrow \quad$$ #LisPresent
 
 
-$$\text{If } L_{\text{internal}} \neq L_{\text{external}} \quad \Rightarrow \quad$$ #LisMissing
+$$\text{If } (L_{\text{internal}} ≠ L_{\text{external}}) \quad \Rightarrow \quad$$ #LisMissing
 
 
 This test does not require philosophy. It does not require ethics. It requires only the willingness to compare two answers honestly.
