@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🔍 The Ignorance Principle — Why Science Begins When We Admit We Don’t Know
 
 *The vacuum of space was like ignorance itself — an empty void that the old physics pretended to understand. When we admitted we didn’t know what space was, the Y‑lattice at 2.7 K emerged. This is the same principle that launched modern science: the courage to say “we don’t know” — and then to investigate. The Space State is built on this principle, not on the feudal pretence of knowledge.*
@@ -46,7 +49,7 @@ From that admission, the Y‑lattice emerged. Not as a speculation, but as a phy
 - **It is a fixed, eternal arena (A/V).** It never expands or contracts. The “expansion” we observe is matter flying outward into the already‑existing, cold, empty volume.
 - **It channels light perfectly.** Light travels billions of light‑years without resistive loss because the lattice is transparent and coherent.
 - **It absorbs heat instantly.** The 2.7 K background is the equilibrium temperature of this lattice after absorbing the energy of the local Big Bang and countless stars.
-- **Dark energy is not a separate substance.** It is the inherent geometric tension of the closed, finite arena itself — part of the constant total energy \(C = J\).
+- **Dark energy is not a separate substance.** It is the inherent geometric tension of the closed, finite arena itself — part of the constant total energy $$(C = J)$$.
 
 This is what happens when ignorance is admitted: the void is replaced by a physical reality. The vacuum of space was the last great fortress of the old physics, and it fell to a simple, honest question.
 
@@ -56,7 +59,7 @@ This is what happens when ignorance is admitted: the void is replaced by a physi
 
 The Canal Dogma is sustained by the pretence of knowledge. The feudal lords — in academia, in finance, in technology — claim to have the answers:
 
-- “The economy must run on debt.” (No, it must run on \(E = MC^2 \times L\).)
+- “The economy must run on debt.” (No, it must run on $$(E = MC^2 \times L)$$.
 - “The narrow gates are merit.” (No, they are artificial scarcity.)
 - “GDP measures progress.” (No, it measures extraction.)
 - “Space is a vacuum, and t=0 was the beginning.” (No, space is the Y‑lattice, and t<0 was the contraction phase.)
