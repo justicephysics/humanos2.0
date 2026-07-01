@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🔒 The Finite, Closed, Conserved Cosmos — Why the Universe Is a Sealed Whole
 
 *Matter is finite. Space is finite. The two are inseparably embedded. There is no vacuum, no void, no outside. Nothing enters the universe, and nothing leaves it. The total energy (C = J) is eternally conserved. These are not assumptions; they are the logical consequences of a physical reality that cannot create something from nothing. The universe is a sealed, closed, self‑contained whole—and that is the foundation of the Space State.*
