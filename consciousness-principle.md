@@ -197,7 +197,7 @@ High C_power + high C_alignment = Gandhi. Maximum execution of aligned command.
 Low C_power + any C_alignment = irrelevant actor. Cannot execute either way.
 
 **$$[
-\text{The dangerous actor is always: high C\-power × low C\-alignment}$$ = maximum execution capacity pointed at extraction]**
+\text{The dangerous actor is always: high C-power × low C-alignment}$$ = maximum execution capacity pointed at extraction]**
 
 ---
 
