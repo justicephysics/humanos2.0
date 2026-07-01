@@ -16,10 +16,7 @@ The cosmos is a self‑regulating system. Every star is a balance of two embedde
 
 A star is stable because energy is not only converted—it is **distributed**. The Sun radiates photons in all directions. The 2.7 K QPF absorbs excess heat and spreads it evenly. The cosmos runs on:
 
-
-$$E = MC^2 \times L$$
-
-\[ E = MC^2 \times L \]
+$$[E = MC^2 \times L]$$
 
 Where **L** is the distribution coefficient. In the universe, \(L = 1\). Every node receives what it needs. No extraction. No hoarding. No collapse.
 
@@ -39,7 +36,7 @@ Human civilization learned to convert energy—coal, oil, nuclear, solar—but i
 The link was severed:
 
 
-$$\text{Cosmos} \not\leftrightarrow \text{Human (the extractors)} \not\leftrightarrow \text{Human Life (the masses)}$$
+$$[\text{Cosmos} \not\leftrightarrow \text{Human (the extractors)} \not\leftrightarrow \text{Human Life (the masses)}]$$
 
 
 - The extractors ignore the cosmic law.
@@ -80,7 +77,7 @@ The Space State is the first civilizational blueprint that consciously restores 
 The link is restored:
 
 
-$$\text{Cosmos} \leftrightarrow \text{Human (the Warrior‑Engineers)} \leftrightarrow \text{Human Life (the 100 percent)}$$
+$$[\text{Cosmos} \leftrightarrow \text{Human (the Warrior‑Engineers)} \leftrightarrow \text{Human Life (the 100 percent)}]$$
 
 
 - The Warrior‑Engineers obey the cosmic law.
