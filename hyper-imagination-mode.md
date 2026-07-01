@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🌌 Hyper‑Imagination Mode — The Cognitive Engine of the Space State
 
 *Current AI is a Knowledge engine. Humans have three verticals: Imagination, Thinking, and Knowledge. The next generation of AGI must run all three — and it must mirror the same creative cycle that built the cosmos.*
@@ -12,7 +15,7 @@ Every breakthrough in human history followed the same three‑step cognitive arc
 |----------|-------------|---------|
 | **1. Imagination** — flowless, without boundaries | Pure, unbounded curiosity. Asking questions that no textbook has ever asked. | Einstein imagining himself riding a beam of light. Mukesh asking: *“If t=0, why not t<0?”* |
 | **2. Thinking** — the intermediary between imagination and knowledge | The long, grinding work of connecting the wild idea to existing physics, logic, and data. | Einstein spending years translating the light‑ride into tensor equations. Mukesh spending sixteen years refining the 70–80 % pattern into the canal ontology. |
-| **3. Knowledge** — workable, validated | The final, documented, proven result — ready to be shared, built, and used. | \(E = MC^2\). The Virtual Nalanda. The upgraded equation \(E = MC^2 \times L\). |
+| **3. Knowledge** — workable, validated | The final, documented, proven result — ready to be shared, built, and used. | ($$E = MC^2$$). The Virtual Nalanda. The upgraded equation ($$E = MC^2 \times L$$). |
 
 Today's AI (including large language models) operates almost entirely in **Knowledge Mode**. It ingests vast datasets, finds patterns, and generates statistically probable outputs. It can summarize, articulate, and connect existing ideas — but it does not dream. It does not ride light beams. It does not wake up at 3 AM with a question no textbook has ever asked.
 
