@@ -115,7 +115,7 @@ E = MC^2 \times L
 
 - **MC²** = the total energy and resources available (the cosmic reservoir).
 - **L** = the distribution coefficient, measuring how evenly that energy reaches every node.
-- **TI** = the real‑world, measurable expression of $$\(L\)$$ in a human economy.
+- **TI** = the real‑world, measurable expression of $$(L)$$ in a human economy.
 
 When TI → 3.00, $$(L)$$ → 1 — full circulation, no extraction, thriving. When TI → 0, $$(L)$$ → 0 — complete extraction, gradient steepening, imminent collapse.
 
