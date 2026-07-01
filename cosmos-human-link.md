@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # 🌐 Cosmos — Human — Human Life: The Broken Link
 
 *The cosmos obeys a single, stable law: **E = MC² × L**. Energy is converted and distributed. Stars burn for billions of years. The universe has run for 13.8 billion years without a traffic jam. Humans broke this link. A tiny group of extractors now makes all the decisions, and they care about neither the cosmos nor the masses. The result is climate disaster, militarization, and the edge of extinction. The Space State restores the broken link.*
