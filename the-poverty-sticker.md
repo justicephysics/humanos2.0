@@ -55,7 +55,7 @@ Some will say: "This is all just imagination. The Virtual Nalanda is just words.
 
 And we will answer: Yes. It is imagination. And what could be more beautiful?
 
-- **Einstein's light‑ride** was imagination—and it gave us $$( E = MC^2$$. )
+- **Einstein's light‑ride** was imagination—and it gave us ( $$E = MC^2$$.)
 - **Harari's shared myths** are imagination—and they built nations, money, and religions.
 - **The infant with the poverty sticker** is imagination—and once you see it, you cannot unsee it.
 
