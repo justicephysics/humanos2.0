@@ -1,4 +1,8 @@
-# 🧮 The Upgraded Equation — E = MC² × L
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+# 🧮 The Upgraded Equation — $$E = MC² × L$$
 
 *Completing Einstein’s legacy with the missing distribution coefficient.*
 
@@ -17,13 +21,13 @@ But Einstein’s equation contained a silent omission: **it said nothing about d
 - It tells us **how much** energy is locked inside matter.
 - It does **not** tell us **who gets it, how it flows, or whether it reaches everyone.**
 
-That missing piece is the reason why, 120 years after $$\(E = MC^2\)$$, we still have a civilisation where the top 10% controls 76% of all resources, while the bottom 50% holds only 2% — even though the **physical energy available to us is more than enough for everyone**.
+That missing piece is the reason why, 120 years after $$(E = MC^2)$$, we still have a civilisation where the top 10% controls 76% of all resources, while the bottom 50% holds only 2% — even though the **physical energy available to us is more than enough for everyone**.
 
 The equation was incomplete. It needed a distribution term.
 
 ---
 
-## 2. The Upgraded Equation — E = MC² × L
+## 2. The Upgraded Equation — $$(E = MC² × L)$$
 
 > **E = MC² × L**
 
@@ -33,7 +37,7 @@ The equation was incomplete. It needed a distribution term.
 - **C** = speed of light (the conversion constant).
 - **L** = **the distribution coefficient**.
 
-**L ∈ [0, 1]**
+**$$L ∈ [0, 1]$$**
 
 | L Value | Meaning | Physical Result |
 |---------|---------|-----------------|
@@ -48,7 +52,7 @@ If L is low, even a vast reservoir of energy cannot prevent suffering, because t
 
 ---
 
-## 3. The Unified Framework — U[MC², L]F
+## 3. The Unified Framework — $$U[MC², L]F$$
 
 The upgraded equation sits inside a broader engineering framework:
 
@@ -63,9 +67,9 @@ It states that any sustainable physical system must manage three components:
 
 If any of these three is missing or broken, the system overheats, chokes, or collapses.
 
-The current civilisation has an enormous $$\(MC^2\)$$ (fossil fuels, nuclear, solar, wind). But its $$\(L\)$$ is ≈ 0.24, and its $$\(F\)$$ is narrow, resistive canals that actively block distribution.
+The current civilisation has an enormous $$(MC^2)$$ (fossil fuels, nuclear, solar, wind). But its $$(L)$$ is ≈ 0.24, and its $$(F)$$ is narrow, resistive canals that actively block distribution.
 
-HumanOS 2.0 proposes to **restore L → 1** by redesigning $$\(F\)$$ — the compute fabric, the energy grid, the economic architecture — using the cosmos’s own principles: widen, distribute, cool, let flow.
+HumanOS 2.0 proposes to **restore L → 1** by redesigning $$(F)$$ — the compute fabric, the energy grid, the economic architecture — using the cosmos’s own principles: widen, distribute, cool, let flow.
 
 ---
 
@@ -80,7 +84,7 @@ Look at the night sky. It is cold (2.7 K), dark, and yet perfectly connected.
 
 **In the cosmos, L is essentially 1.**
 
-The universe has been running the U[MC², L]F framework with L = 1 for 13.8 billion years — and it has never collapsed.
+The universe has been running the $$U[MC², L]F$$ framework with L = 1 for 13.8 billion years — and it has never collapsed.
 
 Our civilisation, running with L ≈ 0.24, is on the verge of collapse. The correction is simple, in principle: realign our systems with the same physics the cosmos uses.
 
@@ -133,7 +137,7 @@ That is the mission of HumanOS 2.0.
 
 ## 8. The Equation in One Line
 
-> **E = MC² × L**
+> **$$E = MC² × L$$**
 
 *“Einstein told us energy is locked in matter. We add that energy is only meaningful if it flows. The cosmos already has L=1. It’s time we build a civilisation that matches it.”*
 
