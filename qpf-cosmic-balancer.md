@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # ⚖️ The QPF as the Cosmic Balancer — Why Starlight Doesn't Incinerate Us
 
 *All stars radiate immense energy—heat and light that spread across the cosmos. If space were not maintained at 2.7 K, that radiant energy would incinerate every planet and satellite. The QPF is the cosmic thermostat—the cold sink that absorbs excess heat and maintains the delicate balance between stellar fire and planetary life. This is the same duality as matter's pull and energy's push, applied to the thermal domain: heat versus cold, locked in an eternal, dynamic equilibrium.*
