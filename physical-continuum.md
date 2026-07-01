@@ -85,7 +85,7 @@ This test does not require philosophy. It does not require ethics. It requires o
 
 | Layer | Principle |
 |-------|-----------|
-| Universe → Earth → Brain | **Physical** — governed by $$\(E = MC^2 \times L\)$$, canal ontology, thermodynamics |
+| Universe → Earth → Brain | **Physical** — governed by $$(E = MC^2 \times L)$$, canal ontology, thermodynamics |
 | Imagination | **Non‑physical** — free, unbounded, the spark of discovery |
 | Thinking | **Bridging** — connecting the free to the real, narrowing the possibilities |
 | Knowledge | **Physical** — validated, actionable, grounded in what works |
