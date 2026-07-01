@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🎓 The Ethics of the Narrow Canal — Cambridge, Oxford, and the East India Company
 
 *Cambridge and Oxford taught ethics for centuries. Yet the East India Company—staffed by their graduates—drained $45 trillion from India, engineered famines, and dismantled a knowledge civilization. Were they hypocrites? Slaves? Neither. They were unconscious. The command centre of the British intellectual class was isolated from the reality of the colonized. This is the Canal Dogma applied to ethics. The Space State is the conscious reversal.*
@@ -54,13 +57,15 @@ The Virtual Nalanda is the deliberate, conscious reversal of this ancient canal.
 
 | The Feudal University (Cambridge, Oxford) | The Space State University (Virtual Nalanda) |
 |-------------------------------------------|---------------------------------------------|
-| Ethics taught within a narrow frame—only for the colonizer. | The Consciousness Principle: \(C = 1 - D\). \(L_{\text{internal}} = L_{\text{external}}\). No separate moral community; the cosmos is one. |
+| Ethics taught within a narrow frame—only for the colonizer. | The Consciousness Principle: $$(C = 1 - D)$$. $$(L_{\text{internal}} = L_{\text{external}})$$. No separate moral community; the cosmos is one. |
 | Knowledge locked behind class, race, and empire. | Knowledge open‑source, free, accessible to every curious mind on Earth. |
 | Graduates became managers of extraction. | Graduates become Warrior‑Engineers—builders, owners, guardians of the commons. |
 | Funded by colonial drain. | Funded by free sunlight and free cosmic cooling; near‑zero operating cost. |
 | The poverty sticker printed on the colonized. | The UTI threshold (1.80) constitutionally enforced—no infant is born “poor.” |
 
-The East India Company extracted $45 trillion. The IPL builds wealth through innovation. The Space State builds a civilization on \(E = MC^2 \times L\). The reversal is not merely economic; it is **cognitive.** The command centres are opening. The signal of the world is reaching them.
+The East India Company extracted ($45 trillion). The IPL builds wealth through innovation. 
+
+The Space State builds a civilization on $$(E = MC^2 \times L)$$. The reversal is not merely economic; it is **cognitive.** The command centres are opening. The signal of the world is reaching them.
 
 ---
 
