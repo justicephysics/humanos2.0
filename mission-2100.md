@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🎯 Mission 2100 — The Warrior‑Engineers' Campaign
 
 *Our game is Light@2.7 K. Our playground is space. Our warriors are millions of engineers, unleashed from the narrow gates. The feudal stations are behind us. The stars are ahead.*
@@ -25,9 +28,9 @@ The **True Index (TI)** measures three dimensions:
 
 The TI formula captures both total level and interdependence:
 
-$$\[
+$$[
 TI = (PI + EI + SI) \times (PI \times EI \times SI)
-\]$$
+]$$
 
 Today, the 90 % of humanity sits at approximately:
 - PI = 0.90, EI = 0.08, SI = 0.70 → **TI ≈ 0.0847**
@@ -43,7 +46,7 @@ The Warrior‑Engineers cannot emerge from a population that is hungry, indebted
 This target is not charity; it is a strategic necessity. The UTI threshold of 1.80 is the ignition point for Mission 2100. When achieved, the cascading effect begins: millions of Warrior‑Engineers emerge, and every subsequent target accelerates.
 
 **Connection to the upgraded equation:**  
-$$\(E = MC^2 \times L\).$$ The UTI threshold means raising $$\(L\)$$ from ~0.24 (the current extraction rate) to at least 0.70 for the entire population — a deliberate, engineered restoration of the distribution coefficient. The cosmos runs at $$\(L = 1\)$$; we must reach at least $$\(L = 0.70\)$$ to stabilise and begin the upward spiral.
+$$(E = MC^2 \times L)$$. The UTI threshold means raising $$(L)$$ from ~0.24 (the current extraction rate) to at least 0.70 for the entire population — a deliberate, engineered restoration of the distribution coefficient. The cosmos runs at $$(L = 1)$$; we must reach at least $$(L = 0.70)$$ to stabilise and begin the upward spiral.
 
 ---
 
