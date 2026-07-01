@@ -58,7 +58,7 @@ Every empire in history — Rome, the Mayans, the British, and now the global Fo
 - **Extract:** The canals narrow; 70–80 % of wealth concentrates at the top.
 - **Collapse:** The pressure builds (Gini 0.88, climate tipping points, social unrest). The system overheats. The canal bursts.
 
-The physics is absolute. When $$(E = MC^2 \times L)$$ is violated — when $$L → 0$$ — the system corrects:
+The physics is absolute. When $$(E = MC^2 \times L)$$ is violated — when $$L→0$$ — the system corrects:
 
 - For a star, the correction is a **supernova**.
 - For a cosmic cluster, the correction is a **Big Bang**.
