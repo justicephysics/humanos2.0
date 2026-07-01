@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🧠 The Consciousness Interface — C = 1 − D Meets Brain‑Computer Interfaces
 
 *China’s NEO chip and Neuralink are racing to connect brains to machines. But the deepest application of a brain‑computer interface is not to control a cursor — it is to interface with your own command centre. This is the Consciousness Interface, and it could prevent desire dysfunction before it ever becomes action.*
@@ -21,9 +24,7 @@ But this focus misses something far more urgent and universal: **interfacing not
 
 Every human being has a command centre — the seat of decision‑making, the last storage point before action. We call its alignment measure **C**, and its contraction measure **D** (Desire). The equation is simple:
 
-$$\[
-C = 1 - D
-\]$$
+( $$C = 1 - D$$ )
 
 - **High D** → energy blocked inward, accumulation, isolation from external reality → **low C** → unconscious action.
 - **Low D** → energy flows freely, external reality is present in the command centre → **high C** → conscious, aligned action.
