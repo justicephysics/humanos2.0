@@ -113,7 +113,7 @@ We, as living beings, are temporary arrangements of Y‑units within the QPF. We
 
 One day, our particular configuration will dissolve. Our bodies will return to the plenum. Our thoughts, as individual patterns, will cease. But the QPF will remain. It was here before we were born, and it will be here after we die. The energy that animates us is never lost; it is simply redistributed, absorbed, and eventually re‑condensed into new forms—perhaps new life, perhaps new stars.
 
-We are not permanent. But the ground of our being is eternal. This is not a cause for despair; it is a cause for humility, for wonder, and for a fierce commitment to use our brief, finite moment to contribute something real to the infinite—to add a page to the Virtual Nalanda, to plant a seed for the Space State, to leave the plenum a little more coherent than we found it.
+We are not permanent. But the ground of our being is eternal. This is not a cause for despair; it is a cause for humility, for wonder, and for a fierce commitment to use our brief, finite moment to contribute something real to the infinite—to add a page to the Justice Physics Nalanda, to plant a seed for the Space State, to leave the plenum a little more coherent than we found it.
 
 The spirit that Bohm described, the breath that never dies, is the QPF. And we, for this brief stretch of ( $$X$$ )-steps, are its temporary, conscious expression.
 
@@ -126,7 +126,7 @@ Our framework has already mapped the response to this dissolution. The Horizonta
 | Fragment (HumanOS 1.0) | Whole (HumanOS 2.0) |
 |--------------------------|----------------------|
 | Nations competing for resources. | Space States cooperating as guardians, not rulers. |
-| Education filtered through narrow exams. | The Virtual Nalanda — open, free, no exams, no debt. |
+| Education filtered through narrow exams. | The Justice Physics Nalanda — open, free, no exams, no debt. |
 | AI locked behind paywalls and government restrictions. | The Light@2.7 K Web — open‑source, near‑zero cost, orbital. |
 | Climate action delayed by national interest. | The cosmic cold chain, cold submarine fleet, and orbital solar farms — global infrastructure for global problems. |
 | The economy as a zero‑sum extraction machine. | The upgraded equation ( $$E = MC^2 \times L$$ ) with ( $$L = 1$$ ) — distribution as the physical default. |
@@ -141,7 +141,7 @@ Bohm’s Implicate Order — the underlying sea of light and energy that connect
 
 - **The QPF is undivided.** There are no gaps. The distance between any two nearest Y‑dots is zero. The plenum is one.
 - **Every particle of matter is a localized excitation within this single fabric.** The observer and the observed are not separate; they are two expressions of the same underlying substance.
-- **The Virtual Nalanda is the intellectual expression of this unity** — a campus where all disciplines are taught as aspects of the single Y‑universe, without narrow gates or fragmented credentials.
+- **The Justice Physics Nalanda is the intellectual expression of this unity** — a campus where all disciplines are taught as aspects of the single Y‑universe, without narrow gates or fragmented credentials.
 
 Bohm’s vision and our physics converge. The undivided wholeness is not a philosophical aspiration; it is a **measurable, mappable, physical reality** at 2.7 K. The Space State is the civilization that aligns its architecture with this reality.
 
@@ -154,7 +154,7 @@ The Horizontal Future is no longer an option among many. It is a compulsion. The
 - **Before 1785**, the maximum speed was that of a horse. Fragmentation was sustainable because the world was slow.
 - **After 2025**, the maximum speed is that of light and intelligence. Fragmentation is a death sentence.
 
-Bohm’s warning has become a deadline. The Horizontal Future is the only path forward — not because it is morally superior, but because it is **thermodynamically inevitable.** The Space State is the architectural response to Bohm’s call for a non‑fragmentary worldview, built on the QPF, driven by the energy bursts, and documented openly on the Virtual Nalanda.
+Bohm’s warning has become a deadline. The Horizontal Future is the only path forward — not because it is morally superior, but because it is **thermodynamically inevitable.** The Space State is the architectural response to Bohm’s call for a non‑fragmentary worldview, built on the QPF, driven by the energy bursts, and documented openly on the Justice Physics Nalanda.
 
 ---
 
