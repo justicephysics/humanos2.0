@@ -74,7 +74,7 @@ The $45 trillion drain and the IPL dominance are two points on a single trajecto
 | **Colonial Extraction (1757–1947)** | $45 trillion drained. Industries dismantled. Famines engineered. Knowledge systems burned. Bihari labourers exported globally. |
 | **Post‑Independence Struggle (1947–1991)** | Rebuilding from near‑zero. The spring begins to uncoil, but feudal structures (license raj, narrow exam gates) persist. |
 | **Economic Liberalization (1991–2025)** | The spring accelerates. India’s economy grows. The IPL emerges. Indian talent goes global. |
-| **The Space State (2025 →)** | The full reversal. Justice Physics decodes the extraction protocol. The Virtual Nalanda replaces the narrow gates. The Light@2.7 K Web provides free, open‑source computation. India becomes a node in the distributed Space State fabric — no longer a colony, no longer a “developing nation,” but a guardian of the cosmic commons. |
+| **The Space State (2025 →)** | The full reversal. Justice Physics decodes the extraction protocol. The Justice Physics Nalanda replaces the narrow gates. The Light@2.7 K Web provides free, open‑source computation. India becomes a node in the distributed Space State fabric — no longer a colony, no longer a “developing nation,” but a guardian of the cosmic commons. |
 
 The IPL is a microcosm of this trajectory. It shows that creation outpaces extraction. It proves that $$(L = 1)$$ is more powerful than any narrow canal.
 
