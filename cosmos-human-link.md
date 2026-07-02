@@ -71,7 +71,7 @@ The Space State is the first civilizational blueprint that consciously restores 
 | Broken Link | Space State Restoration |
 |-------------|-------------------------|
 | **Cosmos ↔ Human (extractors)** — extractors ignore the law. | The JPE (Justice Physics Engine) aligns computation with the cosmic fabric—cold, photonic, distributed. \(L = 1\) by design. |
-| **Human (extractors) ↔ Human Life (masses)** — the masses are drained. | The UTI threshold (1.80) constitutionally enforces Economic Independence for every citizen. The Virtual Nalanda provides open, free education. The Warrior‑Engineers own the means of production. |
+| **Human (extractors) ↔ Human Life (masses)** — the masses are drained. | The UTI threshold (1.80) constitutionally enforces Economic Independence for every citizen. The Justice Physics Nalanda provides open, free education. The Warrior‑Engineers own the means of production. |
 | **Human Life ↔ Cosmos** — the planet burns and the bombs are ready. | Orbital data centres operate at 2.7 K with free sunlight. The cosmic cold chain feeds the planet. The war machine is dissolved by the democratisation of energy and intelligence. |
 
 The link is restored:
