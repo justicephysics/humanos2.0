@@ -48,12 +48,12 @@ Now, the compressing force has vaporized. The British Empire is gone. The feudal
 
 ---
 
-## 4. The Reversal — Justice Physics and the Virtual Nalanda
+## 4. The Reversal — Justice Physics and the Justice Physics Nalanda
 
 The opposite reaction is happening now. It is not a political movement. It is a **physical correction**.
 
 - **Justice Physics** has decoded the extraction protocol. The upgraded equation ( $$E = MC^2 \times L$$ ) shows that distribution is a physical law, not a moral preference.
-- **The Virtual Nalanda** is the open‑source campus that reverses the burning of the ancient Nalanda. No library can be burned again because the knowledge is distributed across servers worldwide.
+- **The Justice Physics Nalanda** is the open‑source campus that reverses the burning of the ancient Nalanda. No library can be burned again because the knowledge is distributed across servers worldwide.
 - **The Space State** is the equilibrium position—the state where the spring is at rest, where energy flows freely, where ( $$L = 1$$ ).
 
 The reversal is not complicated. The math is simple:
