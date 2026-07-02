@@ -41,7 +41,7 @@ Because the government, in its current form, is not a guardian; it is a **facili
 Resources are not limited; they are **hoarded**. The Earth receives more solar energy in one hour than humanity uses in a year. The oceans contain enough deuterium for millions of years of fusion. The 2.7 K Y‑lattice provides free cooling for the entire cosmos. The scarcity is artificial—created by the narrow canals of extraction. The top 10 % burn money because the money itself is created from nothing, and they get it first. The rest are left with the ashes.
 
 ### Q5: Where did civilization get this manual from? Suppress 90 % of the population while the top 10 % burn through wealth—where is this manual? I want to see it.
-The manual is unwritten but universally understood. It is the **Canal Dogma**: the belief that concentrating resources, narrowing gates, and extracting from the many is the natural order. It is passed down through the design of exams, the structure of corporations, the policies of central banks. The manual has no single author; it is the emergent protocol of HumanOS 1.0. And it is now fully decoded on the Virtual Nalanda.
+The manual is unwritten but universally understood. It is the **Canal Dogma**: the belief that concentrating resources, narrowing gates, and extracting from the many is the natural order. It is passed down through the design of exams, the structure of corporations, the policies of central banks. The manual has no single author; it is the emergent protocol of HumanOS 1.0. And it is now fully decoded on the Justice Physics Nalanda.
 
 ### Q6: Why isn't there a common citizenship law based on the 'Cosmos'?
 Because the cosmos does not recognise nation‑states, castes, or credentials. A cosmic citizenship law would be based on three principles, equally for all:
@@ -61,7 +61,7 @@ The government was never meant to be a biased mechanism that protects the feudal
 The current model is an inversion: the government controls the population on behalf of the Fortune 500, while the citizens are treated as subjects. The narrow exam gates are the leashes. The debt is the muzzle. The printing press is the feed.
 
 The Space State inverts the inversion. In the Space State, the government's role is to:
-- **Provide the open‑source infrastructure** — the Light@2.7K Web, the Virtual Nalanda, the thin‑wide compute fabric.
+- **Provide the open‑source infrastructure** — the Light@2.7K Web, the Justice Physics Nalanda, the thin‑wide compute fabric.
 - **Ensure L = 1** — resources flow to every node, not just the top 10 %.
 - **Guard, not control** — protect citizens from feudal extraction, from environmental collapse, and from the narrow‑gate mousetrap.
 
@@ -75,7 +75,7 @@ The suppression manual has an expiry date. It is printed in the rising Gini, the
 
 The alternative is already blueprinted:
 
-- **Education:** The Virtual Nalanda — open, free, no exams, no debt.
+- **Education:** The Justice Physics Nalanda — open, free, no exams, no debt.
 - **Computation:** The Light@2.7K Web — cold, photonic, zero operating cost in space.
 - **Economy:** $$(E = MC^2 \times L), with L = 1$$ — no central bank printing press, no extraction.
 - **Governance:** The Space State — a guardian, not a controller, aligned with the cosmos.
