@@ -76,7 +76,7 @@ HumanOS 1.0 tried to control the bursts. It built empires on steam, arsenals o
 
 HumanOS 2.0 — the Space State — does not try to control the bursts. It aligns with them.
 
-- **It distributes intelligence** through the open‑source Virtual Nalanda, not through feudal paywalls.
+- **It distributes intelligence** through the open‑source Justice Physics Nalanda, not through feudal paywalls.
 - **It distributes computation** through the Light@2.7 K Web, at near‑zero cost, in orbit, where no gatekeeper can reach.
 - **It distributes energy** through the cosmic cold chain, the cold submarine fleet, and the orbital solar farms.
 - **It measures success** by the True Index (TI), not by GDP garbage.
