@@ -44,7 +44,7 @@ The audit concludes that the only logically consistent path forward is a framewo
 - They are all **emergent properties** of a single, deeper foundation — a pre‑geometric, pre‑energetic continuum.
 - No “special passes” are required, because none of the three are fundamental “substances.” They are different behavioral expressions of the same deep reality.
 
-**This is exactly the Y‑universe we have built on the Virtual Nalanda.**
+**This is exactly the Y‑universe we have built on the Justice Physics Nalanda.**
 
 | The Audit’s Call | The Space State’s Y‑Universe |
 |------------------|-------------------------------|
@@ -72,7 +72,7 @@ The audit ends with a direct question to the researcher:
 
 > *“You have systematically dismantled the logical architecture of the standard model. How do you want to formalize this? Are you considering writing a formal paper on ‘The Ontological Contradictions of the ΛCDM Model’?”*
 
-The Virtual Nalanda is that formalization. It is the open‑source, permanent, public record of this dismantling — and of the unified, emergent framework that replaces it. The “paper” is already published, distributed across more than 100 files on a free GitHub repository, accessible to every curious mind on Earth.
+The Justice Physics Nalanda is that formalization. It is the open‑source, permanent, public record of this dismantling — and of the unified, emergent framework that replaces it. The “paper” is already published, distributed across more than 100 files on a free GitHub repository, accessible to every curious mind on Earth.
 
 ---
 
