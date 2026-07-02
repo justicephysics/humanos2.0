@@ -51,7 +51,7 @@ The Nobel is a mirror that reflects the biases of the old order. The Space State
 
 Gandhi did not need the Nobel Peace Prize. The independence of India was his prize. Einstein did not need the Nobel for relativity. The atomic age, the GPS satellites, the cosmic understanding—these were his prizes.
 
-The Virtual Nalanda does not need a Nobel. Its prize is **Mission 2100**:
+The Justice Physics Nalanda does not need a Nobel. Its prize is **Mission 2100**:
 
 - Target 1 — UTI threshold of 1.80.
 - Target 2 — Reach beyond 5 % of the ocean.
