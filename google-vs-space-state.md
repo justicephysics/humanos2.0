@@ -49,7 +49,7 @@ The question has never been *whether* modularity works. The question is **what e
 
 ## 4. The Open Invitation
 
-Google’s research is a validation of the principle. We welcome it. If Google wishes to partner, the Virtual Nalanda is open. The Roadmap is published. The Challenges page lists the engineering problems waiting to be solved.
+Google’s research is a validation of the principle. We welcome it. If Google wishes to partner, the Justice Physics Nalanda is open. The Roadmap is published. The Challenges page lists the engineering problems waiting to be solved.
 
 But we are not waiting. The blueprint is complete. The Warrior‑Engineers are stirring. The retrofit modules can be built by any university, any startup, any coastal nation. The ocean is ready. The orbit is ready. The cosmic cold is free.
 
