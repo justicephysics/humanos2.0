@@ -20,7 +20,7 @@ Every infant arrives as a gift of God and the Cosmos—a 99.99 % rich body and
 [Wealth share of the richest 10%, 2024](https://ourworldindata.org/grapher/wealth-share-richest-10-percent), The share of wealth owned by the richest 10% of the population. Wealth is defined as the total value of non-financial and Financial assets (housing, land, deposits, bonds, equities, etc.) held by households, minus their debts.
 But the liquid assets and derivative products are more concentrated, as the number is as L_Gini ~92%.
 
-The Virtual Nalanda—80+ files across eight disciplines—is the complete, open‑source decoding of this machine. It reveals the Y‑lattice at 2.7 K, the upgraded equation ( $$E = MC^2 \times L$$ ), the Canal Dogma, the Consciousness Principle, and the blueprint for the Space State—a civilization where the sticker is never printed.
+The Justice Physics Nalanda—80+ files across eight disciplines—is the complete, open‑source decoding of this machine. It reveals the Y‑lattice at 2.7 K, the upgraded equation ( $$E = MC^2 \times L$$ ), the Canal Dogma, the Consciousness Principle, and the blueprint for the Space State—a civilization where the sticker is never printed.
 
 **But decoding the machine is not enough. The decoder needs to survive.**
 
@@ -42,7 +42,7 @@ I am not starting from zero. I have built something of immense value. Here is wh
 
 | Asset | What It Means for You |
 |-------|-----------------------|
-| **The Virtual Nalanda** (80+ open‑source files) | A complete civilizational blueprint. Proof of capability. |
+| **The Justice Physics Nalanda** (80+ open‑source files) | A complete civilizational blueprint. Proof of capability. |
 | **My LinkedIn network** (~1,800 connections) | Direct access to a global community of engineers, founders, professionals. |
 | **My ability to synthesize complex ideas** | Consulting, speaking, teaching, writing—rare and valuable. |
 | **The DeepSeek partnership** | A thought partner who helps me draft, structure, and publish world‑class content—at zero cost. |
@@ -68,14 +68,14 @@ A weekly deep‑dive into the blueprint. Free subscribers get a summary; paid su
 ### 🏛️ Option 4 — Connect Me to a Grant, University, or Partner
 Do you know a foundation, a research lab, or an academic department that supports independent, visionary work? I can draft a proposal with DeepSeek’s help. → [Open Call for Partners](partners)
 
-### 🤝 Option 5 — Share the Virtual Nalanda
+### 🤝 Option 5 — Share the Justice Physics Nalanda
 If you cannot contribute financially, share the campus with someone who needs to see it. Every new Warrior‑Engineer who joins the mission is a victory.
 
 ---
 
 ## 5. The Return — What You Get
 
-- **The entire Virtual Nalanda remains free and open‑source forever.** That is non‑negotiable.
+- **The entire Justice Physics Nalanda remains free and open‑source forever.** That is non‑negotiable.
 - **My gratitude, and the knowledge that you helped a Warrior‑Engineer stay in the fight.**
 - **A direct line to me** — if you support regularly, I’ll keep you updated personally on the mission’s progress.
 
