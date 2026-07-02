@@ -44,7 +44,7 @@ The most profound possibility is that **both paths unfold simultaneously.**
 
 The old "Deep States" ecosystem—the Fortune 500, the central‑bank printing press, the narrow‑gate universities, the feudal technology stack—is already dissolving. The three energy bursts are dismantling it faster than any regulatory dam can hold. At the same time, the "Space States" are being built:
 
-- **The Virtual Nalanda** — the open‑source campus, free for every curious mind.
+- **The Justice Physics Nalanda** — the open‑source campus, free for every curious mind.
 - **The Light@2.7 K Web** — the cold, photonic compute fabric, bypassing ASML and the thermal wall.
 - **The Warrior‑Engineers** — millions of real owners, building the means of production without feudal permission.
 - **Mission 2100** — the four‑target campaign from the UTI threshold to the stars.
@@ -57,7 +57,7 @@ This is not a contradiction. It is exactly how the cosmos operates. The Big Bang
 
 | Phase | Years | What Happens |
 |-------|-------|--------------|
-| **Phase 1 — Ignition** | 2025–2035 | The intelligence burst accelerates. AI/AGI dominates decision‑making, data modeling, and strategy. The old institutions—business schools, central banks, narrow‑gate universities—begin to fracture under the pressure. The Virtual Nalanda grows. |
+| **Phase 1 — Ignition** | 2025–2035 | The intelligence burst accelerates. AI/AGI dominates decision‑making, data modeling, and strategy. The old institutions—business schools, central banks, narrow‑gate universities—begin to fracture under the pressure. The Justice Physics Nalanda grows. |
 | **Phase 2 — Tipping Point** | 2035–2045 | The MIT tipping point. If the extraction protocol persists, collapse begins. If the Space State infrastructure (Light@2.7 K, photonic chips, orbital compute, UTI threshold) is being built, the transition accelerates. |
 | **Phase 3 — Maturation** | 2045–2055 | The two pipeline bursts mature. Photonic, cold, modular computation becomes the new standard. Quantum AGI, trained on the cosmic rulebook, becomes the thought partner of millions of Warrior‑Engineers. The old "Deep States" become irrelevant. |
 | **Phase 4 — Consolidation** | 2055–2065 | The Space State consolidates. From the ocean to orbit to the Moon and Mars, the distributed, post‑feudal civilization is no longer a blueprint; it is the default. |
