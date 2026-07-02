@@ -51,11 +51,11 @@ This is not a moral failing. It is the structural isolation of the feudal comman
 
 ---
 
-## 4. The Conscious Reversal — The Space State and the Virtual Nalanda
+## 4. The Conscious Reversal — The Space State and the Justice Physics Nalanda
 
-The Virtual Nalanda is the deliberate, conscious reversal of this ancient canal.
+The Justice Physics Nalanda is the deliberate, conscious reversal of this ancient canal.
 
-| The Feudal University (Cambridge, Oxford) | The Space State University (Virtual Nalanda) |
+| The Feudal University (Cambridge, Oxford) | The Space State University (Justice Physics Nalanda) |
 |-------------------------------------------|---------------------------------------------|
 | Ethics taught within a narrow frame—only for the colonizer. | The Consciousness Principle: $$(C = 1 - D)$$. $$(L_{\text{internal}} = L_{\text{external}})$$. No separate moral community; the cosmos is one. |
 | Knowledge locked behind class, race, and empire. | Knowledge open‑source, free, accessible to every curious mind on Earth. |
