@@ -68,7 +68,7 @@ The Space State does not need guardrails because it is built on principles that 
 - **The UTI threshold (1.80)** is a constitutional requirement, not a moral appeal.
 - **The #LisTest** provides real‑time alignment diagnostics for every action.
 - **The Consciousness Interface** gives every individual feedback on their own command centre.
-- **The Virtual Nalanda** provides open knowledge, eliminating the “bad information” that Harari warns about.
+- **The Justice Physics Nalanda** provides open knowledge, eliminating the “bad information” that Harari warns about.
 
 In the Space State, the AGI is a partner, not a threat. The feudal institutions, with their delusional models, are the ones that need guardrails. And the most effective guardrail is simply this: **publish the cosmic rulebook, and let the physics speak for itself.**
 
