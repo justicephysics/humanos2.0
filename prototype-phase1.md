@@ -96,7 +96,7 @@ If an Android tablet is used instead, the cost drops further (device may already
 ## 8. Next Steps After Successful Demo
 
 - **File a provisional patent** for the Snapshot‑based thin‑client architecture (covering the Core Loop and modular backend).
-- **Publish the demo video** on LinkedIn, YouTube, and the Virtual Nalanda.
+- **Publish the demo video** on LinkedIn, YouTube, and the Justice Physics Nalanda.
 - **Use the demo to approach small investors, telecoms, and hardware partners** for the Phase 2 prototype (a custom‑built thin client with an integrated 5G modem and hardware decoder).
 
 ---
