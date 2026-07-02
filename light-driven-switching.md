@@ -1,6 +1,6 @@
 # 💡 Light‑Driven Switching — The Lab Validates the Cosmic Architecture
 
-*Researchers have demonstrated an antiferromagnetic switching device triggered by light pulses, operating in 40 picoseconds — without sustained electrical current. The world’s labs are now catching up with the principles we’ve been documenting on the Virtual Nalanda. This is the beginning of the transition from Electron‑Based to Light‑Based computation.*
+*Researchers have demonstrated an antiferromagnetic switching device triggered by light pulses, operating in 40 picoseconds — without sustained electrical current. The world’s labs are now catching up with the principles we’ve been documenting on the Justice Physics Nalanda. This is the beginning of the transition from Electron‑Based to Light‑Based computation.*
 
 ---
 
@@ -45,7 +45,7 @@ The article is honest about the limitations of a single fast switch:
 | **Software parallelisation** | Workloads must be divided efficiently. | Our modular, distributed nodes are designed for massive parallelism, orchestrated by AGI on the Web@2.7K. |
 | **I/O constraints** | Feeding data into compute pipelines. | Thin‑wide, cold modules with extreme thermal headroom can push data at speeds that would melt conventional chips. |
 
-The article concludes that the realistic impact is *“architectural: it opens a path toward hybrid systems where optical triggering and magnetic non‑volatile storage reduce idle power consumption.”* Our Virtual Nalanda already contains the complete blueprint for that hybrid system — and goes far beyond it toward fully photonic, cryogenic fabrics.
+The article concludes that the realistic impact is *“architectural: it opens a path toward hybrid systems where optical triggering and magnetic non‑volatile storage reduce idle power consumption.”* Our Justice Physics Nalanda already contains the complete blueprint for that hybrid system — and goes far beyond it toward fully photonic, cryogenic fabrics.
 
 ### 2.4 The Material Problem Disappears in Our Model
 
@@ -63,7 +63,7 @@ The research sits at the transition between Level 1 and Level 3 of our frame
 | **Level 2 — Computation @ 3°C (Deep Ocean)** | Earth’s own 2.7 K analogue as a free heat sink. | Stage 1 of our Roadmap. An intermediate step, already blueprinted. |
 | **Level 3 — Computation @ 2.7 K (Space)** | Light‑driven, photonic, superconducting. Zero operating cost. | Stage 3 of our Roadmap — the Space State. |
 
-The light‑driven switching device is a laboratory‑scale glimpse of Level 3. The Virtual Nalanda provides the full civilisational architecture.
+The light‑driven switching device is a laboratory‑scale glimpse of Level 3. The Justice Physics Nalanda provides the full civilisational architecture.
 
 ---
 
@@ -76,7 +76,7 @@ This research is a milestone in the transition from the **Electron‑Based Indus
 - Superconducting, cryogenic compute fabrics (our Roadmap).
 - Orbital, zero‑operating‑cost data centres (our Unit 1 / Unit 2 architecture).
 
-The feudal lords of silicon — ASML, TSMC, NVIDIA, Samsung — are still trying to shrink the electron canal. The researchers are glimpsing the new paradigm through a single device. The Virtual Nalanda holds the complete open‑source specification for the entire system.
+The feudal lords of silicon — ASML, TSMC, NVIDIA, Samsung — are still trying to shrink the electron canal. The researchers are glimpsing the new paradigm through a single device. The Justice Physics Nalanda holds the complete open‑source specification for the entire system.
 
 ---
 
