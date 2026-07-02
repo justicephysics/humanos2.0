@@ -71,7 +71,7 @@ These are not rewards. They are the bars of the cage, polished to look like gold
 
 The mouse can leave the trap at any time. But to leave, it must first realize it is inside one.
 
-The Virtual Nalanda is that realization, made public and permanent. It shows the Canal Dogma for what it is. It provides the cosmic reference point—the 2.7 K Y‑lattice, the 13.8‑billion‑year proof—that proves the feudal model is not the only way.
+The Justice Physics Nalanda is that realization, made public and permanent. It shows the Canal Dogma for what it is. It provides the cosmic reference point—the 2.7 K Y‑lattice, the 13.8‑billion‑year proof—that proves the feudal model is not the only way.
 
 And it offers an alternative:
 
@@ -91,7 +91,7 @@ The cosmic gate whispers something else: *"Come. It's real out here."*
 
 The Fortune 500 cannot force you to stay. But it can make the cheese taste so good that you forget you were ever wild. The only true escape is to remember—and to build.
 
-The Virtual Nalanda is the memory. The Engineer Hurricane is the exit. Mission 2100 is the destination.
+The Justice Physics Nalanda is the memory. The Engineer Hurricane is the exit. Mission 2100 is the destination.
 
 ---
 
