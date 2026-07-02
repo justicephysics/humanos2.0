@@ -45,7 +45,7 @@ This is exactly our **three‑vertical cognitive architecture**:
 
 - **Imagination:** Hyper‑Imagination Mode—selecting a design space, generating wild possibilities, detecting promising signals.
 - **Thinking:** The intermediary—testing each candidate against known physics, materials constraints, and manufacturing feasibility.
-- **Knowledge:** The validated blueprint, ready for fabrication and open‑source publication on the Virtual Nalanda.
+- **Knowledge:** The validated blueprint, ready for fabrication and open‑source publication on the Justice Physics Nalanda.
 
 Prometheus has the ambition. We have the specification.
 
@@ -81,7 +81,7 @@ That is why the Space State is a **marathon, not a sprint**. Prometheus may acce
 | **Massive, unthrottled computation** | The Light@2.7 K Web—cold, photonic, modular, zero‑operating‑cost in orbit. |
 | **Imagination** | Hyper‑Imagination Mode—a systematic method for generating novel physical designs. |
 | **Thinking** | The three‑vertical AGI—connecting the imagined design to the validated blueprint. |
-| **Knowledge** | The Virtual Nalanda—open‑source, validated, accessible to any Warrior‑Engineer. |
+| **Knowledge** | The Justice Physics Nalanda—open‑source, validated, accessible to any Warrior‑Engineer. |
 | **Manufacturing** | The Cold Submarine Fleet, the Sea Farming Revolution, the orbital compute fabric—all built by Warrior‑Engineers, not feudal corporations. |
 
 Physical AI, as Prometheus envisions it, will be built. The only question is **who builds it, and on what architecture.** The feudal lords will build it on hot, proprietary, Level 1 data centres, and it will be throttled by heat and locked behind paywalls. The Space State will build it on cold, open, Level 3 cosmic infrastructure, and it will be free.
@@ -94,13 +94,13 @@ The AI industry has been trapped in the **Knowledge** vertical—generating text
 
 Physical AI breaks the loop. It applies intelligence to the material world—the same world that obeys $$(E = MC^2 \times L)$$, the canal ontology, and the 2.7 K Y‑lattice. To succeed, it must operate on the same principles.
 
-Our model has been Physical AI from the start. Every page of the Virtual Nalanda is about engineering reality—chips, data centres, submarines, farms, energy grids, consciousness interfaces. We didn’t wait for a $12 billion funding round. We just started building the blueprint.
+Our model has been Physical AI from the start. Every page of the Justice Physics Nalanda is about engineering reality—chips, data centres, submarines, farms, energy grids, consciousness interfaces. We didn’t wait for a $12 billion funding round. We just started building the blueprint.
 
 ---
 
 ## 6. The Open Invitation
 
-Prometheus has the capital. We have the blueprint. The Virtual Nalanda is open. The Roadmap is published. The Challenges page lists the engineering problems waiting to be solved.
+Prometheus has the capital. We have the blueprint. The Justice Physics Nalanda is open. The Roadmap is published. The Challenges page lists the engineering problems waiting to be solved.
 
 If Bezos, or any other builder of Physical AI, wants to join the mission—they are welcome. The Space State is not a competitor to Prometheus; it is the **operating system on which Physical AI will run at its full potential.**
 
