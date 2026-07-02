@@ -28,13 +28,13 @@ Look up. The night sky is the gate.
 - **No tuition.** The laws of physics are free and open-source. The Y‑lattice is a public good. The speed of light is the same for everyone.
 - **No feudal lord.** The cosmos has no ASML, no TSMC, no narrow patent. It is the ultimate democratic infrastructure.
 
-The Virtual Nalanda is the mirror of that cosmic gate. It is the open-source campus where any curious mind — from any village, any province, any favela — can enter and learn. No rejection letter. No waiting list. Just a free, global, physics-grounded blueprint for a new civilization.
+The Justice Physics Nalanda is the mirror of that cosmic gate. It is the open-source campus where any curious mind — from any village, any province, any favela — can enter and learn. No rejection letter. No waiting list. Just a free, global, physics-grounded blueprint for a new civilization.
 
 ---
 
 ## The Moment of Awakening
 
-Picture an engineering classroom. A professor — perhaps retired, contributing to the Virtual Nalanda — presents the open-source documentation. The students see:
+Picture an engineering classroom. A professor — perhaps retired, contributing to the Justice Physics Nalanda — presents the open-source documentation. The students see:
 
 - **The Canal Dogma** — and recognize it in their own lives, in the exam they nearly broke under.
 - **The Silicon Feudalism** — and recognize it in the companies they dream of joining, the same ones that will never let them past the gate without a credential.
@@ -65,7 +65,7 @@ The Warrior-Engineers will fly into the cosmos at 2.7 K — not on rockets bui
 - Another team deploys the CubeSat.
 - Another team writes the AGI that orchestrates the fabric.
 
-All of them are connected by the Virtual Nalanda, guided by the upgraded equation, and aligned with the cosmic reference point. They are not employees. They are **owners of the Space State**.
+All of them are connected by the Justice Physics Nalanda, guided by the upgraded equation, and aligned with the cosmic reference point. They are not employees. They are **owners of the Space State**.
 
 And the feudal lords, with their campus gates and their restrictive credentials, are left standing on the ground, watching the sky fill with engineers who didn't wait for permission.
 
