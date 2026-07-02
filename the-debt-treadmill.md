@@ -55,7 +55,7 @@ The Space State breaks every link in the extraction chain:
 
 | Treadmill Stage | Space State Alternative |
 |-----------------|-------------------------|
-| **Education debt** | The Virtual Nalanda — free, open‑source, no exams, no debt. |
+| **Education debt** | The Justice Physics Nalanda — free, open‑source, no exams, no debt. |
 | **Workforce extraction** | The Warrior‑Engineers own the means of production—thin‑wide modules, cold submarine fleets, orbital fabrics. L = 1. |
 | **Debt service** | No debt. Energy and computation are the true currencies, distributed freely. |
 | **Consumption trap** | No lollipops needed—dignity, purpose, and mission replace consumerism. |
