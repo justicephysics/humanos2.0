@@ -82,7 +82,7 @@ The Canal Dogma can be dismantled not by argument, but by building alternatives 
 
 ### In Education
 - **Old Dogma:** JEE, Gaokao, SAT — brutal filters that ration opportunity.
-- **New Architecture:** The Virtual Nalanda — a free, global, open‑source campus where any curious mind can learn, contribute, and earn credentials through real‑world projects, not exams.
+- **New Architecture:** The Justice Physics Nalanda — a free, global, open‑source campus where any curious mind can learn, contribute, and earn credentials through real‑world projects, not exams.
 
 ### In Economy
 - **Old Dogma:** Concentrate wealth at the top; let the bottom borrow to survive.
@@ -112,7 +112,7 @@ This page is not just a diagnosis. It’s an invitation.
 
 - **See the Canal Dogma** in your own life, your own industry, your own country.
 - **Name it.** Use #CanalDogma when you share stories of narrow gates, artificial scarcity, and pressure‑driven collapse.
-- **Build the alternative.** Visit the Virtual Nalanda. Read the Simple Engineering Vision. Pick an open problem from the Challenges page. Start widening the canal, one small step at a time.
+- **Build the alternative.** Visit the Justice Physics Nalanda. Read the Simple Engineering Vision. Pick an open problem from the Challenges page. Start widening the canal, one small step at a time.
 
 The cosmos already proved it works. The blueprint is open. The only thing missing is your refusal to accept the narrow gate as natural.
 
