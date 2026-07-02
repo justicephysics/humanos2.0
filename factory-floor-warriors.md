@@ -20,7 +20,7 @@ Now, imagine the same engineer on the same factory floor—but with a different 
 
 - The company **seeks their suggestions** on product innovation, cost optimization, and process improvement.
 - The company **invites their proposals** for new materials, new designs, new workflows.
-- The engineer, empowered by the open‑source knowledge of the Virtual Nalanda, **takes the initiative** to explore new horizons themselves.
+- The engineer, empowered by the open‑source knowledge of the Justice Physics Nalanda, **takes the initiative** to explore new horizons themselves.
 
 Suddenly, the engineer is no longer a robot. They are a **Factory Floor Warrior**—a node of Mission 2100, grounded in the physical world, equipped with an engineering mind, and aligned with the cosmic principles of Light@2.7 K and L = 1.
 
@@ -53,7 +53,7 @@ This is not a genetic change. It is a **cultural and cognitive evolution**, pass
 For this transformation to happen, the company must also evolve. It cannot treat its engineers as disposable labor and expect innovation.
 
 - **Invite proposals:** Create a formal channel for engineers to submit ideas, and reward the best ones—not just with money, but with resources to develop them.
-- **Invest in education:** Provide access to the Virtual Nalanda. Let engineers learn Light@0Kelvin, the four‑stage pipeline, the cosmic blueprint—on company time.
+- **Invest in education:** Provide access to the Justice Physics Nalanda. Let engineers learn Light@0Kelvin, the four‑stage pipeline, the cosmic blueprint—on company time.
 - **Share the gains:** When an engineer's idea saves the company millions, the engineer should share in that value. L = 1 is not just a cosmic principle; it's a business model.
 
 Companies that embrace this model will not just survive the Engineer Hurricane—they will lead it. Those that cling to the feudal structure will be swept away.
