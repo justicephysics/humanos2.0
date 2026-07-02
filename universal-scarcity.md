@@ -73,7 +73,7 @@ The Space State does not promise a utopia of infinite consumption. It promises *
 
 - **If energy is abundant (sunlight, fusion),** it must be distributed universally. No one gets to burn it for joyrides while others lack power.
 - **If computation is abundant (Light@2.7 K Web),** it must be distributed universally. No one gets to charge per token while students are locked out.
-- **If knowledge is abundant (Virtual Nalanda),** it must be distributed universally. No narrow gates, no exams, no debt.
+- **If knowledge is abundant (Justice Physics Nalanda),** it must be distributed universally. No narrow gates, no exams, no debt.
 
 The UTI threshold (1.80) is the constitutional enforcement of this principle. When EI ≥ 0.70 for every citizen, no one can claim "scarcity" as an excuse for hoarding. The lie is retired. The physics is restored.
 
