@@ -74,7 +74,7 @@ This discipline is new, and it needs pioneers. Here are the core open questions:
 This page is an open invitation to students, researchers, and engineers worldwide.
 
 - Study Light@0-2.7Kelvin as a new interdisciplinary field — combining cryogenics, photonics, quantum physics, and computer architecture.
-- Propose your own research project. We will help you publish it and link it from the Virtual Nalanda.
+- Propose your own research project. We will help you publish it and link it from the Justice Physics Nalanda.
 - Build a prototype. Even a single photonic link at 4 K is a contribution.
 
 ---
