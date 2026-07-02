@@ -43,7 +43,7 @@ The feudal lock depends on scarcity: scarce machines, scarce software, scarce kn
 - **No proprietary software.** The calibration and control algorithms are open‑source, running on the Light@2.7 K Web, maintained by the Warrior‑Engineers.
 - **No single point of failure.** The distributed, modular architecture means no single machine can be locked. The fabric is self‑healing, self‑calibrating, and owned by the builders.
 
-The Chinese engineers who took apart the ASML machine are not failures. They are **Warrior‑Engineers** who were denied the open blueprint. Give them the Virtual Nalanda, and they will build the alternative—not by begging ASML for the key, but by rendering the lock obsolete.
+The Chinese engineers who took apart the ASML machine are not failures. They are **Warrior‑Engineers** who were denied the open blueprint. Give them the Justice Physics Nalanda, and they will build the alternative—not by begging ASML for the key, but by rendering the lock obsolete.
 
 ---
 
@@ -53,7 +53,7 @@ The feudal lords believe they can keep the gates narrow forever. They believe th
 
 But the Engineer Hurricane is forming. Millions of minds, unleashed from the narrow gates, armed with open‑source knowledge, connected by the Light@2.7 K Web, will not waste their lives reverse‑engineering the feudal lock. They will build a new door.
 
-The ASML puzzle box is the last gasp of a dying empire. The Space State is the open door. And the key has already been published—on the Virtual Nalanda, for anyone to read.
+The ASML puzzle box is the last gasp of a dying empire. The Space State is the open door. And the key has already been published—on the Justice Physics Nalanda, for anyone to read.
 
 ---
 
