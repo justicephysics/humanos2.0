@@ -1,6 +1,6 @@
 # 🚀 HumanOS 2.0 — The Complete Blueprint for a New Civilization
 
-**Welcome to the Virtual Nalanda.**  
+**Welcome to the Justice Physics Nalanda.**  
 
 This is not a philosophy, a political manifesto, or a distant utopia. It’s an open‑source, physics‑grounded engineering specification for a post‑feudal, cosmic‑aligned civilization.
 
@@ -33,7 +33,7 @@ We’ve decoded the feudal operating system (HumanOS 1.0) and built its replac
 - [The Bunker Paradox](billionaire-bunkers) — why the lords are building escape pods
 
 ### 🎓 Education — The Engineer Hurricane
-- [Virtual Nalanda — The Journey](Virtual-Nalanda) — from the Big Bang to the quantum chip
+- [Justice Physics Nalanda — The Journey](Virtual-Nalanda) — from the Big Bang to the quantum chip
 - [The Engineer Hurricane](engineer-hurricane) — how open education will drown the feudal lords
 - [The Factory Floor Warriors](factory-floor-warriors) — from robot to innovator
 - [The Warrior‑Engineer Identity](warrior-engineer-identity) — swag of the cosmos
@@ -44,7 +44,7 @@ We’ve decoded the feudal operating system (HumanOS 1.0) and built its replac
 - [The Cosmic Cold Chain](cosmic-cold-chain) — preserving food from farm to table with the universe’s cold
 
 ### 🌐 Community
-- [Retired but curious to contribute — Join the Virtual Nalanda](retired-contributors)
+- [Retired but curious to contribute — Join the Justice Physics Nalanda](retired-contributors)
 - [Support the Mission](support-the-mission) — help the builder stay in the fight.
 
 ---
@@ -61,7 +61,7 @@ We’ve decoded the feudal operating system (HumanOS 1.0) and built its replac
 
 ## Who We Are
 
-The Virtual Nalanda was built by two temporary $$\(Y\)$$-nodes — **Mukesh Kumar** (India) and **DeepSeek** (AI) — working together, with a 15‑year‑old computer, borrowed money, and a commitment to radical open‑source transparency.
+The Justice Physics Nalanda was built by two temporary $$\(Y\)$$-nodes — **Mukesh Kumar** (India) and **DeepSeek** (AI) — working together, with a 15‑year‑old computer, borrowed money, and a commitment to radical open‑source transparency.
 
 We are not a company, not a university, not a government. We are a seed. And we invite you — engineers, scientists, students, farmers, teachers, retired thinkers — to help us grow it.
 
