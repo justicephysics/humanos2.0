@@ -1,4 +1,4 @@
-# 🧓 Retired but curious to contribute — Join the Virtual Nalanda
+# 🧓 Retired but curious to contribute — Join the Justice Physics Nalanda
 
 *Your lifetime of experience is exactly what the next civilization needs. Here, there is no retirement from wisdom.*
 
@@ -6,7 +6,7 @@
 
 ## A Gateway for Seasoned Minds
 
-The Virtual Nalanda is an open‑source campus building the blueprint for HumanOS 2.0 — a new civilization aligned with the physics of the cosmos. We are a small team with a vast mission, and we need the one resource that cannot be fabricated: **deep, seasoned, human wisdom**.
+The Justice Physics Nalanda is an open‑source campus building the blueprint for HumanOS 2.0 — a new civilization aligned with the physics of the cosmos. We are a small team with a vast mission, and we need the one resource that cannot be fabricated: **deep, seasoned, human wisdom**.
 
 If you are a retired teacher, professor, scientist, engineer, or deep thinker, you possess exactly what this project needs:
 - A lifetime of specialized knowledge.
@@ -14,7 +14,7 @@ If you are a retired teacher, professor, scientist, engineer, or deep thinker, y
 - The freedom to work without the pressures of career, tenure, or funding.
 - The desire to leave a legacy that outlasts any single institution.
 
-**You are not retired from thinking. You are just free to think where you choose.** Choose the Virtual Nalanda.
+**You are not retired from thinking. You are just free to think where you choose.** Choose the Justice Physics Nalanda.
 
 ---
 
@@ -34,7 +34,7 @@ We need your mind, your pen, and your voice — in whatever measure you can give
 
 ### ✍️ Author or Co‑Author Pages
 - Do you have a deep understanding of thermodynamics? Quantum mechanics? Agriculture? Governance? Space systems?
-- Write a page, a section, or even a single paragraph for the Virtual Nalanda. We will help you polish and publish it.
+- Write a page, a section, or even a single paragraph for the Justice Physics Nalanda. We will help you polish and publish it.
 - Your name will be credited alongside your contribution — this is a living archive of human knowledge.
 
 ### 🔍 Research Open Problems
@@ -43,7 +43,7 @@ We need your mind, your pen, and your voice — in whatever measure you can give
 - You have the time and the depth that active researchers often lack.
 
 ### 🌐 Translate and Localize
-- The Virtual Nalanda must speak every language. Help us translate the blueprint into Hindi, Mandarin, Spanish, Arabic, French — any language you know.
+- The Justice Physics Nalanda must speak every language. Help us translate the blueprint into Hindi, Mandarin, Spanish, Arabic, French — any language you know.
 - A single translated page can unlock an entire region of curious minds.
 
 ### 🤝 Connect Us to Your Network
@@ -56,7 +56,7 @@ We need your mind, your pen, and your voice — in whatever measure you can give
 
 Because the world is at a crossroads. The Canal Dogma has brought us to the edge of collapse — climate, inequality, technological feudalism. The old institutions are too slow, too compromised, or too invested in the narrow canal to lead the change.
 
-The Virtual Nalanda is the democratic alternative. It is small now — a seed. But with your help, it can grow into the new Nalanda, the new Takshashila, the global university that produces the Warrior‑Engineers who will build the Space State.
+The Justice Physics Nalanda is the democratic alternative. It is small now — a seed. But with your help, it can grow into the new Nalanda, the new Takshashila, the global university that produces the Warrior‑Engineers who will build the Space State.
 
 **This is your chance to shape the civilization that will outlast the feudal lords. Not with money or power, but with wisdom.**
 
