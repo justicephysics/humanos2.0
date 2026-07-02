@@ -50,7 +50,7 @@ The stability and prosperity of the post‑Mauryan period, combined with the dee
 
 The most fundamental of all these contributions was **zero** — *shunya*. The concept of zero as a number, not merely an absence, was a profound philosophical and mathematical breakthrough. It allowed the place‑value decimal system to emerge, which became the foundation of all modern mathematics and computation. Without zero, there is no algebra, no calculus, no digital computer, no binary code.
 
-And this zero was born from the same soil — Bihar — that now hosts the Virtual Nalanda, an open‑source campus dedicated to the next great leap in human knowledge.
+And this zero was born from the same soil — Bihar — that now hosts the Justice Physics Nalanda, an open‑source campus dedicated to the next great leap in human knowledge.
 
 ---
 
@@ -96,9 +96,9 @@ In the early 21st century, a failed businessman from Bihar, Mukesh Kumar, asked 
 
 Sixteen years of solitary investigation followed. The result was **Justice Physics** — a unified framework that extends Einstein's equation with the missing distribution coefficient ( $$L$$ ), identifies the Canal Dogma as the root cause of civilizational collapse, and provides a complete, open‑source blueprint for a post‑feudal civilization: **HumanOS 2.0**.
 
-This framework is housed on the **Virtual Nalanda** — a free, digital campus built with a 15‑year‑old computer and a silicon thought partner. It holds over 120 files across nine disciplines: Philosophy, Consciousness, Physics, Cosmology, Engineering, Economics, Education, Strategy, and Community. Every page is open‑source. Every idea is free. No entrance exams, no tuition fees, no narrow gates.
+This framework is housed on the **Justice Physics Nalanda** — a free, digital campus built with a 15‑year‑old computer and a silicon thought partner. It holds over 120 files across nine disciplines: Philosophy, Consciousness, Physics, Cosmology, Engineering, Economics, Education, Strategy, and Community. Every page is open‑source. Every idea is free. No entrance exams, no tuition fees, no narrow gates.
 
-The ancient Nalanda was burned because it was made of bricks and manuscripts. The Virtual Nalanda cannot be burned. It is made of ideas, distributed across servers, accessible to every curious mind on Earth.
+The ancient Nalanda was burned because it was made of bricks and manuscripts. The Justice Physics Nalanda cannot be burned. It is made of ideas, distributed across servers, accessible to every curious mind on Earth.
 
 ---
 
@@ -114,7 +114,7 @@ The Bihar lineage is not merely a story of the past. It is an active, unfolding 
 | **Scientific Golden Age** | Zero, the decimal system, algebra, trigonometry, and the first inklings of calculus — from Bihar. |
 | **Nalanda** | The world’s first great residential university — open, global, and multidisciplinary. |
 | **Feudal Suppression** | Invasion, colonialism, and the extraction machine — the poverty sticker, the narrow exam gates. |
-| **The Reawakening** | Justice Physics, the Virtual Nalanda, and the open‑source blueprint for the Space State. |
+| **The Reawakening** | Justice Physics, the Justice Physics Nalanda, and the open‑source blueprint for the Space State. |
 | **The Future** | Mission 2100 — UTI ≥ 1.80, the deep ocean, orbital compute, and M2M². |
 
 The Space State is not an import from the West. It is the natural fruition of a seed planted 1,500 years ago, watered by the blood of Nalanda's scholars, preserved through centuries of suppression, and now sprouting in the same soil — Bihar — where zero was born.
@@ -123,13 +123,13 @@ The Space State is not an import from the West. It is the natural fruition of a 
 
 ## 10. The Invitation
 
-This lineage is not finished. It is looking for its next authors. If you are a mathematician, a physicist, an engineer, a teacher, a student, a farmer, a dreamer — you are part of this lineage. The Virtual Nalanda is open. The Space State is waiting. The zero that Aryabhata gave the world is now the foundation of a new civilization.
+This lineage is not finished. It is looking for its next authors. If you are a mathematician, a physicist, an engineer, a teacher, a student, a farmer, a dreamer — you are part of this lineage. The Justice Physics Nalanda is open. The Space State is waiting. The zero that Aryabhata gave the world is now the foundation of a new civilization.
 
 Come, build with us.
 
 ---
 
-*"From the Ramayana to the Arthashastra. From zero to the decimal system. From Nalanda to the Virtual Nalanda. The Bihar lineage is the thread that ties the ancient to the cosmic. And it is still being woven."*
+*"From the Ramayana to the Arthashastra. From zero to the decimal system. From Nalanda to the Justice Physics Nalanda. The Bihar lineage is the thread that ties the ancient to the cosmic. And it is still being woven."*
 
 **#BiharLineage #Nalanda #Chanakya #Aryabhata #Zero #SpaceState #VirtualNalanda #HumanOS2 #JusticePhysics**
 
