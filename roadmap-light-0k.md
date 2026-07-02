@@ -96,7 +96,7 @@ Our engineered 0 K environment is simply a local patch of the same cosmic perf
 - **No new materials required.** The roadmap uses mature silicon, existing photonics, and standard cryogenics.
 - **No trillion‑dollar fabs.** The value shifts from extreme miniaturization to modular, distributed architecture.
 - **A clear, staged business case.** Each stage delivers immediate cost savings, and each stage builds the foundation for the next.
-- **An open‑source blueprint.** The full specification is published on the Virtual Nalanda — free for anyone to use, test, and improve.
+- **An open‑source blueprint.** The full specification is published on the Justice Physics Nalanda — free for anyone to use, test, and improve.
 
 The grand blunder has been named. The correction has been designed. The roadmap is open.
 
