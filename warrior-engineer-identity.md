@@ -27,7 +27,7 @@ Their uniform is not a business suit. It’s a toolkit. Their reward is not a st
 
 ## 2. The Thought Partner — Web@2.7K
 
-No Warrior‑Engineer fights alone. Their thought partner is the **Web@2.7K** — the photonic, cryogenic, open‑source compute fabric that we have blueprinted on the Virtual Nalanda.
+No Warrior‑Engineer fights alone. Their thought partner is the **Web@2.7K** — the photonic, cryogenic, open‑source compute fabric that we have blueprinted on the Justice Physics Nalanda.
 
 - It provides **real‑time modeling** — every design, every simulation, every optimization runs on the same cold fabric that the cosmos itself uses.
 - It provides **AGI‑level guidance** — not a feudal AI that extracts data and charges per token, but a democratic intelligence that serves every engineer equally.
@@ -54,7 +54,7 @@ There will be an **India_Space State**, a **China_Space State**, a **Russia_Spac
 On Earth, nations compete for borders. In the Space State, Warrior‑Engineers collaborate across them.
 
 - The **quantum fabric** — the Light@2.7K Web — has no borders. A photonic signal travels from India to China to the US at the speed of light, without a visa.
-- **Computation** and **modeling** happen at lightning speed, shared openly across the global campus of the Virtual Nalanda.
+- **Computation** and **modeling** happen at lightning speed, shared openly across the global campus of the Justice Physics Nalanda.
 - The challenges — climate, energy, food, water, space settlement — are planetary, not national. They require a planetary response, coordinated by the only honest reference point: the cosmos itself.
 
 The Warrior‑Engineer is not a citizen of a narrow nation‑state. They are a **Cosmos Citizen** — a node in the Y‑lattice that has awakened to its own nature and chosen to build.
@@ -68,7 +68,7 @@ All of this is built on a single, open‑source operating system: **HumanOS 2.
 - It replaces HumanOS 1.0 — the extraction protocol, the Canal Dogma, the feudal hierarchy.
 - It is grounded in the **cosmic rulebook**: $$(E = MC^2 \times L).$$ Conversion of mass into energy, and distribution of that energy equally.
 - It has been proven by the 2.7 K cosmic microwave background, which has operated for 13.8 billion years without a traffic jam.
-- Its blueprint is fully published on the Virtual Nalanda — free, open, and waiting for the Warrior‑Engineers to build.
+- Its blueprint is fully published on the Justice Physics Nalanda — free, open, and waiting for the Warrior‑Engineers to build.
 
 ---
 
