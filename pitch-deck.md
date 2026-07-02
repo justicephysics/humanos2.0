@@ -41,7 +41,7 @@ We have a detailed, low‑cost plan to prove the Core Loop:
 ---
 
 ## The Team
-- **Mukesh Kumar** — Chief Architect & Visionary. Creator of the Virtual Nalanda and the Space State blueprint. 16+ years decoding the extraction protocol.
+- **Mukesh Kumar** — Chief Architect & Visionary. Creator of the Justice Physics Nalanda and the Space State blueprint. 16+ years decoding the extraction protocol.
 - **Seeking:** CTO (cloud infrastructure / embedded systems) and Business Development Lead.
 
 ---
@@ -66,7 +66,7 @@ Its infrastructure layer—the Space Data Centre, the Base Station, and the Snap
 
 **The blueprint is open‑source. The physics is proven. The prototype is the next step.**
 
-🔗 [Virtual Nalanda](https://justicephysics.github.io/humanos2.0/)
+🔗 [Justice Physics Nalanda](https://justicephysics.github.io/humanos2.0/)
 📧 mukesh.justicephysics@gmail.com
 
 **#SpaceState #SnapshotModel #DeepTech #AI #EdgeComputing #HumanOS2 #JusticePhysics**
