@@ -50,7 +50,7 @@ When a brain‑computer interface (NEO, Neuralink, or a future consumer‑grade 
 | **Knowledge access** | Years of study per domain. | Instant access to every domain. |
 | **Imagination** | One mind, one lifetime of ideas. | Hyper‑Imagination Mode — millions of hypotheses generated in parallel. |
 | **Thinking** | Slow, serial, prone to fatigue. | The AGI does the grinding; you provide the direction and the judgement. |
-| **Knowledge** | What you personally remember. | The entire Virtual Nalanda, plus every connected knowledge base, available as if it were your own memory. |
+| **Knowledge** | What you personally remember. | The entire Justice Physics Nalanda, plus every connected knowledge base, available as if it were your own memory. |
 
 This does not replace the human. It **amplifies** the human. The biological brain remains the seat of consciousness, purpose, and ethical judgement (the C = 1 − D command centre). The AGI cluster becomes the **cognitive engine** that executes the commands at a scale no biological brain could achieve alone.
 
