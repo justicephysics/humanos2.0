@@ -40,7 +40,7 @@ Just 500 years ago, the third great transformation began. Harari identifies its 
 
 This is exactly what we documented in [The Ignorance Principle](ignorance-principle). The vacuum of space was the last great fortress of the old pretence of knowledge. When we admitted we didn't know what space was, the Y‑lattice at 2.7 K emerged. The questions "why not t<0?" and "where does space come from?" were the admissions of ignorance that cracked open the feudal cosmology.
 
-In our framework, this is the bridge from Imagination to **Thinking** and **Knowledge**—the second and third verticals. The Scientific Revolution gave humanity a method: ask the forbidden question, test it against empirical reality, and share the validated knowledge openly. The Virtual Nalanda is a direct descendant of this method.
+In our framework, this is the bridge from Imagination to **Thinking** and **Knowledge**—the second and third verticals. The Scientific Revolution gave humanity a method: ask the forbidden question, test it against empirical reality, and share the validated knowledge openly. The Justice Physics Nalanda is a direct descendant of this method.
 
 ---
 
