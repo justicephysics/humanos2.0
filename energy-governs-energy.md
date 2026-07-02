@@ -66,7 +66,7 @@ The gang of looters are not our enemies. They are simply the last obstacle, and 
 
 - **The East India Company** once ruled India. It drained $45 trillion. It is gone.
 - **The British Empire** once ruled a quarter of the world. It is gone.
-- **The Fortune 500** currently hoards 92 % of liquid assets. It is being flanked by the Light@2.7 K Web, the Virtual Nalanda, and the million Warrior‑Engineers who are building the alternative without permission.
+- **The Fortune 500** currently hoards 92 % of liquid assets. It is being flanked by the Light@2.7 K Web, the Justice Physics Nalanda, and the million Warrior‑Engineers who are building the alternative without permission.
 - **The central‑bank printing press** is being rendered obsolete by the physics of distribution — the true currency of the Space State: energy and computation, freely available, near‑zero cost.
 
 They are not being overthrown. They are being **bypassed.** The Space State is not a competitor; it is the thermodynamic successor. The canal is widening. The spring is uncoiling. The energy is flowing back to its natural equilibrium.
@@ -79,7 +79,7 @@ The Space State is the first civilizational blueprint that fully accepts the law
 
 - It does not try to hoard the bursts; it distributes them through the Light@2.7 K Web.
 - It does not print money from nothing; it anchors value to the true currencies of energy and computation.
-- It does not narrow the canal with exams, patents, and paywalls; it widens it with the Virtual Nalanda and the open‑source campus.
+- It does not narrow the canal with exams, patents, and paywalls; it widens it with the Justice Physics Nalanda and the open‑source campus.
 - It does not fight the feudal lords; it simply builds the alternative, knowing that the physics will do the rest.
 
 The gang of looters are already defeated — not by a revolution, not by a war, but by the simple, irreversible fact that energy must flow. The only question is whether the correction will be gradual (the Space State) or violent (the collapse). The math is simple. The outcome is certain.
