@@ -1,20 +1,20 @@
-# 💡 Light@0Kelvin — The New Discipline
+# 💡 Light@0-2.7Kelvin — The New Discipline
 
 *Manipulate light at the universe’s ground state, and every obstacle collapses. This is the discipline that will power HumanOS 2.0 — and it already has a 13.8‑billion‑year proof of concept.*
 
 ---
 
-## Why Light@0Kelvin?
+## Why Light@0-2.7Kelvin?
 
 At absolute zero, the space‑phase Y‑lattice enters a perfectly ordered quantum state. In that state, light behaves without resistance, heat flows without accumulation, and matter can be engineered atom by atom.
 
-**Light@0Kelvin** is the study and application of photon manipulation within this superconducting, quantum‑coherent fabric. It is the foundation of the 0 K photonic compute fabric — and of everything that fabric will unlock.
+**Light@0-2.7Kelvin** is the study and application of photon manipulation within this superconducting, quantum‑coherent fabric. It is the foundation of the 0 K photonic compute fabric — and of everything that fabric will unlock.
 
 ---
 
 ## The Cosmic Proof
 
-The universe has been running Light@0Kelvin for 13.8 billion years.
+The universe has been running Light@0-2.7Kelvin for 13.8 billion years.
 
 - The cosmic microwave background (2.7 K) is the whisper of the Big Bang, still traveling through the Y‑lattice with virtually no loss.
 - Photons cross billions of light‑years without resistive scattering because the lattice is cold, ordered, and transparent.
@@ -26,7 +26,7 @@ The universe has been running Light@0Kelvin for 13.8 billion years.
 
 ## What This Discipline Demolishes
 
-When light can be manipulated perfectly at 0 K, the barriers that have limited humanity since the Industrial Revolution collapse.
+When light can be manipulated perfectly at 0-2.7K, the barriers that have limited humanity since the Industrial Revolution collapse.
 
 ### 🔋 Energy
 - Lossless power transmission through superconducting photonic grids.
@@ -34,7 +34,7 @@ When light can be manipulated perfectly at 0 K, the barriers that have limited
 - Solar energy harvested in orbit and beamed to Earth via coherent light.
 
 ### 🖥️ Computation
-- The 0 K photonic compute fabric — unlimited, modular, near‑zero‑energy.
+- The 0-2.7K photonic compute fabric — unlimited, modular, near‑zero‑energy.
 - AGI running on a substrate that never throttles.
 - Quantum computers operating with macroscopic coherence times.
 
@@ -51,7 +51,7 @@ When light can be manipulated perfectly at 0 K, the barriers that have limited
 ### 🌌 Space
 - Orbital compute fabrics with zero operating cost.
 - Interstellar communication via coherent photon beams.
-- Self‑sustaining habitats modeled and maintained by Light@0Kelvin systems.
+- Self‑sustaining habitats modeled and maintained by Light@0-2.7Kelvin systems.
 
 ---
 
@@ -59,7 +59,7 @@ When light can be manipulated perfectly at 0 K, the barriers that have limited
 
 This discipline is new, and it needs pioneers. Here are the core open questions:
 
-1. **Photon sources at 0 K** — How do we efficiently generate and modulate light at cryogenic temperatures?
+1. **Photon sources at 0-2.7K** — How do we efficiently generate and modulate light at cryogenic temperatures?
 2. **Y‑lattice engineering** — Can we locally create or enhance the superconducting, electrically insulating, optically transparent phase?
 3. **Chip‑to‑chip photonic links** — What are the optimal waveguide geometries and materials for 0 K operation?
 4. **Thermal management** — How do we design the heat‑sink layers to handle the tiny residual heat from photon detectors?
@@ -69,11 +69,11 @@ This discipline is new, and it needs pioneers. Here are the core open questions:
 
 ---
 
-## Join the Light@0Kelvin Initiative
+## Join the Light@0-2.7Kelvin Initiative
 
 This page is an open invitation to students, researchers, and engineers worldwide.
 
-- Study Light@0Kelvin as a new interdisciplinary field — combining cryogenics, photonics, quantum physics, and computer architecture.
+- Study Light@0-2.7Kelvin as a new interdisciplinary field — combining cryogenics, photonics, quantum physics, and computer architecture.
 - Propose your own research project. We will help you publish it and link it from the Virtual Nalanda.
 - Build a prototype. Even a single photonic link at 4 K is a contribution.
 
@@ -94,4 +94,4 @@ This page is an open invitation to students, researchers, and engineers worldwid
 
 *“When light moves without resistance, the universe becomes a canvas — and we become the artists.”*
 
-**#LightAt0Kelvin #HumanOS2 #JusticePhysics #CryogenicPhotonics #NewDiscipline**
+**#LightAt0-2.7Kelvin #HumanOS2 #JusticePhysics #CryogenicPhotonics #NewDiscipline**
