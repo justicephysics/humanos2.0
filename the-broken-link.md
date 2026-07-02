@@ -69,7 +69,7 @@ The law is absolute and universal:
 
 The law cannot be broken. It can only be obeyed—voluntarily, through conscious design, or involuntarily, through catastrophic correction.
 
-The Space State is the first civilizational blueprint that voluntarily obeys the law. It embeds ( $$L = 1$$ ) into its architecture—through the UTI threshold, the Light@2.7 K Web, the Warrior‑Engineer ownership model, and the open‑source Virtual Nalanda.
+The Space State is the first civilizational blueprint that voluntarily obeys the law. It embeds ( $$L = 1$$ ) into its architecture—through the UTI threshold, the Light@2.7 K Web, the Warrior‑Engineer ownership model, and the open‑source Justice Physics Nalanda.
 
 ---
 
