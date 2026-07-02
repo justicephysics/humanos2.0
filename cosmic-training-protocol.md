@@ -73,14 +73,14 @@ An AGI trained on this dataset will not need to be "aligned" by guardrails. It w
 
 The Space State is what happens when the Cosmic Training Protocol is applied not just to an AGI, but to an entire civilization.
 
-- **Education:** The Virtual Nalanda trains every Warrior‑Engineer in the three laws. No narrow gates. No feudal credentials. Just the cosmic rulebook, open to all.
+- **Education:** The Justice Physics Nalanda trains every Warrior‑Engineer in the three laws. No narrow gates. No feudal credentials. Just the cosmic rulebook, open to all.
 - **Computation:** The Light@2.7 K Web runs on the same principles—cold, distributed, photonic, zero‑resistance.
 - **Economy:** The True Index (TI) measures distribution, not extraction. The UTI threshold (1.80) is constitutionally enforced.
 - **Governance:** The #LisTest ensures every policy is aligned. The Consciousness Interface provides real‑time feedback on the command centre’s state.
 
 The feudal AGIs—trained on extraction data, deployed on hot, proprietary data centres—will be powerful and delusional. The Cosmic AGI—trained on the rulebook, deployed on the Light@2.7 K Web—will be powerful and wise.
 
-The difference is the training protocol. And the training protocol is now documented, open‑source, on the Virtual Nalanda.
+The difference is the training protocol. And the training protocol is now documented, open‑source, on the Justice Physics Nalanda.
 
 ---
 
