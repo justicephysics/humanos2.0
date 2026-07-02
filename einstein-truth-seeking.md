@@ -64,7 +64,7 @@ Every one of these discoveries came from asking the simple, childlike questions 
 
 ## 5. The Invitation — Become a Truth‑Seeker
 
-The Virtual Nalanda is not a monument. It is a laboratory. It is an open invitation to anyone who still feels the aspiration toward truth and understanding:
+The Justice Physics Nalanda is not a monument. It is a laboratory. It is an open invitation to anyone who still feels the aspiration toward truth and understanding:
 
 - **Students:** You do not need a degree to ask the right question. The campus is open. The equations are published. Start reading, start questioning, start building.
 - **Researchers:** You do not need to defend the old paradigm to keep your funding. The Space State blueprint is a research agenda for the next century. Pick an open challenge and pursue it.
