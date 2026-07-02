@@ -28,7 +28,7 @@ The report's proposed solution is an **Emergent Framework** where:
 - Space, Dark Energy, and Matter are not fundamentally different things.
 - They are all emergent properties of a single, deeper foundation—like a quantum information network or a continuous plenum.
 
-This is exactly the Y‑universe we have built on the Virtual Nalanda.
+This is exactly the Y‑universe we have built on the Justice Physics Nalanda.
 
 | The Report's Call for an Emergent Framework | The Space State's Y‑Universe |
 |---------------------------------------------|-------------------------------|
