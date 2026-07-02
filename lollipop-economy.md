@@ -80,7 +80,7 @@ The adult response to the lollipop economy is not austerity. It is a complete re
 - **The True Index (TI)** measures Political, Economic, and Social Independence. The **UTI threshold is 1.80** — when every citizen has genuine freedom, not just a new lollipop.
 
 ### Widen the Canal
-- **Education:** The Virtual Nalanda — free, global, no exams, no debt. No need to buy a new credential every year.
+- **Education:** The Justice Physics Nalanda — free, global, no exams, no debt. No need to buy a new credential every year.
 - **Computation:** The Light@2.7 K Web — open‑source, photonic, cryogenic, zero operating cost in space. No need to feed the cloud‑subscription beast.
 - **Energy & Materials:** Free sunlight, deep‑ocean cold, orbital solar, fusion — abundant, distributed, non‑extractive. No need to burn the planet for a new gadget.
 
