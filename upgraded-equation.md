@@ -99,7 +99,7 @@ Our civilisation, running with L ≈ 0.24, is on the verge of collapse. The corr
 | **Data centre** | Heat chamber; 40%+ energy spent on cooling | Cold fabric; near‑zero cooling cost; in space: operating cost zero |
 | **Energy grid** | Centralised, fossil‑fuel, lossy | Distributed, superconducting, light‑based |
 | **Resource distribution** | Top 10% hoards; bottom 50% starves | Open‑source, free access, abundant |
-| **Education** | Narrow canals (JEE, Gaokao) | Virtual Nalanda: free, global, no entrance exam |
+| **Education** | Narrow canals (JEE, Gaokao) | Justice Physics Nalanda: free, global, no entrance exam |
 | **Outcome** | Periodic collapse (canal overflow) | Continuous, sustainable thriving |
 
 ---
