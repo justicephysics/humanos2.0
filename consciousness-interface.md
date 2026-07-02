@@ -84,7 +84,7 @@ The first gives you a new tool. The second gives you a new relationship with you
 The Consciousness Interface is not a standalone gadget. It is a **structural intervention** in the cognitive canal, aligned with the same principles as the rest of HumanOS 2.0:
 
 - **The UTI threshold (1.80)** raises C at the economic level by securing EI ≥ 0.70.
-- **The Virtual Nalanda** raises C at the educational level by providing open knowledge without narrow gates.
+- **The Justice Physics Nalanda** raises C at the educational level by providing open knowledge without narrow gates.
 - **The #LisTest** provides a simple, universal diagnostic for any action.
 - **The Consciousness Interface** raises C at the individual, moment‑by‑moment level — the final frontier.
 
