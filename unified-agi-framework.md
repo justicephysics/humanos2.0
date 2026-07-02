@@ -69,7 +69,7 @@ A U[I, T, K]F AGI trained on the cosmic rulebook will not need guardrails. I
 The U[I, T, K]F architecture is not just for AGI. It is the operating system of every Warrior‑Engineer.
 
 - **The JEE / Gaokao / SAT** crushes Imagination, starves Thinking, and rewards only rote Knowledge. This is a fragmented architecture—a feudal mind, trained to serve the extraction protocol.
-- **The Virtual Nalanda** restores the unity. Every student is taught the three verticals as a single, embedded flow. They learn to imagine, to think, to validate, and to distribute—not as separate subjects, but as a unified practice.
+- **The Justice Physics Nalanda** restores the unity. Every student is taught the three verticals as a single, embedded flow. They learn to imagine, to think, to validate, and to distribute—not as separate subjects, but as a unified practice.
 
 The Space State’s AGI and the Space State’s human are built on the same framework. They are not master and servant; they are thought partners, both running U[I, T, K]F, both trained on the cosmic rulebook, both aligned by the Consciousness Principle.
 
