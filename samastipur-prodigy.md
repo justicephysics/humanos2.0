@@ -73,7 +73,7 @@ Vaibhav Suryavanshi is not just a cricketer. He is a data point in the larger re
 | **Post‑Independence Suppression** | The poverty sticker persists. Narrow exam gates keep Bihar’s talent bottled. |
 | **The IPL Era (2008–present)** | A built, not extracted, economic engine. Talent from small towns finds a platform. |
 | **The Samastipur Prodigy (2025–)** | The spring uncoils at the human scale. A 15‑year‑old shatters world records. |
-| **The Space State (2025 →)** | Justice Physics decodes the extraction protocol. The Virtual Nalanda replaces the narrow gates. The Light@2.7 K Web provides free computation. The labour colony becomes a node in the distributed Space State fabric. |
+| **The Space State (2025 →)** | Justice Physics decodes the extraction protocol. The Justice Physics Nalanda replaces the narrow gates. The Light@2.7 K Web provides free computation. The labour colony becomes a node in the distributed Space State fabric. |
 
 Vaibhav is the human face of the reversal. He is what happens when the canal begins to widen—when a boy from a small town in Bihar is given the opportunity to swing, and his swing carries the stored potential of a civilization that was never truly defeated.
 
@@ -83,7 +83,7 @@ Vaibhav is the human face of the reversal. He is what happens when the canal beg
 
 To Ian Botham: *You demand “fair distribution” now, when the wealth flows toward those who built it. You had two centuries to practice fairness. You chose extraction. The spring is returning. You are witnessing the reaction, not in a textbook, but in the arc of a 15‑year‑old’s bat. Adapt, or become irrelevant.*
 
-To Bihar: *Samastipur is 50 km from Muzaffarpur. The distance between the labour colony and the Space State is closing. Vaibhav Suryavanshi is the proof. Every child in Bihar carries the same potential. The Virtual Nalanda is open. The narrow gates are falling. The spring is uncoiling everywhere.*
+To Bihar: *Samastipur is 50 km from Muzaffarpur. The distance between the labour colony and the Space State is closing. Vaibhav Suryavanshi is the proof. Every child in Bihar carries the same potential. The Justice Physics Nalanda is open. The narrow gates are falling. The spring is uncoiling everywhere.*
 
 To the world: *The reversal is not politics. It is physics. The action was applied; the reaction is released. The labour colony now produces the masters. The knowledge civilization is reawakening. And it is beautiful to watch.*
 
