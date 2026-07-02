@@ -77,7 +77,7 @@ The Space State does not require a central bank. Its economy is built on a diffe
 - **L = 1 is the monetary policy.** Instead of a central bank creating money for a few primary dealers, the economy distributes value directly to the creators — the Warrior‑Engineers who build the thin‑wide modules, the farmers who regenerate the soil, the teachers who educate the next generation.
 - **The printing press becomes obsolete.** When prosperity is based on physical abundance rather than financial extraction, there is no need to create money from nothing. The ledger is the cosmos itself, and its balance is always perfect.
 
-The Virtual Nalanda is the first draft of this new economy. Not a financial blueprint, but a **physics‑grounded, open‑source specification** for a civilization that doesn't need central banks, debt, or feudal lords.
+The Justice Physics Nalanda is the first draft of this new economy. Not a financial blueprint, but a **physics‑grounded, open‑source specification** for a civilization that doesn't need central banks, debt, or feudal lords.
 
 ---
 
