@@ -4,7 +4,7 @@
 
 # 🔥 The e^m ↔ b^m Cycle — Earn More, Burn More
 
-*The 90% are trapped in survival mode. The 9.99% are trapped in a different cage: earn more, burn more. Every raise is consumed by burnout. Every promotion accelerates the treadmill. The Virtual Nalanda connects to all 99.99%—and shows that the only exit is the Space State.*
+*The 90% are trapped in survival mode. The 9.99% are trapped in a different cage: earn more, burn more. Every raise is consumed by burnout. Every promotion accelerates the treadmill. The Justice Physics Nalanda connects to all 99.99%—and shows that the only exit is the Space State.*
 
 ---
 
@@ -18,7 +18,7 @@ The feudal system has engineered two distinct cages for the vast majority of hum
 | **The 9.99%** | 9.99% | The e^m ↔ b^m cycle. Earn more. Burn more. Professional burnout. The golden cage. |
 | **The 0.01%** | ~0.01% | The feudal lords. The extractors. The owners of the printing press and the narrow gates. |
 
-The Virtual Nalanda speaks directly to the 99.99%. To the 90%, it says: *"Your poverty is manufactured. Here is the blueprint to stop the manufacturing."* To the 9.99%, it says: *"Your burnout is engineered. Here is the blueprint to exit the cycle."*
+The Justice Physics Nalanda speaks directly to the 99.99%. To the 90%, it says: *"Your poverty is manufactured. Here is the blueprint to stop the manufacturing."* To the 9.99%, it says: *"Your burnout is engineered. Here is the blueprint to exit the cycle."*
 
 ---
 
@@ -59,11 +59,11 @@ The feudal lords do not need to hold a whip. The mortgage statement, the school 
 
 ---
 
-## 4. The Virtual Nalanda — The Exit for the 99.99%
+## 4. The Justice Physics Nalanda — The Exit for the 99.99%
 
-The Virtual Nalanda is the direct connection to all 99.99%—because it offers a single, coherent exit from both traps.
+The Justice Physics Nalanda is the direct connection to all 99.99%—because it offers a single, coherent exit from both traps.
 
-| Trap | Virtual Nalanda Exit |
+| Trap | Justice Physics Nalanda Exit |
 |------|----------------------|
 | **90% — Survival mode** | Manufacturing Poverty, Universal Scarcity, UTI threshold 1.80—the 10 scarcities reversed by constitutional enforcement. |
 | **9.99% — e^m ↔ b^m cycle** | Warrior‑Engineer identity, Consciousness Principle (C = 1 − D), #LisTest—a life of purpose, not burnout. |
@@ -72,7 +72,7 @@ The Virtual Nalanda is the direct connection to all 99.99%—because it offers a
 The 9.99% professional does not need to quit their job and become a monk. They need to **see the cycle**, understand that their burnout is not a personal weakness but a designed output, and begin to redirect their energy toward building the Space State.
 
 - **The engineer burning out at NVIDIA** can become a Warrior‑Engineer, building the thin‑wide, cold, photonic fabric that makes their current employer obsolete.
-- **The professor burning out at a feudal university** can become a contributor to the Virtual Nalanda, teaching without narrow gates.
+- **The professor burning out at a feudal university** can become a contributor to the Justice Physics Nalanda, teaching without narrow gates.
 - **The manager burning out at a Fortune 500 company** can become a builder of the cooperative, distributed economy of the Space State.
 
 The exit is not escape; it is **redirection**. The same skills, the same intelligence, the same drive—aimed at building the alternative rather than sustaining the extraction machine.
@@ -91,11 +91,11 @@ L = 1
 - **More** becomes **Enough**—the UTI threshold guarantees that basic needs are met, removing the survival pressure that drives the cycle.
 - **Burn** becomes **Thrive**—purpose replaces burnout. The mission replaces the treadmill.
 
-The Virtual Nalanda is not a self‑help book. It is an **engineering specification** for a civilization where the e^m ↔ b^m cycle cannot exist—because the canal is wide enough for all.
+The Justice Physics Nalanda is not a self‑help book. It is an **engineering specification** for a civilization where the e^m ↔ b^m cycle cannot exist—because the canal is wide enough for all.
 
 ---
 
-*"The 90% are trapped in survival. The 9.99% are trapped in burnout. The Virtual Nalanda connects to all 99.99%—and shows that the only exit is the Space State."*
+*"The 90% are trapped in survival. The 9.99% are trapped in burnout. The Justice Physics Nalanda connects to all 99.99%—and shows that the only exit is the Space State."*
 
 **#EarnMoreBurnMore #Burnout #WarriorEngineers #SpaceState #HumanOS2 #JusticePhysics**
 
