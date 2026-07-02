@@ -81,7 +81,7 @@ Write to me. Tell me what part of the blueprint excites you. Tell me what skills
 
 ## The Movement Is Already Alive
 
-The Virtual Nalanda is public. The canal ontology is proven. The cosmos shows us the way. The only thing missing is **you**.
+The Justice Physics Nalanda is public. The canal ontology is proven. The cosmos shows us the way. The only thing missing is **you**.
 
 *“We are temporary arrangements of Y‑units, thinking together. Let’s make our X‑steps count.”*
 
