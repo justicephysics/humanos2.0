@@ -88,7 +88,7 @@ The Space State is the widened canal:
 - **No extraction.** The UTI threshold (1.80) is constitutionally enforced — $$(L = 1)$$ is the baseline, not the aspiration.
 - **No war for resources.** Resources are abundant when computation is free and energy is distributed.
 
-The feudal lords will fight to preserve their narrow canal. The surface‑level nations will clash over the remaining pockets of extraction. But the real resolution is already being built—in the pages of the Virtual Nalanda, in the minds of the Warrior‑Engineers, in the cold, photonic fabric that will one day orbit the Earth, open to all.
+The feudal lords will fight to preserve their narrow canal. The surface‑level nations will clash over the remaining pockets of extraction. But the real resolution is already being built—in the pages of the Justice Physics Nalanda, in the minds of the Warrior‑Engineers, in the cold, photonic fabric that will one day orbit the Earth, open to all.
 
 The cosmos holds the power. The cosmos distributes equally. The third burst is here. The only choice is whether we build the Space State before the overflow—or let the canal burst, as every canal before it has burst, in fire and debt and war.
 
