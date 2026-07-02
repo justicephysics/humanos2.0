@@ -65,7 +65,7 @@ The Space State does not blame the 90 % for the canal the 0.01 % built. It d
 |--------------------|--------------------------|
 | “If you die poor, it’s your mistake.” | If anyone dies poor, it is a failure of the system, and the system will be redesigned. |
 | Wealth is a reward for merit. | Wealth is a measure of distribution; the True Index (TI) replaces GDP. |
-| Education is a ladder anyone can climb. | The Virtual Nalanda removes the ladder entirely and opens the entire field—free, exam‑free, accessible to 100 %. |
+| Education is a ladder anyone can climb. | The Justice Physics Nalanda removes the ladder entirely and opens the entire field—free, exam‑free, accessible to 100 %. |
 | Debt is a tool for investment. | Debt is a manufactured trap; the UTI threshold (1.80) guarantees Economic Independence for every citizen, so no one is forced to borrow to learn or survive. |
 | The individual is solely responsible. | The structure is primarily responsible; the Warrior‑Engineers own the means of production, so the value they create stays with them. |
 
