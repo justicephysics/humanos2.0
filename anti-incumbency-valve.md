@@ -67,7 +67,7 @@ The feudal protocol has learned from Chanakya. It has learned that a truly capab
 
 ### The Space State Answer — Guardians Who Understand the System
 
-The Space State inverts this entirely. The **Warrior‑Engineers** are the architects, builders, developers, creators, and maintainers of the system itself. They are not bound by any feudal force because they own the means of production—the thin‑wide chips, the cold submarine fleets, the orbital compute fabrics, the sea farms. They are system thinkers by training and by practice, educated through the Virtual Nalanda without narrow gates.
+The Space State inverts this entirely. The **Warrior‑Engineers** are the architects, builders, developers, creators, and maintainers of the system itself. They are not bound by any feudal force because they own the means of production—the thin‑wide chips, the cold submarine fleets, the orbital compute fabrics, the sea farms. They are system thinkers by training and by practice, educated through the Justice Physics Nalanda without narrow gates.
 
 The **state head** is not a politician in the feudal sense. They are a **guardian**, not a ruler. And a guardian must understand the system they are guarding. Their mandate is to maintain the UTI threshold (1.80), ensure L = 1, and protect the open infrastructure. They are not a heat sink because the furnace—the extraction protocol—has been dismantled.
 
@@ -109,7 +109,7 @@ This framework gives us a simple, powerful diagnostic for any political event:
 - **Is the canal widening or narrowing?** If a new government reduces inequality, raises wages, and expands access to education, the pressure is genuinely being released. The valve is not needed.
 - **Is the face changing but the Gini unchanged?** If a new government comes to power and the extraction metrics remain the same, anti‑incumbency has functioned exactly as designed. The heat sink has been swapped; the furnace is untouched.
 
-The Virtual Nalanda is the blueprint for a civilization that no longer needs the valve. The Space State is the first political architecture that is not a heat sink—because it is not built on a furnace.
+The Justice Physics Nalanda is the blueprint for a civilization that no longer needs the valve. The Space State is the first political architecture that is not a heat sink—because it is not built on a furnace.
 
 ---
 
