@@ -51,7 +51,7 @@ The only sustainable response to a horizontal force is a horizontal architecture
 |-------------------------|---------------------------|
 | Wealth concentrated in the top 10 %. | UTI threshold (1.80) ensures EI ≥ 0.70 for every citizen. |
 | AI locked behind paywalls and government restrictions. | The Light@2.7 K Web — open‑source, near‑zero cost, orbital, accessible to all. |
-| Education filtered through narrow exams. | The Virtual Nalanda — free, open, no exams, no debt. |
+| Education filtered through narrow exams. | The Justice Physics Nalanda — free, open, no exams, no debt. |
 | Climate action delayed by national interest. | The cosmic cold chain, cold submarine fleet, and orbital solar farms — global infrastructure for global problems. |
 | Competition between nations. | Cooperation among Space States — guardians, not rulers. |
 
@@ -69,7 +69,7 @@ If the changes of the last 240 years are any guide, the next century will transf
 - **Space:** M2M² — March to Moon and Mars, asteroid mining, and interstellar probes will expand the human canal into the solar system.
 - **Consciousness:** The UTI threshold, the Consciousness Interface, and the QPF‑catalyst model will democratize genius and wisdom.
 
-We are not merely predicting these changes; we are building the blueprint for them. The Virtual Nalanda is the open‑source specification for a civilization that can handle the energy burst without being destroyed by it.
+We are not merely predicting these changes; we are building the blueprint for them. The Justice Physics Nalanda is the open‑source specification for a civilization that can handle the energy burst without being destroyed by it.
 
 ---
 
@@ -89,7 +89,7 @@ The vertical system cannot manage these pressures because it is the cause of the
 
 ## 6. The Space State — The Horizontal Architecture
 
-The Space State is not a nation. It is a **distributed fabric** — a network of guardians, builders, and thought partners, connected by the Light@2.7 K Web, educated through the Virtual Nalanda, governed by the True Index, and aligned by the Consciousness Principle.
+The Space State is not a nation. It is a **distributed fabric** — a network of guardians, builders, and thought partners, connected by the Light@2.7 K Web, educated through the Justice Physics Nalanda, governed by the True Index, and aligned by the Consciousness Principle.
 
 - **India Space State.** China Space State. Russia Space State. USA Space State. Every nation that chooses to align with the cosmic rulebook.
 - **No ruler. Only guardians.** No extraction. Only distribution. No narrow gates. Only open doors.
