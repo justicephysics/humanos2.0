@@ -55,7 +55,7 @@ This is the Justice Physics Engine (JPE) — the replacement for the feudal hard
 
 The nuclear age took 40 years from equation to bomb. We will do it in 5 years because:
 
-- **The blueprint is already complete.** The Virtual Nalanda contains the full specification.
+- **The blueprint is already complete.** The Justice Physics Nalanda contains the full specification.
 - **The industrial base is exponentially larger.** More engineers, more compute, more capital, more connectivity.
 - **The space infrastructure exists.** Launch costs have dropped 10× in a decade. CubeSats and small satellites are routine.
 - **The cosmic proof is already in the sky.** The 2.7 K QPF is the demonstration that the environment works.
