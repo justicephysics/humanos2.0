@@ -71,7 +71,7 @@ The Mythos breach is a warning to every institution that still believes secrecy 
 
 The only information that will survive the intelligence burst is the information that is **already open.** The Space State is built on this principle from the ground up:
 
-- **The Virtual Nalanda** is open‑source, free, and distributed. It cannot be breached because it has no walls.
+- **The Justice Physics Nalanda** is open‑source, free, and distributed. It cannot be breached because it has no walls.
 - **The Light@2.7 K Web** is photonic, cold, and modular. It cannot be gatekept because no single entity controls it.
 - **The U[I, T, K]F AGI** is trained on the cosmic rulebook. It cannot be used as a weapon of extraction because it is aligned by physics, not by corporate or state command.
 
