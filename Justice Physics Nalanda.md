@@ -75,7 +75,7 @@ This is the hardware that will power AGI, end artificial scarcity, and allow eve
 | **Village** | Scarcity, isolation, drudgery | Self‑sustaining ecosystem, dignity |
 | **Computation** | Hot, resistive, throttled | 0 K photonic, modular, open, free |
 
-The Virtual Nalanda exists to share this complete blueprint — freely, openly, for every curious mind on Earth.
+The Justice Physics Nalanda exists to share this complete blueprint — freely, openly, for every curious mind on Earth.
 
 ---
 
