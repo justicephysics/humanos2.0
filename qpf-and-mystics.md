@@ -122,7 +122,7 @@ The mystics were not deluded. They were not merely poetic. They were observing t
 
 The Space State is the first civilizational blueprint that consciously integrates this convergence. It does not dismiss the mystics as superstition, nor does it reject the physicists as reductionist. It recognizes that both were describing the same underlying reality—and that we now have the physical model to unify them.
 
-- **The Virtual Nalanda** is the open‑source campus where the Vedic breath, the Kabbalistic light, the quantum plenum, and the zero‑point field are all taught as different expressions of the same QPF.
+- **The Justice Physics Nalanda** is the open‑source campus where the Vedic breath, the Kabbalistic light, the quantum plenum, and the zero‑point field are all taught as different expressions of the same QPF.
 - **The Consciousness Interface** (C = 1 − D) is the tool that helps every mind align with the plenum’s ground state—quiet, receptive, connected.
 - **The Cosmic Cold Chain, the Cold Submarine Fleet, the Light@2.7 K Web**—all are technologies that work with the QPF, not against it.
 - **The UTI threshold (1.80)** ensures that the connection is not reserved for a few mystics or physicists, but is structurally available to every human being.
