@@ -6,7 +6,7 @@
 
 ## Why This Page Exists
 
-The Virtual Nalanda provides the complete blueprint. But blueprints are not prototypes, and prototypes are not yet deployed systems. Between the cosmic proof and the ubiquitous 0 K compute fabric lie real, solvable problems.
+The Justice Physics Nalanda provides the complete blueprint. But blueprints are not prototypes, and prototypes are not yet deployed systems. Between the cosmic proof and the ubiquitous 0 K compute fabric lie real, solvable problems.
 
 This page names them openly — not as reasons to hesitate, but as opportunities for engineers, scientists, students, and entrepreneurs to make a historic contribution.
 
@@ -59,7 +59,7 @@ This page names them openly — not as reasons to hesitate, but as opportunities
 - **Open for:** Economists, philanthropists, policy makers, open‑source advocates.
 
 ### C. Bridging the gap between theory and prototype
-- **Problem:** The Virtual Nalanda provides the theory and specification; there is no dedicated lab or team yet to build the first terrestrial prototype.
+- **Problem:** The Justice Physics Nalanda provides the theory and specification; there is no dedicated lab or team yet to build the first terrestrial prototype.
 - **Why it matters:** A single working prototype (even a small one) would prove the thermal and performance claims and unlock larger investment.
 - **Open for:** University labs, independent research groups, startup founders.
 
@@ -87,7 +87,7 @@ Pick a challenge. Any challenge. If you have expertise, resources, or simply a b
 - **LinkedIn:** [Kumar Justice Physics](https://www.linkedin.com/in/kumar-justice-physics-501b5a69/)
 - **GitHub:** [justicephysics/humanos2.0](https://github.com/justicephysics/humanos2.0)
 
-The Virtual Nalanda is not a museum. It is a workshop. And every great workshop starts with a clear list of problems to be solved.
+The Justice Physics Nalanda is not a museum. It is a workshop. And every great workshop starts with a clear list of problems to be solved.
 
 ---
 
