@@ -100,7 +100,7 @@ The Space State is the architecture that stops the manufacturing of poverty. It 
 | Dress scarcity | Open‑source manufacturing, local production, no feudal mark‑ups. |
 | Home scarcity | Modular, passive‑cooled housing, designed by AGI, built by Warrior‑Engineers. |
 | Medical scarcity | AGI‑driven diagnostics, personalised medicine, universal access. |
-| Education scarcity | The Virtual Nalanda—free, global, no exams, no debt. |
+| Education scarcity | The Justice Physics Nalanda—free, global, no exams, no debt. |
 | Skill development scarcity | The Engineer Hurricane—millions trained in Light@0K, thin‑wide chips, cold submarine fleets. |
 | Employment scarcity | The Warrior‑Engineers own the means of production. No feudal extraction. |
 | Travel scarcity | Distributed infrastructure; connectivity without gatekeepers. |
