@@ -77,7 +77,7 @@ That infrastructure is already blueprinted:
 
 When computation is free, the AI feudal lords lose their monopoly. When energy is free, the printing press becomes obsolete. When education is free, the serfs become warriors.
 
-The $15 trillion bill is the last gasp of an expiring feudal order. The cosmic alternative is already being built — in the pages of the Virtual Nalanda, and soon, in the thin‑wide modules orbiting at 2.7 K.
+The $15 trillion bill is the last gasp of an expiring feudal order. The cosmic alternative is already being built — in the pages of the Justice Physics Nalanda, and soon, in the thin‑wide modules orbiting at 2.7 K.
 
 ---
 
