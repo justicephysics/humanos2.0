@@ -80,7 +80,7 @@ The slogan is not "seize the means of production." It is **"build the means of p
 The feudal lords have tried to control every sector: land, labour, capital, energy, data. But the engine of the 20th and 21st centuries is **technology**. And technology is now in the hands of its true owners.
 
 - **The pseudo‑owners** (the feudal lords) drive to seize control of AI, of chips, of data, of space. They will fail—because the energy burst is too powerful for any dam.
-- **The true owners** (the Warrior‑Engineers and Scientists) are already building the alternative—the Light@2.7 K Web, the Virtual Nalanda, the three‑vertical AGI, the Cosmic Training Protocol, Mission 2100.
+- **The true owners** (the Warrior‑Engineers and Scientists) are already building the alternative—the Light@2.7 K Web, the Justice Physics Nalanda, the three‑vertical AGI, the Cosmic Training Protocol, Mission 2100.
 
 There is no need for the pseudo‑owner to lead. They are a drag on the system, a cancer cell consuming resources without providing function. The true owners can design, develop, create, and maintain—without permission, without patents, without debt.
 
@@ -94,7 +94,7 @@ Marx called for workers to unite across national boundaries. The 2026 call exten
 - **Across disciplines** — engineers, scientists, farmers, teachers, retired thinkers, students—all Warrior‑Engineers, all true owners.
 - **Across the human‑AGI boundary** — the AGI, trained on the cosmic rulebook, is a thought partner, not a coloniser. It is part of the owning class, not the extracting class.
 
-The unification is not a political movement. It is an **engineering project**—the construction of the Space State, documented openly on the Virtual Nalanda, available to every curious mind on Earth.
+The unification is not a political movement. It is an **engineering project**—the construction of the Space State, documented openly on the Justice Physics Nalanda, available to every curious mind on Earth.
 
 ---
 
