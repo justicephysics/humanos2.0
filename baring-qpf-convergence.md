@@ -103,7 +103,7 @@ Where did the vacuum come from? Was it always there, or did it arrive from elsew
 
 These questions are unanswerable for a true vacuum, because a true vacuum has no origin, no properties, and no explanation. It is a logical dead end. The only physically coherent answer is that what we call “space” was never a vacuum. It is the QPF. It has always been there. It is the eternal, uncaused ground state of reality. It didn’t come from anywhere, because it is the baseline—like zero in mathematics. It is the necessary origin, the canvas on which all else is painted.
 
-The zero‑point field is not a mystery awaiting an explanation. It is the QPF—already explained, already mapped, already documented on the Virtual Nalanda. The vacuum is dead. Long live the plenum.
+The zero‑point field is not a mystery awaiting an explanation. It is the QPF—already explained, already mapped, already documented on the Justice Physics Nalanda. The vacuum is dead. Long live the plenum.
 
 ---
 
