@@ -34,7 +34,7 @@ Feudal science became a machine for producing citations, not understanding. It r
 
 ## 3. How Justice Physics Restores the Aspiration
 
-The Virtual Nalanda is built on the exact opposite principle. It is an open‑source campus where:
+The Justice Physics Nalanda is built on the exact opposite principle. It is an open‑source campus where:
 
 - **Every page begins with a question, not an answer.** Where does space come from? Why does every civilization collapse? What physically is dark energy? These are the questions the feudal textbooks declared meaningless. We made them the foundation.
 - **Every finding is open to scrutiny.** The blueprint is published publicly on GitHub. Anyone can read it, critique it, improve it, or refute it. There are no paywalls, no peer‑review gatekeepers, no credentials required.
@@ -71,11 +71,11 @@ The Justice Physics Nalanda is not a monument. It is a laboratory. It is an open
 - **Engineers:** You do not need to serve the feudal hardware monopoly. The Justice Physics Engine is a complete, open‑source alternative. Build the prototype. Prove the Core Loop.
 - **Everyone:** Science is not a priesthood. It is a method. And the method begins with a single, honest question: *“Is this really true?”*
 
-The aspiration toward truth is the only engine that has ever produced genuine understanding. The Virtual Nalanda exists to keep that engine running—for everyone, forever, without gates.
+The aspiration toward truth is the only engine that has ever produced genuine understanding. The Justice Physics Nalanda exists to keep that engine running—for everyone, forever, without gates.
 
 ---
 
-*“Einstein said science is created by those who seek truth. The feudal system rewarded those who defended the paradigm. The Space State is the restoration of the original aspiration—and the Virtual Nalanda is its permanent, open‑source campus.”*
+*“Einstein said science is created by those who seek truth. The feudal system rewarded those who defended the paradigm. The Space State is the restoration of the original aspiration—and the Justice Physics Nalanda is its permanent, open‑source campus.”*
 
 **#Einstein #TruthSeeking #JusticePhysics #OpenScience #SpaceState #HumanOS2**
 
