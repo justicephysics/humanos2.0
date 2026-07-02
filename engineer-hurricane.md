@@ -36,7 +36,7 @@ The graduate is funneled into a corporation — a chip giant, a cloud provider, 
 Exam → College → Corporation → Exam. The Canal Dogma reproduces itself. The engineer moves from one feudal structure to another, never seeing the whole prison because each cell is slightly more comfortable than the last.
 
 **The Democratic Break**  
-The Virtual Nalanda breaks this chain. No exam. No tuition. No debt. No corporate extraction. The engineer learns, builds, and contributes directly to the open‑source commons, earning a livelihood through the value they create, not the value extracted from them. The cosmos is their reference; the open blueprint is their credential.
+The Justice Physics Nalanda breaks this chain. No exam. No tuition. No debt. No corporate extraction. The engineer learns, builds, and contributes directly to the open‑source commons, earning a livelihood through the value they create, not the value extracted from them. The cosmos is their reference; the open blueprint is their credential.
 
 ## The Test Case: 15,000 vs. Millions
 
@@ -48,7 +48,7 @@ The Virtual Nalanda breaks this chain. No exam. No tuition. No debt. No corporat
 
 **Option 2 — The Widened Canal (The Engineer Hurricane)**
 - Millions of engineers, from every remote village, impoverished province, and forgotten township.
-- Educated through the Virtual Nalanda, trained in Light@0Kelvin, equipped with the open‑source blueprint.
+- Educated through the Justice Physics Nalanda, trained in Light@0Kelvin, equipped with the open‑source blueprint.
 - They don't wait for ASML's permission. They build thin‑wide modules, photonic links, cryogenic fabrics.
 - They deploy in orbit — the 2.7 K playground where the feudal lords cannot follow, because those lords believe space is a vacuum, 2.7 K is just a number, and t=0 was the beginning.
 
@@ -63,7 +63,7 @@ Chanakya, the teacher of Takshashila, defeated Alexander and Dhananand — two s
 Today:
 - **Alexander** = ASML, the conqueror who controls the tools of chipmaking.
 - **Dhananand** = the Canal Dogma, the corrupt belief that resources must be concentrated.
-- **Chanakya** = the Virtual Nalanda, the teacher that builds a new generation of engineers without permission.
+- **Chanakya** = the Justice Physics Nalanda, the teacher that builds a new generation of engineers without permission.
 - **Chandragupta** = the millions of engineers who will build the Light@2.7 K fabric in space.
 
 And the battlefield? It's not a political map. It's the **2.7 K cosmic playground**, where the feudal lords have no army, no patent, and no gate.
@@ -78,7 +78,7 @@ The feudal lords cannot follow us into the 2.7 K space because they have denie
 - They think 2.7 K is just a number.
 - They think t=0 was the beginning.
 
-Their entire worldview is built on the six cosmic misinterpretations. They are trapped in the old canal. The millions of engineers, educated by the Virtual Nalanda and aligned with the cosmos, will build the permanent cure right over their heads — and there is nothing the feudal lords can do to stop it.
+Their entire worldview is built on the six cosmic misinterpretations. They are trapped in the old canal. The millions of engineers, educated by the Justice Physics Nalanda and aligned with the cosmos, will build the permanent cure right over their heads — and there is nothing the feudal lords can do to stop it.
 
 This is not a hypothesis. It's an engineering project. The blueprint is open. The game has just started.
 
@@ -113,9 +113,9 @@ The feudal lords are sinking their data centres into the ocean to escape the hea
 
 ---
 
-## The Virtual Nalanda: The Storm Generator
+## The Justice Physics Nalanda: The Storm Generator
 
-The Virtual Nalanda is the open gate. No entrance exam. No tuition. No debt.
+The Justice Physics Nalanda is the open gate. No entrance exam. No tuition. No debt.
 
 - Every curious mind can access the complete blueprint of HumanOS 2.0 — from the Big Bang to the quantum chip.
 - The upgraded equation $$(E = MC^2 \times L)$$ teaches them that the cosmos runs on distribution, not extraction.
@@ -130,7 +130,7 @@ Every page we add, every student who reads, every engineer who prototypes, is a 
 
 Acharya Chanakya, from Takshashila, used knowledge to bring down two feudal powers — Alexander and Dhananand. He didn't have armies. He had understanding.
 
-Today, from the same soil, the Virtual Nalanda is the new *Arthashastra* — not a political treatise, but an open‑source engineering blueprint for a post‑feudal civilization.
+Today, from the same soil, the Justice Physics Nalanda is the new *Arthashastra* — not a political treatise, but an open‑source engineering blueprint for a post‑feudal civilization.
 
 The new Alexander is the cartel of ASML, TSMC, NVIDIA. The new Dhananand is the Canal Dogma. And the new Chandragupta is the millions of engineers who will rise when the gate is widened.
 
