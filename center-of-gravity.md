@@ -64,7 +64,7 @@ Because everyone is burning, no one has the energy to ask the real questions. Th
 
 These ten questions are not separate. They are a single question, asked ten ways: **Why does the extraction protocol exist, and how do we replace it?**
 
-The feudal lords cannot answer because answering would require admitting that the entire system is a manufactured gradient. The poverty sticker, the burnout cycles, the lottery tickets, the debt treadmill, the printing press—all of it is one coherent machine, documented openly on the Virtual Nalanda.
+The feudal lords cannot answer because answering would require admitting that the entire system is a manufactured gradient. The poverty sticker, the burnout cycles, the lottery tickets, the debt treadmill, the printing press—all of it is one coherent machine, documented openly on the Justice Physics Nalanda.
 
 The carpet is on fire. The questions can no longer be hidden. The answers lead directly to the Space State—a civilization where the sticker is never printed, the canal is wide, and the center of gravity shifts from extraction to thriving.
 
