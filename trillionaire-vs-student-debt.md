@@ -55,7 +55,7 @@ The Space State is the economic model that replaces the Lollipop Economy:
 | Lollipop Economy (HumanOS 1.0) | Space State (HumanOS 2.0) |
 |-------------------------------|----------------------------|
 | Money created from nothing, lent at interest. | Money replaced by energy and computation—the true currencies, distributed freely. |
-| Students chained to debt before they start. | The Virtual Nalanda—free education, no exams, no debt. |
+| Students chained to debt before they start. | The Justice Physics Nalanda—free education, no exams, no debt. |
 | Trillionaires accumulate through extraction. | Warrior‑Engineers build and own the means of production. |
 | GDP counts extraction as growth. | The True Index (TI) measures Political, Economic, and Social Independence. |
 | The UTI threshold is ignored. | EI ≥ 0.70, constitutionally enforced—no if, no but. |
