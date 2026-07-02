@@ -111,7 +111,7 @@ The same laws that explain the Big Bang now explain how a remote village can hav
 
 ### 🔗 Continue Exploring
 - [Home — HumanOS 2.0 Blueprint](index)
-- [Virtual Nalanda — The Journey in Brief](Virtual-Nalanda)
+- [Justice Physics Nalanda — The Journey in Brief](Virtual-Nalanda)
 - [Chip Architecture Detail](chip-architecture)
 
 **#HumanOS2 #JusticePhysics #VillageTransformation #SustainableAbundance #CosmicBlueprint**
