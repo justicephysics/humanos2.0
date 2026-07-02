@@ -84,7 +84,7 @@ Once demonstrated, we will:
 - **Spread the word:** Share this page with anyone who needs to see that a different future is possible.
 
 📧 **Contact:** mukesh.justicephysics@gmail.com  
-🔗 **Virtual Nalanda:** [justicephysics.github.io/humanos2.0](https://justicephysics.github.io/humanos2.0)
+🔗 **Justice Physics Nalanda:** [justicephysics.github.io/humanos2.0](https://justicephysics.github.io/humanos2.0)
 
 ---
 
