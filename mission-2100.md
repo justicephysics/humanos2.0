@@ -101,7 +101,7 @@ They are the children of our common people — not the elite, not the 0.3 %, n
 ### How We Transform Them
 
 - **From survival mode to warrior mode.** Today's common people fight to survive. Tomorrow's Warrior‑Engineers fight to build.
-- **Open‑source knowledge.** The Virtual Nalanda provides the complete blueprint — free, global, no entrance exam.
+- **Open‑source knowledge.** The Justice Physics Nalanda provides the complete blueprint — free, global, no entrance exam.
 - **Real‑world projects.** Thin‑wide chip prototypes, village transformations, CubeSat deployments — learning by building.
 - **A shared mission.** They are not working for a stock option; they are liberating their countries and their planet from technological feudalism.
 
