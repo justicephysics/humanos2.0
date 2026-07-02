@@ -125,7 +125,7 @@ The 38× cancer mechanism and the 103.5× NGDI are the numerical proofs that GDP
 
 ## 7. Beyond GDP — The Metric of the Warrior‑Engineer
 
-The Warrior‑Engineer does not celebrate GDP growth. They celebrate rising TI. When a village gains water independence, EI rises. When a factory becomes worker‑owned, EI and PI rise. When the Web@2.7K connects every student to the Virtual Nalanda, SI rises.
+The Warrior‑Engineer does not celebrate GDP growth. They celebrate rising TI. When a village gains water independence, EI rises. When a factory becomes worker‑owned, EI and PI rise. When the Web@2.7K connects every student to the Justice Physics Nalanda, SI rises.
 
 The TI is the scoreboard of HumanOS 2.0 — not how much was extracted, but how widely it was distributed. It is the measurement that the cosmos itself uses: the 2.7 K background doesn’t report GDP; it simply radiates equally, to every node, forever.
 
