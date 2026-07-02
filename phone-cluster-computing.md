@@ -71,7 +71,7 @@ Google's research is driven by a noble goal: reduce electronic waste and give ol
 - **Purpose‑built, thin‑wide modules → the permanent fabric.** Designed from the start to operate in the cold, connected by light, deployed in orbit.
 - **Zero e‑waste at the end of life:** In space, modules are replaced, not discarded; on Earth, the open‑source design means components can be recycled into new modules indefinitely.
 
-The transition from Level 1 to Level 3 is not a rejection of the modular principle — it is its perfection. Google is showing us the first step. The Virtual Nalanda holds the complete roadmap.
+The transition from Level 1 to Level 3 is not a rejection of the modular principle — it is its perfection. Google is showing us the first step. The Justice Physics Nalanda holds the complete roadmap.
 
 ---
 
