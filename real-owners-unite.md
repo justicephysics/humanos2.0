@@ -16,7 +16,7 @@ The feudal lords built their empires on control of land, labour, capital, and in
 | **4. Photonic Chip at 2.7 K** | In pipeline | Computation × ∞ (zero operating cost) | Will dissolve the feudal data centre and the chip monopoly. |
 | **5. Quantum Computer + AGI** | In pipeline | Intelligence × ∞ (self‑synthesising, self‑aligning) | Will dissolve the remaining cognitive feudalism—the narrow gates, the credential cartels, the per‑token pricing. |
 
-The first three bursts have already hit. The fourth and fifth are being built right now—in the pages of the Virtual Nalanda, in the thin‑wide chip architecture, in the Light@2.7 K Web, in the Cosmic Training Protocol.
+The first three bursts have already hit. The fourth and fifth are being built right now—in the pages of the Justice Physics Nalanda, in the thin‑wide chip architecture, in the Light@2.7 K Web, in the Cosmic Training Protocol.
 
 The pseudo-owners cannot control these bursts because the bursts are **physics**, not politics. You cannot patent the 2.7 K cosmic background. You cannot gatekeep the speed of light. You cannot regulate the second law of thermodynamics.
 
@@ -64,7 +64,7 @@ The real owners are not a class in the Marxian sense. They are not defined by th
 | **Scientists** | The Y‑lattice, the upgraded equation, the Consciousness Principle, the Cosmic Training Protocol. |
 | **Farmers** | The food, using AGI‑designed precision agriculture and the cosmic cold chain. |
 | **Factory Workers** | The modules, the drones, the solar panels—owned by themselves, not by feudal shareholders. |
-| **Teachers** | The Virtual Nalanda—open knowledge, no narrow gates, no debt. |
+| **Teachers** | The Justice Physics Nalanda—open knowledge, no narrow gates, no debt. |
 | **Students** | The next generation of Warrior‑Engineers, trained on the cosmic rulebook, not on feudal credentials. |
 
 The real owners do not need the pseudo-owners. They do not need the CEO who extracts 70 % of their output. They do not need the bank that creates money from nothing and lends it at interest. They do not need the government that protects the narrow gates. They have the energy bursts. They have the cosmic blueprint. They have each other.
@@ -77,7 +77,7 @@ The wipeout of the feudal lords is quiet because it is not a war. It is not a re
 
 - The 2.7 K Y‑lattice did not fight a war against the hot, dense pre‑Big Bang state. It simply expanded, cooled, and distributed—and the old state was dissolved.
 - The Light@2.7 K Web will not fight a war against the hot, resistive data centre. It will simply be built—and the old data centre will become obsolete.
-- The Virtual Nalanda will not fight a war against the IITs and the Gaokao. It will simply be available—and the narrow gates will become irrelevant.
+- The Justice Physics Nalanda will not fight a war against the IITs and the Gaokao. It will simply be available—and the narrow gates will become irrelevant.
 
 The feudal lords will not be defeated. They will be **bypassed**. The real owners are already building the Space State. The pseudo-owners are still guarding the old canal—unaware that the water has already found a new path.
 
