@@ -25,7 +25,7 @@ Now, pause. Who is imagining this? Who is picturing the infant, the sticker, the
 
 It is you. It is me. It is the human mind, using its most powerful faculty—**Imagination**—to visualize something that is real but hidden. The sticker is not a physical object; it is a policy, a system, a protocol. It cannot be touched, but it can be imagined. And once it is imagined, it can be seen. And once it is seen, it can be challenged.
 
-Even if all of this were mere imagination—even if the Virtual Nalanda, the Y‑lattice, the Canal Dogma, the Space State were nothing but a dream—what could be more beautiful than a dream that reveals how a sticker of poverty is pasted on the head of a 99.99 % rich newborn baby?
+Even if all of this were mere imagination—even if the Justice Physics Nalanda, the Y‑lattice, the Canal Dogma, the Space State were nothing but a dream—what could be more beautiful than a dream that reveals how a sticker of poverty is pasted on the head of a 99.99 % rich newborn baby?
 
 The imagination that reveals the cage is the first step toward unlocking it. The feudal lords depend on the sticker being invisible. They depend on the 90 % believing that their poverty is their own fault. They depend on the 9.99 % believing that their burnout is the price of success. They depend on everyone looking at the infant and seeing "poor" instead of seeing the sticker.
 
@@ -51,7 +51,7 @@ But here is the flaw in their design: **imagination cannot be fully controlled.*
 
 ## 4. The Beauty of This Imagination
 
-Some will say: "This is all just imagination. The Virtual Nalanda is just words. The Space State is just a dream."
+Some will say: "This is all just imagination. The Justice Physics Nalanda is just words. The Space State is just a dream."
 
 And we will answer: Yes. It is imagination. And what could be more beautiful?
 
@@ -69,7 +69,7 @@ The beauty of this imagination is not that it escapes reality; it is that it rev
 
 If you are reading this, you are part of the 99.99 %. You have worn a sticker—either "POOR" or "SUCCESSFUL"—for most of your life. You have been told that the sticker is permanent, that it defines you, that you must live within its constraints.
 
-The Virtual Nalanda is an invitation to imagine differently.
+The Justice Physics Nalanda is an invitation to imagine differently.
 
 - **Imagine an infant without a sticker.** Just a human being, 99.99 % rich, with a lifetime ahead.
 - **Imagine a civilization that does not manufacture scarcity.** Where the 10 scarcities are reversed not by charity, but by constitutional enforcement of the UTI threshold (1.80).
