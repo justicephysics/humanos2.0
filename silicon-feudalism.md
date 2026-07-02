@@ -44,7 +44,7 @@ If consumers were offered a choice — a phone that stays cool, lasts years long
 
 The Silicon Feudalism is a direct expression of the **Canal Dogma**. The narrow gate is maintained not just by physics, but by a deliberate monopoly that benefits from artificial scarcity. The same pattern that concentrates 70–80 % of wealth in the economy concentrates chip manufacturing in three companies.
 
-Breaking the Canal Dogma means breaking the feudal mindset. Our open‑source, cold, photonic compute fabric is the democratic parliament of computation — and every page of the Virtual Nalanda is a vote against the old order.
+Breaking the Canal Dogma means breaking the feudal mindset. Our open‑source, cold, photonic compute fabric is the democratic parliament of computation — and every page of the Justice Physics Nalanda is a vote against the old order.
 
 ---
 
