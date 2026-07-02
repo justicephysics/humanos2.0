@@ -58,7 +58,7 @@ You have the data. You have the method. You have the resources. And you have cho
 The Space State does not need the elite universities to validate this. We will run the 1,000 Infants Test ourselves—not as an experiment, but as a **baseline of civilization**.
 
 - **UTI threshold (1.80):** All 10 scarcities are constitutionally eliminated for every citizen. The test is not a pilot programme; it is the default.
-- **Virtual Nalanda:** Quality education, freely available from birth, no narrow gates, no debt.
+- **Justice Physics Nalanda:** Quality education, freely available from birth, no narrow gates, no debt.
 - **Warrior‑Engineers:** The adults are not wage‑serfs; they are the owners of the means of production.
 - **Light@2.7 K Web:** The compute fabric that makes AGI‑driven diagnostics, personalised education, and fair markets a reality at near‑zero operating cost.
 
