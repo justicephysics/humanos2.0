@@ -100,7 +100,7 @@ The fatal delusion is that the freedom of imagination exempts action from physic
 
 The Space State is the first civilization blueprint that does not commit the fatal delusion. It embeds the physical continuum into its architecture:
 
-- **Education:** The Virtual Nalanda nurtures all three verticals — Imagination, Thinking, Knowledge — without the narrow gates of JEE, Gaokao, or SAT.
+- **Education:** The Justice Physics Nalanda nurtures all three verticals — Imagination, Thinking, Knowledge — without the narrow gates of JEE, Gaokao, or SAT.
 - **Economy:** The UTI threshold (1.80) enforces EI ≥ 0.70, structurally lowering D and raising C for the entire population.
 - **Governance:** The #LisTest becomes the default diagnostic for policy, replacing moral appeals with alignment measurement.
 - **Infrastructure:** The Light@2.7 K Web operates on the same physical principles as the cosmos — cold, distributed, open, and free.
