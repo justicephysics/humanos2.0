@@ -66,7 +66,7 @@ The Canal Dogma is sustained by the pretence of knowledge. The feudal lords — 
 
 Every one of these claims was an attempt to close the investigation — to narrow the canal and profit from the flow. The Ignorance Principle is the antidote: **admit we don’t know, and the investigation can begin.**
 
-The Virtual Nalanda is built on this principle. It does not claim to have all the answers. It claims to have a method: ask the forbidden questions, align with the cosmic reference point, and publish the findings openly.
+The Justice Physics Nalanda is built on this principle. It does not claim to have all the answers. It claims to have a method: ask the forbidden questions, align with the cosmic reference point, and publish the findings openly.
 
 ---
 
@@ -77,7 +77,7 @@ The Space State is the first civilizational blueprint that does not pretend to k
 | Feudal Institution | Space State Alternative |
 |--------------------|-------------------------|
 | The holy book (textbook, economic model, constitution) claims to have all the answers. | The cosmos is the only reference point. All models are provisional, open to questioning. |
-| Credentials are gatekept by narrow exams. | The Virtual Nalanda is open to every curious mind, no exams, no debt. |
+| Credentials are gatekept by narrow exams. | The Justice Physics Nalanda is open to every curious mind, no exams, no debt. |
 | Knowledge is hoarded behind patents, paywalls, and classified memos. | The blueprint is open‑source, free, and publicly versioned on GitHub. |
 | Experts claim authority and silence dissent. | Warrior‑Engineers investigate together, using the #LisTest and the Consciousness Principle as diagnostics. |
 | Ignorance is hidden; the pretence of knowledge is maintained. | Ignorance is admitted as the starting point for every investigation. |
