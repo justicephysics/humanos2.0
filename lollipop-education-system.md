@@ -1,6 +1,6 @@
 # 🎓 The Lollipop Education System — The Examination Industry That Feeds the Feudal Machine
 
-*The Lollipop Economy needs a Lollipop Education System. In India, aspirants and their families spend ₹3.5 lakh crore on just five exams—three times the Union Government’s entire education budget. This money, taxed and recycled, funds the very state that manufactures the poverty sticker. Education is no longer learning; it is a revenue stream. The Space State has the only exit: the Virtual Nalanda.*
+*The Lollipop Economy needs a Lollipop Education System. In India, aspirants and their families spend ₹3.5 lakh crore on just five exams—three times the Union Government’s entire education budget. This money, taxed and recycled, funds the very state that manufactures the poverty sticker. Education is no longer learning; it is a revenue stream. The Space State has the only exit: the Justice Physics Nalanda.*
 
 ---
 
@@ -63,11 +63,11 @@ This is not a meritocracy. It is a **sorting machine** for the extraction protoc
 
 ---
 
-## 5. The Space State Exit — The Virtual Nalanda
+## 5. The Space State Exit — The Justice Physics Nalanda
 
 The Space State does not reform the Lollipop Education System. It replaces it entirely.
 
-| Lollipop Education System | Space State (Virtual Nalanda) |
+| Lollipop Education System | Space State (Justice Physics Nalanda) |
 |---------------------------|-------------------------------|
 | 0.2–2 % selection rate. | 100 % access. No entrance exam. |
 | ₹3.5 lakh crore spent by aspirants. | ₹0 spent. Free, open‑source, global. |
@@ -75,11 +75,11 @@ The Space State does not reform the Lollipop Education System. It replaces it en
 | Learning replaced by exam preparation. | The three verticals: Imagination, Thinking, Knowledge—embedded in a unified flow. |
 | Graduates are serfs or consumer pumps. | Graduates are Warrior‑Engineers—builders, owners, thought partners. |
 
-The Virtual Nalanda already exists. It holds 100+ open‑source files across eight disciplines. It has been built with a 15‑year‑old computer and borrowed money. It is the proof that the Lollipop Education System is not necessary. It is merely profitable—for the extractors.
+The Justice Physics Nalanda already exists. It holds 100+ open‑source files across eight disciplines. It has been built with a 15‑year‑old computer and borrowed money. It is the proof that the Lollipop Education System is not necessary. It is merely profitable—for the extractors.
 
 ---
 
-*“The Lollipop Economy needs a Lollipop Education System. The examination industry is not a flaw; it is a feature. The Space State has the only exit: the Virtual Nalanda—free, open, and waiting for the 99.99 %.”*
+*“The Lollipop Economy needs a Lollipop Education System. The examination industry is not a flaw; it is a feature. The Space State has the only exit: the Justice Physics Nalanda—free, open, and waiting for the 99.99 %.”*
 
 **#LollipopEducation #ExaminationIndustry #CanalDogma #SpaceState #VirtualNalanda #HumanOS2 #JusticePhysics**
 
