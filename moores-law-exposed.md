@@ -47,7 +47,7 @@ The alternative is not a smaller, slightly more efficient version of the same ho
 - **Operated at 0–2.7 K** — where resistance vanishes and heat is absorbed instantly by the Y‑lattice.
 - **Deployed in orbit** — free solar power, free cosmic cooling. Zero water. Zero land. Near‑zero operating cost.
 
-This is the **HumanOS 2.0 Compute Fabric**. The complete blueprint, including the three‑stage Roadmap, is open‑source and free on the Virtual Nalanda.
+This is the **HumanOS 2.0 Compute Fabric**. The complete blueprint, including the three‑stage Roadmap, is open‑source and free on the Justice Physics Nalanda.
 
 ---
 
