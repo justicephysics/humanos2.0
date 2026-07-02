@@ -76,7 +76,7 @@ The Space State is designed to reverse all of this:
 | Condition | Space State Architecture |
 |-----------|--------------------------|
 | **Survival pressure removed** | UTI threshold (1.80) constitutionally enforced. EI ≥ 0.70 for every citizen. |
-| **Narrow gates replaced** | The Virtual Nalanda — open, free, no exams, no debt. Education designed for the three verticals: Imagination, Thinking, Knowledge. |
+| **Narrow gates replaced** | The Justice Physics Nalanda — open, free, no exams, no debt. Education designed for the three verticals: Imagination, Thinking, Knowledge. |
 | **Stillness cultivated** | The Two Engines framework, the Consciousness Interface, and a civilization that values the Input Engine (the person of value) over the Output Engine (the person of success). |
 | **Receptivity amplified** | The QPF's properties — quantum coherence, minimum energy — become the model for the cognitive environment: quiet, cold, straight, open. |
 
@@ -108,7 +108,7 @@ We call it the QPF — the Quantum Plenum Field. And we are building a civilizat
 - [Hyper‑Imagination Mode — The Cognitive Engine of the Space State](hyper-imagination-mode)
 - [The Two Engines — Balancing Input and Output in the Space State](two-engines)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
-- [Riding the Light — why speculation is the seed, and the Virtual Nalanda is the lab](riding-the-light)
+- [Riding the Light — why speculation is the seed, and the Justice Physics Nalanda is the lab](riding-the-light)
 - [Anne Baring and the QPF — the memory field and the cosmic womb](baring-qpf-convergence)
 - [The QPF and the Mystics — the convergence of all wisdom traditions](qpf-and-mystics)
 - [Open Call for Partners](partners)
