@@ -80,7 +80,12 @@ The trillion‑dollar feudal hardware industry loses its pricing engine. The bui
 ---
 
 ### 🔗 Continue Exploring
+- [💡 Light@0-2.7Kelvin — The New Discipline](light-at-0k)
+- [🔧 Phase 1 Prototype Specification](prototype-phase1)
 - [🌟 The Snapshot Prototype — Overview](prototype-overview)
-- [🧬 The Hybrid Protocol — Image Lane and Cell Lane](hybrid-protocol)
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
-- [Home — HumanOS 2.0 Blueprint](index)
+- [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
+- [🌐 Cosmos — Human — Human Life: The Broken Link](cosmos-human-link)
+- [Open Call for Partners](partners)
+
+---
