@@ -77,6 +77,7 @@ Once demonstrated, we will:
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
 - [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
 - [🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud](backend-revolution)
+-[🚀 The 5‑Year Mission — Computing @2.7 K in Space](five-year-mission)
 - [🌐 Cosmos — Human — Human Life: The Broken Link](cosmos-human-link)
 - [Open Call for Partners](partners)
 
