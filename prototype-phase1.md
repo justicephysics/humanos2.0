@@ -101,6 +101,17 @@ If an Android tablet is used instead, the cost drops further (device may already
 
 ---
 
+### 🔗 Continue Exploring
+- [💡 Light@0-2.7Kelvin — The New Discipline](light-at-0k)
+- [🌟 The Snapshot Prototype — Overview](prototype-overview)
+- [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
+- [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
+- [🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud](backend-revolution)
+-[🚀 The 5‑Year Mission — Computing @2.7 K in Space](five-year-mission)
+- [🌐 Cosmos — Human — Human Life: The Broken Link](cosmos-human-link)
+- [Open Call for Partners](partners)
+
+---
 *“The Core Loop is the engine. The prototype is the proof. The Space State is the destination.”*
 
 **#PrototypePhase1 #SnapshotModel #ThinClient #SpaceState #HumanOS2 #JusticePhysics**
