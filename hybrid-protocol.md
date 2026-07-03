@@ -97,10 +97,15 @@ The feudal hardware model cannot easily replicate this because:
 ---
 
 ### 🔗 Continue Exploring
-- [🌟 The Snapshot Prototype — Overview](prototype-overview)
+- [💡 Light@0-2.7Kelvin — The New Discipline](light-at-0k)
 - [🔧 Phase 1 Prototype Specification](prototype-phase1)
+- [🌟 The Snapshot Prototype — Overview](prototype-overview)
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
-- [Home — HumanOS 2.0 Blueprint](index)
+- [🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud](backend-revolution)
+- [🌐 Cosmos — Human — Human Life: The Broken Link](cosmos-human-link)
+- [Open Call for Partners](partners)
+
+---
 
 
 
