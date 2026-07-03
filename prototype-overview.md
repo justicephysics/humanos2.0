@@ -71,10 +71,15 @@ Once demonstrated, we will:
 
 ---
 
-### Further explore:
-
-- [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
+### 🔗 Continue Exploring
+- [💡 Light@0-2.7Kelvin — The New Discipline](light-at-0k)
+- [🔧 Phase 1 Prototype Specification](prototype-phase1)
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
+- [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
+- [🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud](backend-revolution)
+- [🌐 Cosmos — Human — Human Life: The Broken Link](cosmos-human-link)
+- [Open Call for Partners](partners)
+
 ---
 
 ## How to Support
