@@ -98,7 +98,12 @@ The atom was split in 40 years. We will put computation in the cosmic cold in 5.
 
 ### 🔗 Continue Exploring
 - [💡 Light@0-2.7Kelvin — The New Discipline](light-at-0k)
+- [🔧 Phase 1 Prototype Specification](prototype-phase1)
 - [🌟 The Snapshot Prototype — Overview](prototype-overview)
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
+- [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
+- [🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud](backend-revolution)
 - [🌐 Cosmos — Human — Human Life: The Broken Link](cosmos-human-link)
 - [Open Call for Partners](partners)
+
+---
