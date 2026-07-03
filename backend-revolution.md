@@ -85,6 +85,7 @@ The trillion‑dollar feudal hardware industry loses its pricing engine. The bui
 - [🌟 The Snapshot Prototype — Overview](prototype-overview)
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
 - [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
+-[🚀 The 5‑Year Mission — Computing @2.7 K in Space](five-year-mission)
 - [🌐 Cosmos — Human — Human Life: The Broken Link](cosmos-human-link)
 - [Open Call for Partners](partners)
 
