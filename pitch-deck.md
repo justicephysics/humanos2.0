@@ -60,9 +60,16 @@ The Space State is the first post‑feudal, cosmic‑aligned civilization.
 Its infrastructure layer—the Space Data Centre, the Base Station, and the Snapshot Cloud—will make infinite computation a universal human right.
 
 ---
-### Further explore:
+### 🔗 Continue Exploring
+- [💡 Light@0-2.7Kelvin — The New Discipline](light-at-0k)
+- [🔧 Phase 1 Prototype Specification](prototype-phase1)
 - [🌟 The Snapshot Prototype — Overview](prototype-overview)
-- [🧬 The Hybrid Protocol — Image Lane and Cell Lane](hybrid-protocol)
+- [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
+- [🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud](backend-revolution)
+- [🌐 Cosmos — Human — Human Life: The Broken Link](cosmos-human-link)
+- [Open Call for Partners](partners)
+
+---
 
 **The blueprint is open‑source. The physics is proven. The prototype is the next step.**
 
