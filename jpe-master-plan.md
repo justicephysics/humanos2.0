@@ -33,7 +33,7 @@ The Justice Physics Engine breaks the chain at the first link — technology —
 | | [🧬 The Hybrid Protocol — Image Lane and Cell Lane](hybrid-protocol) | How we transmit images and structured data with maximum efficiency. |
 | | [🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud](backend-revolution) | The complete paradigm shift from local compute to shared fabric. |
 | **4. Timeline** | [🚀 The 5‑Year Mission — Computing @2.7 K in Space](five-year-mission) | The countdown to the first orbital data centre, and why 5 years is generous. |
-| **5. Foundational Key** | [💡 Light@0‑2.7Kelvin — The New Discipline](light-at-0k) | The cosmic physics that makes the entire engine possible. |
+| **5. Foundational Key** | [💡 Light@0‑2.7Kelvin — The New Discipline](light-at-0‑2.7k) | The cosmic physics that makes the entire engine possible. |
 
 ---
 
