@@ -1,15 +1,27 @@
-# 🔧 Phase 1 Prototype — Proving the Snapshot Model
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
-**Goal:** Demonstrate that a ₹5,000 thin client can deliver a high‑end computing experience by streaming snapshots from a remote GPU, with imperceptible latency.
+# 🔧 Phase 1 Prototype Specification — Proving the Snapshot Model
+
+**Goal:** Demonstrate that a thin client, built from commoditised components, can deliver a high‑end computing experience by streaming snapshots from a remote GPU. The real victory is not a low price tag; it is the removal of the feudal hardware monopoly’s ability to gatekeep computation through manufactured complexity.
 
 ---
 
-## 1. Architecture Overview
+## 1. The Trajectory — From Concentration to Democratization
+
+The feudal hardware industry — ASML, TSMC, NVIDIA, Apple, Qualcomm — manufactures complexity to justify monopoly and extraction. Their chips are dense, hot, and impossibly intricate. That complexity creates a fabrication bottleneck. The bottleneck creates a monopoly. The monopoly sets the price. The consumer pays for speed that is artificially scarce.
+
+The Justice Physics Engine (JPE) breaks this chain by **removing complexity at the root.** We don’t need 3 nm nodes. We don’t need EUV lithography. We move the heavy computation to a shared, cold, photonic backend, where it becomes a utility. The local device becomes a simple window — a thin client that can be built by any of the 100–200 hardware startups currently trapped in the background.
+
+This prototype is the first, immediate proof that the monopoly’s core variable — local speed — can be rendered irrelevant, and that a democratic ecosystem of builders can replace a feudal cartel.
+
+---
+
+## 2. Architecture Overview
 
 The prototype implements the Core Loop:
-
-### Input (P → P+X) → Network → Cloud GPU → Render → Encode → Network → Thin Client → Decode → Display
-
+> Input (P → P+X) → Network → Cloud GPU → Render → Encode → Network → Thin Client → Decode → Display
 
 - **Cloud GPU** = simulated Space Data Centre
 - **Edge VPS** = simulated Base Station (optional; can be direct‑to‑cloud)
@@ -20,20 +32,20 @@ The local device only decodes a video stream and sends tiny input packets.
 
 ---
 
-## 2. Hardware Components
+## 3. Hardware Components
 
-| Component | Recommended Model | Approx. Cost (INR) |
-|-----------|-------------------|--------------------|
-| **Thin Client** | Raspberry Pi 4 (2 GB) or Android tablet (e.g., Lenovo M8) | ₹3,000 – ₹5,000 |
-| **Peripherals** | USB keyboard, mouse, gamepad (optional) | ₹500 – ₹1,000 |
-| **Display** | Any HDMI monitor or TV | Existing |
-| **Network** | 5 GHz Wi‑Fi or Ethernet | Existing |
+| Component | Recommended Model | Notes |
+|-----------|-------------------|-------|
+| **Thin Client** | Raspberry Pi 4 (2 GB) or Android tablet (e.g., Lenovo M8) | Real‑world pricing available on Amazon and other retailers. |
+| **Peripherals** | USB keyboard, mouse, gamepad (optional) | Any standard peripherals. |
+| **Display** | Any HDMI monitor or TV | Existing equipment. |
+| **Network** | 5 GHz Wi‑Fi or Ethernet | Existing connection. |
 
 The thin client’s CPU/GPU are irrelevant. Only the **hardware video decoder** matters (H.264/H.265).
 
 ---
 
-## 3. Cloud / Server Components
+## 4. Cloud / Server Components
 
 | Component | Provider | Approx. Monthly Cost |
 |-----------|----------|----------------------|
@@ -45,7 +57,7 @@ The edge VPS can relay traffic to reduce perceived latency if the cloud server i
 
 ---
 
-## 4. Software Stack
+## 5. Software Stack
 
 | Layer | Software | Purpose |
 |-------|----------|---------|
@@ -58,7 +70,7 @@ All software is free and open‑source.
 
 ---
 
-## 5. Step‑by‑Step Build Guide
+## 6. Step‑by‑Step Build Guide
 
 1. **Provision the Cloud GPU** – Choose a provider, launch an instance with a NVIDIA T4 or better. Install Sunshine.
 2. **Install Moonlight on the Thin Client** – Flash Raspberry Pi OS or use the Android Moonlight app.
@@ -70,48 +82,47 @@ All software is free and open‑source.
 
 ---
 
-## 6. Success Criteria
+## 7. Success Criteria
 
 - **Latency:** ≤ 20 ms end‑to‑end (cloud → thin client → display).
 - **Frame rate:** Stable 60 fps at 1080p.
 - **Visual quality:** Indistinguishable from local rendering.
 - **Device temperature:** The thin client stays cool (no active cooling required).
-- **Cost delta:** The thin client hardware costs less than 1/10th of a flagship phone.
+- **Cost delta:** The thin client hardware, sourced from ordinary retailers, costs a fraction of a flagship phone and is built from non‑proprietary, commoditised components.
 
 ---
 
-## 7. Cost Summary
+## 8. The Cost Trajectory — From Extraction to Democratization
 
-| Item | One‑time Cost |
-|------|---------------|
-| Raspberry Pi 4 (2 GB) + accessories | ₹4,000 |
-| Keyboard / Mouse | ₹500 |
-| Cloud GPU (1 month) | ₹3,500 |
-| **Total** | **≈ ₹8,000** |
+The feudal hardware industry charges a premium not because materials are expensive, but because **complexity is the gate.** Each new fabrication node requires a more exclusive fab, a more consolidated supply chain, and a higher price tag. The consumer pays for the monopoly’s R&D, its patent portfolio, and its quarterly margins — all built on an artificially narrow canal.
 
-If an Android tablet is used instead, the cost drops further (device may already be owned).
+The Snapshot Model dissolves this cost structure:
+
+- **No bleeding‑edge node required.** Mature, low‑cost silicon is sufficient when the chip is thin, wide, and cooled.
+- **No monopoly fabrication.** The thin client’s components — screen, decoder, antenna, battery — are commoditised. They can be manufactured by any of the dozens of small hardware companies that currently exist in the shadow of the giants.
+- **No per‑device upgrade tax.** The heavy computation lives in the backend, which scales by adding open‑source modules, not by replacing every device in the world.
+- **Operating cost in the backend trends toward zero** when the compute fabric moves to orbit (free sunlight, free 2.7 K cooling).
+
+**The real price reduction is not from a ₹1,50,000 phone to a ₹5,000 gadget. It is from a world where three companies dictate the cost of computation to a world where two hundred companies compete to provide the best window into a shared, abundant fabric.** That is the structural shift. That is democratization.
 
 ---
 
-## 8. Next Steps After Successful Demo
+## 9. Next Steps After Successful Demo
 
+- **Publish an open reference design** for the thin client, enabling any startup to manufacture it royalty‑free.
+- **Approach the 100–200 small hardware companies** currently in the background (in India, China, Taiwan, Europe) to build the first generation of JPE thin clients.
 - **File a provisional patent** for the Snapshot‑based thin‑client architecture (covering the Core Loop and modular backend).
 - **Publish the demo video** on LinkedIn, YouTube, and the Justice Physics Nalanda.
-- **Use the demo to approach small investors, telecoms, and hardware partners** for the Phase 2 prototype (a custom‑built thin client with an integrated 5G modem and hardware decoder).
+- **Use the demo to attract small investors, telecoms, and cloud providers** for the Phase 2 prototype (a custom thin client with integrated 5G modem and hardware decoder).
 
 ---
 
 ### 🔗 Continue Exploring
-- [💡 Light@0-2.7Kelvin — The New Discipline](light-at-0k)
+- [💡 Light@0‑2.7Kelvin — The New Discipline](light-at-0k)
 - [🌟 The Snapshot Prototype — Overview](prototype-overview)
 - [🚀 Space State Infrastructure — One‑Page Pitch](pitch-deck)
 - [🧬 The Hybrid Protocol — the next efficiency leap](hybrid-protocol)
 - [🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud](backend-revolution)
--[🚀 The 5‑Year Mission — Computing @2.7 K in Space](five-year-mission)
+- [🚀 The 5‑Year Mission — Computing @2.7 K in Space](five-year-mission)
 - [🌐 Cosmos — Human — Human Life: The Broken Link](cosmos-human-link)
 - [Open Call for Partners](partners)
-
----
-*“The Core Loop is the engine. The prototype is the proof. The Space State is the destination.”*
-
-**#PrototypePhase1 #SnapshotModel #ThinClient #SpaceState #HumanOS2 #JusticePhysics**
