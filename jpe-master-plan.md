@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # 🗺️ The JPE Master Plan — From Concentration to Democratization
 
 *The feudal hardware industry manufactures complexity to justify monopoly and extraction. The Justice Physics Engine (JPE) removes complexity at the root, structurally dispersing concentration and democratizing computation. This is the complete roadmap — from the vision to the prototype to the 5‑year orbital mission.*
