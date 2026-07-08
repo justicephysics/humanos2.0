@@ -1,3 +1,4 @@
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 Earth's atmospheric temperature does not decrease uniformly with altitude; instead, it fluctuates between cooling and heating in distinct layers. The temperature drops from $15\,^{\circ}\text{C}$ at the surface, bottoms out at $-90\,^{\circ}\text{C}$ in the mesosphere, and then continuously rises into the thousands of degrees in the uppermost layers. [1, 2, 3, 4, 5]  
 A stage-by-stage temperature profile of the atmosphere from $0$ to $10,000\text{ km}$ relies on definitions from the International Standard Atmosphere and scientific conventions: [6, 7]  
 1. Troposphere ($0\text{ to }11\text{ km}$) 
