@@ -19,7 +19,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          # Cache line removed to bypass requirements.txt requirements
 
       - name: Install System Dependencies
         run: pip install requests beautifulsoup4 google-generativeai
@@ -33,5 +32,6 @@ jobs:
         run: |
           git config --global user.name "humanos-bot"
           git config --global user.email "bot@humanos.network"
-          git add staged_outputs/*
+          mkdir -p staged_outputs
+          git add staged_outputs/
           git diff --quiet && git diff --staged --quiet || (git commit -m "ledger: save autonomous real-time inversion drafts" && git push)
