@@ -45,7 +45,7 @@ def fetch_live_macro_news():
 def compile_inversion_report(news_payload):
     """Step 2: Call the Gemini model to execute dynamic inversion calculus and asset design."""
     try:
-        model = genai.GenerativeModel('gemini-2.5-flash')
+        model = genai.GenerativeModel('gemini-3.5-flash')
         
         prompt = f"""
         You are the core runtime processing engine for the Universal Metric Inversion Matrix.
