@@ -5,8 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google" content="notranslate">
     <title>Justice Physics Nalanda — The Virtual Academy for HumanOS 2.0</title>
-        <!-- Mermaid.js for Diagram Rendering -->
-    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <style>
         :root {
             --bg: #0B1A2F;
@@ -17,14 +15,6 @@
             --border: #1a3a5c;
             --radius: 10px;
             --max-width: 900px;
-        }
-        .mermaid {
-            background: var(--code-bg);
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px 0;
-            text-align: center;
-            overflow-x: auto;
         }
         .light-mode {
             --bg: #f5f7fa;
@@ -561,23 +551,12 @@
         if (mode === 'light') {
             document.body.classList.add('light-mode');
             themeBtn.textContent = '🌙 Night Mode';
-            mermaid.initialize({ startOnLoad: false, theme: 'light' });
         } else {
             document.body.classList.remove('light-mode');
             themeBtn.textContent = '☀️ Day Mode';
-            mermaid.initialize({ startOnLoad: false, theme: 'dark' }
+
         }
     }
-        // Transform Mermaid code blocks
-    const codeBlocks = renderArea.querySelectorAll('pre code.language-mermaid');
-    codeBlocks.forEach((block) => {
-        const mermaidDiv = document.createElement('div');
-        mermaidDiv.className = 'mermaid';
-        let rawCode = block.textContent || block.innerText;
-        rawCode = rawCode.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
-        mermaidDiv.textContent = rawCode;
-        block.parentElement.replaceWith(mermaidDiv);
-    });
     window.toggleTheme = function() {
         const isLight = document.body.classList.contains('light-mode');
         const newMode = isLight ? 'dark' : 'light';
