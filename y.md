@@ -21,13 +21,13 @@ Education is the fundamental thermodynamic mechanism by which low-entropy knowle
 The breakdown of the education ecosystem operates at every tier, from rural primary schools to national competitive selection systems.
 
 ### A. Foundational Schooling Collapse
-* **Learning Deficits (ASER Telemetry):** Over $50\%$ of Grade 5 students in rural public primary schools are unable to read a Grade 2 textbook or perform basic three-digit division.
-* **Multigrade Classrooms:** $66\%$ of Grade 1 and Grade 2 classrooms operate under multigrade setups, where a single teacher simultaneously instructs multiple age groups.
-* **Enrolment Shrinkage:** Over $52\%$ of public primary schools enroll fewer than $60$ total students, driven by parental flight to low-cost private facilities.
-* **Teacher Vacancies:** Over $10\text{ Lakh}$ ($1\text{ Million}$) sanctioned public primary and secondary teaching posts remain vacant nationwide.
+* **Learning Deficits (ASER Telemetry):** Over 50 % of Grade 5 students in rural public primary schools are unable to read a Grade 2 textbook or perform basic three-digit division.
+* **Multigrade Classrooms:** 66 % of Grade 1 and Grade 2 classrooms operate under multigrade setups, where a single teacher simultaneously instructs multiple age groups.
+* **Enrolment Shrinkage:** Over 52 % of public primary schools enroll fewer than $60$ total students, driven by parental flight to low-cost private facilities.
+* **Teacher Vacancies:** Over $$10\text{ Lakh} (1\text{ Million}$$) sanctioned public primary and secondary teaching posts remain vacant nationwide.
 
 ### B. Public Cut-Off Inflation & Seat Bottlenecks
-Central University Entrance Test (CUET-UG) cut-offs for premier public colleges (such as Delhi University North Campus institutions) sit between $98.5\%$ and $99.8\%$ percentile ($780$ ext{--}$795+$ out of $800$) for general category applicants. Elite public higher education capacity represents less than $1.5\%$ of the over $40\text{ Million}$ applicants across the nation.
+Central University Entrance Test (CUET-UG) cut-offs for premier public colleges (such as Delhi University North Campus institutions) sit between $$98.5\% and 99.8\% percentile (780 ext{--}795+ out of 800$$) for general category applicants. Elite public higher education capacity represents less than 1.5 % of the over $$40\text{ Million}$$ applicants across the nation.
 
 ### C. The Extreme Elimination Matrix
 
