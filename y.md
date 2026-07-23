@@ -8,23 +8,23 @@
 
 ### 1.1 Foundational Primary and Secondary Atrophy
 Data from the Annual Status of Education Report (ASER) and national educational telemetry indicates a structural collapse at the primary and secondary base:
-* **Learning Deficits**: Over $$50\%$$ of Grade 5 students in rural public schools are unable to read a Grade 2 level textbook or perform basic 3-digit division.
-* **Multigrade Classrooms and School Shrinkage**: $$66\%$$ of Grade I and II public primary classrooms operate under multigrade arrangements (a single instructor managing multiple grades concurrently). Over $$52\%$$ of public primary schools maintain an enrollment of $$<60$$ total students due to parental flight toward low-fee private institutions.
+* **Learning Deficits**: Over 50 % of Grade 5 students in rural public schools are unable to read a Grade 2 level textbook or perform basic 3-digit division.
+* **Multigrade Classrooms and School Shrinkage**: 66 % of Grade I and II public primary classrooms operate under multigrade arrangements (a single instructor managing multiple grades concurrently). Over 52 % of public primary schools maintain an enrollment of $$<60$$ total students due to parental flight toward low-fee private institutions.
 * **Instructional Vacancies**: Over $$1,000,000$$ ($$10\text{Lakh}$$) sanctioned public teaching posts remain vacant across primary and secondary tiers nationwide.
 
 ### 1.2 Higher Education Bottlenecks and Hyper-Inflation
-* **Central University Gatekeeping (CUET UG)**: Cut-off percentiles for top-tier public colleges (e.g., DU North Campus: SRCC, Hindu, Hansraj, St. Stephen's) sit between $$98.5\%$$ and $$99.8\%$$ percentile ($$780\text{--}795+ / 800$$) for general candidates in high-demand disciplines.
-* **Public Capacity Scarcity**: Premier public higher education institutions accommodate less than $$1.5\%$$ of the $$40,000,000+$$ applicants nationwide, manufacturing an artificial bottleneck.
+* **Central University Gatekeeping (CUET UG)**: Cut-off percentiles for top-tier public colleges (e.g., DU North Campus: SRCC, Hindu, Hansraj, St. Stephen's) sit between 98.5 % and 99.8 % percentile ($$780 \text{--}795+ / 800$$) for general candidates in high-demand disciplines.
+* **Public Capacity Scarcity**: Premier public higher education institutions accommodate less than 1.5 % of the $$40,000,000+$$ applicants nationwide, manufacturing an artificial bottleneck.
 
 ### 1.3 The Extreme Elimination Matrix
 The public education infrastructure functions primarily as an elimination engine rather than a developmental system:
 
 | Examination Matrix | Applicant Pool | Sanctioned / Tier-1 Seats | Effective Rejection Rate |
 | :--- | :--- | :--- | :--- |
-| **UPSC Civil Services (CSE)** | $$\sim 1,300,000$$ | $$\sim 1,000$$ | **$$99.92\%$$** |
-| **IIT-JEE Advanced** | $$\sim 1,450,000$$ | $$\sim 17,500$$ | **$$98.80\%$$** |
-| **NEET-UG (Medical)** | $$\sim 2,400,000$$ | $$\sim 55,000$$ (Govt MBBS) | **$$97.71\%$$** |
-| **CAT (IIM Management)** | $$\sim 330,000$$ | $$\sim 5,500$$ | **$$98.34\%$$** |
+| **UPSC Civil Services (CSE)** | $$\sim 1,300,000$$ | $$\sim 1,000$$ | **99.92 %** |
+| **IIT-JEE Advanced** | $$\sim 1,450,000$$ | $$\sim 17,500$$ | **98.80 %** |
+| **NEET-UG (Medical)** | $$\sim 2,400,000$$ | $$\sim 55,000$$ (Govt MBBS) | **97.71 %** |
+| **CAT (IIM Management)** | $$\sim 330,000$$ | $$\sim 5,500$$ | **98.34 %** |
 
 ---
 
@@ -50,10 +50,10 @@ graph TD
 ### 2.2 Conservation and Uniform Distribution of Cognitive Potential
 Raw cognitive potential and intelligence are uniformly distributed across the human population matrix. Intelligence is not localized to elite income brackets or specific geographies. 
 
-When a civilization constructs artificial energy barriers—such as hyper-inflated tuition fees, capitation extractions, and hyper-concentrated elimination tests—it clamps down on $$>95\%$$ of its population matrix, inducing severe structural resistance and cognitive paralysis across the collective body.
+When a civilization constructs artificial energy barriers—such as hyper-inflated tuition fees, capitation extractions, and hyper-concentrated elimination tests—it clamps down on >95 % of its population matrix, inducing severe structural resistance and cognitive paralysis across the collective body.
 
 ### 2.3 The Skill Floor Theory of Class Generation
-Access to high-quality education and industry-grade skill acquisition is artificially restricted to a $$2\%\text{--}5\%$$ numerical threshold of the population matrix. This artificial numerical restriction directly generates the elite class.
+Access to high-quality education and industry-grade skill acquisition is artificially restricted to a $$2 % \text{--}5 % $$ numerical threshold of the population matrix. This artificial numerical restriction directly generates the elite class.
 
 By constraining the skill floor, the system systematically manufactures an underprivileged, low-wage majority ($$95\%\text{--}98\%$$), driving economic inequality ($$L_{\text{Gini}} \approx 0.92,\text{EI} \approx 0.08,\text{TI} \approx 0.0847$$).
 
