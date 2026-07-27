@@ -89,6 +89,44 @@
         }
         .theme-btn:hover { background: var(--accent); color: var(--bg); }
     </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Controls -->
+        <div class="controls">
+            <a href="https://justicephysics.github.io/humanos2.0/" class="back-link">← Back to Blueprint</a>
+            <button type="button" id="theme-toggle" class="theme-btn" onclick="toggleTheme()">🌓 Day / Night</button>
+        </div>
+        
+        <!-- This is where your Markdown content goes -->
+        {{ content }}
+    </div>
+
+    <!-- Pre-process math to fix \% rendering issue in MathJax v3 -->
+    <script>
+      (function() {
+        const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+        let node;
+        while ((node = walker.nextNode())) {
+          const text = node.nodeValue;
+          // Only process if it contains math delimiters and \%
+          if (text && text.includes('\\%') && (text.includes('$') || text.includes('\\('))) {
+            const newText = text.replace(/\$\$([\s\S]+?)\$\$|\$([^$]+)\$|\\\(([\s\S]+?)\\\)|\\\[([\s\S]+?)\\\]/g, (match, display, inline, paren, bracket) => {
+              let math = display || inline || paren || bracket;
+              if (!math) return match;
+              // Replace \% with \unicode{x25} which renders correctly in both math and text modes
+              const fixed = math.replace(/\\\%/g, '\\unicode{x25}');
+              if (display) return `$$${fixed}$$`;
+              if (inline) return `$${fixed}$`;
+              if (paren) return `\\(${fixed}\\)`;
+              if (bracket) return `\\[${fixed}\\]`;
+              return match;
+            });
+            node.nodeValue = newText;
+          }
+        }
+      })();
+    </script>
 
     <!-- MathJax v3 for Equations -->
     <script>
@@ -103,19 +141,6 @@
 
     <!-- Mermaid for Flowcharts -->
     <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
-</head>
-<body>
-    <div class="container">
-        <!-- Controls -->
-        <div class="controls">
-            <a href="https://justicephysics.github.io/humanos2.0/" class="back-link">← Back to Blueprint</a>
-            <button type="button" id="theme-toggle" class="theme-btn" onclick="toggleTheme()">🌓 Day / Night</button>
-        </div>
-        
-        <!-- This is where your Markdown content goes -->
-        {{ content }}
-    </div>
-
     <script>
         const themeBtn = document.getElementById('theme-toggle');
 
