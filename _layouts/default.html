@@ -100,7 +100,7 @@
             overflow-x: auto;
             overflow-y: hidden;
             scrollbar-width: thin;
-            vertical-align: middle; /* Keeps inline math aligned with text */
+            vertical-align: middle;
         }
         mjx-container::-webkit-scrollbar { height: 6px; }
         mjx-container::-webkit-scrollbar-track { background: transparent; }
@@ -144,12 +144,10 @@
 
             // 2. Fix unescaped % and \% inside \text{}
             const newText = text.replace(/(\$\$[\s\S]+?\$\$|\$[^$]+\$|\\\([\s\S]+?\\\)|\\\[[\s\S]+?\\\])/g, (match) => {
-              // Safely escape unescaped %
               let fixed = match.split('\\%').join('§ESC§');
               fixed = fixed.replace(/%/g, '\\%');
               fixed = fixed.split('§ESC§').join('\\%');
               
-              // Fix \% inside \text{...}
               fixed = fixed.replace(/\\text\{([^{}]*)\}/g, (m) => m.split('\\%').join('$\\%$'));
               return fixed;
             });
@@ -221,7 +219,14 @@
             document.querySelectorAll('code.language-mermaid').forEach(function (block) {
                 const div = document.createElement('div');
                 div.className = 'mermaid';
-                div.textContent = block.textContent;
+                
+                // Auto-fix Mermaid syntax: Wrap node text containing | in quotes
+                let code = block.textContent;
+                code = code.replace(/\[([^\]"[]*\|[^\]"[]*)\]/g, '["$1"]');
+                code = code.replace(/\{([^\}"{]*\|[^\}"{]*)\}/g, '{"$1"}');
+                code = code.replace(/\(([^\)"(]*\|[^\)"(]*)\)/g, '("$1")');
+                
+                div.textContent = code;
                 block.parentElement.replaceWith(div);
             });
 
