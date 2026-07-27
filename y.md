@@ -11,7 +11,7 @@
 
     // 2. Initialize Mermaid to draw the diagrams
     if (typeof mermaid !== 'undefined') {
-      mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+      mermaid.initialize({ startOnLoad: true, theme: 'light' });
     }
   });
 </script>
