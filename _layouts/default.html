@@ -66,43 +66,21 @@
             border: 1px solid var(--border);
             scrollbar-width: thin;
         }
-        .table-wrapper::-webkit-scrollbar {
-            height: 6px;
-        }
-        .table-wrapper::-webkit-scrollbar-track {
-            background: transparent;
-        }
+        .table-wrapper::-webkit-scrollbar { height: 6px; }
+        .table-wrapper::-webkit-scrollbar-track { background: transparent; }
         .table-wrapper::-webkit-scrollbar-thumb {
-            background-color: transparent;
-            border-radius: 10px;
-            transition: background-color 0.3s;
+            background-color: transparent; border-radius: 10px; transition: background-color 0.3s;
         }
-        .table-wrapper:hover::-webkit-scrollbar-thumb {
-            background-color: var(--border); 
-        }
+        .table-wrapper:hover::-webkit-scrollbar-thumb { background-color: var(--border); }
 
-        table { 
-            width: 100%; 
-            border-collapse: collapse; 
-            margin: 0; 
-            background: var(--surface); 
+        table { width: 100%; border-collapse: collapse; margin: 0; background: var(--surface); }
+        th, td { 
+            border: 1px solid var(--border); padding: 0.8rem 1rem; text-align: left; 
+            vertical-align: top; white-space: normal; 
         }
-            th, td { 
-            border: 1px solid var(--border); 
-            padding: 0.8rem 1rem; 
-            text-align: left; 
-            vertical-align: top; /* Keeps multi-line text aligned at the top */
-            white-space: normal; /* Allows text to wrap inside cells instead of stretching infinitely */
-        }
-        th { 
-            color: var(--text); 
-            background: rgba(127, 219, 255, 0.05); 
-            white-space: nowrap; /* Prevents headers from wrapping, keeping columns narrow */
-        }
-        /* Industry standard: Right-align numbers for easy comparison */
+        th { color: var(--text); background: rgba(127, 219, 255, 0.05); white-space: nowrap; }
         td:nth-child(2), td:nth-child(3), td:nth-child(4) {
-            text-align: right;
-            white-space: nowrap; /* Prevents numbers like 99.92% from breaking mid-word */
+            text-align: right; white-space: nowrap;
         }
 
         code { background: var(--surface); padding: 0.2rem 0.4rem; border-radius: 4px; font-family: 'Courier New', monospace; color: var(--accent); }
@@ -113,140 +91,76 @@
         
         /* Controls Bar */
         .controls {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 2rem;
-            gap: 1rem;
-            flex-wrap: wrap;
+            display: flex; justify-content: space-between; align-items: center;
+            margin-bottom: 2rem; gap: 1rem; flex-wrap: wrap;
         }
         .back-link {
-            text-decoration: none;
-            color: var(--accent);
-            font-weight: 600;
-            border: 1px solid var(--accent);
-            padding: 0.45rem 1rem;
-            border-radius: var(--radius);
+            text-decoration: none; color: var(--accent); font-weight: 600;
+            border: 1px solid var(--accent); padding: 0.45rem 1rem; border-radius: var(--radius);
             transition: background 0.2s, color 0.2s;
         }
         .back-link:hover { background: var(--accent); color: var(--bg); }
         .theme-btn {
-            color: var(--accent);
-            font-weight: 600;
-            font-size: 0.95rem;
-            padding: 0.45rem 1rem;
-            border: 1px solid var(--accent);
-            border-radius: var(--radius);
-            background: transparent;
-            cursor: pointer;
-            font-family: inherit;
-            transition: background 0.2s, color 0.2s;
+            color: var(--accent); font-weight: 600; font-size: 0.95rem; padding: 0.45rem 1rem;
+            border: 1px solid var(--accent); border-radius: var(--radius); background: transparent;
+            cursor: pointer; font-family: inherit; transition: background 0.2s, color 0.2s;
         }
         .theme-btn:hover { background: var(--accent); color: var(--bg); }
 
         /* Custom Bullet Points with Sticky Scroll */
-        ul, ol {
-            list-style: none;
-            padding-left: 0;
-            margin-bottom: 1rem;
-        }
-        ol {
-            counter-reset: item;
-        }
+        ul, ol { list-style: none; padding-left: 0; margin-bottom: 1rem; }
+        ol { counter-reset: item; }
         li {
-            display: flex;
-            align-items: flex-start;
-            margin-bottom: 1rem;
-            color: var(--text-secondary);
-            overflow-x: auto;
-            overflow-y: hidden;
-            scrollbar-width: thin;
+            display: flex; align-items: flex-start; margin-bottom: 1rem; color: var(--text-secondary);
+            overflow-x: auto; overflow-y: hidden; scrollbar-width: thin;
         }
-        /* If Markdown wraps text in <p>, let the <li> handle the scroll */
-        li > p {
-            overflow-x: visible;
-            margin-bottom: 0;
-            padding-right: 1rem;
-        }
+        li > p { overflow-x: visible; margin-bottom: 0; padding-right: 1rem; }
         li::before {
-            position: sticky;
-            left: 0;
-            background: var(--bg);
-            z-index: 1;
-            padding-right: 0.75rem;
-            flex-shrink: 0;
+            position: sticky; left: 0; background: var(--bg); z-index: 1;
+            padding-right: 0.75rem; flex-shrink: 0;
         }
-        ul > li::before {
-            content: "•";
-            color: var(--text-secondary);
-        }
-        ol > li::before {
-            content: counter(item) ".";
-            counter-increment: item;
-            color: var(--text-secondary);
-            font-weight: bold;
-        }
+        ul > li::before { content: "•"; color: var(--text-secondary); }
+        ol > li::before { content: counter(item) "."; counter-increment: item; color: var(--text-secondary); font-weight: bold; }
         
-        /* Webkit scrollbar styling (Auto-hide) for paragraphs and lists */
-        p::-webkit-scrollbar, li::-webkit-scrollbar {
-            height: 6px;
-        }
-        p::-webkit-scrollbar-track, li::-webkit-scrollbar-track {
-            background: transparent;
-        }
+        p::-webkit-scrollbar, li::-webkit-scrollbar { height: 6px; }
+        p::-webkit-scrollbar-track, li::-webkit-scrollbar-track { background: transparent; }
         p::-webkit-scrollbar-thumb, li::-webkit-scrollbar-thumb {
-            background-color: transparent;
-            border-radius: 10px;
-            transition: background-color 0.3s;
+            background-color: transparent; border-radius: 10px; transition: background-color 0.3s;
         }
-        p:hover::-webkit-scrollbar-thumb, li:hover::-webkit-scrollbar-thumb {
-            background-color: var(--border); 
-        }
+        p:hover::-webkit-scrollbar-thumb, li:hover::-webkit-scrollbar-thumb { background-color: var(--border); }
 
-        /* Specifically target display math $$...$$ */
         mjx-container[display="true"] {
-            display: block !important;
-            margin: 1rem 0;
-            overflow-x: auto;
-            overflow-y: hidden;
-            padding-bottom: 0.5rem;
+            display: block !important; margin: 1rem 0; overflow-x: auto; overflow-y: hidden; padding-bottom: 0.5rem;
         }
-        mjx-container[display="true"]::-webkit-scrollbar {
-            height: 6px;
-        }
-        mjx-container[display="true"]::-webkit-scrollbar-thumb {
-            background-color: transparent;
-            border-radius: 10px;
-        }
-        mjx-container[display="true"]:hover::-webkit-scrollbar-thumb {
-            background-color: var(--border);
-        }
+        mjx-container[display="true"]::-webkit-scrollbar { height: 6px; }
+        mjx-container[display="true"]::-webkit-scrollbar-thumb { background-color: transparent; border-radius: 10px; }
+        mjx-container[display="true"]:hover::-webkit-scrollbar-thumb { background-color: var(--border); }
     </style>
 </head>
 <body>
     <div class="container">
-        <!-- Controls -->
         <div class="controls">
             <a href="https://justicephysics.github.io/humanos2.0/" class="back-link">← Back to Blueprint</a>
             <button type="button" id="theme-toggle" class="theme-btn" onclick="toggleTheme()">🌓 Day / Night</button>
         </div>
-        
-        <!-- This is where your Markdown content goes -->
         {{ content }}
     </div>
 
-    <!-- Pre-process math to fix \% rendering issue specifically inside \text{} -->
+    <!-- Pre-process math to fix unescaped % and \% inside \text{} -->
     <script>
       (function() {
         const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
         let node;
         while ((node = walker.nextNode())) {
           const text = node.nodeValue;
-          // Only process if it contains \text{ and \%
-          if (text && text.includes('\\text{') && text.includes('\\%')) {
-            // Find \text{...} blocks and replace \%\% with $\%$ only inside them
-            const newText = text.replace(/\\text\{([^{}]*)\}/g, (match) => {
-              return match.split('\\%').join('$\\%$');
+          if (text && (text.includes('$') || text.includes('\\('))) {
+            // 1. Find all math blocks
+            const newText = text.replace(/(\$\$[\s\S]+?\$\$|\$[^$]+\$|\\\([\s\S]+?\\\)|\\\[[\s\S]+?\\\])/g, (match) => {
+              // 2. Replace unescaped % with \%
+              let fixed = match.replace(/(?<!\\)%/g, '\\%');
+              // 3. Replace \% inside \text{...} with $\%$ to fix MathJax bug
+              fixed = fixed.replace(/\\text\{([^{}]*)\}/g, (m) => m.split('\\%').join('$\\%$'));
+              return fixed;
             });
             node.nodeValue = newText;
           }
@@ -262,7 +176,6 @@
           displayMath: [['$$', '$$'], ['\\[', '\\]']]
         },
         chtml: {
-          // Automatically breaks long display equations to fit the screen width
           linebreaks: { automatic: true } 
         }
       };
@@ -292,14 +205,10 @@
             setTheme(newMode);
         };
 
-        // Mermaid dynamic re-rendering
         function renderMermaid(theme) {
             if (typeof mermaid === 'undefined') return;
-            
             const mermaidTheme = theme === 'light' ? 'default' : 'dark';
             mermaid.initialize({ startOnLoad: false, theme: mermaidTheme, securityLevel: 'loose' });
-            
-            // Reset and re-render existing mermaid blocks to apply the new theme
             document.querySelectorAll('.mermaid').forEach(div => {
                 const originalCode = div.getAttribute('data-original-code');
                 if (originalCode) {
@@ -307,14 +216,10 @@
                     div.innerHTML = originalCode;
                 }
             });
-
-            mermaid.run({
-                nodes: document.querySelectorAll('.mermaid')
-            });
+            mermaid.run({ nodes: document.querySelectorAll('.mermaid') });
         }
 
         document.addEventListener('DOMContentLoaded', function () {
-            // 1. Wrap tables in a scrollable container for mobile-friendly sliding
             document.querySelectorAll('table').forEach(function(table) {
                 const wrapper = document.createElement('div');
                 wrapper.className = 'table-wrapper';
@@ -322,7 +227,6 @@
                 wrapper.appendChild(table);
             });
 
-            // 2. Convert standard markdown code blocks into Mermaid divs
             document.querySelectorAll('code.language-mermaid').forEach(function (block) {
                 const div = document.createElement('div');
                 div.className = 'mermaid';
@@ -330,12 +234,10 @@
                 block.parentElement.replaceWith(div);
             });
 
-            // 3. Save original code for dynamic re-rendering on theme change
             document.querySelectorAll('.mermaid').forEach(div => {
                 div.setAttribute('data-original-code', div.textContent);
             });
 
-            // 4. Load saved theme and apply it
             const saved = localStorage.getItem('theme') || 'dark';
             setTheme(saved);
         });
