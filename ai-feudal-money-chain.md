@@ -1,6 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 # 💸 The AI Feudal Money Chain — The $15 Trillion Bill on the Mice
 
 *The AI lords are circling money among themselves and handing the bill to the 99.99%. Here's the chain — and the way out.*
