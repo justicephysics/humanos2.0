@@ -54,7 +54,7 @@
         }
         .container { max-width: 800px; margin: 0 auto; }
         h1, h2, h3, h4 { color: var(--accent); margin-top: 1.5rem; margin-bottom: 1rem; }
-        p, li { color: var(--text-secondary); margin-bottom: 1rem; }
+        p { color: var(--text-secondary); margin-bottom: 1rem; overflow-x: auto; overflow-y: hidden; scrollbar-width: thin; }
         a { color: var(--accent); }
         table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; background: var(--surface); border-radius: var(--radius); overflow: hidden; }
         th, td { border: 1px solid var(--border); padding: 0.8rem 1rem; text-align: left; }
@@ -98,39 +98,45 @@
         }
         .theme-btn:hover { background: var(--accent); color: var(--bg); }
 
-        /* Math Equation Mobile Fit & Auto-Hide Slider */
-        p, li {
-            overflow-x: auto;
-            overflow-y: hidden;
-            scrollbar-width: thin; /* For Firefox */
-        }
-        
-        /* Custom Bullet Points to fix alignment inside scrollable lists */
+        /* Custom Bullet Points with Sticky Scroll */
         ul, ol {
-            padding-left: 1.5rem;
-            list-style: none; /* Remove default browser bullets */
+            list-style: none;
+            padding-left: 0;
+            margin-bottom: 1rem;
         }
         ol {
             counter-reset: item;
         }
         li {
-            position: relative;
-            padding-left: 0.5rem;
+            display: flex;
+            align-items: flex-start;
             margin-bottom: 1rem;
+            color: var(--text-secondary);
+            overflow-x: auto;
+            overflow-y: hidden;
+            scrollbar-width: thin;
+        }
+        /* If Markdown wraps text in <p>, let the <li> handle the scroll */
+        li > p {
+            overflow-x: visible;
+            margin-bottom: 0;
+            padding-right: 1rem;
+        }
+        li::before {
+            position: sticky;
+            left: 0;
+            background: var(--bg);
+            z-index: 1;
+            padding-right: 0.75rem;
+            flex-shrink: 0;
         }
         ul > li::before {
             content: "•";
-            position: absolute;
-            left: -0.8rem;
-            top: 0;
             color: var(--text-secondary);
         }
         ol > li::before {
             content: counter(item) ".";
             counter-increment: item;
-            position: absolute;
-            left: -1.5rem;
-            top: 0;
             color: var(--text-secondary);
             font-weight: bold;
         }
@@ -143,11 +149,10 @@
             background: transparent;
         }
         p::-webkit-scrollbar-thumb, li::-webkit-scrollbar-thumb {
-            background-color: transparent; /* Hidden by default */
+            background-color: transparent;
             border-radius: 10px;
             transition: background-color 0.3s;
         }
-        /* Appears on hover or when actively scrolling */
         p:hover::-webkit-scrollbar-thumb, li:hover::-webkit-scrollbar-thumb {
             background-color: var(--border); 
         }
