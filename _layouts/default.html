@@ -111,15 +111,30 @@
         {{ content }}
     </div>
 
+    <!-- Pre-process math to fix \% rendering issue inside \text{} -->
+    <script>
+      (function() {
+        const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+        let node;
+        while ((node = walker.nextNode())) {
+          const text = node.nodeValue;
+          // Only process if it contains math delimiters and \%
+          if (text && text.includes('\\%') && (text.includes('$') || text.includes('\\('))) {
+            const newText = text.replace(/(\$\$[\s\S]+?\$\$|\$[^$]+\$|\\\([\s\S]+?\\\)|\\\[[\s\S]+?\\\])/g, (match) => {
+              return match.split('\\%').join('\\char37');
+            });
+            node.nodeValue = newText;
+          }
+        }
+      })();
+    </script>
+
     <!-- MathJax v3 for Equations -->
     <script>
       MathJax = {
         tex: {
           inlineMath: [['$', '$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\[', '\\]']],
-          macros: {
-            "\\%": "\\char37"
-          }
+          displayMath: [['$$', '$$'], ['\\[', '\\]']]
         }
       };
     </script>
