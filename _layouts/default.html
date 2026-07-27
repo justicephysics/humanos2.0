@@ -87,8 +87,23 @@
             margin: 0; 
             background: var(--surface); 
         }
-        th, td { border: 1px solid var(--border); padding: 0.8rem 1rem; text-align: left; }
-        th { color: var(--text); background: rgba(127, 219, 255, 0.05); }
+            th, td { 
+            border: 1px solid var(--border); 
+            padding: 0.8rem 1rem; 
+            text-align: left; 
+            vertical-align: top; /* Keeps multi-line text aligned at the top */
+            white-space: normal; /* Allows text to wrap inside cells instead of stretching infinitely */
+        }
+        th { 
+            color: var(--text); 
+            background: rgba(127, 219, 255, 0.05); 
+            white-space: nowrap; /* Prevents headers from wrapping, keeping columns narrow */
+        }
+        /* Industry standard: Right-align numbers for easy comparison */
+        td:nth-child(2), td:nth-child(3), td:nth-child(4) {
+            text-align: right;
+            white-space: nowrap; /* Prevents numbers like 99.92% from breaking mid-word */
+        }
 
         code { background: var(--surface); padding: 0.2rem 0.4rem; border-radius: 4px; font-family: 'Courier New', monospace; color: var(--accent); }
         pre { background: var(--surface); padding: 1rem; border-radius: var(--radius); border: 1px solid var(--border); overflow-x: auto; }
