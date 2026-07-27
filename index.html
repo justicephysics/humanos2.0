@@ -92,6 +92,7 @@
             border-radius: var(--radius);
             margin-bottom: 0.85rem;
             overflow: hidden;
+            scroll-margin-top: 2rem; /* Smooth scroll offset */
         }
         .discipline-btn {
             width: 100%;
@@ -169,6 +170,14 @@
             max-width: 100%;
             height: auto;
         }
+        /* Make Mermaid nodes look clickable */
+        #mermaid-diagram .node {
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        #mermaid-diagram .node:hover {
+            transform: scale(1.05);
+        }
         /* Narrative sections */
         .narrative {
             margin-top: 2.5rem;
@@ -222,7 +231,7 @@
     <!-- ==================== MERMAID FLOWCHART: THE VISION MAP ==================== -->
     <div class="flowchart-section">
         <h2>🌍 The HumanOS 2.0 Vision Map</h2>
-        <p class="flowchart-subtitle">From extraction to abundance — the complete flow at a glance</p>
+        <p class="flowchart-subtitle">From extraction to abundance — click any discipline below to explore the blueprint</p>
         <div id="mermaid-diagram">
             <p style="color:var(--text-secondary); text-align:center;">Loading vision map…</p>
         </div>
@@ -230,32 +239,27 @@
 
     <!-- ==================== ACCORDION: EXPLORE THE BLUEPRINT ==================== -->
     <h2 style="text-align:center; color:var(--accent); margin-bottom:1.5rem;">🧭 Explore the Blueprint — The Disciplines of HumanOS 2.0</h2>
-<!-- Prototype & Pitch -->
-<div class="discipline">
-    <button type="button" class="discipline-btn">🛠️ Prototype & Pitch <span class="arrow">▼</span></button>
-    <div class="panel">
-        <!-- 1. JPE Master Plan -->
-        <a href="jpe-master-plan">🗺️ The JPE Master Plan — Complete Roadmap</a>
-        <!-- 2. Vision -->
-        <a href="prototype-overview">🌟 The Snapshot Prototype — Overview</a>
-        <!-- 3. Investor Pitch -->
-        <a href="pitch-deck">🚀 Space State Infrastructure — One‑Page Pitch</a>
-        <!-- 4. Detailed Technical Stack -->
-        <a href="prototype-phase1">🔧 Phase 1 Prototype Specification</a>
-        <a href="hybrid-protocol">🧬 The Hybrid Protocol — Image Lane and Cell Lane</a>
-        <a href="backend-revolution">🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud</a>
-        <!-- 5. Timeline -->
-        <a href="five-year-mission">🚀 The 5‑Year Mission — Computing @2.7 K in Space</a>
-        <!-- 6. Foundational Discipline -->
-        <a href="light-at-0-2.7k">💡 Light@0‑2.7Kelvin — The New Discipline</a>
-        <a href="y">y_decipline</a>
-        <a href="z">z_decipline</a>
-        <a href="Misc/z1">z1_decipline</a>
-       
+    
+    <!-- Prototype & Pitch -->
+    <div class="discipline" id="disc-prototype">
+        <button type="button" class="discipline-btn">🛠️ Prototype & Pitch <span class="arrow">▼</span></button>
+        <div class="panel">
+            <a href="jpe-master-plan">🗺️ The JPE Master Plan — Complete Roadmap</a>
+            <a href="prototype-overview">🌟 The Snapshot Prototype — Overview</a>
+            <a href="pitch-deck">🚀 Space State Infrastructure — One‑Page Pitch</a>
+            <a href="prototype-phase1">🔧 Phase 1 Prototype Specification</a>
+            <a href="hybrid-protocol">🧬 The Hybrid Protocol — Image Lane and Cell Lane</a>
+            <a href="backend-revolution">🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud</a>
+            <a href="five-year-mission">🚀 The 5‑Year Mission — Computing @2.7 K in Space</a>
+            <a href="light-at-0-2.7k">💡 Light@0‑2.7Kelvin — The New Discipline</a>
+            <a href="y">y_decipline</a>
+            <a href="z">z_decipline</a>
+            <a href="Misc/z1">z1_decipline</a>
+        </div>
     </div>
-</div>
+
     <!-- Engineering -->
-    <div class="discipline">
+    <div class="discipline" id="disc-engineering">
         <button type="button" class="discipline-btn">🛠️ Engineering — The Hardware of HumanOS 2.0 <span class="arrow">▼</span></button>
         <div class="panel">
             <a href="simple-engineering-vision">The Simple Engineering Vision</a>
@@ -274,8 +278,9 @@
             <a href="industry-convergence">Industry Convergence</a>
         </div>
     </div>
+
     <!-- Economics -->
-    <div class="discipline">
+    <div class="discipline" id="disc-economics">
         <button type="button" class="discipline-btn">💰 Economics — The End of Artificial Scarcity <span class="arrow">▼</span></button>
         <div class="panel">
             <a href="secondary-vs-permanent-cure">Secondary Solutions vs. The Permanent Cure</a>
@@ -307,8 +312,9 @@
             <a href="partners">Open Call for Partners</a>
         </div>
     </div>
+
     <!-- Education -->
-    <div class="discipline">
+    <div class="discipline" id="disc-education">
         <button type="button" class="discipline-btn">🎓 Education — The Engineer Hurricane <span class="arrow">▼</span></button>
         <div class="panel">
             <a href="engineer-hurricane">The Engineer Hurricane</a>
@@ -322,8 +328,9 @@
             <a href="z">The Ethics of the Narrow Canal</a>
         </div>
     </div>
+
     <!-- Strategy -->
-    <div class="discipline">
+    <div class="discipline" id="disc-strategy">
         <button type="button" class="discipline-btn">🎯 Strategy — Mission 2100 and Beyond <span class="arrow">▼</span></button>
         <div class="panel">
             <a href="mission-2100">Mission 2100</a>
@@ -339,8 +346,9 @@
             <a href="horizontal-future">The Horizontal Future</a>
         </div>
     </div>
+
     <!-- Philosophy -->
-    <div class="discipline">
+    <div class="discipline" id="disc-philosophy">
         <button type="button" class="discipline-btn">🔮 Philosophy — The Invisible Beliefs That Shape Civilizations <span class="arrow">▼</span></button>
         <div class="panel">
             <a href="canal-dogma">Canal Dogma</a>
@@ -376,8 +384,9 @@
             <a href="notebooklm-zero-sum-audit">🎲 The NotebookLM Zero‑Sum Audit — Game Theory & Opposite Physics</a>
         </div>
     </div>
+
     <!-- Consciousness -->
-    <div class="discipline">
+    <div class="discipline" id="disc-consciousness">
         <button type="button" class="discipline-btn">🧠 Consciousness <span class="arrow">▼</span></button>
         <div class="panel">
             <a href="consciousness-interface">The Consciousness Interface</a>
@@ -396,8 +405,9 @@
             <a href="riding-the-light">Riding the Light</a>
         </div>
     </div>
+
     <!-- Physics -->
-    <div class="discipline">
+    <div class="discipline" id="disc-physics">
         <button type="button" class="discipline-btn">⚛️ Physics — The Cosmic Reference Point <span class="arrow">▼</span></button>
         <div class="panel">
             <a href="light-at-0-2.7k">Light@0-2.7Kelvin</a>
@@ -417,8 +427,9 @@
             <a href="notebooklm-audit">📋 The NotebookLM Audit — Third‑Party Validation</a>
         </div>
     </div>
+
     <!-- Cosmology -->
-    <div class="discipline">
+    <div class="discipline" id="disc-cosmology">
         <button type="button" class="discipline-btn">🌌 Cosmology — The Structure and Dynamics of the Y‑Universe <span class="arrow">▼</span></button>
         <div class="panel">
             <a href="universe-shape-mapped">The Universe Mapped</a>
@@ -446,8 +457,9 @@
             <a href="The 40-Year Cycle">🌍The 40-Year Cycle</a>
         </div>
     </div>
+
     <!-- Community -->
-    <div class="discipline">
+    <div class="discipline" id="disc-community">
         <button type="button" class="discipline-btn">🌐 Community <span class="arrow">▼</span></button>
         <div class="panel">
             <a href="retired-contributors">Retired but Curious</a>
@@ -461,6 +473,7 @@
             <a href="languages">Languages</a>
         </div>
     </div>
+
     <!-- ==================== NARRATIVE SECTIONS ==================== -->
     <div class="narrative">
         <h2>1. THE DIAGNOSTIC: Why Every Civilization Collapses</h2>
@@ -557,7 +570,7 @@
 <!-- Mermaid library -->
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 <script>
-    // Accordion
+    // Accordion logic
     document.querySelectorAll('.discipline-btn').forEach(btn => {
         btn.addEventListener('click', () => {
             const parent = btn.parentElement;
@@ -567,6 +580,24 @@
 
     // Theme toggle
     const themeBtn = document.getElementById('theme-toggle');
+
+    // ─── Interactive Function for Mermaid Nodes ───
+    // This function is triggered when a user clicks a node in the Mermaid diagram
+    window.openAccordion = function(id) {
+        const el = document.getElementById(id);
+        if (el) {
+            // Close all currently open accordions for a clean view
+            document.querySelectorAll('.discipline.open').forEach(openEl => {
+                if (openEl !== el) openEl.classList.remove('open');
+            });
+            // Open the targeted accordion
+            el.classList.add('open');
+            // Smoothly scroll to it
+            setTimeout(() => {
+                el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }, 100);
+        }
+    };
 
     // ─── Mermaid Flowchart: The HumanOS 2.0 Vision Map ───
     const mermaidCode = `flowchart TD
@@ -600,12 +631,12 @@
     M --> N
 
     subgraph S4["🌟 NEW — Abundance Civilization"]
-        N --> O["⚡ Energy: Fusion"]
-        N --> P["🔬 Materials: Atom-by-atom"]
+        N --> O["⚡ Energy"]
+        N --> P["🔬 Materials"]
         N --> Q["🌾 Food and Water"]
         N --> R["💊 Medicine"]
-        N --> S["📚 Education: AI"]
-        N --> T["🌌 Space: Multi-planetary"]
+        N --> S["📚 Education"]
+        N --> T["🌌 Space"]
     end
 
     O --> U["✨ HumanOS 2.0<br/>From Scarcity to Abundance"]
@@ -615,6 +646,31 @@
     S --> U
     T --> U
 
+    U --> Explore["🧭 Explore the Blueprint Disciplines<br>(Click to open section)"]
+
+    Explore --> D1["🛠️ Prototype & Pitch"]
+    Explore --> D2["🛠️ Engineering"]
+    Explore --> D3["💰 Economics"]
+    Explore --> D4["🎓 Education"]
+    Explore --> D5["🎯 Strategy"]
+    Explore --> D6["🔮 Philosophy"]
+    Explore --> D7["🧠 Consciousness"]
+    Explore --> D8["⚛️ Physics"]
+    Explore --> D9["🌌 Cosmology"]
+    Explore --> D10["🌐 Community"]
+
+    %% Click interactions linking Mermaid nodes to HTML elements
+    click D1 call window.openAccordion('disc-prototype')
+    click D2 call window.openAccordion('disc-engineering')
+    click D3 call window.openAccordion('disc-economics')
+    click D4 call window.openAccordion('disc-education')
+    click D5 call window.openAccordion('disc-strategy')
+    click D6 call window.openAccordion('disc-philosophy')
+    click D7 call window.openAccordion('disc-consciousness')
+    click D8 call window.openAccordion('disc-physics')
+    click D9 call window.openAccordion('disc-cosmology')
+    click D10 call window.openAccordion('disc-community')
+
     classDef collapse fill:#e74c3c,stroke:#c0392b,color:#fff
     classDef choice fill:#e67e22,stroke:#d35400,color:#fff
     classDef cosmos fill:#1abc9c,stroke:#16a085,color:#fff
@@ -622,6 +678,7 @@
     classDef cascade fill:#9b59b6,stroke:#8e44ad,color:#fff
     classDef abundance fill:#2ecc71,stroke:#27ae60,color:#fff
     classDef goal fill:#f1c40f,stroke:#e6b800,color:#1a1a2e
+    classDef discipline fill:#112240,stroke:#7FDBFF,color:#7FDBFF,stroke-width:2px
 
     class A,E collapse
     class D choice
@@ -630,6 +687,7 @@
     class N cascade
     class O,P,Q,R,S,T abundance
     class U goal
+    class D1,D2,D3,D4,D5,D6,D7,D8,D9,D10 discipline
     `;
 
     let renderCounter = 0;
@@ -646,7 +704,7 @@
         mermaid.initialize({
             startOnLoad: false,
             theme: mermaidTheme,
-            securityLevel: 'loose',
+            securityLevel: 'loose', // Required to allow click callbacks
             flowchart: {
                 useMaxWidth: true,
                 htmlLabels: true,
