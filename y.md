@@ -1,4 +1,20 @@
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // 1. Convert standard markdown code blocks into Mermaid divs
+    document.querySelectorAll('code.language-mermaid').forEach(function (block) {
+      const div = document.createElement('div');
+      div.className = 'mermaid';
+      div.textContent = block.textContent;
+      block.parentElement.replaceWith(div);
+    });
+
+    // 2. Initialize Mermaid to draw the diagrams
+    if (typeof mermaid !== 'undefined') {
+      mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+    }
+  });
+</script>
 
 # TECHNICAL BRIEFING: SYSTEMIC RUIN OF EDUCATION AND COMMODITY EXTRACTION
 
