@@ -104,10 +104,35 @@
             overflow-y: hidden;
             scrollbar-width: thin; /* For Firefox */
         }
-        /* Keep bullet points visible when list becomes a scroll container */
+        
+        /* Custom Bullet Points to fix alignment inside scrollable lists */
+        ul, ol {
+            padding-left: 1.5rem;
+            list-style: none; /* Remove default browser bullets */
+        }
+        ol {
+            counter-reset: item;
+        }
         li {
-            list-style-position: inside;
+            position: relative;
             padding-left: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        ul > li::before {
+            content: "•";
+            position: absolute;
+            left: -0.8rem;
+            top: 0;
+            color: var(--text-secondary);
+        }
+        ol > li::before {
+            content: counter(item) ".";
+            counter-increment: item;
+            position: absolute;
+            left: -1.5rem;
+            top: 0;
+            color: var(--text-secondary);
+            font-weight: bold;
         }
         
         /* Webkit scrollbar styling (Auto-hide) */
