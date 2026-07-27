@@ -5,10 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google" content="notranslate">
     <title>Justice Physics Nalanda — The Virtual Academy for HumanOS 2.0</title>
-    
-    <!-- Mermaid -->
-    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
-    
     <style>
         :root {
             --bg: #0B1A2F;
@@ -43,6 +39,7 @@
             margin: 0 auto;
             padding: 2rem 0;
         }
+        /* Header */
         h1 {
             color: var(--accent);
             font-size: clamp(1.7rem, 5vw, 2.4rem);
@@ -57,6 +54,13 @@
             margin-bottom: 0.5rem;
             font-size: clamp(0.95rem, 3vw, 1.15rem);
         }
+        .translation-note {
+            text-align: center;
+            font-size: 0.85rem;
+            color: #aaa;
+            margin-bottom: 1.5rem;
+        }
+        /* Controls bar */
         .controls {
             display: flex;
             justify-content: center;
@@ -81,6 +85,7 @@
             background: var(--accent);
             color: var(--bg);
         }
+        /* Accordion */
         .discipline {
             background: var(--surface);
             border: 1px solid var(--border);
@@ -134,6 +139,37 @@
         .panel a:hover {
             color: var(--accent);
         }
+        /* Mermaid flowchart section */
+        .flowchart-section {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .flowchart-section h2 {
+            text-align: center;
+            color: var(--accent);
+            font-size: 1.3rem;
+            margin-bottom: 0.3rem;
+        }
+        .flowchart-section .flowchart-subtitle {
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+        #mermaid-diagram {
+            overflow-x: auto;
+            text-align: center;
+            padding: 1rem 0;
+            min-height: 100px;
+        }
+        #mermaid-diagram svg {
+            max-width: 100%;
+            height: auto;
+        }
+        /* Narrative sections */
         .narrative {
             margin-top: 2.5rem;
         }
@@ -148,11 +184,11 @@
             color: var(--accent);
             margin: 1.2rem 0 0.5rem;
         }
-        .narrative p, .narrative ul, .narrative ol {
+        .narrative p, .narrative ul {
             color: var(--text-secondary);
             margin-bottom: 1rem;
         }
-        .narrative ul, .narrative ol {
+        .narrative ul {
             padding-left: 1.5rem;
         }
         .narrative li {
@@ -168,71 +204,56 @@
             color: var(--accent);
             text-decoration: none;
         }
-        /* Mermaid */
-        .mermaid-wrapper {
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            padding: 1.5rem 1rem;
-            margin: 2.5rem 0;
-            overflow-x: auto;
-        }
-        .mermaid-wrapper h2 {
-            color: var(--accent);
-            text-align: center;
-            margin-bottom: 1.2rem;
-            font-size: 1.35rem;
-        }
-        .mermaid {
-            display: flex;
-            justify-content: center;
-        }
     </style>
 </head>
 <body>
 <div class="container">
-
     <!-- Header -->
     <h1>🏛️ Justice Physics Nalanda</h1>
-    <p class="subtitle">
-        <a href="cosmos-human-link" style="color:inherit; text-decoration:none;">
-            <em>🌐 Cosmos — Human — Human Life</em>
-        </a><br>
-        <em>The Virtual Academy for HumanOS 2.0</em>
-    </p>
-    <p class="subtitle" style="font-style:normal; margin-top:0.5rem;">
-        Writing the code of a new civilisation — From scarcity to abundance.
-    </p>
-
+    <p class="subtitle"><a href="cosmos-human-link" style="color:inherit; text-decoration:none;"><em>🌐 Cosmos — Human — Human Life</em></a><br><em>The Virtual Academy for HumanOS 2.0</em></p>
+    <p class="subtitle" style="font-style:normal; margin-top:0.5rem;">Writing the code of a new civilisation — From scarcity to abundance.</p>
+   
     <!-- Controls -->
     <div class="controls">
         <a href="languages.html">🌐 Languages</a>
         <button type="button" id="theme-toggle" onclick="toggleTheme()">🌓 Day / Night</button>
     </div>
 
-    <!-- ==================== ACCORDION ==================== -->
-    <h2 style="text-align:center; color:var(--accent); margin-bottom:1.5rem;">
-        🧭 Explore the Blueprint — The Disciplines of HumanOS 2.0
-    </h2>
-
-    <!-- Prototype & Pitch -->
-    <div class="discipline">
-        <button type="button" class="discipline-btn">🛠️ Prototype & Pitch <span class="arrow">▼</span></button>
-        <div class="panel">
-            <a href="jpe-master-plan">🗺️ The JPE Master Plan — Complete Roadmap</a>
-            <a href="prototype-overview">🌟 The Snapshot Prototype — Overview</a>
-            <a href="pitch-deck">🚀 Space State Infrastructure — One‑Page Pitch</a>
-            <a href="prototype-phase1">🔧 Phase 1 Prototype Specification</a>
-            <a href="hybrid-protocol">🧬 The Hybrid Protocol — Image Lane and Cell Lane</a>
-            <a href="backend-revolution">🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud</a>
-            <a href="five-year-mission">🚀 The 5‑Year Mission — Computing @2.7 K in Space</a>
-            <a href="light-at-0-2.7k">💡 Light@0‑2.7Kelvin — The New Discipline</a>
-            <a href="y">y_decipline</a>
-            <a href="z">z_decipline</a>
-            <a href="Misc/z1">z1_decipline</a>
+    <!-- ==================== MERMAID FLOWCHART: THE VISION MAP ==================== -->
+    <div class="flowchart-section">
+        <h2>🌍 The HumanOS 2.0 Vision Map</h2>
+        <p class="flowchart-subtitle">From extraction to abundance — the complete flow at a glance</p>
+        <div id="mermaid-diagram">
+            <p style="color:var(--text-secondary); text-align:center;">Loading vision map…</p>
         </div>
     </div>
 
+    <!-- ==================== ACCORDION: EXPLORE THE BLUEPRINT ==================== -->
+    <h2 style="text-align:center; color:var(--accent); margin-bottom:1.5rem;">🧭 Explore the Blueprint — The Disciplines of HumanOS 2.0</h2>
+<!-- Prototype & Pitch -->
+<div class="discipline">
+    <button type="button" class="discipline-btn">🛠️ Prototype & Pitch <span class="arrow">▼</span></button>
+    <div class="panel">
+        <!-- 1. JPE Master Plan -->
+        <a href="jpe-master-plan">🗺️ The JPE Master Plan — Complete Roadmap</a>
+        <!-- 2. Vision -->
+        <a href="prototype-overview">🌟 The Snapshot Prototype — Overview</a>
+        <!-- 3. Investor Pitch -->
+        <a href="pitch-deck">🚀 Space State Infrastructure — One‑Page Pitch</a>
+        <!-- 4. Detailed Technical Stack -->
+        <a href="prototype-phase1">🔧 Phase 1 Prototype Specification</a>
+        <a href="hybrid-protocol">🧬 The Hybrid Protocol — Image Lane and Cell Lane</a>
+        <a href="backend-revolution">🔙 The Backend Revolution — Every App, Every AI, Every Tool Moves to the Cloud</a>
+        <!-- 5. Timeline -->
+        <a href="five-year-mission">🚀 The 5‑Year Mission — Computing @2.7 K in Space</a>
+        <!-- 6. Foundational Discipline -->
+        <a href="light-at-0-2.7k">💡 Light@0‑2.7Kelvin — The New Discipline</a>
+        <a href="y">y_decipline</a>
+        <a href="z">z_decipline</a>
+        <a href="Misc/z1">z1_decipline</a>
+       
+    </div>
+</div>
     <!-- Engineering -->
     <div class="discipline">
         <button type="button" class="discipline-btn">🛠️ Engineering — The Hardware of HumanOS 2.0 <span class="arrow">▼</span></button>
@@ -253,7 +274,6 @@
             <a href="industry-convergence">Industry Convergence</a>
         </div>
     </div>
-
     <!-- Economics -->
     <div class="discipline">
         <button type="button" class="discipline-btn">💰 Economics — The End of Artificial Scarcity <span class="arrow">▼</span></button>
@@ -287,7 +307,6 @@
             <a href="partners">Open Call for Partners</a>
         </div>
     </div>
-
     <!-- Education -->
     <div class="discipline">
         <button type="button" class="discipline-btn">🎓 Education — The Engineer Hurricane <span class="arrow">▼</span></button>
@@ -303,7 +322,6 @@
             <a href="z">The Ethics of the Narrow Canal</a>
         </div>
     </div>
-
     <!-- Strategy -->
     <div class="discipline">
         <button type="button" class="discipline-btn">🎯 Strategy — Mission 2100 and Beyond <span class="arrow">▼</span></button>
@@ -321,7 +339,6 @@
             <a href="horizontal-future">The Horizontal Future</a>
         </div>
     </div>
-
     <!-- Philosophy -->
     <div class="discipline">
         <button type="button" class="discipline-btn">🔮 Philosophy — The Invisible Beliefs That Shape Civilizations <span class="arrow">▼</span></button>
@@ -353,13 +370,12 @@
             <a href="qpf-and-mystics">The QPF and the Mystics</a>
             <a href="bohm-horizontal-future">David Bohm and the Horizontal Future</a>
             <a href="the-broken-link">The Broken Link — Why Humanity Is on the Brink</a>
-            <a href="einstein-truth-seeking">Einstein’s Aspiration — Science as Truth‑Seeking</a>
+            <a href="einstein-truth-seeking">Einstein's Aspiration — Science as Truth‑Seeking</a>
             <a href="zero-sum-game">⚖️ The Zero‑Sum Game — Distribution vs. Extraction</a>
             <a href="identical-arithmetic-opposite-physics">🧮 Identical Arithmetic, Opposite Physics</a>
             <a href="notebooklm-zero-sum-audit">🎲 The NotebookLM Zero‑Sum Audit — Game Theory & Opposite Physics</a>
         </div>
     </div>
-
     <!-- Consciousness -->
     <div class="discipline">
         <button type="button" class="discipline-btn">🧠 Consciousness <span class="arrow">▼</span></button>
@@ -380,7 +396,6 @@
             <a href="riding-the-light">Riding the Light</a>
         </div>
     </div>
-
     <!-- Physics -->
     <div class="discipline">
         <button type="button" class="discipline-btn">⚛️ Physics — The Cosmic Reference Point <span class="arrow">▼</span></button>
@@ -402,7 +417,6 @@
             <a href="notebooklm-audit">📋 The NotebookLM Audit — Third‑Party Validation</a>
         </div>
     </div>
-
     <!-- Cosmology -->
     <div class="discipline">
         <button type="button" class="discipline-btn">🌌 Cosmology — The Structure and Dynamics of the Y‑Universe <span class="arrow">▼</span></button>
@@ -412,7 +426,7 @@
             <a href="internal-cube-external-sphere">The Internal Cube and the External Sphere</a>
             <a href="ball-straight-line-universe">The Ball, the Straight Line</a>
             <a href="expansion-of-matter-not-space">The Expansion of Matter, Not Space</a>
-            <a href="hubble-law-static-plenum">Hubble’s Law in the Static Plenum</a>
+            <a href="hubble-law-static-plenum">Hubble's Law in the Static Plenum</a>
             <a href="finite-closed-conserved-cosmos">The Finite, Closed, Conserved Cosmos</a>
             <a href="impossibility-of-outside">The Impossibility of the Outside</a>
             <a href="opposing-properties-space-matter">The Opposing Properties of Space and Matter</a>
@@ -432,7 +446,6 @@
             <a href="The 40-Year Cycle">🌍The 40-Year Cycle</a>
         </div>
     </div>
-
     <!-- Community -->
     <div class="discipline">
         <button type="button" class="discipline-btn">🌐 Community <span class="arrow">▼</span></button>
@@ -448,36 +461,7 @@
             <a href="languages">Languages</a>
         </div>
     </div>
-
-    <!-- ==================== MERMAID FLOWCHART ==================== -->
-    <div class="mermaid-wrapper">
-        <h2>🗺️ The HumanOS 2.0 Cascade — From Collapse to Abundance</h2>
-        <div class="mermaid">
-flowchart TD
-    A["1. THE DIAGNOSTIC<br/>70–80% Extraction<br/>Gini 0.88–0.90<br/>Civilization Collapse"] --> B["2. PHYSICAL PROOF<br/>Cosmos runs 13.8B years<br/>without collapse<br/>Y-Lattice @ 2.7 K"]
-    B --> C["3. ENGINEERING PRESCRIPTION<br/>HumanOS 2.0 Compute Fabric"]
-    C --> D["Modular silicon nodes<br/>+ Photonic interconnects<br/>@ 0–2.7 Kelvin"]
-    D --> E["Two Deployment Paths"]
-    E --> F["Earth Cryostat<br/>Liquid He / N₂"]
-    E --> G["Space Constellation<br/>Free power + free coolant"]
-    D --> H["4. THE CASCADE"]
-    H --> I["Energy · Materials · Food<br/>Medicine · Education · Space"]
-    I --> J["Artificial scarcity collapses<br/>because the physical bottleneck<br/>is removed"]
-    J --> K["5. THE TIMELINE<br/>5–15 year window<br/>Build or let physics correct"]
-    K --> L["6. JOIN THE MOVEMENT<br/>Open, patent-free blueprint"]
-
-    style A fill:#3a1a1a,stroke:#ff6b6b,color:#fff
-    style B fill:#1a2a3a,stroke:#7FDBFF,color:#fff
-    style C fill:#1a2a3a,stroke:#7FDBFF,color:#fff
-    style D fill:#112240,stroke:#7FDBFF,color:#fff
-    style H fill:#1a3a2a,stroke:#7FDBFF,color:#fff
-    style J fill:#1a3a2a,stroke:#7FDBFF,color:#fff
-    style K fill:#3a2a1a,stroke:#ffcc66,color:#fff
-    style L fill:#1a3a1a,stroke:#66ff99,color:#fff
-        </div>
-    </div>
-
-    <!-- ==================== NARRATIVE ==================== -->
+    <!-- ==================== NARRATIVE SECTIONS ==================== -->
     <div class="narrative">
         <h2>1. THE DIAGNOSTIC: Why Every Civilization Collapses</h2>
         <p><em>"From Bihar to the 70%" — Book 1 of The Operating System Chronicles</em></p>
@@ -490,7 +474,6 @@ flowchart TD
         </ul>
         <p><strong>Root cause:</strong> Capital evolved from a human tool into an autonomous entity with its own survival imperatives. It operates through an <strong>11-layer protocol</strong> that survives by replacing representatives — kings, CEOs, politicians. The elite is not people. It is software.</p>
         <p><strong>Why we keep repeating the collapse:</strong> Humans believe abstract thought can override physical law in the physical realm. We build economic systems that violate energy distribution laws. We create extraction mechanisms that assume immunity from thermodynamics. But when thought becomes action, physics is sovereign. The pressure builds. And when it cannot release gradually, it corrects violently.</p>
-
         <h2>2. THE PHYSICAL PROOF: How the Cosmos Operates Without Collapse</h2>
         <p>The universe has run for <strong>13.8 billion years</strong> without a single collapse. Why?</p>
         <p>Because it obeys its own physical design:</p>
@@ -502,7 +485,6 @@ flowchart TD
         </ul>
         <p>The Big Bang was not a creation event. It was a phase transition — from contraction to expansion — in an eternal, cyclic sequence. There was no "t=0." There is only the continuous, unbroken sequence of rearrangement.</p>
         <p><strong>The cosmos does not congest. It expands, distributes, and cools.</strong></p>
-
         <h2>3. THE ENGINEERING PRESCRIPTION: HumanOS 2.0 Compute Fabric</h2>
         <p>We can now build a civilization that mirrors the cosmic design — <strong>not through philosophy, but through hardware.</strong></p>
         <h3>The Traffic Jam (Current Model)</h3>
@@ -525,7 +507,6 @@ flowchart TD
         </ol>
         <p><strong>Result:</strong> A global, open, distributed compute fabric that makes high‑end computation abundant and near‑free. This is the backbone of <strong>HumanOS 2.0</strong> — a civilization that obeys physics and circulates energy rather than extracting it.</p>
         <p><a href="chip-architecture">→ Read the full chip architecture specification</a></p>
-
         <h2>4. THE CASCADE: What This Unlocks</h2>
         <p>Once computation is no longer bottlenecked:</p>
         <ul>
@@ -537,11 +518,9 @@ flowchart TD
             <li><strong>Space:</strong> Self‑sustaining habitats, interstellar communication, multi‑planetary civilization.</li>
         </ul>
         <p>Every artificial scarcity collapses — not through revolution, but because the <strong>physical bottleneck is removed</strong>.</p>
-
         <h2>5. THE TIMELINE</h2>
         <p>Economic instability (Gini 0.88), climate tipping points (6 of 9 boundaries exceeded), nuclear proliferation (12,000+ warheads). Convergent evidence gives a window of approximately <strong>5–15 years</strong> to build the conscious correction.</p>
         <p><strong>The choice:</strong> Build the 0 K compute fabric and release the pressure voluntarily — or let physics correct it violently.</p>
-
         <h2>6. JOIN THE MOVEMENT</h2>
         <p>I am an independent researcher from Bihar, with no institutional funding, working from a rented house with a 15‑year‑old computer. Every resource is borrowed. But the blueprint is complete, and it is <strong>free for humanity</strong>.</p>
         <p><strong>What I need:</strong></p>
@@ -558,18 +537,16 @@ flowchart TD
             <li>The complete engineering specification (0 K Photonic Compute Fabric).</li>
             <li>An open, patent‑free partnership model.</li>
         </ul>
-
         <h2>📡 CONNECT</h2>
         <ul>
             <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/justice-physics-nalanda-the-virtual-academy-for-humanos%E2%80%AF2-501b5a69/">Justice Physics Nalanda (Cosmos—Human—Human Life.) - The Virtual Academy for HumanOS 2</a></li>
             <li><strong>Email:</strong> mukesh.justicephysics@gmail.com</li>
             <li><strong>GitHub:</strong> <a href="https://github.com/justicephysics/humanos2.0">justicephysics/humanos2.0</a></li>
-            <li><strong>Book:</strong> <a href="https://www.amazon.in/s?k=from+bihar+to+70%25&crid=37ONR04BMCMIY&sprefix=from+bihar+to%2Caps%2C678&ref=nb_sb_noss_2">"From Bihar to the 70%" — The Operating System Chronicles, Book 1 (Amazon Kindle)</a></li>
+            <li><strong>Book:</strong><a href="https://www.amazon.in/s?k=from+bihar+to+70%25&crid=37ONR04BMCMIY&sprefix=from+bihar+to%2Caps%2C678&ref=nb_sb_noss_2">"From Bihar to the 70%" — The Operating System Chronicles, Book 1 (Amazon Kindle)</a></li>
         </ul>
         <p style="font-style:italic; margin-top:2rem;">"Abstract thought is free. Physical action is bound. Confuse the two, and physics corrects. Align them, and civilization thrives."</p>
         <p><strong>#LisMissing #JusticePhysics #HumanOS2 #CryogenicComputing #PhotonicFabric</strong></p>
     </div>
-
     <!-- Footer -->
     <div class="footer">
         <p>✨ Open‑source and free for all curious minds. <a href="https://github.com/justicephysics/humanos2.0">Contribute on GitHub</a>.</p>
@@ -577,6 +554,8 @@ flowchart TD
 </div>
 
 <!-- ==================== SCRIPTS ==================== -->
+<!-- Mermaid library -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 <script>
     // Accordion
     document.querySelectorAll('.discipline-btn').forEach(btn => {
@@ -588,6 +567,106 @@ flowchart TD
 
     // Theme toggle
     const themeBtn = document.getElementById('theme-toggle');
+
+    // ─── Mermaid Flowchart: The HumanOS 2.0 Vision Map ───
+    const mermaidCode = `flowchart TD
+    subgraph S1["❌ CURRENT — Extraction Civilization"]
+        A["70–80% resources extracted<br/>to elite silos<br/>Gini 0.88–0.90"]
+    end
+
+    A --> D{"⚖️ 5–15 Year<br/>Window of Choice"}
+
+    D -->|"Violent correction"| E["💥 Civilizational Collapse"]
+    D -->|"Conscious correction"| F["🔭 Study the Cosmos<br/>13.8B years — zero collapse"]
+
+    subgraph S2["✅ COSMIC DESIGN — The Reference Model"]
+        F --> G["One substance Y<br/>mass = energy = space"]
+        F --> H["2.7 K Quantum Lattice<br/>superconducting heat sink"]
+        F --> I["Pull and Push<br/>G-Force ↔ E=mc²"]
+    end
+
+    G --> J["🔧 HumanOS 2.0<br/>Compute Fabric"]
+    H --> J
+    I --> J
+
+    subgraph S3["⚙️ ENGINEERING PRESCRIPTION"]
+        J --> K["Modular silicon nodes<br/>3 GHz each"]
+        J --> L["Photonic interconnects<br/>0 resistance, 0 heat"]
+        J --> M["0–2.7 K cryogenic<br/>operation"]
+    end
+
+    K --> N["🚀 Abundance Cascade"]
+    L --> N
+    M --> N
+
+    subgraph S4["🌟 NEW — Abundance Civilization"]
+        N --> O["⚡ Energy: Fusion"]
+        N --> P["🔬 Materials: Atom-by-atom"]
+        N --> Q["🌾 Food and Water"]
+        N --> R["💊 Medicine"]
+        N --> S["📚 Education: AI"]
+        N --> T["🌌 Space: Multi-planetary"]
+    end
+
+    O --> U["✨ HumanOS 2.0<br/>From Scarcity to Abundance"]
+    P --> U
+    Q --> U
+    R --> U
+    S --> U
+    T --> U
+
+    classDef collapse fill:#e74c3c,stroke:#c0392b,color:#fff
+    classDef choice fill:#e67e22,stroke:#d35400,color:#fff
+    classDef cosmos fill:#1abc9c,stroke:#16a085,color:#fff
+    classDef fabric fill:#3498db,stroke:#2980b9,color:#fff
+    classDef cascade fill:#9b59b6,stroke:#8e44ad,color:#fff
+    classDef abundance fill:#2ecc71,stroke:#27ae60,color:#fff
+    classDef goal fill:#f1c40f,stroke:#e6b800,color:#1a1a2e
+
+    class A,E collapse
+    class D choice
+    class F,G,H,I cosmos
+    class J,K,L,M fabric
+    class N cascade
+    class O,P,Q,R,S,T abundance
+    class U goal
+    `;
+
+    let renderCounter = 0;
+
+    async function renderMermaid(theme) {
+        if (typeof mermaid === 'undefined') {
+            // Retry if library not yet loaded
+            setTimeout(() => renderMermaid(theme), 500);
+            return;
+        }
+
+        const mermaidTheme = theme === 'light' ? 'default' : 'dark';
+
+        mermaid.initialize({
+            startOnLoad: false,
+            theme: mermaidTheme,
+            securityLevel: 'loose',
+            flowchart: {
+                useMaxWidth: true,
+                htmlLabels: true,
+                curve: 'basis',
+                padding: 20
+            }
+        });
+
+        try {
+            const id = 'mmd-graph-' + (renderCounter++);
+            const { svg } = await mermaid.render(id, mermaidCode);
+            const container = document.getElementById('mermaid-diagram');
+            container.innerHTML = svg;
+        } catch (err) {
+            console.error('Mermaid render error:', err);
+            const container = document.getElementById('mermaid-diagram');
+            container.innerHTML = '<p style="color:var(--text-secondary);text-align:center;">⚠️ Diagram could not be rendered. Please refresh the page.</p>';
+        }
+    }
+
     function setTheme(mode) {
         if (mode === 'light') {
             document.body.classList.add('light-mode');
@@ -596,28 +675,20 @@ flowchart TD
             document.body.classList.remove('light-mode');
             themeBtn.textContent = '☀️ Day Mode';
         }
+        // Re-render mermaid with the new theme
+        renderMermaid(mode);
     }
+
     window.toggleTheme = function() {
         const isLight = document.body.classList.contains('light-mode');
         const newMode = isLight ? 'dark' : 'light';
         localStorage.setItem('theme', newMode);
         setTheme(newMode);
     };
+
     // Load saved theme
     const saved = localStorage.getItem('theme') || 'dark';
     setTheme(saved);
-
-    // Initialize Mermaid
-    mermaid.initialize({
-        startOnLoad: true,
-        theme: 'dark',
-        securityLevel: 'loose',
-        flowchart: {
-            useMaxWidth: true,
-            htmlLabels: true,
-            curve: 'basis'
-        }
-    });
 </script>
 </body>
 </html>
