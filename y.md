@@ -6,7 +6,7 @@
 
 ### 1.1 Foundational Primary and Secondary Atrophy
 Data from the Annual Status of Education Report (ASER) and national educational telemetry indicates a structural collapse at the primary and secondary base:
-* **Learning Deficits**: Over 50 % of Grade 5 students in rural public schools are unable to read a Grade 2 level textbook or perform basic 3-digit division.
+* **Learning Deficits**: Over 50 % and $50\%$ of Grade 5 students in rural public schools are unable to read a Grade 2 level textbook or perform basic 3-digit division.
 * **Multigrade Classrooms and School Shrinkage**: 66 % of Grade I and II public primary classrooms operate under multigrade arrangements (a single instructor managing multiple grades concurrently). Over 52 % of public primary schools maintain an enrollment of $$<60$$ total students due to parental flight toward low-fee private institutions.
 * **Instructional Vacancies**: Over $$1,000,000$$ ($$10\text{Lakh}$$) sanctioned public teaching posts remain vacant across primary and secondary tiers nationwide.
 
