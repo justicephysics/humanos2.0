@@ -34,6 +34,15 @@
             --accent: #0077b6;
             --border: #d0d7de;
         }
+        
+        /* Force enable text selection/copying */
+        * {
+            -webkit-user-select: text;
+            -moz-user-select: text;
+            -ms-user-select: text;
+            user-select: text;
+        }
+        
         body {
             background: var(--bg);
             color: var(--text);
@@ -102,29 +111,11 @@
         {{ content }}
     </div>
 
-    <!-- Pre-process math to fix \% rendering issue in MathJax v3 -->
+    <!-- Pre-process math to fix \% rendering issue -->
     <script>
       (function() {
-        const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
-        let node;
-        while ((node = walker.nextNode())) {
-          const text = node.nodeValue;
-          // Only process if it contains math delimiters and \%
-          if (text && text.includes('\\%') && (text.includes('$') || text.includes('\\('))) {
-            const newText = text.replace(/\$\$([\s\S]+?)\$\$|\$([^$]+)\$|\\\(([\s\S]+?)\\\)|\\\[([\s\S]+?)\\\]/g, (match, display, inline, paren, bracket) => {
-              let math = display || inline || paren || bracket;
-              if (!math) return match;
-              // Replace \% with \unicode{x25} which renders correctly in both math and text modes
-              const fixed = math.replace(/\\\%/g, '\\unicode{x25}');
-              if (display) return `$$${fixed}$$`;
-              if (inline) return `$${fixed}$`;
-              if (paren) return `\\(${fixed}\\)`;
-              if (bracket) return `\\[${fixed}\\]`;
-              return match;
-            });
-            node.nodeValue = newText;
-          }
-        }
+        // Replace \% with {\%} which MathJax v3 processes perfectly as a literal percent sign
+        document.body.innerHTML = document.body.innerHTML.split('\\%').join('{\\\\%}');
       })();
     </script>
 
