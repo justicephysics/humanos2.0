@@ -97,6 +97,19 @@
             transition: background 0.2s, color 0.2s;
         }
         .theme-btn:hover { background: var(--accent); color: var(--bg); }
+
+        /* Math Equation Weight Control & Mobile Fit */
+        mjx-container {
+            max-width: 100%;
+            overflow-x: auto;
+            overflow-y: hidden;
+            padding-bottom: 0.5rem; /* Adds a little space for scrollbars */
+        }
+        /* Specifically target display math $$...$$ */
+        mjx-container[display="true"] {
+            display: block !important;
+            margin: 1rem 0;
+        }
     </style>
 </head>
 <body>
@@ -136,6 +149,10 @@
         tex: {
           inlineMath: [['$', '$'], ['\\(', '\\)']],
           displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        },
+        chtml: {
+          // Automatically breaks long equations to fit the screen width
+          linebreaks: { automatic: true } 
         }
       };
     </script>
