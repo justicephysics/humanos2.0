@@ -103,4 +103,4 @@ When resources are guaranteed, the biological engine is no longer driven by fear
 - [The Canal Dogma — The Invisible Belief That Destroys Everything](canal-dogma)
 - [Mission 2100 — The Warrior‑Engineers' Campaign](mission-2100)
 - [Open Call for Partners](partners)
-```
+
