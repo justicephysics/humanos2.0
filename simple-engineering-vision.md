@@ -30,7 +30,7 @@ The answer, once you see it, is devastatingly simple. And so is the cure.
 
 ---
 
-## 1. The Three Heat Sources in Every CPU
+## 1. The Three Heat Sources in Every CPU/ GPU/ TPU
 
 Every computation boils down to three tiny actions:
 
