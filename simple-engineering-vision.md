@@ -30,17 +30,18 @@ The answer, once you see it, is devastatingly simple. And so is the cure.
 
 ---
 
-## 1. The Three Heat Sources in Every CPU/ GPU/ TPU
+## 1. The four Heat Sources in Every CPU/ GPU/ TPU
 
-Every computation boils down to three tiny actions:
+Every computation boils down to four tiny actions:
 
 | Action | What happens | Heat source |
 |--------|--------------|-------------|
 | **1. ON/OFF (switching)** | A transistor flips from 0 to 1 or 1 to 0. | Tiny energy lost as heat every flip. |
 | **2. Data collection** | The resulting 0/1 is captured by a capacitor or register. | Charging/discharging a tiny capacitor wastes energy. |
 | **3. Data move forward** | The 0/1 travels along a copper wire to the next gate. | Electrons collide with copper atoms — resistive heat. |
+| **4. Data write or read or both** |||
 
-All three actions happen billions of times per second inside a single chip.  
+All four actions happen billions of times per second inside a single chip.  
 When you push for higher speed (more GHz), every one of these heat sources gets worse.
 
 **This is the "traffic jam."**  
@@ -52,9 +53,12 @@ Narrow copper canals, packed with fast‑switching transistors, generating heat 
 
 For 50 years, the semiconductor industry has followed one rule:
 
-> *"Make transistors smaller, pack them denser, and clock them faster."*
+> Moore's Law is the observation that the number of transistors on a computer chip doubles approximately every two years, leading to exponential growth in computing power and efficiency.
+> But Moore's law was silent on the side effect: That is, efficiency vs heat as a waste of energy as an operational cost.
 
-That gave us incredible progress — but it also concentrated the heat. A modern CPU has billions of transistors in an area the size of a fingernail. The heat density rivals a rocket nozzle.
+> *"Make transistors smaller, pack them denser, and clock them faster, but not count the cost of the furnace."*
+
+That gave us incredible progress — but it also concentrated the heat. A modern CPU/ GPU/ TPU has billions of transistors in an area the size of a fingernail. The heat density rivals a rocket nozzle.
 
 **What did we do?**  
 We added massive cooling systems — fans, air conditioners, water chillers. Today, data centres consume **1–2% of the world's electricity**, and up to **40% of that is spent on cooling alone**.
@@ -120,7 +124,7 @@ What if we stopped fighting heat and instead **eliminated it at the root**?
 
 ---
 
-## 4. The Four Heat Gateways in Every CPU
+## 4. The Four Heat Gateways in Every CPU/ GPU/ TPU
 
 Every computation is a chain of four tiny actions. At each step, energy is spent — and when we push for higher speed, all four become heat sources.
 
