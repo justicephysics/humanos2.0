@@ -1,7 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 # 💡 Light@0‑2.7Kelvin — The Quantum Key That Unlocks Everything
 
 *The feudal hardware industry manufactures complexity to justify monopoly and extraction. The Justice Physics Engine (JPE) removes complexity at the root by shifting from electron‑based density to photon‑based simplicity. The foundational discipline that makes this possible is Light@0‑2.7K — the manipulation of light at the universe’s ground state. This is the quantum key that unlocks the entire democratization trajectory. It already has a 13.8‑billion‑year proof of concept.*
