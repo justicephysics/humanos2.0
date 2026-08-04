@@ -105,7 +105,7 @@ What if we stopped fighting heat and instead **eliminated it at the root**?
 ### Step 1: Thin, wide, cold modules — kill the heat at source
 - Take ordinary silicon transistors.
 - Thin the chip to a few microns — so heat travels almost zero distance to escape.
-- Bond the chip directly to a superconducting cold plate at **0 K to 2.7 K** (the temperature of deep space).
+- “Bond the chip to a deep-cold thermal plane referenced toward the 2.7 K cosmic background, operating at a practical cryogenic temperature above that reference.”
 - **Result:** Heat from switching and collection is absorbed in **nanoseconds**, before it builds up.
 
 ### Step 2: Replace copper with light — kill the resistive traffic jam
@@ -115,12 +115,12 @@ What if we stopped fighting heat and instead **eliminated it at the root**?
 
 ### Step 3: Modular, not monolithic — scale without limits
 - Don't build one giant, hot chip. Build **small, simple modules** — each running at a comfortable 2–3 GHz.
-- Need more power? **Add more modules.** 100 modules = 300 GHz aggregate. 1,000 modules = 3 THz.
+- Need more power? **Add more modules.** 100 modules at 3 GHz provide aggregate parallel throughput equivalent to a much larger monolithic system, while preserving modularity and fault tolerance. 1,000 modules = 3 THz.
 - If a module fails, swap it out. The rest of the fabric keeps running.
 
 ### Step 4: Deploy where the cooling is free (optional, but transformative)
 - **On Earth:** Place the modules in cryostats (liquid helium or nitrogen). The energy bill drops by **90–95%**.
-- **In orbit:** Place the modules behind a simple sun‑shield. Sunlight gives free electricity. Deep space gives free 2.7 K cooling. **Operating cost falls to zero.**
+- **In orbit:** Place the modules behind a simple sun‑shield. Sunlight gives free electricity. Deep space gives free 2.7 K cooling. **In orbit, operating cost can approach near-zero marginal cost when powered by solar energy and thermally engineered for radiative rejection.**
 
 ---
 
@@ -159,7 +159,7 @@ Look up at the night sky. It's cold. It's dark. But it's not empty.
 - **The space between stars is a quantum‑connected Y‑lattice at 2.7 K.**
 - It channels light perfectly across billions of light‑years.
 - It absorbs the heat of every star instantly, keeping the whole system cool.
-- It runs for 13.8 billion years without a single traffic jam.
+- The universe demonstrates a stable, distributed, energy-converting architecture. The engineering task is to copy its distribution principle, not to imitate its scale directly.
 
 **The universe is the ultimate data centre.** Our architecture simply copies its design.
 
