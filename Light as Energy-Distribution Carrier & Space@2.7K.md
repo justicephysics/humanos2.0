@@ -1,7 +1,11 @@
 🌌 MASTER ARCHIVE: DOMAIN 1 — COSMOS
+
 TOPIC: Light as Energy-Distribution Carrier & Space@2.7K
+
 CHAPTER: C-001
+
 VERSION: v1
+
 STATUS: CONSOLIDATED
 
 ---
