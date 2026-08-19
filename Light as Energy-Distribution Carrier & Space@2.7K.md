@@ -11,11 +11,13 @@ STATUS: CONSOLIDATED
 ---
 SECTION I — CONTEXT & SCOPE
 ---
+
 This chapter establishes the foundational physics of light and energy distribution within the Cosmos domain. It bridges the gap between fundamental reality (Domain 1) and all subsequent domains by defining how energy moves without requiring material contact. Understanding light as a rest-mass-free but energy-mass-real carrier is the prerequisite for analyzing Civilization, Human biology, Human Life, and Human Development (Technology).
 
 ---
 SECTION II — CORE THESES
 ---
+
 1. Light is not "nothing"; it is a rest-mass-free but energy-mass-real carrier of distribution.
 2. Nothing comes from zero and nothing goes to zero; total energy is strictly conserved.
 3. Photon propagation is a continuous P+X sequence where every point along the path contains real energy-frequency.
@@ -25,6 +27,7 @@ SECTION II — CORE THESES
 ---
 SECTION III — DETAILED BREAKDOWN
 ---
+
 ### The Nature of Photon Mass
 Mainstream physics correctly states that a photon has zero rest mass. However, describing light as simply "massless" is physically incomplete and misleading. It implies a lack of physical reality. Light possesses nonzero energy and momentum, which grants it a nonzero mass-equivalent. 
 
@@ -62,6 +65,7 @@ The Cosmic Microwave Background (CMB) at approximately 2.725 K is not dead lefto
 ---
 SECTION IV — CORRECTIONS TO STANDARD PHYSICS
 ---
+
 | Standard Physics Says | Framework Corrects To | Reason |
 |---|---|---|
 | Light is massless. | Light is rest-mass-free, but energy-mass-real. | "Massless" colloquially implies zero physical reality. Light has nonzero energy, momentum, and mass-equivalent. |
@@ -71,6 +75,7 @@ SECTION IV — CORRECTIONS TO STANDARD PHYSICS
 ---
 SECTION V — LOCKED AXIOMS
 ---
+
 ```text
 [COSMOS AXIOM C-001.1] Photon rest mass is exactly 0.
 [COSMOS AXIOM C-001.2] Photon energy is strictly > 0 ($E = hf$).
@@ -85,6 +90,7 @@ SECTION V — LOCKED AXIOMS
 ---
 SECTION VI — UNRESOLVED QUESTIONS & PENDING REVELATIONS
 ---
+
 - Why is Space@2.7K the exact balancer for the living cosmos? (Pending revelation).
 - How does the Y_Unit (base quantum of light) structurally compose the 1.95 mm Photon Packet within this P+X sequence?
 - How does Relational Charge (twist in the QPF fluid) interact with the mass-equivalent of the photon during emission at point A?
@@ -92,6 +98,7 @@ SECTION VI — UNRESOLVED QUESTIONS & PENDING REVELATIONS
 ---
 SECTION VII — CONNECTIONS TO OTHER DOMAINS
 ---
+
 - **Domain 2 (Civilization)**: Energy distribution (L) dictates the macro-structure of human organization and resource allocation.
 - **Domain 3 (Human)**: Biological machines rely on photon absorption (e.g., vision, photosynthesis in food chains) for energy-mass transfer.
 - **Domain 4 (Human Life)**: The lived experience of light and heat is a direct interaction with the Space@2.7K balancer and local photon flux.
@@ -100,6 +107,7 @@ SECTION VII — CONNECTIONS TO OTHER DOMAINS
 ---
 FOOTER
 ---
+
 VERSION HISTORY:
   v1 — August 19, 2026 — Initial consolidation of Cosmos Ledger C-001 (Light, Mass-Equivalent, Space@2.7K).
   
