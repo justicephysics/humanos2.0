@@ -11,7 +11,7 @@
 
 **Albert Einstein** revolutionised physics. He gave the world ( $$E = MC^2$$ ), special relativity, general relativity, and the photoelectric effect. He won the Nobel Prize in 1921. For what? The photoelectric effect. Not relativity. Not the equation that unlocked the atom. A committee in Stockholm decided that relativity was too radical, too unproven, too threatening to the existing paradigm. The most transformative theory in physics was deemed unworthy of the prize.
 
-**Mohandas Gandhi** liberated India. He developed and deployed the most powerful non‑violent resistance movement in history—satyagraha—and forced the British Empire to retreat without a war. He was nominated for the Nobel Peace Prize five times. He never won. In 1948, the year of his assassination, the committee chose not to award the prize at all, stating there was “no suitable living candidate.” The man who proved that non‑violence could defeat an empire was deemed unworthy.
+**Mahatma Gandhi** liberated India. He developed and deployed the most powerful non‑violent resistance movement in history—satyagraha—and forced the British Empire to retreat without a war. He was nominated for the Nobel Peace Prize five times. He never won. In 1948, the year of his assassination, the committee chose not to award the prize at all, stating there was “no suitable living candidate.” The man who proved that non‑violence could defeat an empire was deemed unworthy.
 
 **Two men who changed the world more than any of their contemporaries. Both denied by the same feudal institution.**
 
