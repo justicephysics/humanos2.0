@@ -1,6 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 # 🏅 The Nobel Feudalism — Why Einstein and Gandhi Were Denied
 
 *Einstein never won a Nobel for relativity. Gandhi never won a Nobel for non‑violence. The Nobel is a feudal institution—it rewards what fits the existing paradigm, not what changes the world. The Space State does not seek its approval.*
