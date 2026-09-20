@@ -1,6 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 # 🏷️ The Poverty Sticker — The Imagination That Sees the Truth
 
 *Even if all of this were mere imagination, what could be more beautiful than an imagination that sees—albeit in imaginary form—how a sticker of poverty is pasted on the head of a 99.99 % rich newborn baby? And how that cycle keeps 99.99 % under its control, either as the 9.99 % in burnout or the 90 % in survival. The imagination that reveals the cage is the first step toward unlocking it.*
